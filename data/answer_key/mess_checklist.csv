@@ -1,0 +1,33 @@
+kind_of_mess,rows_affected
+Activity logged under a duplicate CRM company,5
+Attendee with no email,17
+CRM contact with no contact ID,11
+CRM contact with no email,34
+CRM record missing its target account ID,47
+CRM record with no target ID or website,2
+CRM stage later than the evidence supports,2
+Calendar entry with no outside attendees,18
+Company name typed by the attendee,137
+Company nickname in a note,21
+Duplicate CRM company record,7
+"Email open made by a mail app, not a person",418
+Event data arriving 5 to 9 days late,250
+Existing relationship written inconsistently,55
+Invoice not assigned to a campaign,8
+Lead source filled in after the fact,23
+Meeting logged in both the calendar and the CRM,68
+Missing deal amount,9
+Missing loss reason,2
+Missing planned budget,3
+Missing website on the target list,5
+News about a company that is not a target,8
+Note linked only by company name,2
+Note not attached to a CRM record,81
+Note with an unreadable date,9
+Note with no date,3
+Out-of-date job title in the CRM,8
+Referral reported by company name only,16
+The same invoice exported twice,1
+The same row exported twice,10
+Unreadable timestamp,6
+Website visitor's company guessed wrong,65

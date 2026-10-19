@@ -1,0 +1,53 @@
+opportunity_id,crm_account_id,opportunity_name,service_line,amount_usd,stage,lead_source,status,loss_reason,created_date,expected_close_date,closed_date
+006D00001,001A00001,ABC Corp - AI governance assessment,AI governance assessment,275000,Proposal / RFP,Marketing,Open,,05/29/2026,05/13/2027,
+006D00002,001A00002,Meridian Health - AI governance assessment,AI governance assessment,,Active Conversation,Webinar,Open,,09/18/2026,06/27/2027,
+006D00003,001A00005,Summit Financial Group - AI governance assessment,AI controls assurance,375000,Signed Agreement,Website,Won,,09/18/2025,09/03/2026,02/16/2026
+006D00004,001A00008,Hollister Therapeutics - AI governance assessment,Model risk review,240000,Signed Agreement,Executive roundtable,Won,,02/14/2026,12/15/2026,06/01/2026
+006D00005,001A00009,Quillon Retail - AI governance assessment,AI governance assessment,,Proposal / RFP,Website,Open,,06/03/2026,05/10/2027,
+006D00006,001A00010,Brackenridge Freight - AI governance assessment,AI governance assessment,355000,Closed Lost,,Lost,Chose another firm,12/04/2025,11/15/2026,01/06/2026
+006D00007,001A00012,Lakeshore Pharmaceuticals - AI governance assessment,AI governance assessment,180000,Signed Agreement,Webinar,Won,,11/27/2025,11/14/2026,04/20/2026
+006D00008,001A00014,Foxhall Asset Management - AI governance assessment,AI controls assurance,360000,Closed Lost,RFP,Lost,Chose another firm,01/17/2026,12/02/2026,02/12/2026
+006D00009,001A00017,Bexley Retail - AI governance assessment,Model risk review,415000,Closed Lost,Partner introduction,Lost,,08/26/2025,05/25/2026,11/07/2025
+006D00010,001A00023,Caldwell Energy - AI governance assessment,AI governance assessment,,Signed Agreement,Technology partner referral,Won,,10/13/2025,09/26/2026,04/08/2026
+006D00011,001A00028,Orlavale Therapeutics - AI governance assessment,Model risk review,275000,Verbal Commitment,,Open,,05/24/2025,04/22/2026,
+006D00012,001A00033,Vandermeer Transport - AI governance assessment,AI governance assessment,435000,Signed Agreement,,Won,,11/23/2025,09/24/2026,06/07/2026
+006D00013,001A00034,Upton Energy - AI governance assessment,AI governance assessment,335000,Signed Agreement,Website,Won,,02/11/2026,11/08/2026,08/31/2026
+006D00014,001A00036,Pinehaven Mutual - AI governance assessment,Model risk review,430000,Proposal / RFP,Executive roundtable,Open,,07/31/2025,07/20/2026,
+006D00015,001A00038,Larkspur Software - AI governance assessment,AI governance assessment,,Closed Lost,Technology partner referral,Lost,Chose another firm,12/23/2025,09/03/2026,03/22/2026
+006D00016,001A00040,Wexford Savings Bank - AI governance assessment,AI governance assessment,255000,Signed Agreement,Technology partner referral,Won,,10/02/2025,08/13/2026,03/05/2026
+006D00017,001A00042,Glenmore Therapeutics - AI governance assessment,AI governance assessment,330000,Active Conversation,Executive roundtable,Open,,03/19/2026,01/30/2027,
+006D00018,001A00043,Hartwell Transport - AI governance assessment,Model risk review,215000,Qualified Lead,Webinar,Open,,09/01/2026,08/19/2027,
+006D00019,001A00044,Northam Manufacturing - AI governance assessment,AI governance assessment,,Active Conversation,Technology partner referral,Open,,02/14/2026,12/15/2026,
+006D00020,001A00045,Yewdale Investments - AI governance assessment,Model risk review,290000,Active Conversation,Executive roundtable,Open,,09/18/2026,09/05/2027,
+006D00021,001A00046,Willowbrook Logistics - AI governance assessment,Model risk review,395000,Signed Agreement,Other,Won,,08/02/2025,04/11/2026,11/14/2025
+006D00022,001A00048,Crestview Capital - AI governance assessment,Model risk review,485000,Closed Lost,Other,Lost,Budget cut or freeze,07/21/2025,07/11/2026,11/12/2025
+006D00023,001A00049,Corrowin Medical Center - AI governance assessment,AI governance assessment,205000,Proposal / RFP,Technology partner referral,Open,,05/31/2026,03/29/2027,
+006D00024,001A00050,Ashford Medical Center - AI governance assessment,AI governance assessment,365000,Signed Agreement,Website,Won,,08/08/2025,07/19/2026,10/14/2025
+006D00025,001A00052,Prescott Industries - AI governance assessment,AI governance assessment,325000,Closed Lost,Technology partner referral,Lost,Budget cut or freeze,12/20/2024,10/27/2025,04/29/2025
+006D00026,001A00053,Ulverbrook Capital - AI governance assessment,AI governance assessment,290000,Qualified Lead,Partner introduction,Open,,09/08/2026,08/02/2027,
+006D00027,001A00057,Jarvis Stores - AI governance assessment,AI governance assessment,310000,Verbal Commitment,,Open,,04/08/2026,03/14/2027,
+006D00028,001A00058,Westbury Savings Bank - AI governance assessment,Model risk review,300000,Signed Agreement,Website,Won,,03/07/2026,01/21/2027,08/12/2026
+006D00029,001A00060,Southmoor Retail - AI governance assessment,AI governance assessment,435000,Active Conversation,Website,Open,,09/04/2026,08/28/2027,
+006D00030,001A00061,Lindell Pharmaceuticals - AI governance assessment,AI governance assessment,,Active Conversation,Existing client,Open,,08/19/2025,06/27/2026,
+006D00031,001A00062,Oakmont Freight - AI governance assessment,Model risk review,350000,Signed Agreement,Technology partner referral,Won,,12/25/2025,10/04/2026,06/24/2026
+006D00032,001A00065,Kilbourne Health Systems - AI governance assessment,AI governance assessment,385000,Active Conversation,Existing client,Open,,09/04/2026,08/01/2027,
+006D00033,001A00066,Clearwater Utilities - AI governance assessment,AI controls assurance,245000,Qualified Lead,Executive roundtable,Open,,09/03/2026,08/24/2027,
+006D00034,001A00072,Tamarack Freight - AI governance assessment,Model risk review,460000,Verbal Commitment,RFP,Open,,08/10/2026,04/19/2027,
+006D00035,001A00073,Ivenbrook Energy - AI governance assessment,AI governance assessment,490000,Verbal Commitment,Executive roundtable,Open,,04/14/2026,12/17/2026,
+006D00036,001A00075,Hawthorne Systems - AI governance assessment,AI controls assurance,,Closed Lost,Executive roundtable,Lost,Priorities changed,10/31/2025,09/26/2026,01/20/2026
+006D00037,001A00080,Quinton Software - AI governance assessment,AI governance assessment,375000,Proposal / RFP,Webinar,Open,,05/23/2026,03/25/2027,
+006D00038,001A00083,Thistle Mutual - AI governance assessment,Model risk review,310000,Qualified Lead,Other,Open,,09/17/2026,09/07/2027,
+006D00039,001A00088,Clifton Retail - AI governance assessment,AI controls assurance,510000,Signed Agreement,Webinar,Won,,08/22/2025,06/18/2026,02/26/2026
+006D00040,001A00090,Eastwick Stores - AI governance assessment,AI controls assurance,205000,Proposal / RFP,Existing client,Open,,12/23/2025,10/24/2026,
+006D00041,001A00091,Oakhurst Stores - AI governance assessment,AI governance assessment,445000,Proposal / RFP,,Open,,06/23/2026,04/25/2027,
+006D00042,001A00095,Redstone Transport - AI governance assessment,Model risk review,370000,Signed Agreement,Existing client,Won,,02/13/2026,10/14/2026,06/27/2026
+006D00043,001A00097,Whitmore Power - AI governance assessment,AI controls assurance,,Closed Lost,Executive roundtable,Lost,No decision,05/15/2026,04/11/2027,06/21/2026
+006D00044,001A00102,Alcott Insurance - AI governance assessment,Model risk review,220000,Closed Lost,Webinar,Lost,Leadership change,04/23/2025,03/02/2026,10/17/2025
+006D00045,001A00104,Driftwood Systems - AI governance assessment,AI governance assessment,475000,Qualified Lead,Other,Open,,02/14/2025,01/25/2026,
+006D00046,001A00107,Inwood Asset Management - AI governance assessment,Model risk review,370000,Closed Lost,Other,Lost,Procurement stalled,02/05/2025,10/28/2025,04/27/2025
+006D00047,001A00111,Jorvale Mutual - AI governance assessment,AI governance assessment,375000,Signed Agreement,Existing client,Won,,06/25/2025,02/22/2026,02/08/2026
+006D00048,001A00112,Copperfield Freight - AI governance assessment,AI governance assessment,180000,Closed Lost,Existing client,Lost,,08/26/2025,06/29/2026,10/03/2025
+006D00049,001A00116,Ambergate Systems - AI governance assessment,AI controls assurance,500000,Active Conversation,Existing client,Open,,09/12/2026,06/18/2027,
+006D00050,001A00118,Norwood Bancorp - AI governance assessment,AI governance assessment,,Qualified Lead,Webinar,Open,,09/22/2026,09/11/2027,
+006D00051,001A00119,Ivywood Stores - AI governance assessment,AI governance assessment,460000,Active Conversation,Executive roundtable,Open,,09/12/2026,05/14/2027,
+006D00052,001A00120,Eastbrook Capital - AI governance assessment,AI controls assurance,350000,Closed Lost,Executive roundtable,Lost,Priorities changed,05/12/2025,02/23/2026,05/29/2025

@@ -1,0 +1,341 @@
+# The signal model: what each kind of signal means and how strong it is.
+#
+# Strengths are words, never numbers, and they are never added up into a score.
+# They decide which stage a signal can support and they explain decisions.
+#
+#   direction       Positive, Negative or Neutral
+#   strength        None, Very weak, Weak, Medium, Strong, Very strong, Decisive
+#   supports_stage  the furthest stage this signal can prove on its own (blank = none)
+#   meeting_held    true for meetings that actually took place
+#
+# "Meaningful activity" means a positive signal of Medium strength or above from
+# the account, or any meeting held. Our own actions are never meaningful activity.
+
+signal_types:
+  # --- Their engagement -------------------------------------------------------
+  website_visit:
+    label: Website visit
+    category: Engagement
+    direction: Positive
+    strength: Weak
+    supports_stage: Aware
+    explanation: Someone at a known company viewed our site
+  email_opened:
+    label: Email opened
+    category: Engagement
+    direction: Positive
+    strength: Very weak
+    supports_stage: Aware
+    explanation: An email was opened; unreliable, because some mail apps open emails automatically
+  linkedin_engagement:
+    label: LinkedIn engagement
+    category: Engagement
+    direction: Positive
+    strength: Weak
+    supports_stage: Aware
+    explanation: Liked, commented on or followed our content
+  webinar_registered:
+    label: Webinar registered
+    category: Engagement
+    direction: Positive
+    strength: Weak
+    supports_stage: Aware
+    explanation: Signed up for a webinar
+  webinar_attended:
+    label: Webinar attended
+    category: Engagement
+    direction: Positive
+    strength: Weak
+    supports_stage: Interested
+    explanation: Attended a webinar
+  content_downloaded:
+    label: Content downloaded
+    category: Engagement
+    direction: Positive
+    strength: Weak
+    supports_stage: Interested
+    explanation: Downloaded a report or guide
+  conference_conversation:
+    label: Conference conversation
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: Interested
+    explanation: Talked with our team at a conference
+  event_attended:
+    label: Event attended
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: Interested
+    explanation: Attended our roundtable, dinner or event
+  email_replied:
+    label: Email replied
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: Interested
+    explanation: Replied to us, not negatively
+  personal_introduction:
+    label: Personal introduction
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: Interested
+    explanation: Someone in our network introduced us, and they accepted
+  informal_conversation:
+    label: Informal conversation
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: Interested
+    explanation: A partner logged a call, dinner or chance meeting
+  tech_partner_referral:
+    label: Technology partner referral
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Interested
+    explanation: A technology partner, such as a software vendor, referred them to us; a stated need also creates a Need identified signal
+  need_identified:
+    label: Need identified
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Qualified Lead
+    explanation: A business need stated in a note, a referral or a request
+  meeting_scheduled:
+    label: Meeting scheduled
+    category: Engagement
+    direction: Positive
+    strength: Medium
+    supports_stage: null
+    explanation: A meeting was booked but has not happened yet
+  discovery_meeting:
+    label: Discovery meeting
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Active Conversation
+    meeting_held: true
+    explanation: First meeting about their requirements
+  executive_meeting:
+    label: Executive meeting
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Active Conversation
+    meeting_held: true
+    explanation: A meeting with a C-level sponsor
+  follow_up_meeting:
+    label: Follow-up meeting
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Active Conversation
+    meeting_held: true
+    explanation: A further meeting held
+  proposal_requested:
+    label: Proposal requested
+    category: Engagement
+    direction: Positive
+    strength: Very strong
+    supports_stage: Proposal / RFP
+    explanation: They asked for a proposal
+  pricing_requested:
+    label: Pricing requested
+    category: Engagement
+    direction: Positive
+    strength: Very strong
+    supports_stage: Proposal / RFP
+    explanation: They asked for pricing
+  rfp_received:
+    label: RFP received
+    category: Engagement
+    direction: Positive
+    strength: Very strong
+    supports_stage: Proposal / RFP
+    explanation: They issued a formal request for proposals
+  legal_joined:
+    label: Legal joined
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Proposal / RFP
+    explanation: Their legal team joined a meeting or began reviewing terms
+  procurement_started:
+    label: Procurement started
+    category: Engagement
+    direction: Positive
+    strength: Strong
+    supports_stage: Proposal / RFP
+    explanation: Procurement, vendor onboarding or a security questionnaire began
+  verbal_commitment:
+    label: Verbal commitment
+    category: Engagement
+    direction: Positive
+    strength: Very strong
+    supports_stage: Verbal Commitment
+    explanation: They said they intend to proceed
+  contract_negotiation:
+    label: Contract negotiation
+    category: Engagement
+    direction: Positive
+    strength: Very strong
+    supports_stage: Verbal Commitment
+    explanation: Terms or redlines are being negotiated
+  contract_signed:
+    label: Contract signed
+    category: Engagement
+    direction: Positive
+    strength: Decisive
+    supports_stage: Signed Agreement
+    explanation: The engagement letter was signed
+
+  # --- Our own actions (never move the stage, except a proposal we sent) -----
+  proposal_sent:
+    label: Proposal sent
+    category: Calder activity
+    direction: Neutral
+    strength: None
+    supports_stage: Proposal / RFP
+    explanation: We sent a proposal (our action)
+  outreach_sent:
+    label: Outreach sent
+    category: Calder activity
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: We emailed, messaged, called or invited them (our action)
+  ad_shown:
+    label: Ad shown
+    category: Calder activity
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: Our ads were shown to people at the company, from a company-level report
+
+  # --- Warning signs ----------------------------------------------------------
+  meeting_cancelled:
+    label: Meeting cancelled
+    category: Negative
+    direction: Negative
+    strength: Medium
+    supports_stage: null
+    explanation: A meeting was cancelled
+  unsubscribed:
+    label: Unsubscribed
+    category: Negative
+    direction: Negative
+    strength: Weak
+    supports_stage: null
+    explanation: They opted out of email
+  negative_reply:
+    label: Negative reply
+    category: Negative
+    direction: Negative
+    strength: Strong
+    supports_stage: null
+    explanation: '"Not now", "no budget" or similar'
+  contact_left:
+    label: Contact left
+    category: Negative
+    direction: Negative
+    strength: Strong
+    supports_stage: null
+    explanation: A key contact left the company
+  leadership_change:
+    label: Leadership change
+    category: Negative
+    direction: Negative
+    strength: Strong
+    supports_stage: null
+    explanation: A new executive, or a reorganization where our sponsor sits
+  budget_cut:
+    label: Budget cut or freeze
+    category: Negative
+    direction: Negative
+    strength: Strong
+    supports_stage: null
+    explanation: Their budget was cut, frozen or moved elsewhere
+  priorities_changed:
+    label: Priorities changed
+    category: Negative
+    direction: Negative
+    strength: Strong
+    supports_stage: null
+    explanation: They paused the project or moved it down their list
+  procurement_delay:
+    label: Procurement delay
+    category: Negative
+    direction: Negative
+    strength: Medium
+    supports_stage: null
+    explanation: Their procurement or legal review is held up
+  no_response_45d:
+    label: No response, 45+ days
+    category: Negative
+    direction: Negative
+    strength: Medium
+    supports_stage: Stalled
+    explanation: "Made by the system: no meaningful activity from the account for 45 days or more"
+  opportunity_lost:
+    label: Opportunity lost
+    category: Negative
+    direction: Negative
+    strength: Decisive
+    supports_stage: Lost
+    explanation: The CRM marks it lost, or they chose another firm
+
+  # --- Context (never moves the stage) ----------------------------------------
+  news_trigger:
+    label: News trigger
+    category: Context
+    direction: Positive
+    strength: Weak
+    supports_stage: null
+    explanation: Company news suggesting a need, such as an AI rollout or regulator attention
+  job_posting:
+    label: Job posting
+    category: Context
+    direction: Positive
+    strength: Weak
+    supports_stage: null
+    explanation: Hiring for AI governance, risk or controls roles
+
+  # --- Deal facts (never move the stage; they answer open questions) ---------
+  budget_confirmed:
+    label: Budget confirmed
+    category: Deal fact
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: Budget for the work is confirmed
+  timeline_confirmed:
+    label: Timeline confirmed
+    category: Deal fact
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: They said when they plan to decide or start
+  competitor_mentioned:
+    label: Competitor mentioned
+    category: Deal fact
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: They are also talking to other firms
+  no_competitor_confirmed:
+    label: No other firms
+    category: Deal fact
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: They confirmed they are not talking to other firms
+  decision_process_confirmed:
+    label: Decision process confirmed
+    category: Deal fact
+    direction: Neutral
+    strength: None
+    supports_stage: null
+    explanation: Who decides and how the decision is made is confirmed

@@ -1,0 +1,17 @@
+referral_id,partner_name,referral_date,company_name,company_website,contact_name,contact_title,contact_email,stated_need,client_agreed
+REF-001,Arcwise AI,2024-12-07,Prescott Industries,prescottind.com,Leah Brooks,Head of Risk,leah.brooks@prescottind.com,Leah said the board wants an AI controls review before year end.,Y
+REF-002,Arcwise AI,2025-03-10,Norcliffe Investments,norcliffeinvest.com,Fatima Keller,Head of Risk,fatima.keller@norcliffeinvest.com,,N
+REF-003,Brightpath Data,2025-06-19,Crestview Capital,crestviewcapital.com,Naomi Liu,Director of Risk Analytics,naomi.liu@crestviewcapital.com,They need an independent review of their model risk controls.,Y
+REF-004,Arcwise AI,2025-07-20,Lyndon Manufacturing,lyndonmfg.com,Lucia Mensah,Head of Risk,lucia.mensah@lyndonmfg.com,,N
+REF-005,Arcwise AI,2025-07-30,Clifton Retail,cliftonretail.com,Lena Mensah,Head of Risk,lena.mensah@cliftonretail.com,The regulator asked them for an AI inventory and they need help with the controls.,Y
+REF-006,Corvid Analytics,2025-08-13,Wexford Savings Bank,wexfordsavings.com,Ben Lindqvist,Head of Risk,ben.lindqvist@wexfordsavings.com,They need an independent review of their model risk controls.,Y
+REF-007,Corvid Analytics,2025-08-29,Caldwell Energy,caldwellenergy.com,Chloe Shapiro,Head of Risk,chloe.shapiro@caldwellenergy.com,Chloe said the board wants an AI controls review before year end.,Y
+REF-008,Brightpath Data,2025-09-06,Darby Savings Bank,darbysavings.com,Owen Carter,Head of Data Governance,owen.carter@darbysavings.com,,Y
+REF-009,Tessellate Cloud,2025-11-17,Oakmont Freight,oakmontfreight.com,Zara Clarke,Head of Data Governance,zara.clarke@oakmontfreight.com,Zara said the board wants an AI controls review before year end.,Y
+REF-010,Tessellate Cloud,2025-11-24,Larkspur Software,larkspursoftware.com,Lucia Clarke,"Senior Manager, Compliance",lucia.clarke@larkspursoftware.com,Lucia asked us to assess their AI governance framework.,Y
+REF-011,Arcwise AI,2026-01-10,Northam Manufacturing,northammfg.com,Priya Laurent,"Senior Manager, Compliance",priya.laurent@northammfg.com,Priya asked us to assess their AI governance framework.,Y
+REF-012,Corvid Analytics,2026-03-20,Yardley Investments,yardleyinvest.com,Julia Costa,Director of Model Risk,julia.costa@yardleyinvest.com,,Y
+REF-013,Arcwise AI,2026-05-21,Corrowin Medical Center,corrowinmedical.com,Elena Nguyen,Director of Model Risk,elena.nguyen@corrowinmedical.com,They need an independent review of their model risk controls.,Y
+REF-014,Corvid Analytics,2026-07-10,Maplewood Energy,maplewoodenergy.com,Kwame Haddad,Head of Data Governance,kwame.haddad@maplewoodenergy.com,,Y
+REF-015,Tessellate Cloud,2026-09-01,Hartwell Transport,hartwelltransport.com,Sofia Ward,Head of Data Governance,sofia.ward@hartwelltransport.com,Sofia asked us to assess their AI governance framework.,Y
+REF-016,Arcwise AI,2026-09-22,Norwood Bancorp,norwoodbancorp.com,Lena Jansen,Director of Model Risk,lena.jansen@norwoodbancorp.com,Lena asked us to assess their AI governance framework.,Y

@@ -1,0 +1,190 @@
+event_id,account_id,date,fact,sentence,known_phrasing
+E-000589,ACC-104,2024-12-05,informal_conversation,Caught up over dinner with Elena at the roundtable; AI risk is on their board's agenda.,1
+E-000327,ACC-052,2024-12-20,timeline_confirmed,They aim to start in May.,1
+E-000575,ACC-102,2025-01-26,personal_introduction,A former colleague introduced us to Kenji Fischer at Alcott Insurance.,1
+E-000330,ACC-052,2025-01-26,budget_confirmed,Budget is approved for this year.,1
+E-000114,ACC-018,2025-02-02,informal_conversation,Coffee with Caleb after the audit committee meeting; asked how we handle AI.,1
+E-000608,ACC-107,2025-02-05,hedge,Possibly interested in a pilot first.,1
+E-000146,ACC-028,2025-02-20,informal_conversation,Caught up over dinner with Rachel at the roundtable; AI risk is on their board's agenda.,1
+E-000609,ACC-107,2025-03-06,proposal_requested,Wei asked for a proposal for the AI governance assessment.,1
+E-000613,ACC-107,2025-03-21,procurement_delay,We are stuck in procurement; vendor approval delayed again.,1
+E-000576,ACC-102,2025-03-23,need_identified,They need an independent review of their model risk controls.,1
+E-000332,ACC-052,2025-03-30,budget_cut,Their budget was cut after a weak quarter.,1
+E-000611,ACC-107,2025-04-01,legal_joined,Their general counsel joined the call and legal is reviewing the draft terms.,1
+E-000612,ACC-107,2025-04-08,verbal_commitment,Verbal yes from Arjun today.,1
+E-000147,ACC-028,2025-04-16,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000578,ACC-102,2025-04-23,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000579,ACC-102,2025-04-23,hedge,They may have budget next year.,1
+E-000671,ACC-120,2025-04-27,priorities_changed,They paused the project to focus on a system migration.,1
+E-000614,ACC-107,2025-04-27,opportunity_lost,After months in procurement they decided not to proceed.,1
+E-000670,ACC-120,2025-05-12,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000384,ACC-061,2025-05-14,conference_conversation,Met Sofia at the summit; they stopped by our booth to ask about AI audits.,1
+E-000620,ACC-111,2025-05-14,conference_conversation,Met Zara at the summit; they stopped by our booth to ask about AI audits.,1
+E-000639,ACC-112,2025-05-14,conference_conversation,Met Nina at the summit; they stopped by our booth to ask about AI audits.,1
+E-000174,ACC-033,2025-05-14,conference_conversation,Met Nina at the summit; they stopped by our booth to ask about AI audits.,1
+E-000514,ACC-090,2025-05-14,conference_conversation,Met Priya at the summit; they stopped by our booth to ask about AI audits.,1
+E-000140,ACC-026,2025-05-21,informal_conversation,Coffee with Lucia after the audit committee meeting; asked how we handle AI.,1
+E-000149,ACC-028,2025-05-24,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000103,ACC-017,2025-05-29,personal_introduction,Our audit partner introduced us to Lucia Bell at Bexley Retail.,1
+E-000672,ACC-120,2025-05-29,opportunity_lost,They paused the project and told us they are not going ahead for now.,1
+E-000621,ACC-111,2025-06-15,need_identified,They need an independent review of their model risk controls.,1
+E-000283,ACC-046,2025-06-19,informal_conversation,Caught up over dinner with Rachel at the roundtable; AI risk is on their board's agenda.,1
+E-000211,ACC-036,2025-06-24,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000298,ACC-048,2025-07-21,decision_process_confirmed,The decision sits with the audit committee.,1
+E-000580,ACC-102,2025-07-22,pricing_requested,Leah asked for pricing for a phased approach.,1
+E-000213,ACC-036,2025-07-31,timeline_confirmed,They want to decide by October.,1
+E-000031,ACC-005,2025-08-02,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000104,ACC-017,2025-08-14,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000642,ACC-112,2025-08-19,competitor_mentioned,They are also talking to a Big Four firm.,1
+E-000153,ACC-028,2025-08-20,budget_confirmed,Budget is approved for this year.,1
+E-000154,ACC-028,2025-08-20,competitor_mentioned,They are also talking to a Big Four firm.,1
+E-000080,ACC-012,2025-08-22,personal_introduction,Our audit partner introduced us to Ravi Kapoor at Lakeshore Pharmaceuticals.,1
+E-000498,ACC-088,2025-08-22,hedge,Not sure whether procurement needs to be involved.,1
+E-000496,ACC-088,2025-08-22,timeline_confirmed,They aim to start in October.,1
+E-000497,ACC-088,2025-08-22,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000106,ACC-017,2025-08-26,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000152,ACC-028,2025-09-02,legal_joined,Their general counsel joined the call and legal is reviewing the draft terms.,1
+E-000286,ACC-046,2025-09-16,proposal_requested,Rachel asked for a proposal for the AI governance assessment.,1
+E-000033,ACC-005,2025-09-18,hedge,They may have budget next year.,1
+E-000288,ACC-046,2025-09-18,hedge,Rachel might bring in their general counsel.,1
+E-000584,ACC-102,2025-09-20,leadership_change,They have a new CRO starting next month and our sponsor has moved to a new role.,1
+E-000319,ACC-050,2025-09-23,verbal_commitment,Graham confirmed they want to proceed with us.,1
+E-000302,ACC-048,2025-09-29,budget_confirmed,Priya confirmed funding is in place.,1
+E-000303,ACC-048,2025-09-29,no_competitor_confirmed,Priya confirmed they are not talking to anyone else.,1
+E-000623,ACC-111,2025-10-01,proposal_requested,Zara asked for a proposal for the AI governance assessment.,1
+E-000239,ACC-040,2025-10-02,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000643,ACC-112,2025-10-03,opportunity_lost,They chose another firm for the assessment.,1
+E-000457,ACC-075,2025-10-03,need_identified,Omar asked us to assess their AI governance framework.,1
+E-000627,ACC-111,2025-10-03,budget_confirmed,The CFO has earmarked funds for this.,0
+E-000628,ACC-111,2025-10-03,competitor_mentioned,They are also talking to a Big Four firm.,1
+E-000629,ACC-111,2025-10-03,hedge,Zara might bring in their general counsel.,1
+E-000127,ACC-023,2025-10-13,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000126,ACC-023,2025-10-13,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000109,ACC-017,2025-10-15,budget_confirmed,Lucia confirmed funding is in place.,1
+E-000430,ACC-070,2025-10-16,personal_introduction,A board member we know introduced us to Omar Torres at Underhill Logistics.,1
+E-000585,ACC-102,2025-10-17,opportunity_lost,The new CRO decided not to proceed with the review.,1
+E-000289,ACC-046,2025-10-21,verbal_commitment,Verbal yes from Andre today.,1
+E-000304,ACC-048,2025-10-25,budget_cut,Their budget was cut after a weak quarter.,1
+E-000547,ACC-095,2025-11-02,informal_conversation,Coffee with Nina after the audit committee meeting; asked how we handle AI.,1
+E-000110,ACC-017,2025-11-07,opportunity_lost,They chose another firm for the assessment.,1
+E-000515,ACC-090,2025-11-07,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000081,ACC-012,2025-11-12,need_identified,They need an independent review of their model risk controls.,1
+E-000194,ACC-034,2025-11-13,informal_conversation,Caught up over dinner with Peter at the roundtable; AI risk is on their board's agenda.,1
+E-000052,ACC-008,2025-11-13,informal_conversation,Caught up over dinner with Megan at the roundtable; AI risk is on their board's agenda.,1
+E-000037,ACC-005,2025-11-15,no_competitor_confirmed,Tariq confirmed they are not talking to anyone else.,1
+E-000036,ACC-005,2025-11-15,budget_confirmed,The CFO has earmarked funds for this.,0
+E-000177,ACC-033,2025-11-23,hedge,Possibly interested in a pilot first.,1
+E-000499,ACC-088,2025-11-26,proposal_requested,Lena asked for a proposal for the AI governance assessment.,1
+E-000083,ACC-012,2025-11-27,decision_process_confirmed,The decision sits with the audit committee.,1
+E-000501,ACC-088,2025-11-28,budget_confirmed,Lena confirmed funding is in place.,1
+E-007702,ACC-075,2025-11-30,contact_left,Omar has left the company.,1
+E-000077,ACC-010,2025-12-06,hedge,They may have budget next year.,1
+E-000076,ACC-010,2025-12-06,no_competitor_confirmed,Caleb confirmed they are not talking to anyone else.,1
+E-000461,ACC-075,2025-12-13,priorities_changed,They paused the project to focus on a system migration.,1
+E-000517,ACC-090,2025-12-23,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000630,ACC-111,2025-12-26,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000459,ACC-075,2025-12-28,proposal_requested,Omar asked for a proposal for the AI governance assessment.,1
+E-000483,ACC-082,2026-01-04,informal_conversation,Coffee with Kwame after the audit committee meeting; asked how we handle AI.,1
+E-000243,ACC-040,2026-01-06,budget_confirmed,Budget is approved for this year.,1
+E-000502,ACC-088,2026-01-08,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000548,ACC-095,2026-01-13,need_identified,Claire asked us to assess their AI governance framework.,1
+E-000098,ACC-014,2026-01-14,competitor_mentioned,They are also talking to a boutique AI consultancy.,1
+E-000038,ACC-005,2026-01-19,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000097,ACC-014,2026-01-19,budget_confirmed,Budget is approved for this year.,1
+E-000462,ACC-075,2026-01-20,opportunity_lost,They paused the project and told us they are not going ahead for now.,1
+E-000128,ACC-023,2026-01-22,pricing_requested,Chloe asked for pricing for a phased approach.,1
+E-000087,ACC-012,2026-01-24,budget_confirmed,Budget is approved for this year.,1
+E-000130,ACC-023,2026-01-24,hedge,Not sure whether procurement needs to be involved.,1
+E-000254,ACC-042,2026-01-30,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000244,ACC-040,2026-02-05,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000197,ACC-034,2026-02-11,timeline_confirmed,They want to decide by May.,1
+E-000099,ACC-014,2026-02-12,opportunity_lost,They chose another firm for the assessment.,1
+E-000550,ACC-095,2026-02-13,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000543,ACC-092,2026-02-20,personal_introduction,A former colleague introduced us to Julia Smith at Kestrel Utilities.,1
+E-000346,ACC-057,2026-02-23,need_identified,They need an independent review of their model risk controls.,1
+E-000518,ACC-090,2026-02-26,pricing_requested,Priya asked for pricing for a phased approach.,1
+E-000226,ACC-038,2026-02-27,pricing_requested,Lucia asked for pricing for a phased approach.,1
+E-000522,ACC-090,2026-02-28,no_competitor_confirmed,Priya confirmed they are not talking to anyone else.,1
+E-000521,ACC-090,2026-02-28,budget_confirmed,Priya confirmed funding is in place.,1
+E-000131,ACC-023,2026-03-01,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000229,ACC-038,2026-03-01,hedge,Not sure whether procurement needs to be involved.,1
+E-000228,ACC-038,2026-03-01,competitor_mentioned,There is a competing proposal from another regional firm.,1
+E-000442,ACC-073,2026-03-03,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000088,ACC-012,2026-03-07,verbal_commitment,Verbal yes from Owen today.,1
+E-000182,ACC-033,2026-03-07,competitor_mentioned,a boutique AI consultancy is in the mix too.,0
+E-000183,ACC-033,2026-03-07,hedge,Megan might bring in their general counsel.,1
+E-000181,ACC-033,2026-03-07,budget_confirmed,The CFO has earmarked funds for this.,0
+E-000401,ACC-062,2026-03-12,proposal_requested,Elena asked for a proposal for the AI governance assessment.,1
+E-000404,ACC-062,2026-03-14,competitor_mentioned,They are also talking to a boutique AI consultancy.,1
+E-000256,ACC-042,2026-03-19,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000566,ACC-097,2026-03-19,informal_conversation,Caught up over dinner with Omar at the roundtable; AI risk is on their board's agenda.,1
+E-000230,ACC-038,2026-03-22,opportunity_lost,They chose another firm for the assessment.,1
+E-000089,ACC-012,2026-03-29,contract_negotiation,Their counsel sent redlines on the engagement letter.,1
+E-000180,ACC-033,2026-03-29,procurement_started,Procurement has started; they sent us their vendor forms and a security questionnaire.,1
+E-000057,ACC-008,2026-03-29,competitor_mentioned,another regional firm is in the mix too.,0
+E-000554,ACC-095,2026-04-02,budget_confirmed,Claire confirmed funding is in place.,1
+E-000349,ACC-057,2026-04-08,hedge,They may have budget next year.,1
+E-000348,ACC-057,2026-04-08,decision_process_confirmed,The decision sits with the audit committee.,1
+E-000403,ACC-062,2026-04-12,procurement_started,Procurement has started; they sent us their vendor forms and a security questionnaire.,1
+E-000567,ACC-097,2026-04-13,need_identified,They need an independent review of their model risk controls.,1
+E-000444,ACC-073,2026-04-14,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000445,ACC-073,2026-04-14,hedge,They may have budget next year.,1
+E-007701,ACC-042,2026-04-18,contact_left,Claire has left the company.,1
+E-000064,ACC-009,2026-04-19,need_identified,They need an independent review of their model risk controls.,1
+E-000058,ACC-008,2026-04-27,verbal_commitment,Marcus confirmed they want to proceed with us.,1
+E-000531,ACC-091,2026-05-06,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000184,ACC-033,2026-05-12,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000652,ACC-116,2026-05-13,conference_conversation,Met Felix at the summit; they stopped by our booth to ask about AI audits.,1
+E-000059,ACC-008,2026-05-14,contract_negotiation,Their counsel sent redlines on the engagement letter.,1
+E-000377,ACC-060,2026-05-21,informal_conversation,Caught up over dinner with Tessa at the roundtable; AI risk is on their board's agenda.,1
+E-000417,ACC-064,2026-05-30,personal_introduction,Our audit partner introduced us to Amara Farouk at Alder Retail.,1
+E-000555,ACC-095,2026-05-30,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000363,ACC-058,2026-06-01,pricing_requested,Kenji asked for pricing for a phased approach.,1
+E-000366,ACC-058,2026-06-03,competitor_mentioned,a boutique AI consultancy is in the mix too.,0
+E-000066,ACC-009,2026-06-03,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000405,ACC-062,2026-06-07,verbal_commitment,Elena confirmed they want to proceed with us.,1
+E-000556,ACC-095,2026-06-13,contract_negotiation,Their counsel sent redlines on the engagement letter.,1
+E-000569,ACC-097,2026-06-21,opportunity_lost,Laura told us they decided not to proceed this year.,1
+E-000350,ACC-057,2026-06-29,proposal_requested,Paula asked for a proposal for the AI governance assessment.,1
+E-000120,ACC-020,2026-07-04,personal_introduction,Our audit partner introduced us to Ibrahim Schmidt at Halverston Systems.,1
+E-000337,ACC-053,2026-07-06,personal_introduction,A board member we know introduced us to Olivia Becker at Ulverbrook Capital.,1
+E-000511,ACC-089,2026-07-10,personal_introduction,A former colleague introduced us to Mei Eze at Barrowfield Bank.,1
+E-000367,ACC-058,2026-07-11,verbal_commitment,Sam confirmed they want to proceed with us.,1
+E-000275,ACC-045,2026-07-16,informal_conversation,Caught up over dinner with Caleb at the roundtable; AI risk is on their board's agenda.,1
+E-000660,ACC-119,2026-07-16,informal_conversation,Caught up over dinner with Yuki at the roundtable; AI risk is on their board's agenda.,1
+E-000487,ACC-083,2026-07-16,informal_conversation,Caught up over dinner with Daniel at the roundtable; AI risk is on their board's agenda.,1
+E-000378,ACC-060,2026-07-21,need_identified,They need an independent review of their model risk controls.,1
+E-000201,ACC-034,2026-07-23,verbal_commitment,"They agreed to proceed, pending contract.",1
+E-000276,ACC-045,2026-08-01,need_identified,Caleb asked us to assess their AI governance framework.,1
+E-000661,ACC-119,2026-08-12,need_identified,Yuki said the board wants an AI controls review before year end.,1
+E-000420,ACC-065,2026-08-12,need_identified,They need an independent review of their model risk controls.,1
+E-000437,ACC-072,2026-08-12,competitor_mentioned,They are also talking to a boutique AI consultancy.,1
+E-000006,ACC-001,2026-08-21,proposal_requested,David asked for a proposal for the AI governance assessment.,1
+E-000010,ACC-001,2026-08-23,budget_confirmed,Budget is approved for this year.,1
+E-000011,ACC-001,2026-08-23,hedge,David might bring in their general counsel.,1
+E-000312,ACC-049,2026-08-28,hedge,Not sure whether procurement needs to be involved.,1
+E-000477,ACC-080,2026-09-02,budget_confirmed,The CFO has earmarked funds for this.,0
+E-000478,ACC-080,2026-09-02,competitor_mentioned,a boutique AI consultancy is in the mix too.,0
+E-000425,ACC-066,2026-09-03,need_identified,The regulator asked them for an AI inventory and they need help with the controls.,1
+E-000380,ACC-060,2026-09-04,timeline_confirmed,Hoping to kick off once the quarter closes.,0
+E-000381,ACC-060,2026-09-04,decision_process_confirmed,The CRO signs off on anything above $250K.,1
+E-000448,ACC-073,2026-09-05,verbal_commitment,Tessa confirmed they want to proceed with us.,1
+E-000436,ACC-072,2026-09-07,procurement_started,Procurement has started; they sent us their vendor forms and a security questionnaire.,1
+E-000338,ACC-053,2026-09-08,need_identified,Olivia said the board wants an AI controls review before year end.,1
+E-000101,ACC-016,2026-09-10,personal_introduction,A board member we know introduced us to Sofia Murphy at Blackthorn Insurance.,1
+E-000352,ACC-057,2026-09-10,verbal_commitment,Verbal yes from Simon today.,1
+E-000533,ACC-091,2026-09-12,pricing_requested,Hugo asked for pricing for a phased approach.,1
+E-000435,ACC-072,2026-09-12,legal_joined,Their general counsel joined the call and legal is reviewing the draft terms.,1
+E-000663,ACC-119,2026-09-12,decision_process_confirmed,The decision sits with the audit committee.,1
+E-000664,ACC-119,2026-09-12,hedge,They may have budget next year.,1
+E-000009,ACC-001,2026-09-13,legal_joined,Their general counsel joined the call and legal is reviewing the draft terms.,1
+E-000535,ACC-091,2026-09-14,budget_confirmed,Hugo confirmed funding is in place.,1
+E-000537,ACC-091,2026-09-14,hedge,Possibly interested in a pilot first.,1
+E-000536,ACC-091,2026-09-14,no_competitor_confirmed,Hugo confirmed they are not talking to anyone else.,1
+E-000488,ACC-083,2026-09-17,need_identified,Daniel asked us to assess their AI governance framework.,1
+E-000067,ACC-009,2026-09-18,pricing_requested,Tom asked for pricing for a phased approach.,1
+E-000278,ACC-045,2026-09-18,timeline_confirmed,They want to decide by January.,1
+E-000021,ACC-002,2026-09-18,hedge,They may have budget next year.,1
+E-000020,ACC-002,2026-09-18,timeline_confirmed,They aim to start in November.,1
+E-000449,ACC-073,2026-09-21,procurement_delay,We are stuck in procurement; vendor approval delayed again.,1
+E-000438,ACC-072,2026-09-22,verbal_commitment,"They agreed to proceed, pending contract.",1

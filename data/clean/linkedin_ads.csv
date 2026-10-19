@@ -1,0 +1,2301 @@
+report_month,campaign_id,company_name,company_website,impressions,clicks,engagements
+2024-11,CMP-07,Meridian Health,meridianhealth.com,612,1,0
+2024-11,CMP-07,Meridian Health,meridianhealth.ca,248,5,0
+2024-11,CMP-07,Harborline Insurance,harborlineins.com,1520,2,0
+2024-11,CMP-07,Summit Financial Group,summitfg.com,575,1,0
+2024-11,CMP-07,Newbury Logistics,newburylogistics.com,424,3,0
+2024-11,CMP-07,Hollister Therapeutics,hollistertx.com,1447,2,0
+2024-11,CMP-07,Quillon Retail,quillonretail.com,1279,5,0
+2024-11,CMP-07,Brackenridge Freight,brackenridgefreight.com,1085,3,0
+2024-11,CMP-07,Brightwater Manufacturing,brightwatermfg.com,352,2,0
+2024-11,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1435,3,0
+2024-11,CMP-07,Fairhaven Bank,fairhavenbank.com,860,6,0
+2024-11,CMP-07,Foxhall Asset Management,foxhallam.com,85,6,0
+2024-11,CMP-07,Moorland Investments,moorlandinvest.com,689,3,0
+2024-11,CMP-07,Blackthorn Insurance,blackthornins.com,330,1,0
+2024-11,CMP-07,Bexley Retail,bexleyretail.com,1075,5,0
+2024-11,CMP-07,Holloway Bank,hollowaybank.com,410,0,0
+2024-11,CMP-07,Halverston Systems,halverstonsystems.com,204,5,0
+2024-11,CMP-07,Ellery Stores,ellerystores.com,1428,5,0
+2024-11,CMP-07,Caldwell Energy,caldwellenergy.com,218,5,0
+2024-11,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,279,3,0
+2024-11,CMP-07,Stelmere Mutual,stelmeremutual.com,946,6,0
+2024-11,CMP-07,Islington Bancorp,islingtonbancorp.com,882,2,0
+2024-11,CMP-07,Elmstead Bank,elmsteadbank.com,376,3,0
+2024-11,CMP-07,Orlavale Therapeutics,orlavaletx.com,1514,0,0
+2024-11,CMP-07,Darby Savings Bank,darbysavings.com,390,4,0
+2024-11,CMP-07,Brantley Bancorp,brantleybancorp.com,170,4,0
+2024-11,CMP-07,Northcliff Insurance,northcliffins.com,552,6,0
+2024-11,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1236,3,0
+2024-11,CMP-07,Vandermeer Transport,vandermeertransport.com,477,0,0
+2024-11,CMP-07,Upton Energy,uptonenergy.com,767,2,0
+2024-11,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,306,5,0
+2024-11,CMP-07,Ridgeline Energy,ridgelineenergy.com,977,4,0
+2024-11,CMP-07,Larkspur Software,larkspursoftware.com,1244,2,0
+2024-11,CMP-07,Granite Systems,granitesystems.com,464,6,0
+2024-11,CMP-07,Wexford Savings Bank,wexfordsavings.com,307,2,0
+2024-11,CMP-07,Lyndon Manufacturing,lyndonmfg.com,423,0,0
+2024-11,CMP-07,Glenmore Therapeutics,glenmoretx.com,1580,2,0
+2024-11,CMP-07,Hartwell Transport,hartwelltransport.com,1062,5,0
+2024-11,CMP-07,Northam Manufacturing,northammfg.com,331,1,0
+2024-11,CMP-07,Yewdale Investments,yewdaleinvest.com,1333,4,0
+2024-11,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1453,6,0
+2024-11,CMP-07,Crestview Capital,crestviewcapital.com,122,5,0
+2024-11,CMP-07,Corrowin Medical Center,corrowinmedical.com,137,0,0
+2024-11,CMP-07,Ashford Medical Center,ashfordmedical.com,1461,0,0
+2024-11,CMP-07,Ogden Asset Management,ogdenam.com,383,0,0
+2024-11,CMP-07,Stonebridge Bank,stonebridgebank.com,756,6,0
+2024-11,CMP-07,Bluewater Transport,bluewatertransport.com,1226,5,0
+2024-11,CMP-07,Waverly Stores,waverlystores.com,1532,1,0
+2024-11,CMP-07,Jarvis Stores,jarvisstores.com,1288,1,0
+2024-11,CMP-07,Westbury Savings Bank,westburysavings.com,1211,3,0
+2024-11,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1595,2,0
+2024-11,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,523,2,0
+2024-11,CMP-07,Oakmont Freight,oakmontfreight.com,1397,1,0
+2024-11,CMP-07,Alder Retail,alderretail.com,905,6,0
+2024-11,CMP-07,Gresham Bank,greshambank.com,1532,0,0
+2024-11,CMP-07,Yardley Investments,yardleyinvest.com,631,3,0
+2024-11,CMP-07,Canyon Bancorp,canyonbancorp.com,910,3,0
+2024-11,CMP-07,Underhill Logistics,underhilllogistics.com,176,5,0
+2024-11,CMP-07,Norcliffe Investments,norcliffeinvest.com,538,6,0
+2024-11,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,488,5,0
+2024-11,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,137,1,0
+2024-11,CMP-07,Hawthorne Systems,hawthornesystems.com,1392,6,0
+2024-11,CMP-07,Dunmore Stores,dunmorestores.com,1029,1,0
+2024-11,CMP-07,Quarry Biosciences,quarrybio.ca,1176,5,0
+2024-11,CMP-07,Quinton Software,quintonsoftware.com,153,6,0
+2024-11,CMP-07,Arden Industries,ardenind.com,1314,5,0
+2024-11,CMP-07,Ashby Freight,ashbyfreight.com,414,1,0
+2024-11,CMP-07,Thistle Mutual,thistlemutual.com,934,1,0
+2024-11,CMP-07,Juniper Components,junipercomponents.com,1343,3,0
+2024-11,CMP-07,Fernhill Freight,fernhillfreight.com,633,6,0
+2024-11,CMP-07,Parkview Energy,parkviewenergy.com,292,5,0
+2024-11,CMP-07,Clifton Retail,cliftonretail.com,1572,2,0
+2024-11,CMP-07,Eastwick Stores,eastwickstores.com,1397,4,0
+2024-11,CMP-07,Oakhurst Stores,oakhurststores.com,989,2,0
+2024-11,CMP-07,Kestrel Utilities,kestrelutilities.com,823,4,0
+2024-11,CMP-07,Bellhaven Energy,bellhavenenergy.com,170,1,0
+2024-11,CMP-07,Merrow Manufacturing,merrowmfg.com,769,3,0
+2024-11,CMP-07,Redstone Transport,redstonetransport.com,1225,1,0
+2024-11,CMP-07,Northgate Stores,northgatestores.com,359,0,0
+2024-11,CMP-07,Whitmore Power,whitmorepower.com,1595,4,0
+2024-11,CMP-07,Orchard Insurance,orchardins.com,750,0,0
+2024-11,CMP-07,Riverbend Capital,riverbendcapital.com,530,4,0
+2024-11,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1197,1,0
+2024-11,CMP-07,Gilford Utilities,gilfordutilities.com,668,1,0
+2024-11,CMP-07,Alcott Insurance,alcottins.com,262,0,0
+2024-11,CMP-07,Rosewood Power,rosewoodpower.com,815,5,0
+2024-11,CMP-07,Driftwood Systems,driftwoodsystems.com,250,4,0
+2024-11,CMP-07,Fenwick Medical Center,fenwickmedical.com,1162,2,0
+2024-11,CMP-07,Briarwood Health,briarwoodhealth.com,1358,6,0
+2024-11,CMP-07,Inwood Asset Management,inwoodam.com,689,6,0
+2024-11,CMP-07,Thornbury Bank,thornburybank.com,230,0,0
+2024-11,CMP-07,Linden Savings Bank,lindensavings.com,999,3,0
+2024-11,CMP-07,Jorvale Mutual,jorvalemutual.com,1530,3,0
+2024-11,CMP-07,Copperfield Freight,copperfieldfreight.com,729,6,0
+2024-11,CMP-07,Penrose Brands,penrosebrands.com,1122,6,0
+2024-11,CMP-07,Easton Assurance,eastonassurance.com,195,0,0
+2024-11,CMP-07,Ambergate Systems,ambergatesystems.com,340,1,0
+2024-11,CMP-07,Norwood Bancorp,norwoodbancorp.com,1005,2,0
+2024-11,CMP-07,Ivywood Stores,ivywoodstores.com,1282,0,0
+2024-11,CMP-07,Eastbrook Capital,eastbrookcapital.com,1366,5,0
+2024-12,CMP-07,Meridian Health,meridianhealth.com,1078,3,0
+2024-12,CMP-07,Meridian Health,meridianhealth.ca,630,5,0
+2024-12,CMP-07,Harborline Insurance,harborlineins.com,927,0,0
+2024-12,CMP-07,Summit Financial Group,summitfg.com,954,3,0
+2024-12,CMP-07,Newbury Logistics,newburylogistics.com,1395,1,0
+2024-12,CMP-07,Hollister Therapeutics,hollistertx.com,688,3,0
+2024-12,CMP-07,Quillon Retail,quillonretail.com,634,6,0
+2024-12,CMP-07,Brackenridge Freight,brackenridgefreight.com,1017,3,0
+2024-12,CMP-07,Brightwater Manufacturing,brightwatermfg.com,704,4,0
+2024-12,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,359,0,0
+2024-12,CMP-07,Fairhaven Bank,fairhavenbank.com,958,2,0
+2024-12,CMP-07,Foxhall Asset Management,foxhallam.com,419,6,0
+2024-12,CMP-07,Moorland Investments,moorlandinvest.com,682,6,0
+2024-12,CMP-07,Blackthorn Insurance,blackthornins.com,781,1,0
+2024-12,CMP-07,Bexley Retail,bexleyretail.com,787,5,0
+2024-12,CMP-07,Holloway Bank,hollowaybank.com,951,5,0
+2024-12,CMP-07,Halverston Systems,halverstonsystems.com,1486,1,0
+2024-12,CMP-07,Ellery Stores,ellerystores.com,836,6,0
+2024-12,CMP-07,Caldwell Energy,caldwellenergy.com,611,3,0
+2024-12,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,507,6,0
+2024-12,CMP-07,Stelmere Mutual,stelmeremutual.com,286,5,0
+2024-12,CMP-07,Islington Bancorp,islingtonbancorp.com,1268,2,0
+2024-12,CMP-07,Elmstead Bank,elmsteadbank.com,1449,2,0
+2024-12,CMP-07,Orlavale Therapeutics,orlavaletx.com,1302,0,0
+2024-12,CMP-07,Darby Savings Bank,darbysavings.com,87,4,0
+2024-12,CMP-07,Brantley Bancorp,brantleybancorp.com,544,0,0
+2024-12,CMP-07,Northcliff Insurance,northcliffins.com,382,1,0
+2024-12,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,844,5,0
+2024-12,CMP-07,Vandermeer Transport,vandermeertransport.com,214,3,0
+2024-12,CMP-07,Upton Energy,uptonenergy.com,176,1,0
+2024-12,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,160,5,0
+2024-12,CMP-07,Ridgeline Energy,ridgelineenergy.com,1590,2,0
+2024-12,CMP-07,Larkspur Software,larkspursoftware.com,1449,2,0
+2024-12,CMP-07,Granite Systems,granitesystems.com,1565,5,0
+2024-12,CMP-07,Wexford Savings Bank,wexfordsavings.com,1179,5,0
+2024-12,CMP-07,Lyndon Manufacturing,lyndonmfg.com,664,5,0
+2024-12,CMP-07,Glenmore Therapeutics,glenmoretx.com,863,1,0
+2024-12,CMP-07,Hartwell Transport,hartwelltransport.com,1220,2,0
+2024-12,CMP-07,Northam Manufacturing,northammfg.com,1437,5,0
+2024-12,CMP-07,Yewdale Investments,yewdaleinvest.com,1554,4,0
+2024-12,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,493,3,0
+2024-12,CMP-07,Crestview Capital,crestviewcapital.com,155,4,0
+2024-12,CMP-07,Corrowin Medical Center,corrowinmedical.com,1432,2,0
+2024-12,CMP-07,Ashford Medical Center,ashfordmedical.com,444,1,0
+2024-12,CMP-07,Ogden Asset Management,ogdenam.com,455,5,0
+2024-12,CMP-07,Stonebridge Bank,stonebridgebank.com,268,2,0
+2024-12,CMP-07,Bluewater Transport,bluewatertransport.com,87,6,0
+2024-12,CMP-07,Waverly Stores,waverlystores.com,604,2,0
+2024-12,CMP-07,Jarvis Stores,jarvisstores.com,487,6,0
+2024-12,CMP-07,Westbury Savings Bank,westburysavings.com,876,2,0
+2024-12,CMP-07,Ravenwood Systems,ravenwoodsystems.com,938,3,0
+2024-12,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,986,4,0
+2024-12,CMP-07,Oakmont Freight,oakmontfreight.com,892,0,0
+2024-12,CMP-07,Alder Retail,alderretail.com,184,0,0
+2024-12,CMP-07,Gresham Bank,greshambank.com,309,4,0
+2024-12,CMP-07,Yardley Investments,yardleyinvest.com,380,1,0
+2024-12,CMP-07,Canyon Bancorp,canyonbancorp.com,721,2,0
+2024-12,CMP-07,Underhill Logistics,underhilllogistics.com,240,0,0
+2024-12,CMP-07,Norcliffe Investments,norcliffeinvest.com,1213,4,0
+2024-12,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,464,3,0
+2024-12,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,989,5,0
+2024-12,CMP-07,Hawthorne Systems,hawthornesystems.com,839,1,0
+2024-12,CMP-07,Dunmore Stores,dunmorestores.com,1016,0,0
+2024-12,CMP-07,Quarry Biosciences,quarrybio.ca,802,6,0
+2024-12,CMP-07,Quinton Software,quintonsoftware.com,349,0,0
+2024-12,CMP-07,Arden Industries,ardenind.com,1028,5,0
+2024-12,CMP-07,Ashby Freight,ashbyfreight.com,123,4,0
+2024-12,CMP-07,Thistle Mutual,thistlemutual.com,1592,6,0
+2024-12,CMP-07,Juniper Components,junipercomponents.com,76,4,0
+2024-12,CMP-07,Fernhill Freight,fernhillfreight.com,384,6,0
+2024-12,CMP-07,Parkview Energy,parkviewenergy.com,463,6,0
+2024-12,CMP-07,Clifton Retail,cliftonretail.com,1419,5,0
+2024-12,CMP-07,Eastwick Stores,eastwickstores.com,700,0,0
+2024-12,CMP-07,Oakhurst Stores,oakhurststores.com,459,0,0
+2024-12,CMP-07,Kestrel Utilities,kestrelutilities.com,527,6,0
+2024-12,CMP-07,Bellhaven Energy,bellhavenenergy.com,1495,1,0
+2024-12,CMP-07,Merrow Manufacturing,merrowmfg.com,655,0,0
+2024-12,CMP-07,Redstone Transport,redstonetransport.com,1341,2,0
+2024-12,CMP-07,Northgate Stores,northgatestores.com,1432,2,0
+2024-12,CMP-07,Whitmore Power,whitmorepower.com,1310,2,0
+2024-12,CMP-07,Orchard Insurance,orchardins.com,580,1,0
+2024-12,CMP-07,Riverbend Capital,riverbendcapital.com,944,1,0
+2024-12,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1533,4,0
+2024-12,CMP-07,Gilford Utilities,gilfordutilities.com,186,6,0
+2024-12,CMP-07,Alcott Insurance,alcottins.com,1291,1,0
+2024-12,CMP-07,Rosewood Power,rosewoodpower.com,643,4,0
+2024-12,CMP-07,Driftwood Systems,driftwoodsystems.com,198,4,0
+2024-12,CMP-07,Fenwick Medical Center,fenwickmedical.com,1389,5,0
+2024-12,CMP-07,Briarwood Health,briarwoodhealth.com,658,6,0
+2024-12,CMP-07,Inwood Asset Management,inwoodam.com,444,1,0
+2024-12,CMP-07,Thornbury Bank,thornburybank.com,1455,2,0
+2024-12,CMP-07,Linden Savings Bank,lindensavings.com,838,3,0
+2024-12,CMP-07,Jorvale Mutual,jorvalemutual.com,534,6,0
+2024-12,CMP-07,Copperfield Freight,copperfieldfreight.com,1391,1,0
+2024-12,CMP-07,Penrose Brands,penrosebrands.com,972,0,0
+2024-12,CMP-07,Easton Assurance,eastonassurance.com,1293,6,0
+2024-12,CMP-07,Ambergate Systems,ambergatesystems.com,1255,2,0
+2024-12,CMP-07,Norwood Bancorp,norwoodbancorp.com,1392,5,0
+2024-12,CMP-07,Ivywood Stores,ivywoodstores.com,388,3,0
+2024-12,CMP-07,Eastbrook Capital,eastbrookcapital.com,959,2,0
+2025-01,CMP-07,Meridian Health,meridianhealth.com,735,0,0
+2025-01,CMP-07,Meridian Health,meridianhealth.ca,662,4,0
+2025-01,CMP-07,Harborline Insurance,harborlineins.com,901,5,0
+2025-01,CMP-07,Summit Financial Group,summitfg.com,417,0,0
+2025-01,CMP-07,Newbury Logistics,newburylogistics.com,1556,5,0
+2025-01,CMP-07,Hollister Therapeutics,hollistertx.com,1474,4,0
+2025-01,CMP-07,Quillon Retail,quillonretail.com,1284,2,0
+2025-01,CMP-07,Brackenridge Freight,brackenridgefreight.com,541,6,0
+2025-01,CMP-07,Brightwater Manufacturing,brightwatermfg.com,725,3,0
+2025-01,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,713,2,0
+2025-01,CMP-07,Fairhaven Bank,fairhavenbank.com,1147,0,0
+2025-01,CMP-07,Foxhall Asset Management,foxhallam.com,188,2,0
+2025-01,CMP-07,Moorland Investments,moorlandinvest.com,108,6,0
+2025-01,CMP-07,Blackthorn Insurance,blackthornins.com,213,4,0
+2025-01,CMP-07,Bexley Retail,bexleyretail.com,1213,2,0
+2025-01,CMP-07,Holloway Bank,hollowaybank.com,1005,3,0
+2025-01,CMP-07,Halverston Systems,halverstonsystems.com,592,0,0
+2025-01,CMP-07,Ellery Stores,ellerystores.com,1201,6,0
+2025-01,CMP-07,Caldwell Energy,caldwellenergy.com,541,0,0
+2025-01,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1306,5,0
+2025-01,CMP-07,Stelmere Mutual,stelmeremutual.com,563,5,0
+2025-01,CMP-07,Islington Bancorp,islingtonbancorp.com,983,1,0
+2025-01,CMP-07,Elmstead Bank,elmsteadbank.com,922,2,0
+2025-01,CMP-07,Orlavale Therapeutics,orlavaletx.com,952,1,0
+2025-01,CMP-07,Darby Savings Bank,darbysavings.com,702,6,0
+2025-01,CMP-07,Brantley Bancorp,brantleybancorp.com,221,3,0
+2025-01,CMP-07,Northcliff Insurance,northcliffins.com,427,5,0
+2025-01,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,533,4,0
+2025-01,CMP-07,Vandermeer Transport,vandermeertransport.com,618,1,0
+2025-01,CMP-07,Upton Energy,uptonenergy.com,900,6,0
+2025-01,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,737,3,0
+2025-01,CMP-07,Ridgeline Energy,ridgelineenergy.com,1281,2,0
+2025-01,CMP-07,Larkspur Software,larkspursoftware.com,579,0,0
+2025-01,CMP-07,Granite Systems,granitesystems.com,1091,6,0
+2025-01,CMP-07,Wexford Savings Bank,wexfordsavings.com,444,5,0
+2025-01,CMP-07,Lyndon Manufacturing,lyndonmfg.com,991,2,0
+2025-01,CMP-07,Glenmore Therapeutics,glenmoretx.com,556,3,0
+2025-01,CMP-07,Hartwell Transport,hartwelltransport.com,1146,6,0
+2025-01,CMP-07,Northam Manufacturing,northammfg.com,1313,4,0
+2025-01,CMP-07,Yewdale Investments,yewdaleinvest.com,1080,3,0
+2025-01,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1160,2,0
+2025-01,CMP-07,Crestview Capital,crestviewcapital.com,777,4,0
+2025-01,CMP-07,Corrowin Medical Center,corrowinmedical.com,103,1,0
+2025-01,CMP-07,Ashford Medical Center,ashfordmedical.com,997,5,0
+2025-01,CMP-07,Ogden Asset Management,ogdenam.com,608,6,0
+2025-01,CMP-07,Stonebridge Bank,stonebridgebank.com,664,6,0
+2025-01,CMP-07,Bluewater Transport,bluewatertransport.com,1071,3,0
+2025-01,CMP-07,Waverly Stores,waverlystores.com,109,1,0
+2025-01,CMP-07,Jarvis Stores,jarvisstores.com,1383,4,0
+2025-01,CMP-07,Westbury Savings Bank,westburysavings.com,294,3,0
+2025-01,CMP-07,Ravenwood Systems,ravenwoodsystems.com,789,1,0
+2025-01,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,145,4,0
+2025-01,CMP-07,Oakmont Freight,oakmontfreight.com,863,4,0
+2025-01,CMP-07,Alder Retail,alderretail.com,929,0,0
+2025-01,CMP-07,Gresham Bank,greshambank.com,1458,1,0
+2025-01,CMP-07,Yardley Investments,yardleyinvest.com,1042,2,0
+2025-01,CMP-07,Canyon Bancorp,canyonbancorp.com,402,6,0
+2025-01,CMP-07,Underhill Logistics,underhilllogistics.com,874,5,0
+2025-01,CMP-07,Norcliffe Investments,norcliffeinvest.com,1167,1,0
+2025-01,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1227,2,0
+2025-01,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1061,6,0
+2025-01,CMP-07,Hawthorne Systems,hawthornesystems.com,853,3,0
+2025-01,CMP-07,Dunmore Stores,dunmorestores.com,747,5,1
+2025-01,CMP-07,Quarry Biosciences,quarrybio.ca,1144,1,0
+2025-01,CMP-07,Quinton Software,quintonsoftware.com,1114,0,0
+2025-01,CMP-07,Arden Industries,ardenind.com,219,3,0
+2025-01,CMP-07,Ashby Freight,ashbyfreight.com,1024,4,0
+2025-01,CMP-07,Thistle Mutual,thistlemutual.com,452,5,0
+2025-01,CMP-07,Juniper Components,junipercomponents.com,1071,4,0
+2025-01,CMP-07,Fernhill Freight,fernhillfreight.com,572,2,0
+2025-01,CMP-07,Parkview Energy,parkviewenergy.com,1206,4,0
+2025-01,CMP-07,Clifton Retail,cliftonretail.com,939,6,0
+2025-01,CMP-07,Eastwick Stores,eastwickstores.com,704,3,0
+2025-01,CMP-07,Oakhurst Stores,oakhurststores.com,1222,6,0
+2025-01,CMP-07,Kestrel Utilities,kestrelutilities.com,900,5,0
+2025-01,CMP-07,Bellhaven Energy,bellhavenenergy.com,594,3,0
+2025-01,CMP-07,Merrow Manufacturing,merrowmfg.com,451,2,0
+2025-01,CMP-07,Redstone Transport,redstonetransport.com,263,3,0
+2025-01,CMP-07,Northgate Stores,northgatestores.com,1008,5,0
+2025-01,CMP-07,Whitmore Power,whitmorepower.com,1033,6,0
+2025-01,CMP-07,Orchard Insurance,orchardins.com,821,0,0
+2025-01,CMP-07,Riverbend Capital,riverbendcapital.com,621,2,0
+2025-01,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1265,6,0
+2025-01,CMP-07,Gilford Utilities,gilfordutilities.com,588,5,0
+2025-01,CMP-07,Alcott Insurance,alcottins.com,250,0,0
+2025-01,CMP-07,Rosewood Power,rosewoodpower.com,1590,2,0
+2025-01,CMP-07,Driftwood Systems,driftwoodsystems.com,46,1,0
+2025-01,CMP-07,Fenwick Medical Center,fenwickmedical.com,1194,2,0
+2025-01,CMP-07,Briarwood Health,briarwoodhealth.com,1257,4,0
+2025-01,CMP-07,Inwood Asset Management,inwoodam.com,810,2,0
+2025-01,CMP-07,Thornbury Bank,thornburybank.com,129,4,0
+2025-01,CMP-07,Linden Savings Bank,lindensavings.com,114,1,0
+2025-01,CMP-07,Jorvale Mutual,jorvalemutual.com,1148,4,0
+2025-01,CMP-07,Copperfield Freight,copperfieldfreight.com,174,6,0
+2025-01,CMP-07,Penrose Brands,penrosebrands.com,469,2,0
+2025-01,CMP-07,Easton Assurance,eastonassurance.com,45,3,0
+2025-01,CMP-07,Ambergate Systems,ambergatesystems.com,187,5,0
+2025-01,CMP-07,Norwood Bancorp,norwoodbancorp.com,249,4,0
+2025-01,CMP-07,Ivywood Stores,ivywoodstores.com,1573,6,0
+2025-01,CMP-07,Eastbrook Capital,eastbrookcapital.com,1020,1,0
+2025-02,CMP-07,Meridian Health,meridianhealth.com,1339,3,0
+2025-02,CMP-07,Meridian Health,meridianhealth.ca,377,5,0
+2025-02,CMP-07,Harborline Insurance,harborlineins.com,988,5,0
+2025-02,CMP-07,Summit Financial Group,summitfg.com,573,2,0
+2025-02,CMP-07,Newbury Logistics,newburylogistics.com,952,4,0
+2025-02,CMP-07,Hollister Therapeutics,hollistertx.com,1551,4,0
+2025-02,CMP-07,Quillon Retail,quillonretail.com,325,4,0
+2025-02,CMP-07,Brackenridge Freight,brackenridgefreight.com,931,2,0
+2025-02,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1283,1,0
+2025-02,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1383,2,0
+2025-02,CMP-07,Fairhaven Bank,fairhavenbank.com,943,5,0
+2025-02,CMP-07,Foxhall Asset Management,foxhallam.com,993,5,0
+2025-02,CMP-07,Moorland Investments,moorlandinvest.com,382,0,0
+2025-02,CMP-07,Blackthorn Insurance,blackthornins.com,986,6,0
+2025-02,CMP-07,Bexley Retail,bexleyretail.com,96,3,0
+2025-02,CMP-07,Holloway Bank,hollowaybank.com,1514,2,0
+2025-02,CMP-07,Halverston Systems,halverstonsystems.com,1519,4,0
+2025-02,CMP-07,Ellery Stores,ellerystores.com,1008,5,0
+2025-02,CMP-07,Caldwell Energy,caldwellenergy.com,709,6,0
+2025-02,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,275,5,0
+2025-02,CMP-07,Stelmere Mutual,stelmeremutual.com,698,5,0
+2025-02,CMP-07,Islington Bancorp,islingtonbancorp.com,194,5,0
+2025-02,CMP-07,Elmstead Bank,elmsteadbank.com,220,3,0
+2025-02,CMP-07,Orlavale Therapeutics,orlavaletx.com,994,4,1
+2025-02,CMP-07,Darby Savings Bank,darbysavings.com,594,3,0
+2025-02,CMP-07,Brantley Bancorp,brantleybancorp.com,1447,3,0
+2025-02,CMP-07,Northcliff Insurance,northcliffins.com,1044,1,0
+2025-02,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,169,5,0
+2025-02,CMP-07,Vandermeer Transport,vandermeertransport.com,967,6,0
+2025-02,CMP-07,Upton Energy,uptonenergy.com,278,0,0
+2025-02,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,465,2,0
+2025-02,CMP-07,Ridgeline Energy,ridgelineenergy.com,113,3,0
+2025-02,CMP-07,Larkspur Software,larkspursoftware.com,886,4,0
+2025-02,CMP-07,Granite Systems,granitesystems.com,1146,1,0
+2025-02,CMP-07,Wexford Savings Bank,wexfordsavings.com,632,0,0
+2025-02,CMP-07,Lyndon Manufacturing,lyndonmfg.com,1356,1,0
+2025-02,CMP-07,Glenmore Therapeutics,glenmoretx.com,1379,5,0
+2025-02,CMP-07,Hartwell Transport,hartwelltransport.com,1516,3,0
+2025-02,CMP-07,Northam Manufacturing,northammfg.com,1128,0,0
+2025-02,CMP-07,Yewdale Investments,yewdaleinvest.com,83,0,0
+2025-02,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,395,4,0
+2025-02,CMP-07,Crestview Capital,crestviewcapital.com,1186,1,0
+2025-02,CMP-07,Corrowin Medical Center,corrowinmedical.com,71,0,0
+2025-02,CMP-07,Ashford Medical Center,ashfordmedical.com,1278,0,0
+2025-02,CMP-07,Ogden Asset Management,ogdenam.com,805,2,0
+2025-02,CMP-07,Stonebridge Bank,stonebridgebank.com,572,2,0
+2025-02,CMP-07,Bluewater Transport,bluewatertransport.com,1558,0,0
+2025-02,CMP-07,Waverly Stores,waverlystores.com,430,5,0
+2025-02,CMP-07,Jarvis Stores,jarvisstores.com,561,6,0
+2025-02,CMP-07,Westbury Savings Bank,westburysavings.com,1317,5,0
+2025-02,CMP-07,Ravenwood Systems,ravenwoodsystems.com,770,0,0
+2025-02,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1547,3,0
+2025-02,CMP-07,Oakmont Freight,oakmontfreight.com,47,4,0
+2025-02,CMP-07,Alder Retail,alderretail.com,466,3,0
+2025-02,CMP-07,Gresham Bank,greshambank.com,1510,0,0
+2025-02,CMP-07,Yardley Investments,yardleyinvest.com,1236,2,0
+2025-02,CMP-07,Canyon Bancorp,canyonbancorp.com,179,1,0
+2025-02,CMP-07,Underhill Logistics,underhilllogistics.com,1558,0,0
+2025-02,CMP-07,Norcliffe Investments,norcliffeinvest.com,657,3,0
+2025-02,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1162,0,0
+2025-02,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,159,3,0
+2025-02,CMP-07,Hawthorne Systems,hawthornesystems.com,185,6,0
+2025-02,CMP-07,Dunmore Stores,dunmorestores.com,781,0,0
+2025-02,CMP-07,Quarry Biosciences,quarrybio.ca,1520,6,0
+2025-02,CMP-07,Quinton Software,quintonsoftware.com,793,5,0
+2025-02,CMP-07,Arden Industries,ardenind.com,978,2,0
+2025-02,CMP-07,Ashby Freight,ashbyfreight.com,218,6,0
+2025-02,CMP-07,Thistle Mutual,thistlemutual.com,1536,4,0
+2025-02,CMP-07,Juniper Components,junipercomponents.com,1578,2,0
+2025-02,CMP-07,Fernhill Freight,fernhillfreight.com,770,1,0
+2025-02,CMP-07,Parkview Energy,parkviewenergy.com,727,3,0
+2025-02,CMP-07,Clifton Retail,cliftonretail.com,921,5,0
+2025-02,CMP-07,Eastwick Stores,eastwickstores.com,831,1,0
+2025-02,CMP-07,Oakhurst Stores,oakhurststores.com,1131,5,0
+2025-02,CMP-07,Kestrel Utilities,kestrelutilities.com,1162,3,0
+2025-02,CMP-07,Bellhaven Energy,bellhavenenergy.com,1511,4,0
+2025-02,CMP-07,Merrow Manufacturing,merrowmfg.com,546,5,0
+2025-02,CMP-07,Redstone Transport,redstonetransport.com,1204,6,0
+2025-02,CMP-07,Northgate Stores,northgatestores.com,912,1,0
+2025-02,CMP-07,Whitmore Power,whitmorepower.com,205,1,0
+2025-02,CMP-07,Orchard Insurance,orchardins.com,899,5,0
+2025-02,CMP-07,Riverbend Capital,riverbendcapital.com,1318,4,0
+2025-02,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,778,6,0
+2025-02,CMP-07,Gilford Utilities,gilfordutilities.com,971,1,0
+2025-02,CMP-07,Alcott Insurance,alcottins.com,757,3,0
+2025-02,CMP-07,Rosewood Power,rosewoodpower.com,1113,5,0
+2025-02,CMP-07,Driftwood Systems,driftwoodsystems.com,735,0,0
+2025-02,CMP-07,Fenwick Medical Center,fenwickmedical.com,1380,4,0
+2025-02,CMP-07,Briarwood Health,briarwoodhealth.com,646,2,0
+2025-02,CMP-07,Inwood Asset Management,inwoodam.com,851,1,0
+2025-02,CMP-07,Thornbury Bank,thornburybank.com,1402,3,0
+2025-02,CMP-07,Linden Savings Bank,lindensavings.com,336,4,0
+2025-02,CMP-07,Jorvale Mutual,jorvalemutual.com,141,5,0
+2025-02,CMP-07,Copperfield Freight,copperfieldfreight.com,251,6,0
+2025-02,CMP-07,Penrose Brands,penrosebrands.com,634,2,0
+2025-02,CMP-07,Easton Assurance,eastonassurance.com,1273,0,0
+2025-02,CMP-07,Ambergate Systems,ambergatesystems.com,882,0,0
+2025-02,CMP-07,Norwood Bancorp,norwoodbancorp.com,347,6,0
+2025-02,CMP-07,Ivywood Stores,ivywoodstores.com,1451,6,0
+2025-02,CMP-07,Eastbrook Capital,eastbrookcapital.com,527,4,0
+2025-03,CMP-07,Meridian Health,meridianhealth.com,1046,1,0
+2025-03,CMP-07,Meridian Health,meridianhealth.ca,402,2,0
+2025-03,CMP-07,Harborline Insurance,harborlineins.com,587,5,0
+2025-03,CMP-07,Summit Financial Group,summitfg.com,700,2,0
+2025-03,CMP-07,Newbury Logistics,newburylogistics.com,181,4,0
+2025-03,CMP-07,Hollister Therapeutics,hollistertx.com,937,5,0
+2025-03,CMP-07,Quillon Retail,quillonretail.com,1124,6,0
+2025-03,CMP-07,Brackenridge Freight,brackenridgefreight.com,908,2,0
+2025-03,CMP-07,Brightwater Manufacturing,brightwatermfg.com,372,2,0
+2025-03,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1228,6,0
+2025-03,CMP-07,Fairhaven Bank,fairhavenbank.com,1118,5,0
+2025-03,CMP-07,Foxhall Asset Management,foxhallam.com,956,4,0
+2025-03,CMP-07,Moorland Investments,moorlandinvest.com,1085,1,0
+2025-03,CMP-07,Blackthorn Insurance,blackthornins.com,872,3,0
+2025-03,CMP-07,Bexley Retail,bexleyretail.com,535,0,0
+2025-03,CMP-07,Holloway Bank,hollowaybank.com,1105,5,1
+2025-03,CMP-07,Halverston Systems,halverstonsystems.com,1320,6,0
+2025-03,CMP-07,Ellery Stores,ellerystores.com,597,6,0
+2025-03,CMP-07,Caldwell Energy,caldwellenergy.com,741,4,0
+2025-03,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,873,4,0
+2025-03,CMP-07,Stelmere Mutual,stelmeremutual.com,1242,0,0
+2025-03,CMP-07,Islington Bancorp,islingtonbancorp.com,78,2,0
+2025-03,CMP-07,Elmstead Bank,elmsteadbank.com,1321,4,0
+2025-03,CMP-07,Orlavale Therapeutics,orlavaletx.com,1065,4,0
+2025-03,CMP-07,Darby Savings Bank,darbysavings.com,1365,5,0
+2025-03,CMP-07,Brantley Bancorp,brantleybancorp.com,1139,5,0
+2025-03,CMP-07,Northcliff Insurance,northcliffins.com,578,2,0
+2025-03,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,321,1,0
+2025-03,CMP-07,Vandermeer Transport,vandermeertransport.com,1385,1,0
+2025-03,CMP-07,Upton Energy,uptonenergy.com,738,5,0
+2025-03,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,397,4,0
+2025-03,CMP-07,Ridgeline Energy,ridgelineenergy.com,798,5,0
+2025-03,CMP-07,Larkspur Software,larkspursoftware.com,963,1,0
+2025-03,CMP-07,Granite Systems,granitesystems.com,1491,0,0
+2025-03,CMP-07,Wexford Savings Bank,wexfordsavings.com,457,6,0
+2025-03,CMP-07,Lyndon Manufacturing,lyndonmfg.com,1057,6,0
+2025-03,CMP-07,Glenmore Therapeutics,glenmoretx.com,256,3,0
+2025-03,CMP-07,Hartwell Transport,hartwelltransport.com,916,5,0
+2025-03,CMP-07,Northam Manufacturing,northammfg.com,101,5,0
+2025-03,CMP-07,Yewdale Investments,yewdaleinvest.com,668,6,0
+2025-03,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1273,2,0
+2025-03,CMP-07,Crestview Capital,crestviewcapital.com,805,5,0
+2025-03,CMP-07,Corrowin Medical Center,corrowinmedical.com,277,4,0
+2025-03,CMP-07,Ashford Medical Center,ashfordmedical.com,630,5,0
+2025-03,CMP-07,Ogden Asset Management,ogdenam.com,530,0,0
+2025-03,CMP-07,Stonebridge Bank,stonebridgebank.com,1057,4,0
+2025-03,CMP-07,Bluewater Transport,bluewatertransport.com,231,4,0
+2025-03,CMP-07,Waverly Stores,waverlystores.com,1155,0,0
+2025-03,CMP-07,Jarvis Stores,jarvisstores.com,893,3,0
+2025-03,CMP-07,Westbury Savings Bank,westburysavings.com,581,1,0
+2025-03,CMP-07,Ravenwood Systems,ravenwoodsystems.com,965,6,0
+2025-03,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,861,5,0
+2025-03,CMP-07,Oakmont Freight,oakmontfreight.com,850,0,0
+2025-03,CMP-07,Alder Retail,alderretail.com,893,5,0
+2025-03,CMP-07,Gresham Bank,greshambank.com,52,0,0
+2025-03,CMP-07,Yardley Investments,yardleyinvest.com,833,5,0
+2025-03,CMP-07,Canyon Bancorp,canyonbancorp.com,1399,2,0
+2025-03,CMP-07,Underhill Logistics,underhilllogistics.com,727,2,0
+2025-03,CMP-07,Norcliffe Investments,norcliffeinvest.com,606,1,0
+2025-03,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,732,3,0
+2025-03,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1345,5,0
+2025-03,CMP-07,Hawthorne Systems,hawthornesystems.com,188,3,0
+2025-03,CMP-07,Dunmore Stores,dunmorestores.com,812,6,0
+2025-03,CMP-07,Quarry Biosciences,quarrybio.ca,82,1,0
+2025-03,CMP-07,Quinton Software,quintonsoftware.com,1191,1,0
+2025-03,CMP-07,Arden Industries,ardenind.com,160,0,0
+2025-03,CMP-07,Ashby Freight,ashbyfreight.com,717,6,0
+2025-03,CMP-07,Thistle Mutual,thistlemutual.com,451,3,0
+2025-03,CMP-07,Juniper Components,junipercomponents.com,838,3,0
+2025-03,CMP-07,Fernhill Freight,fernhillfreight.com,1545,4,0
+2025-03,CMP-07,Parkview Energy,parkviewenergy.com,1188,2,0
+2025-03,CMP-07,Clifton Retail,cliftonretail.com,1472,0,0
+2025-03,CMP-07,Eastwick Stores,eastwickstores.com,163,5,0
+2025-03,CMP-07,Oakhurst Stores,oakhurststores.com,1198,1,0
+2025-03,CMP-07,Kestrel Utilities,kestrelutilities.com,603,5,0
+2025-03,CMP-07,Bellhaven Energy,bellhavenenergy.com,459,6,0
+2025-03,CMP-07,Merrow Manufacturing,merrowmfg.com,663,1,0
+2025-03,CMP-07,Redstone Transport,redstonetransport.com,250,2,0
+2025-03,CMP-07,Northgate Stores,northgatestores.com,511,5,0
+2025-03,CMP-07,Whitmore Power,whitmorepower.com,504,5,0
+2025-03,CMP-07,Orchard Insurance,orchardins.com,734,1,0
+2025-03,CMP-07,Riverbend Capital,riverbendcapital.com,422,5,0
+2025-03,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,105,4,0
+2025-03,CMP-07,Gilford Utilities,gilfordutilities.com,664,4,0
+2025-03,CMP-07,Alcott Insurance,alcottins.com,413,2,1
+2025-03,CMP-07,Rosewood Power,rosewoodpower.com,1200,6,0
+2025-03,CMP-07,Driftwood Systems,driftwoodsystems.com,174,4,0
+2025-03,CMP-07,Fenwick Medical Center,fenwickmedical.com,205,3,0
+2025-03,CMP-07,Briarwood Health,briarwoodhealth.com,763,2,0
+2025-03,CMP-07,Inwood Asset Management,inwoodam.com,601,5,0
+2025-03,CMP-07,Thornbury Bank,thornburybank.com,479,5,0
+2025-03,CMP-07,Linden Savings Bank,lindensavings.com,593,6,0
+2025-03,CMP-07,Jorvale Mutual,jorvalemutual.com,725,4,0
+2025-03,CMP-07,Copperfield Freight,copperfieldfreight.com,1595,0,0
+2025-03,CMP-07,Penrose Brands,penrosebrands.com,1200,4,0
+2025-03,CMP-07,Easton Assurance,eastonassurance.com,770,5,0
+2025-03,CMP-07,Ambergate Systems,ambergatesystems.com,208,6,0
+2025-03,CMP-07,Norwood Bancorp,norwoodbancorp.com,736,4,0
+2025-03,CMP-07,Ivywood Stores,ivywoodstores.com,1374,2,0
+2025-03,CMP-07,Eastbrook Capital,eastbrookcapital.com,818,3,0
+2025-04,CMP-07,Meridian Health,meridianhealth.com,1050,3,0
+2025-04,CMP-07,Meridian Health,meridianhealth.ca,1263,4,0
+2025-04,CMP-07,Harborline Insurance,harborlineins.com,1584,0,0
+2025-04,CMP-07,Summit Financial Group,summitfg.com,642,6,0
+2025-04,CMP-07,Newbury Logistics,newburylogistics.com,1113,4,0
+2025-04,CMP-07,Hollister Therapeutics,hollistertx.com,1477,5,0
+2025-04,CMP-07,Quillon Retail,quillonretail.com,995,1,0
+2025-04,CMP-07,Brackenridge Freight,brackenridgefreight.com,745,1,0
+2025-04,CMP-07,Brightwater Manufacturing,brightwatermfg.com,488,1,0
+2025-04,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1162,5,0
+2025-04,CMP-07,Fairhaven Bank,fairhavenbank.com,1267,2,0
+2025-04,CMP-07,Foxhall Asset Management,foxhallam.com,585,2,0
+2025-04,CMP-07,Moorland Investments,moorlandinvest.com,96,4,0
+2025-04,CMP-07,Blackthorn Insurance,blackthornins.com,786,5,0
+2025-04,CMP-07,Bexley Retail,bexleyretail.com,404,4,0
+2025-04,CMP-07,Holloway Bank,hollowaybank.com,1237,0,0
+2025-04,CMP-07,Halverston Systems,halverstonsystems.com,263,0,0
+2025-04,CMP-07,Ellery Stores,ellerystores.com,422,2,0
+2025-04,CMP-07,Caldwell Energy,caldwellenergy.com,412,5,0
+2025-04,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1383,1,0
+2025-04,CMP-07,Stelmere Mutual,stelmeremutual.com,966,4,0
+2025-04,CMP-07,Islington Bancorp,islingtonbancorp.com,268,6,0
+2025-04,CMP-07,Elmstead Bank,elmsteadbank.com,1303,0,0
+2025-04,CMP-07,Orlavale Therapeutics,orlavaletx.com,727,0,0
+2025-04,CMP-07,Darby Savings Bank,darbysavings.com,508,1,0
+2025-04,CMP-07,Brantley Bancorp,brantleybancorp.com,80,3,0
+2025-04,CMP-07,Northcliff Insurance,northcliffins.com,571,1,0
+2025-04,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,147,3,0
+2025-04,CMP-07,Vandermeer Transport,vandermeertransport.com,197,0,0
+2025-04,CMP-07,Upton Energy,uptonenergy.com,314,4,0
+2025-04,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,629,2,0
+2025-04,CMP-07,Ridgeline Energy,ridgelineenergy.com,939,1,0
+2025-04,CMP-07,Larkspur Software,larkspursoftware.com,1072,1,0
+2025-04,CMP-07,Granite Systems,granitesystems.com,552,2,0
+2025-04,CMP-07,Wexford Savings Bank,wexfordsavings.com,1582,1,0
+2025-04,CMP-07,Lyndon Manufacturing,lyndonmfg.com,972,4,0
+2025-04,CMP-07,Glenmore Therapeutics,glenmoretx.com,1432,0,0
+2025-04,CMP-07,Hartwell Transport,hartwelltransport.com,585,2,0
+2025-04,CMP-07,Northam Manufacturing,northammfg.com,663,1,0
+2025-04,CMP-07,Yewdale Investments,yewdaleinvest.com,805,2,0
+2025-04,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,985,3,0
+2025-04,CMP-07,Crestview Capital,crestviewcapital.com,1405,0,0
+2025-04,CMP-07,Corrowin Medical Center,corrowinmedical.com,1283,5,0
+2025-04,CMP-07,Ashford Medical Center,ashfordmedical.com,83,6,0
+2025-04,CMP-07,Ogden Asset Management,ogdenam.com,426,5,0
+2025-04,CMP-07,Stonebridge Bank,stonebridgebank.com,730,3,0
+2025-04,CMP-07,Bluewater Transport,bluewatertransport.com,1157,3,0
+2025-04,CMP-07,Waverly Stores,waverlystores.com,160,2,0
+2025-04,CMP-07,Jarvis Stores,jarvisstores.com,462,3,0
+2025-04,CMP-07,Westbury Savings Bank,westburysavings.com,721,1,0
+2025-04,CMP-07,Ravenwood Systems,ravenwoodsystems.com,264,6,0
+2025-04,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1536,0,0
+2025-04,CMP-07,Oakmont Freight,oakmontfreight.com,1003,5,0
+2025-04,CMP-07,Alder Retail,alderretail.com,241,1,0
+2025-04,CMP-07,Gresham Bank,greshambank.com,782,5,0
+2025-04,CMP-07,Yardley Investments,yardleyinvest.com,1011,2,0
+2025-04,CMP-07,Canyon Bancorp,canyonbancorp.com,1285,4,0
+2025-04,CMP-07,Underhill Logistics,underhilllogistics.com,740,5,0
+2025-04,CMP-07,Norcliffe Investments,norcliffeinvest.com,1129,5,0
+2025-04,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1300,4,0
+2025-04,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,857,2,0
+2025-04,CMP-07,Hawthorne Systems,hawthornesystems.com,330,5,0
+2025-04,CMP-07,Dunmore Stores,dunmorestores.com,657,2,0
+2025-04,CMP-07,Quarry Biosciences,quarrybio.ca,1232,0,0
+2025-04,CMP-07,Quinton Software,quintonsoftware.com,1563,6,0
+2025-04,CMP-07,Arden Industries,ardenind.com,339,4,0
+2025-04,CMP-07,Ashby Freight,ashbyfreight.com,935,4,0
+2025-04,CMP-07,Thistle Mutual,thistlemutual.com,1420,6,0
+2025-04,CMP-07,Juniper Components,junipercomponents.com,159,4,0
+2025-04,CMP-07,Fernhill Freight,fernhillfreight.com,795,5,0
+2025-04,CMP-07,Parkview Energy,parkviewenergy.com,892,3,0
+2025-04,CMP-07,Clifton Retail,cliftonretail.com,1198,1,0
+2025-04,CMP-07,Eastwick Stores,eastwickstores.com,297,6,0
+2025-04,CMP-07,Oakhurst Stores,oakhurststores.com,788,0,0
+2025-04,CMP-07,Kestrel Utilities,kestrelutilities.com,727,1,0
+2025-04,CMP-07,Bellhaven Energy,bellhavenenergy.com,515,6,0
+2025-04,CMP-07,Merrow Manufacturing,merrowmfg.com,189,0,0
+2025-04,CMP-07,Redstone Transport,redstonetransport.com,1316,1,0
+2025-04,CMP-07,Northgate Stores,northgatestores.com,987,4,0
+2025-04,CMP-07,Whitmore Power,whitmorepower.com,148,3,0
+2025-04,CMP-07,Orchard Insurance,orchardins.com,413,6,0
+2025-04,CMP-07,Riverbend Capital,riverbendcapital.com,1147,3,0
+2025-04,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,537,4,0
+2025-04,CMP-07,Gilford Utilities,gilfordutilities.com,658,4,0
+2025-04,CMP-07,Alcott Insurance,alcottins.com,556,3,0
+2025-04,CMP-07,Rosewood Power,rosewoodpower.com,283,1,0
+2025-04,CMP-07,Driftwood Systems,driftwoodsystems.com,1124,1,0
+2025-04,CMP-07,Fenwick Medical Center,fenwickmedical.com,571,1,1
+2025-04,CMP-07,Briarwood Health,briarwoodhealth.com,304,6,0
+2025-04,CMP-07,Inwood Asset Management,inwoodam.com,143,3,0
+2025-04,CMP-07,Thornbury Bank,thornburybank.com,89,5,0
+2025-04,CMP-07,Linden Savings Bank,lindensavings.com,620,3,0
+2025-04,CMP-07,Jorvale Mutual,jorvalemutual.com,216,4,0
+2025-04,CMP-07,Copperfield Freight,copperfieldfreight.com,1360,6,0
+2025-04,CMP-07,Penrose Brands,penrosebrands.com,1011,0,0
+2025-04,CMP-07,Easton Assurance,eastonassurance.com,649,1,0
+2025-04,CMP-07,Ambergate Systems,ambergatesystems.com,375,0,0
+2025-04,CMP-07,Norwood Bancorp,norwoodbancorp.com,1180,2,0
+2025-04,CMP-07,Ivywood Stores,ivywoodstores.com,1458,2,0
+2025-04,CMP-07,Eastbrook Capital,eastbrookcapital.com,404,6,0
+2025-05,CMP-07,Meridian Health,meridianhealth.com,295,4,0
+2025-05,CMP-07,Meridian Health,meridianhealth.ca,374,6,0
+2025-05,CMP-07,Harborline Insurance,harborlineins.com,144,6,0
+2025-05,CMP-07,Summit Financial Group,summitfg.com,1448,5,0
+2025-05,CMP-07,Newbury Logistics,newburylogistics.com,346,5,0
+2025-05,CMP-07,Hollister Therapeutics,hollistertx.com,1566,2,0
+2025-05,CMP-07,Quillon Retail,quillonretail.com,714,1,0
+2025-05,CMP-07,Brackenridge Freight,brackenridgefreight.com,1348,5,0
+2025-05,CMP-07,Brightwater Manufacturing,brightwatermfg.com,626,0,0
+2025-05,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,588,1,0
+2025-05,CMP-07,Fairhaven Bank,fairhavenbank.com,1293,0,0
+2025-05,CMP-07,Foxhall Asset Management,foxhallam.com,103,1,0
+2025-05,CMP-07,Moorland Investments,moorlandinvest.com,1363,4,0
+2025-05,CMP-07,Blackthorn Insurance,blackthornins.com,1446,4,0
+2025-05,CMP-07,Bexley Retail,bexleyretail.com,1388,1,0
+2025-05,CMP-07,Holloway Bank,hollowaybank.com,1472,5,0
+2025-05,CMP-07,Halverston Systems,halverstonsystems.com,817,3,0
+2025-05,CMP-07,Ellery Stores,ellerystores.com,1527,4,0
+2025-05,CMP-07,Caldwell Energy,caldwellenergy.com,1427,5,0
+2025-05,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,375,3,0
+2025-05,CMP-07,Stelmere Mutual,stelmeremutual.com,1296,5,0
+2025-05,CMP-07,Islington Bancorp,islingtonbancorp.com,760,2,0
+2025-05,CMP-07,Elmstead Bank,elmsteadbank.com,1286,6,0
+2025-05,CMP-07,Orlavale Therapeutics,orlavaletx.com,1573,5,0
+2025-05,CMP-07,Darby Savings Bank,darbysavings.com,621,0,0
+2025-05,CMP-07,Brantley Bancorp,brantleybancorp.com,1501,3,0
+2025-05,CMP-07,Northcliff Insurance,northcliffins.com,594,6,0
+2025-05,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1445,0,0
+2025-05,CMP-07,Vandermeer Transport,vandermeertransport.com,89,0,0
+2025-05,CMP-07,Upton Energy,uptonenergy.com,1556,3,0
+2025-05,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,928,1,0
+2025-05,CMP-07,Ridgeline Energy,ridgelineenergy.com,1129,3,0
+2025-05,CMP-07,Larkspur Software,larkspursoftware.com,309,4,0
+2025-05,CMP-07,Granite Systems,granitesystems.com,1442,2,0
+2025-05,CMP-07,Wexford Savings Bank,wexfordsavings.com,981,0,0
+2025-05,CMP-07,Lyndon Manufacturing,lyndonmfg.com,61,1,0
+2025-05,CMP-07,Glenmore Therapeutics,glenmoretx.com,1274,5,0
+2025-05,CMP-07,Hartwell Transport,hartwelltransport.com,1530,1,0
+2025-05,CMP-07,Northam Manufacturing,northammfg.com,1539,5,0
+2025-05,CMP-07,Yewdale Investments,yewdaleinvest.com,821,1,0
+2025-05,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1398,1,0
+2025-05,CMP-07,Crestview Capital,crestviewcapital.com,450,4,0
+2025-05,CMP-07,Corrowin Medical Center,corrowinmedical.com,257,1,0
+2025-05,CMP-07,Ashford Medical Center,ashfordmedical.com,1181,6,0
+2025-05,CMP-07,Ogden Asset Management,ogdenam.com,574,6,0
+2025-05,CMP-07,Stonebridge Bank,stonebridgebank.com,516,0,0
+2025-05,CMP-07,Bluewater Transport,bluewatertransport.com,1210,1,0
+2025-05,CMP-07,Waverly Stores,waverlystores.com,43,3,0
+2025-05,CMP-07,Jarvis Stores,jarvisstores.com,532,2,0
+2025-05,CMP-07,Westbury Savings Bank,westburysavings.com,1171,3,0
+2025-05,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1158,1,0
+2025-05,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1194,3,0
+2025-05,CMP-07,Oakmont Freight,oakmontfreight.com,1290,0,0
+2025-05,CMP-07,Alder Retail,alderretail.com,1326,2,0
+2025-05,CMP-07,Gresham Bank,greshambank.com,510,5,0
+2025-05,CMP-07,Yardley Investments,yardleyinvest.com,1400,6,0
+2025-05,CMP-07,Canyon Bancorp,canyonbancorp.com,407,6,0
+2025-05,CMP-07,Underhill Logistics,underhilllogistics.com,474,2,0
+2025-05,CMP-07,Norcliffe Investments,norcliffeinvest.com,1416,4,0
+2025-05,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1092,6,0
+2025-05,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,671,1,0
+2025-05,CMP-07,Hawthorne Systems,hawthornesystems.com,882,1,0
+2025-05,CMP-07,Dunmore Stores,dunmorestores.com,1184,1,0
+2025-05,CMP-07,Quarry Biosciences,quarrybio.ca,1068,5,0
+2025-05,CMP-07,Quinton Software,quintonsoftware.com,238,5,0
+2025-05,CMP-07,Arden Industries,ardenind.com,493,5,0
+2025-05,CMP-07,Ashby Freight,ashbyfreight.com,107,1,0
+2025-05,CMP-07,Thistle Mutual,thistlemutual.com,162,0,0
+2025-05,CMP-07,Juniper Components,junipercomponents.com,347,5,0
+2025-05,CMP-07,Fernhill Freight,fernhillfreight.com,158,0,0
+2025-05,CMP-07,Parkview Energy,parkviewenergy.com,1121,1,0
+2025-05,CMP-07,Clifton Retail,cliftonretail.com,780,2,0
+2025-05,CMP-07,Eastwick Stores,eastwickstores.com,897,0,0
+2025-05,CMP-07,Oakhurst Stores,oakhurststores.com,574,0,0
+2025-05,CMP-07,Kestrel Utilities,kestrelutilities.com,806,6,0
+2025-05,CMP-07,Bellhaven Energy,bellhavenenergy.com,1510,3,0
+2025-05,CMP-07,Merrow Manufacturing,merrowmfg.com,947,4,0
+2025-05,CMP-07,Redstone Transport,redstonetransport.com,706,4,0
+2025-05,CMP-07,Northgate Stores,northgatestores.com,1176,0,0
+2025-05,CMP-07,Whitmore Power,whitmorepower.com,743,0,0
+2025-05,CMP-07,Orchard Insurance,orchardins.com,762,0,0
+2025-05,CMP-07,Riverbend Capital,riverbendcapital.com,1440,0,0
+2025-05,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1276,0,0
+2025-05,CMP-07,Gilford Utilities,gilfordutilities.com,1257,4,0
+2025-05,CMP-07,Alcott Insurance,alcottins.com,502,1,0
+2025-05,CMP-07,Rosewood Power,rosewoodpower.com,253,3,0
+2025-05,CMP-07,Driftwood Systems,driftwoodsystems.com,875,4,0
+2025-05,CMP-07,Fenwick Medical Center,fenwickmedical.com,562,5,0
+2025-05,CMP-07,Briarwood Health,briarwoodhealth.com,147,3,0
+2025-05,CMP-07,Inwood Asset Management,inwoodam.com,1469,3,0
+2025-05,CMP-07,Thornbury Bank,thornburybank.com,522,0,0
+2025-05,CMP-07,Linden Savings Bank,lindensavings.com,1073,0,0
+2025-05,CMP-07,Jorvale Mutual,jorvalemutual.com,814,4,0
+2025-05,CMP-07,Copperfield Freight,copperfieldfreight.com,953,6,0
+2025-05,CMP-07,Penrose Brands,penrosebrands.com,1152,0,0
+2025-05,CMP-07,Easton Assurance,eastonassurance.com,1565,0,0
+2025-05,CMP-07,Ambergate Systems,ambergatesystems.com,642,2,0
+2025-05,CMP-07,Norwood Bancorp,norwoodbancorp.com,828,3,0
+2025-05,CMP-07,Ivywood Stores,ivywoodstores.com,689,6,0
+2025-05,CMP-07,Eastbrook Capital,eastbrookcapital.com,191,1,0
+2025-06,CMP-07,Meridian Health,meridianhealth.com,276,4,0
+2025-06,CMP-07,Meridian Health,meridianhealth.ca,382,6,0
+2025-06,CMP-07,Harborline Insurance,harborlineins.com,1058,5,0
+2025-06,CMP-07,Summit Financial Group,summitfg.com,1308,1,0
+2025-06,CMP-07,Newbury Logistics,newburylogistics.com,515,6,0
+2025-06,CMP-07,Hollister Therapeutics,hollistertx.com,85,6,0
+2025-06,CMP-07,Quillon Retail,quillonretail.com,1200,6,0
+2025-06,CMP-07,Brackenridge Freight,brackenridgefreight.com,963,2,0
+2025-06,CMP-07,Brightwater Manufacturing,brightwatermfg.com,722,5,0
+2025-06,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1094,0,0
+2025-06,CMP-07,Fairhaven Bank,fairhavenbank.com,328,0,0
+2025-06,CMP-07,Foxhall Asset Management,foxhallam.com,685,5,0
+2025-06,CMP-07,Moorland Investments,moorlandinvest.com,982,5,0
+2025-06,CMP-07,Blackthorn Insurance,blackthornins.com,1203,4,0
+2025-06,CMP-07,Bexley Retail,bexleyretail.com,1342,1,1
+2025-06,CMP-07,Holloway Bank,hollowaybank.com,343,6,0
+2025-06,CMP-07,Halverston Systems,halverstonsystems.com,1305,6,0
+2025-06,CMP-07,Ellery Stores,ellerystores.com,708,5,0
+2025-06,CMP-07,Caldwell Energy,caldwellenergy.com,972,5,0
+2025-06,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,376,0,0
+2025-06,CMP-07,Stelmere Mutual,stelmeremutual.com,566,2,0
+2025-06,CMP-07,Islington Bancorp,islingtonbancorp.com,226,0,0
+2025-06,CMP-07,Elmstead Bank,elmsteadbank.com,686,3,0
+2025-06,CMP-07,Orlavale Therapeutics,orlavaletx.com,337,1,0
+2025-06,CMP-07,Darby Savings Bank,darbysavings.com,978,4,0
+2025-06,CMP-07,Brantley Bancorp,brantleybancorp.com,1407,5,0
+2025-06,CMP-07,Northcliff Insurance,northcliffins.com,297,0,0
+2025-06,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1349,3,0
+2025-06,CMP-07,Vandermeer Transport,vandermeertransport.com,1063,5,0
+2025-06,CMP-07,Upton Energy,uptonenergy.com,818,2,0
+2025-06,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,1046,5,0
+2025-06,CMP-07,Ridgeline Energy,ridgelineenergy.com,355,0,0
+2025-06,CMP-07,Larkspur Software,larkspursoftware.com,206,0,0
+2025-06,CMP-07,Granite Systems,granitesystems.com,191,2,0
+2025-06,CMP-07,Wexford Savings Bank,wexfordsavings.com,494,6,0
+2025-06,CMP-07,Lyndon Manufacturing,lyndonmfg.com,127,0,0
+2025-06,CMP-07,Glenmore Therapeutics,glenmoretx.com,1399,3,0
+2025-06,CMP-07,Hartwell Transport,hartwelltransport.com,842,0,0
+2025-06,CMP-07,Northam Manufacturing,northammfg.com,1072,6,0
+2025-06,CMP-07,Yewdale Investments,yewdaleinvest.com,1392,0,0
+2025-06,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1106,1,0
+2025-06,CMP-07,Crestview Capital,crestviewcapital.com,227,3,0
+2025-06,CMP-07,Corrowin Medical Center,corrowinmedical.com,554,2,0
+2025-06,CMP-07,Ashford Medical Center,ashfordmedical.com,1315,6,0
+2025-06,CMP-07,Ogden Asset Management,ogdenam.com,868,2,0
+2025-06,CMP-07,Stonebridge Bank,stonebridgebank.com,380,6,0
+2025-06,CMP-07,Bluewater Transport,bluewatertransport.com,1089,2,0
+2025-06,CMP-07,Waverly Stores,waverlystores.com,376,4,0
+2025-06,CMP-07,Jarvis Stores,jarvisstores.com,587,6,0
+2025-06,CMP-07,Westbury Savings Bank,westburysavings.com,149,1,0
+2025-06,CMP-07,Ravenwood Systems,ravenwoodsystems.com,392,1,0
+2025-06,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,700,4,0
+2025-06,CMP-07,Oakmont Freight,oakmontfreight.com,967,4,0
+2025-06,CMP-07,Alder Retail,alderretail.com,1185,5,0
+2025-06,CMP-07,Gresham Bank,greshambank.com,887,6,0
+2025-06,CMP-07,Yardley Investments,yardleyinvest.com,755,3,0
+2025-06,CMP-07,Canyon Bancorp,canyonbancorp.com,834,1,0
+2025-06,CMP-07,Underhill Logistics,underhilllogistics.com,1189,0,0
+2025-06,CMP-07,Norcliffe Investments,norcliffeinvest.com,982,4,1
+2025-06,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,64,4,0
+2025-06,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,919,0,0
+2025-06,CMP-07,Hawthorne Systems,hawthornesystems.com,863,4,0
+2025-06,CMP-07,Dunmore Stores,dunmorestores.com,133,4,0
+2025-06,CMP-07,Quarry Biosciences,quarrybio.ca,61,2,0
+2025-06,CMP-07,Quinton Software,quintonsoftware.com,558,5,0
+2025-06,CMP-07,Arden Industries,ardenind.com,448,2,0
+2025-06,CMP-07,Ashby Freight,ashbyfreight.com,1484,4,0
+2025-06,CMP-07,Thistle Mutual,thistlemutual.com,1287,0,0
+2025-06,CMP-07,Juniper Components,junipercomponents.com,310,5,0
+2025-06,CMP-07,Fernhill Freight,fernhillfreight.com,1539,1,0
+2025-06,CMP-07,Parkview Energy,parkviewenergy.com,552,4,0
+2025-06,CMP-07,Clifton Retail,cliftonretail.com,1580,1,0
+2025-06,CMP-07,Eastwick Stores,eastwickstores.com,488,2,0
+2025-06,CMP-07,Oakhurst Stores,oakhurststores.com,1493,6,0
+2025-06,CMP-07,Kestrel Utilities,kestrelutilities.com,1086,3,0
+2025-06,CMP-07,Bellhaven Energy,bellhavenenergy.com,667,0,0
+2025-06,CMP-07,Merrow Manufacturing,merrowmfg.com,1181,4,0
+2025-06,CMP-07,Redstone Transport,redstonetransport.com,1428,2,0
+2025-06,CMP-07,Northgate Stores,northgatestores.com,1450,0,0
+2025-06,CMP-07,Whitmore Power,whitmorepower.com,672,1,0
+2025-06,CMP-07,Orchard Insurance,orchardins.com,1291,5,0
+2025-06,CMP-07,Riverbend Capital,riverbendcapital.com,409,6,0
+2025-06,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1147,5,0
+2025-06,CMP-07,Gilford Utilities,gilfordutilities.com,1365,4,0
+2025-06,CMP-07,Alcott Insurance,alcottins.com,164,6,0
+2025-06,CMP-07,Rosewood Power,rosewoodpower.com,362,6,0
+2025-06,CMP-07,Driftwood Systems,driftwoodsystems.com,462,4,0
+2025-06,CMP-07,Fenwick Medical Center,fenwickmedical.com,743,3,0
+2025-06,CMP-07,Briarwood Health,briarwoodhealth.com,240,6,0
+2025-06,CMP-07,Inwood Asset Management,inwoodam.com,319,4,0
+2025-06,CMP-07,Thornbury Bank,thornburybank.com,99,0,0
+2025-06,CMP-07,Linden Savings Bank,lindensavings.com,864,4,0
+2025-06,CMP-07,Jorvale Mutual,jorvalemutual.com,591,0,0
+2025-06,CMP-07,Copperfield Freight,copperfieldfreight.com,1430,3,0
+2025-06,CMP-07,Penrose Brands,penrosebrands.com,948,6,0
+2025-06,CMP-07,Easton Assurance,eastonassurance.com,313,4,0
+2025-06,CMP-07,Ambergate Systems,ambergatesystems.com,776,5,0
+2025-06,CMP-07,Norwood Bancorp,norwoodbancorp.com,826,4,0
+2025-06,CMP-07,Ivywood Stores,ivywoodstores.com,1390,2,0
+2025-06,CMP-07,Eastbrook Capital,eastbrookcapital.com,752,3,0
+2025-07,CMP-07,Meridian Health,meridianhealth.com,1314,6,0
+2025-07,CMP-07,Meridian Health,meridianhealth.ca,870,5,0
+2025-07,CMP-07,Harborline Insurance,harborlineins.com,645,0,0
+2025-07,CMP-07,Summit Financial Group,summitfg.com,933,3,0
+2025-07,CMP-07,Newbury Logistics,newburylogistics.com,1496,5,0
+2025-07,CMP-07,Hollister Therapeutics,hollistertx.com,1060,6,0
+2025-07,CMP-07,Quillon Retail,quillonretail.com,1362,6,0
+2025-07,CMP-07,Brackenridge Freight,brackenridgefreight.com,1017,2,0
+2025-07,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1359,2,0
+2025-07,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,134,4,0
+2025-07,CMP-07,Fairhaven Bank,fairhavenbank.com,104,4,0
+2025-07,CMP-07,Foxhall Asset Management,foxhallam.com,1166,4,0
+2025-07,CMP-07,Moorland Investments,moorlandinvest.com,1385,3,0
+2025-07,CMP-07,Blackthorn Insurance,blackthornins.com,92,6,0
+2025-07,CMP-07,Bexley Retail,bexleyretail.com,71,4,0
+2025-07,CMP-07,Holloway Bank,hollowaybank.com,103,3,1
+2025-07,CMP-07,Halverston Systems,halverstonsystems.com,719,5,0
+2025-07,CMP-07,Ellery Stores,ellerystores.com,723,4,0
+2025-07,CMP-07,Caldwell Energy,caldwellenergy.com,842,0,0
+2025-07,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,720,5,0
+2025-07,CMP-07,Stelmere Mutual,stelmeremutual.com,608,4,0
+2025-07,CMP-07,Islington Bancorp,islingtonbancorp.com,574,3,0
+2025-07,CMP-07,Elmstead Bank,elmsteadbank.com,1187,1,0
+2025-07,CMP-07,Orlavale Therapeutics,orlavaletx.com,489,5,0
+2025-07,CMP-07,Darby Savings Bank,darbysavings.com,1081,2,0
+2025-07,CMP-07,Brantley Bancorp,brantleybancorp.com,466,4,0
+2025-07,CMP-07,Northcliff Insurance,northcliffins.com,1039,3,0
+2025-07,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1207,5,0
+2025-07,CMP-07,Vandermeer Transport,vandermeertransport.com,746,4,0
+2025-07,CMP-07,Upton Energy,uptonenergy.com,806,5,0
+2025-07,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,382,2,0
+2025-07,CMP-07,Ridgeline Energy,ridgelineenergy.com,1102,2,0
+2025-07,CMP-07,Larkspur Software,larkspursoftware.com,305,1,0
+2025-07,CMP-07,Granite Systems,granitesystems.com,1436,2,0
+2025-07,CMP-07,Wexford Savings Bank,wexfordsavings.com,1558,0,0
+2025-07,CMP-07,Lyndon Manufacturing,lyndonmfg.com,42,2,0
+2025-07,CMP-07,Glenmore Therapeutics,glenmoretx.com,1495,5,0
+2025-07,CMP-07,Hartwell Transport,hartwelltransport.com,1057,5,0
+2025-07,CMP-07,Northam Manufacturing,northammfg.com,1429,3,0
+2025-07,CMP-07,Yewdale Investments,yewdaleinvest.com,273,6,0
+2025-07,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,855,2,0
+2025-07,CMP-07,Crestview Capital,crestviewcapital.com,1219,2,0
+2025-07,CMP-07,Corrowin Medical Center,corrowinmedical.com,1095,0,0
+2025-07,CMP-07,Ashford Medical Center,ashfordmedical.com,1033,3,0
+2025-07,CMP-07,Ogden Asset Management,ogdenam.com,441,4,0
+2025-07,CMP-07,Stonebridge Bank,stonebridgebank.com,1065,4,0
+2025-07,CMP-07,Bluewater Transport,bluewatertransport.com,1108,6,0
+2025-07,CMP-07,Waverly Stores,waverlystores.com,1447,0,0
+2025-07,CMP-07,Jarvis Stores,jarvisstores.com,425,5,0
+2025-07,CMP-07,Westbury Savings Bank,westburysavings.com,775,3,0
+2025-07,CMP-07,Ravenwood Systems,ravenwoodsystems.com,802,0,0
+2025-07,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,900,2,0
+2025-07,CMP-07,Oakmont Freight,oakmontfreight.com,767,5,0
+2025-07,CMP-07,Alder Retail,alderretail.com,1062,5,0
+2025-07,CMP-07,Gresham Bank,greshambank.com,1311,5,0
+2025-07,CMP-07,Yardley Investments,yardleyinvest.com,101,6,0
+2025-07,CMP-07,Canyon Bancorp,canyonbancorp.com,193,2,0
+2025-07,CMP-07,Underhill Logistics,underhilllogistics.com,1367,2,0
+2025-07,CMP-07,Norcliffe Investments,norcliffeinvest.com,1231,2,0
+2025-07,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,885,0,0
+2025-07,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,723,6,0
+2025-07,CMP-07,Hawthorne Systems,hawthornesystems.com,639,0,0
+2025-07,CMP-07,Dunmore Stores,dunmorestores.com,314,4,0
+2025-07,CMP-07,Quarry Biosciences,quarrybio.ca,317,2,0
+2025-07,CMP-07,Quinton Software,quintonsoftware.com,544,4,0
+2025-07,CMP-07,Arden Industries,ardenind.com,272,4,0
+2025-07,CMP-07,Ashby Freight,ashbyfreight.com,700,5,0
+2025-07,CMP-07,Thistle Mutual,thistlemutual.com,588,6,0
+2025-07,CMP-07,Juniper Components,junipercomponents.com,636,1,0
+2025-07,CMP-07,Fernhill Freight,fernhillfreight.com,58,5,0
+2025-07,CMP-07,Parkview Energy,parkviewenergy.com,1489,1,0
+2025-07,CMP-07,Clifton Retail,cliftonretail.com,330,6,0
+2025-07,CMP-07,Eastwick Stores,eastwickstores.com,938,5,0
+2025-07,CMP-07,Oakhurst Stores,oakhurststores.com,1142,5,0
+2025-07,CMP-07,Kestrel Utilities,kestrelutilities.com,293,2,0
+2025-07,CMP-07,Bellhaven Energy,bellhavenenergy.com,560,4,0
+2025-07,CMP-07,Merrow Manufacturing,merrowmfg.com,1068,4,0
+2025-07,CMP-07,Redstone Transport,redstonetransport.com,949,5,0
+2025-07,CMP-07,Northgate Stores,northgatestores.com,754,3,0
+2025-07,CMP-07,Whitmore Power,whitmorepower.com,342,5,0
+2025-07,CMP-07,Orchard Insurance,orchardins.com,1195,4,0
+2025-07,CMP-07,Riverbend Capital,riverbendcapital.com,1424,5,0
+2025-07,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1235,4,0
+2025-07,CMP-07,Gilford Utilities,gilfordutilities.com,83,0,0
+2025-07,CMP-07,Alcott Insurance,alcottins.com,1361,3,0
+2025-07,CMP-07,Rosewood Power,rosewoodpower.com,384,6,0
+2025-07,CMP-07,Driftwood Systems,driftwoodsystems.com,294,6,0
+2025-07,CMP-07,Fenwick Medical Center,fenwickmedical.com,1127,1,0
+2025-07,CMP-07,Briarwood Health,briarwoodhealth.com,611,0,0
+2025-07,CMP-07,Inwood Asset Management,inwoodam.com,1214,3,0
+2025-07,CMP-07,Thornbury Bank,thornburybank.com,1170,0,0
+2025-07,CMP-07,Linden Savings Bank,lindensavings.com,703,1,0
+2025-07,CMP-07,Jorvale Mutual,jorvalemutual.com,1080,5,0
+2025-07,CMP-07,Copperfield Freight,copperfieldfreight.com,1540,1,0
+2025-07,CMP-07,Penrose Brands,penrosebrands.com,592,5,0
+2025-07,CMP-07,Easton Assurance,eastonassurance.com,1253,2,0
+2025-07,CMP-07,Ambergate Systems,ambergatesystems.com,294,5,0
+2025-07,CMP-07,Norwood Bancorp,norwoodbancorp.com,1326,4,0
+2025-07,CMP-07,Ivywood Stores,ivywoodstores.com,167,6,0
+2025-07,CMP-07,Eastbrook Capital,eastbrookcapital.com,1554,5,0
+2025-08,CMP-07,Meridian Health,meridianhealth.com,908,0,0
+2025-08,CMP-07,Meridian Health,meridianhealth.ca,277,4,0
+2025-08,CMP-07,Harborline Insurance,harborlineins.com,1001,4,0
+2025-08,CMP-07,Summit Financial Group,summitfg.com,150,3,0
+2025-08,CMP-07,Newbury Logistics,newburylogistics.com,1490,1,0
+2025-08,CMP-07,Hollister Therapeutics,hollistertx.com,1465,4,0
+2025-08,CMP-07,Quillon Retail,quillonretail.com,843,2,0
+2025-08,CMP-07,Brackenridge Freight,brackenridgefreight.com,672,2,0
+2025-08,CMP-07,Brightwater Manufacturing,brightwatermfg.com,106,6,0
+2025-08,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,91,0,0
+2025-08,CMP-07,Fairhaven Bank,fairhavenbank.com,1503,0,0
+2025-08,CMP-07,Foxhall Asset Management,foxhallam.com,1599,1,0
+2025-08,CMP-07,Moorland Investments,moorlandinvest.com,1307,5,0
+2025-08,CMP-07,Blackthorn Insurance,blackthornins.com,1035,4,0
+2025-08,CMP-07,Bexley Retail,bexleyretail.com,832,0,0
+2025-08,CMP-07,Holloway Bank,hollowaybank.com,644,6,0
+2025-08,CMP-07,Halverston Systems,halverstonsystems.com,1453,0,0
+2025-08,CMP-07,Ellery Stores,ellerystores.com,905,0,0
+2025-08,CMP-07,Caldwell Energy,caldwellenergy.com,174,4,0
+2025-08,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,325,1,0
+2025-08,CMP-07,Stelmere Mutual,stelmeremutual.com,885,2,0
+2025-08,CMP-07,Islington Bancorp,islingtonbancorp.com,1369,3,0
+2025-08,CMP-07,Elmstead Bank,elmsteadbank.com,787,0,0
+2025-08,CMP-07,Orlavale Therapeutics,orlavaletx.com,820,4,0
+2025-08,CMP-07,Darby Savings Bank,darbysavings.com,178,3,0
+2025-08,CMP-07,Brantley Bancorp,brantleybancorp.com,969,4,0
+2025-08,CMP-07,Northcliff Insurance,northcliffins.com,527,1,0
+2025-08,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1419,2,0
+2025-08,CMP-07,Vandermeer Transport,vandermeertransport.com,417,4,0
+2025-08,CMP-07,Upton Energy,uptonenergy.com,523,3,0
+2025-08,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,302,1,0
+2025-08,CMP-07,Ridgeline Energy,ridgelineenergy.com,662,4,0
+2025-08,CMP-07,Larkspur Software,larkspursoftware.com,874,1,0
+2025-08,CMP-07,Granite Systems,granitesystems.com,1425,2,0
+2025-08,CMP-07,Wexford Savings Bank,wexfordsavings.com,1230,0,0
+2025-08,CMP-07,Lyndon Manufacturing,lyndonmfg.com,572,5,0
+2025-08,CMP-07,Glenmore Therapeutics,glenmoretx.com,127,2,0
+2025-08,CMP-07,Hartwell Transport,hartwelltransport.com,171,1,0
+2025-08,CMP-07,Northam Manufacturing,northammfg.com,53,2,0
+2025-08,CMP-07,Yewdale Investments,yewdaleinvest.com,1510,6,0
+2025-08,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,438,2,0
+2025-08,CMP-07,Crestview Capital,crestviewcapital.com,1031,2,0
+2025-08,CMP-07,Corrowin Medical Center,corrowinmedical.com,1075,3,0
+2025-08,CMP-07,Ashford Medical Center,ashfordmedical.com,64,0,0
+2025-08,CMP-07,Ogden Asset Management,ogdenam.com,472,0,0
+2025-08,CMP-07,Stonebridge Bank,stonebridgebank.com,478,4,0
+2025-08,CMP-07,Bluewater Transport,bluewatertransport.com,568,0,0
+2025-08,CMP-07,Waverly Stores,waverlystores.com,144,2,0
+2025-08,CMP-07,Jarvis Stores,jarvisstores.com,84,3,0
+2025-08,CMP-07,Westbury Savings Bank,westburysavings.com,1318,3,0
+2025-08,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1383,5,0
+2025-08,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,986,3,0
+2025-08,CMP-07,Oakmont Freight,oakmontfreight.com,435,4,0
+2025-08,CMP-07,Alder Retail,alderretail.com,1366,1,0
+2025-08,CMP-07,Gresham Bank,greshambank.com,1572,5,0
+2025-08,CMP-07,Yardley Investments,yardleyinvest.com,1185,3,0
+2025-08,CMP-07,Canyon Bancorp,canyonbancorp.com,1298,5,0
+2025-08,CMP-07,Underhill Logistics,underhilllogistics.com,367,1,0
+2025-08,CMP-07,Norcliffe Investments,norcliffeinvest.com,99,5,0
+2025-08,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,902,6,0
+2025-08,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,114,2,0
+2025-08,CMP-07,Hawthorne Systems,hawthornesystems.com,419,2,0
+2025-08,CMP-07,Dunmore Stores,dunmorestores.com,691,2,0
+2025-08,CMP-07,Quarry Biosciences,quarrybio.ca,731,6,0
+2025-08,CMP-07,Quinton Software,quintonsoftware.com,1182,0,0
+2025-08,CMP-07,Arden Industries,ardenind.com,854,5,0
+2025-08,CMP-07,Ashby Freight,ashbyfreight.com,446,1,0
+2025-08,CMP-07,Thistle Mutual,thistlemutual.com,1309,1,0
+2025-08,CMP-07,Juniper Components,junipercomponents.com,418,1,0
+2025-08,CMP-07,Fernhill Freight,fernhillfreight.com,1460,6,0
+2025-08,CMP-07,Parkview Energy,parkviewenergy.com,1258,5,0
+2025-08,CMP-07,Clifton Retail,cliftonretail.com,553,2,0
+2025-08,CMP-07,Eastwick Stores,eastwickstores.com,618,2,0
+2025-08,CMP-07,Oakhurst Stores,oakhurststores.com,1153,2,0
+2025-08,CMP-07,Kestrel Utilities,kestrelutilities.com,88,0,0
+2025-08,CMP-07,Bellhaven Energy,bellhavenenergy.com,692,4,0
+2025-08,CMP-07,Merrow Manufacturing,merrowmfg.com,588,2,0
+2025-08,CMP-07,Redstone Transport,redstonetransport.com,142,2,0
+2025-08,CMP-07,Northgate Stores,northgatestores.com,720,5,0
+2025-08,CMP-07,Whitmore Power,whitmorepower.com,1594,6,0
+2025-08,CMP-07,Orchard Insurance,orchardins.com,229,6,0
+2025-08,CMP-07,Riverbend Capital,riverbendcapital.com,1228,5,0
+2025-08,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,925,2,0
+2025-08,CMP-07,Gilford Utilities,gilfordutilities.com,1291,0,0
+2025-08,CMP-07,Alcott Insurance,alcottins.com,119,0,0
+2025-08,CMP-07,Rosewood Power,rosewoodpower.com,910,5,0
+2025-08,CMP-07,Driftwood Systems,driftwoodsystems.com,906,3,0
+2025-08,CMP-07,Fenwick Medical Center,fenwickmedical.com,308,3,0
+2025-08,CMP-07,Briarwood Health,briarwoodhealth.com,1536,4,0
+2025-08,CMP-07,Inwood Asset Management,inwoodam.com,1095,6,0
+2025-08,CMP-07,Thornbury Bank,thornburybank.com,797,0,0
+2025-08,CMP-07,Linden Savings Bank,lindensavings.com,1045,2,0
+2025-08,CMP-07,Jorvale Mutual,jorvalemutual.com,931,1,0
+2025-08,CMP-07,Copperfield Freight,copperfieldfreight.com,750,0,0
+2025-08,CMP-07,Penrose Brands,penrosebrands.com,688,5,0
+2025-08,CMP-07,Easton Assurance,eastonassurance.com,1488,4,0
+2025-08,CMP-07,Ambergate Systems,ambergatesystems.com,1306,3,0
+2025-08,CMP-07,Norwood Bancorp,norwoodbancorp.com,1326,5,0
+2025-08,CMP-07,Ivywood Stores,ivywoodstores.com,1505,1,0
+2025-08,CMP-07,Eastbrook Capital,eastbrookcapital.com,1004,4,0
+2025-09,CMP-07,Meridian Health,meridianhealth.com,1146,6,0
+2025-09,CMP-07,Meridian Health,meridianhealth.ca,1139,4,0
+2025-09,CMP-07,Harborline Insurance,harborlineins.com,1357,3,0
+2025-09,CMP-07,Summit Financial Group,summitfg.com,357,6,0
+2025-09,CMP-07,Newbury Logistics,newburylogistics.com,291,3,0
+2025-09,CMP-07,Hollister Therapeutics,hollistertx.com,334,3,0
+2025-09,CMP-07,Quillon Retail,quillonretail.com,173,3,0
+2025-09,CMP-07,Brackenridge Freight,brackenridgefreight.com,305,3,0
+2025-09,CMP-07,Brightwater Manufacturing,brightwatermfg.com,973,6,0
+2025-09,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,1461,6,0
+2025-09,CMP-07,Fairhaven Bank,fairhavenbank.com,244,6,0
+2025-09,CMP-07,Foxhall Asset Management,foxhallam.com,867,3,0
+2025-09,CMP-07,Moorland Investments,moorlandinvest.com,1565,5,0
+2025-09,CMP-07,Blackthorn Insurance,blackthornins.com,718,5,0
+2025-09,CMP-07,Bexley Retail,bexleyretail.com,979,5,0
+2025-09,CMP-07,Holloway Bank,hollowaybank.com,200,1,0
+2025-09,CMP-07,Halverston Systems,halverstonsystems.com,942,3,0
+2025-09,CMP-07,Ellery Stores,ellerystores.com,287,6,0
+2025-09,CMP-07,Caldwell Energy,caldwellenergy.com,1345,6,0
+2025-09,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1549,2,0
+2025-09,CMP-07,Stelmere Mutual,stelmeremutual.com,1364,5,0
+2025-09,CMP-07,Islington Bancorp,islingtonbancorp.com,215,3,0
+2025-09,CMP-07,Elmstead Bank,elmsteadbank.com,556,6,0
+2025-09,CMP-07,Orlavale Therapeutics,orlavaletx.com,979,2,0
+2025-09,CMP-07,Darby Savings Bank,darbysavings.com,472,3,0
+2025-09,CMP-07,Brantley Bancorp,brantleybancorp.com,642,1,0
+2025-09,CMP-07,Northcliff Insurance,northcliffins.com,1469,1,0
+2025-09,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1006,3,0
+2025-09,CMP-07,Vandermeer Transport,vandermeertransport.com,671,3,0
+2025-09,CMP-07,Upton Energy,uptonenergy.com,887,1,0
+2025-09,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,853,0,0
+2025-09,CMP-07,Ridgeline Energy,ridgelineenergy.com,1121,0,0
+2025-09,CMP-07,Larkspur Software,larkspursoftware.com,1205,4,0
+2025-09,CMP-07,Granite Systems,granitesystems.com,854,3,0
+2025-09,CMP-07,Wexford Savings Bank,wexfordsavings.com,1236,1,0
+2025-09,CMP-07,Lyndon Manufacturing,lyndonmfg.com,96,1,0
+2025-09,CMP-07,Glenmore Therapeutics,glenmoretx.com,388,2,0
+2025-09,CMP-07,Hartwell Transport,hartwelltransport.com,986,3,0
+2025-09,CMP-07,Northam Manufacturing,northammfg.com,1511,0,0
+2025-09,CMP-07,Yewdale Investments,yewdaleinvest.com,1403,6,0
+2025-09,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,645,5,0
+2025-09,CMP-07,Crestview Capital,crestviewcapital.com,386,6,0
+2025-09,CMP-07,Corrowin Medical Center,corrowinmedical.com,796,2,0
+2025-09,CMP-07,Ashford Medical Center,ashfordmedical.com,330,2,0
+2025-09,CMP-07,Ogden Asset Management,ogdenam.com,1188,3,0
+2025-09,CMP-07,Stonebridge Bank,stonebridgebank.com,852,1,0
+2025-09,CMP-07,Bluewater Transport,bluewatertransport.com,1458,5,0
+2025-09,CMP-07,Waverly Stores,waverlystores.com,1482,4,0
+2025-09,CMP-07,Jarvis Stores,jarvisstores.com,1400,2,0
+2025-09,CMP-07,Westbury Savings Bank,westburysavings.com,669,1,0
+2025-09,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1044,4,0
+2025-09,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,286,4,0
+2025-09,CMP-07,Oakmont Freight,oakmontfreight.com,673,5,0
+2025-09,CMP-07,Alder Retail,alderretail.com,1571,6,0
+2025-09,CMP-07,Gresham Bank,greshambank.com,1001,1,0
+2025-09,CMP-07,Yardley Investments,yardleyinvest.com,911,1,0
+2025-09,CMP-07,Canyon Bancorp,canyonbancorp.com,1146,0,0
+2025-09,CMP-07,Underhill Logistics,underhilllogistics.com,127,5,0
+2025-09,CMP-07,Norcliffe Investments,norcliffeinvest.com,678,3,0
+2025-09,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,714,3,0
+2025-09,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1598,1,0
+2025-09,CMP-07,Hawthorne Systems,hawthornesystems.com,1577,1,0
+2025-09,CMP-07,Dunmore Stores,dunmorestores.com,1484,3,0
+2025-09,CMP-07,Quarry Biosciences,quarrybio.ca,1108,5,0
+2025-09,CMP-07,Quinton Software,quintonsoftware.com,837,1,0
+2025-09,CMP-07,Arden Industries,ardenind.com,646,1,0
+2025-09,CMP-07,Ashby Freight,ashbyfreight.com,335,0,0
+2025-09,CMP-07,Thistle Mutual,thistlemutual.com,588,5,0
+2025-09,CMP-07,Juniper Components,junipercomponents.com,704,5,0
+2025-09,CMP-07,Fernhill Freight,fernhillfreight.com,105,6,0
+2025-09,CMP-07,Parkview Energy,parkviewenergy.com,448,5,0
+2025-09,CMP-07,Clifton Retail,cliftonretail.com,1592,1,0
+2025-09,CMP-07,Eastwick Stores,eastwickstores.com,836,1,0
+2025-09,CMP-07,Oakhurst Stores,oakhurststores.com,1089,0,0
+2025-09,CMP-07,Kestrel Utilities,kestrelutilities.com,1185,0,0
+2025-09,CMP-07,Bellhaven Energy,bellhavenenergy.com,573,1,0
+2025-09,CMP-07,Merrow Manufacturing,merrowmfg.com,927,3,0
+2025-09,CMP-07,Redstone Transport,redstonetransport.com,802,3,0
+2025-09,CMP-07,Northgate Stores,northgatestores.com,1412,2,0
+2025-09,CMP-07,Whitmore Power,whitmorepower.com,692,3,0
+2025-09,CMP-07,Orchard Insurance,orchardins.com,768,5,0
+2025-09,CMP-07,Riverbend Capital,riverbendcapital.com,1273,6,0
+2025-09,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1360,3,0
+2025-09,CMP-07,Gilford Utilities,gilfordutilities.com,317,5,0
+2025-09,CMP-07,Alcott Insurance,alcottins.com,288,4,0
+2025-09,CMP-07,Rosewood Power,rosewoodpower.com,1149,3,0
+2025-09,CMP-07,Driftwood Systems,driftwoodsystems.com,189,5,0
+2025-09,CMP-07,Fenwick Medical Center,fenwickmedical.com,1001,3,0
+2025-09,CMP-07,Briarwood Health,briarwoodhealth.com,363,3,0
+2025-09,CMP-07,Inwood Asset Management,inwoodam.com,1393,4,0
+2025-09,CMP-07,Thornbury Bank,thornburybank.com,1120,0,0
+2025-09,CMP-07,Linden Savings Bank,lindensavings.com,657,6,0
+2025-09,CMP-07,Jorvale Mutual,jorvalemutual.com,1240,5,0
+2025-09,CMP-07,Copperfield Freight,copperfieldfreight.com,1033,6,0
+2025-09,CMP-07,Penrose Brands,penrosebrands.com,656,6,0
+2025-09,CMP-07,Easton Assurance,eastonassurance.com,619,6,0
+2025-09,CMP-07,Ambergate Systems,ambergatesystems.com,1196,0,0
+2025-09,CMP-07,Norwood Bancorp,norwoodbancorp.com,567,5,0
+2025-09,CMP-07,Ivywood Stores,ivywoodstores.com,1506,5,0
+2025-09,CMP-07,Eastbrook Capital,eastbrookcapital.com,1165,1,0
+2025-10,CMP-07,Meridian Health,meridianhealth.com,305,6,0
+2025-10,CMP-07,Meridian Health,meridianhealth.ca,279,2,0
+2025-10,CMP-07,Harborline Insurance,harborlineins.com,1121,4,0
+2025-10,CMP-07,Summit Financial Group,summitfg.com,793,5,0
+2025-10,CMP-07,Newbury Logistics,newburylogistics.com,1084,0,0
+2025-10,CMP-07,Hollister Therapeutics,hollistertx.com,1089,1,0
+2025-10,CMP-07,Quillon Retail,quillonretail.com,447,5,0
+2025-10,CMP-07,Brackenridge Freight,brackenridgefreight.com,1263,0,0
+2025-10,CMP-07,Brightwater Manufacturing,brightwatermfg.com,796,4,0
+2025-10,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,797,4,0
+2025-10,CMP-07,Fairhaven Bank,fairhavenbank.com,588,1,0
+2025-10,CMP-07,Foxhall Asset Management,foxhallam.com,813,6,0
+2025-10,CMP-07,Moorland Investments,moorlandinvest.com,569,2,0
+2025-10,CMP-07,Blackthorn Insurance,blackthornins.com,1180,2,0
+2025-10,CMP-07,Bexley Retail,bexleyretail.com,1580,3,0
+2025-10,CMP-07,Holloway Bank,hollowaybank.com,1351,6,0
+2025-10,CMP-07,Halverston Systems,halverstonsystems.com,781,5,0
+2025-10,CMP-07,Ellery Stores,ellerystores.com,536,2,0
+2025-10,CMP-07,Caldwell Energy,caldwellenergy.com,1398,2,0
+2025-10,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1398,3,0
+2025-10,CMP-07,Stelmere Mutual,stelmeremutual.com,410,5,0
+2025-10,CMP-07,Islington Bancorp,islingtonbancorp.com,1514,4,0
+2025-10,CMP-07,Elmstead Bank,elmsteadbank.com,626,3,0
+2025-10,CMP-07,Orlavale Therapeutics,orlavaletx.com,1574,3,0
+2025-10,CMP-07,Darby Savings Bank,darbysavings.com,976,1,0
+2025-10,CMP-07,Brantley Bancorp,brantleybancorp.com,116,5,0
+2025-10,CMP-07,Northcliff Insurance,northcliffins.com,464,3,0
+2025-10,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,721,4,0
+2025-10,CMP-07,Vandermeer Transport,vandermeertransport.com,1432,3,0
+2025-10,CMP-07,Upton Energy,uptonenergy.com,1155,0,0
+2025-10,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,224,4,0
+2025-10,CMP-07,Ridgeline Energy,ridgelineenergy.com,1538,2,0
+2025-10,CMP-07,Larkspur Software,larkspursoftware.com,811,0,0
+2025-10,CMP-07,Granite Systems,granitesystems.com,88,2,0
+2025-10,CMP-07,Wexford Savings Bank,wexfordsavings.com,321,0,0
+2025-10,CMP-07,Lyndon Manufacturing,lyndonmfg.com,933,5,0
+2025-10,CMP-07,Glenmore Therapeutics,glenmoretx.com,1577,1,0
+2025-10,CMP-07,Hartwell Transport,hartwelltransport.com,42,5,0
+2025-10,CMP-07,Northam Manufacturing,northammfg.com,471,0,0
+2025-10,CMP-07,Yewdale Investments,yewdaleinvest.com,1055,5,0
+2025-10,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,600,1,0
+2025-10,CMP-07,Crestview Capital,crestviewcapital.com,1303,6,0
+2025-10,CMP-07,Corrowin Medical Center,corrowinmedical.com,805,1,0
+2025-10,CMP-07,Ashford Medical Center,ashfordmedical.com,1011,6,0
+2025-10,CMP-07,Ogden Asset Management,ogdenam.com,575,6,0
+2025-10,CMP-07,Stonebridge Bank,stonebridgebank.com,667,5,1
+2025-10,CMP-07,Bluewater Transport,bluewatertransport.com,577,4,0
+2025-10,CMP-07,Waverly Stores,waverlystores.com,767,2,0
+2025-10,CMP-07,Jarvis Stores,jarvisstores.com,1570,2,0
+2025-10,CMP-07,Westbury Savings Bank,westburysavings.com,461,1,0
+2025-10,CMP-07,Ravenwood Systems,ravenwoodsystems.com,437,3,0
+2025-10,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,82,1,0
+2025-10,CMP-07,Oakmont Freight,oakmontfreight.com,645,5,0
+2025-10,CMP-07,Alder Retail,alderretail.com,1065,0,0
+2025-10,CMP-07,Gresham Bank,greshambank.com,719,0,0
+2025-10,CMP-07,Yardley Investments,yardleyinvest.com,739,0,0
+2025-10,CMP-07,Canyon Bancorp,canyonbancorp.com,1355,4,0
+2025-10,CMP-07,Underhill Logistics,underhilllogistics.com,1236,4,0
+2025-10,CMP-07,Norcliffe Investments,norcliffeinvest.com,150,4,0
+2025-10,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1528,6,0
+2025-10,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,298,1,0
+2025-10,CMP-07,Hawthorne Systems,hawthornesystems.com,316,6,0
+2025-10,CMP-07,Dunmore Stores,dunmorestores.com,763,0,0
+2025-10,CMP-07,Quarry Biosciences,quarrybio.ca,898,4,0
+2025-10,CMP-07,Quinton Software,quintonsoftware.com,708,0,0
+2025-10,CMP-07,Arden Industries,ardenind.com,1405,3,0
+2025-10,CMP-07,Ashby Freight,ashbyfreight.com,112,3,0
+2025-10,CMP-07,Thistle Mutual,thistlemutual.com,1343,6,0
+2025-10,CMP-07,Juniper Components,junipercomponents.com,616,2,0
+2025-10,CMP-07,Fernhill Freight,fernhillfreight.com,1377,4,0
+2025-10,CMP-07,Parkview Energy,parkviewenergy.com,619,2,0
+2025-10,CMP-07,Clifton Retail,cliftonretail.com,620,2,0
+2025-10,CMP-07,Eastwick Stores,eastwickstores.com,954,4,0
+2025-10,CMP-07,Oakhurst Stores,oakhurststores.com,1160,2,0
+2025-10,CMP-07,Kestrel Utilities,kestrelutilities.com,982,5,0
+2025-10,CMP-07,Bellhaven Energy,bellhavenenergy.com,1296,5,0
+2025-10,CMP-07,Merrow Manufacturing,merrowmfg.com,1422,6,0
+2025-10,CMP-07,Redstone Transport,redstonetransport.com,162,1,0
+2025-10,CMP-07,Northgate Stores,northgatestores.com,545,4,0
+2025-10,CMP-07,Whitmore Power,whitmorepower.com,224,4,0
+2025-10,CMP-07,Orchard Insurance,orchardins.com,675,4,0
+2025-10,CMP-07,Riverbend Capital,riverbendcapital.com,1470,5,0
+2025-10,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,729,5,0
+2025-10,CMP-07,Gilford Utilities,gilfordutilities.com,1086,2,0
+2025-10,CMP-07,Alcott Insurance,alcottins.com,1519,0,0
+2025-10,CMP-07,Rosewood Power,rosewoodpower.com,1308,0,0
+2025-10,CMP-07,Driftwood Systems,driftwoodsystems.com,567,3,0
+2025-10,CMP-07,Fenwick Medical Center,fenwickmedical.com,521,5,0
+2025-10,CMP-07,Briarwood Health,briarwoodhealth.com,334,6,0
+2025-10,CMP-07,Inwood Asset Management,inwoodam.com,1141,0,0
+2025-10,CMP-07,Thornbury Bank,thornburybank.com,462,6,0
+2025-10,CMP-07,Linden Savings Bank,lindensavings.com,991,2,0
+2025-10,CMP-07,Jorvale Mutual,jorvalemutual.com,316,5,0
+2025-10,CMP-07,Copperfield Freight,copperfieldfreight.com,693,5,0
+2025-10,CMP-07,Penrose Brands,penrosebrands.com,98,1,0
+2025-10,CMP-07,Easton Assurance,eastonassurance.com,474,5,0
+2025-10,CMP-07,Ambergate Systems,ambergatesystems.com,988,3,0
+2025-10,CMP-07,Norwood Bancorp,norwoodbancorp.com,603,4,0
+2025-10,CMP-07,Ivywood Stores,ivywoodstores.com,629,2,0
+2025-10,CMP-07,Eastbrook Capital,eastbrookcapital.com,1120,0,0
+2025-11,CMP-07,Meridian Health,meridianhealth.com,61,6,0
+2025-11,CMP-07,Meridian Health,meridianhealth.ca,996,0,0
+2025-11,CMP-07,Harborline Insurance,harborlineins.com,57,6,0
+2025-11,CMP-07,Summit Financial Group,summitfg.com,887,6,0
+2025-11,CMP-07,Newbury Logistics,newburylogistics.com,543,3,0
+2025-11,CMP-07,Hollister Therapeutics,hollistertx.com,474,5,0
+2025-11,CMP-07,Quillon Retail,quillonretail.com,842,2,0
+2025-11,CMP-07,Brackenridge Freight,brackenridgefreight.com,1350,3,0
+2025-11,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1402,2,0
+2025-11,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,196,5,0
+2025-11,CMP-07,Fairhaven Bank,fairhavenbank.com,1393,3,0
+2025-11,CMP-07,Foxhall Asset Management,foxhallam.com,924,6,0
+2025-11,CMP-07,Moorland Investments,moorlandinvest.com,1439,2,0
+2025-11,CMP-07,Blackthorn Insurance,blackthornins.com,1336,2,0
+2025-11,CMP-07,Bexley Retail,bexleyretail.com,876,5,0
+2025-11,CMP-07,Holloway Bank,hollowaybank.com,1293,3,0
+2025-11,CMP-07,Halverston Systems,halverstonsystems.com,389,6,0
+2025-11,CMP-07,Ellery Stores,ellerystores.com,964,1,0
+2025-11,CMP-07,Caldwell Energy,caldwellenergy.com,347,6,0
+2025-11,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,176,1,0
+2025-11,CMP-07,Stelmere Mutual,stelmeremutual.com,322,1,1
+2025-11,CMP-07,Islington Bancorp,islingtonbancorp.com,1342,6,0
+2025-11,CMP-07,Elmstead Bank,elmsteadbank.com,1581,6,0
+2025-11,CMP-07,Orlavale Therapeutics,orlavaletx.com,1132,5,0
+2025-11,CMP-07,Darby Savings Bank,darbysavings.com,1093,6,0
+2025-11,CMP-07,Brantley Bancorp,brantleybancorp.com,516,3,0
+2025-11,CMP-07,Northcliff Insurance,northcliffins.com,1258,4,0
+2025-11,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,721,1,0
+2025-11,CMP-07,Vandermeer Transport,vandermeertransport.com,330,4,0
+2025-11,CMP-07,Upton Energy,uptonenergy.com,371,5,0
+2025-11,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,1374,1,0
+2025-11,CMP-07,Ridgeline Energy,ridgelineenergy.com,1591,4,0
+2025-11,CMP-07,Larkspur Software,larkspursoftware.com,613,5,0
+2025-11,CMP-07,Granite Systems,granitesystems.com,326,0,0
+2025-11,CMP-07,Wexford Savings Bank,wexfordsavings.com,704,0,0
+2025-11,CMP-07,Lyndon Manufacturing,lyndonmfg.com,100,0,0
+2025-11,CMP-07,Glenmore Therapeutics,glenmoretx.com,48,0,0
+2025-11,CMP-07,Hartwell Transport,hartwelltransport.com,210,4,0
+2025-11,CMP-07,Northam Manufacturing,northammfg.com,283,2,0
+2025-11,CMP-07,Yewdale Investments,yewdaleinvest.com,1223,6,0
+2025-11,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,69,0,0
+2025-11,CMP-07,Crestview Capital,crestviewcapital.com,373,4,0
+2025-11,CMP-07,Corrowin Medical Center,corrowinmedical.com,510,4,0
+2025-11,CMP-07,Ashford Medical Center,ashfordmedical.com,1042,6,0
+2025-11,CMP-07,Ogden Asset Management,ogdenam.com,447,6,0
+2025-11,CMP-07,Stonebridge Bank,stonebridgebank.com,331,5,0
+2025-11,CMP-07,Bluewater Transport,bluewatertransport.com,190,1,0
+2025-11,CMP-07,Waverly Stores,waverlystores.com,522,4,1
+2025-11,CMP-07,Jarvis Stores,jarvisstores.com,767,6,0
+2025-11,CMP-07,Westbury Savings Bank,westburysavings.com,105,1,0
+2025-11,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1295,4,0
+2025-11,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,787,2,0
+2025-11,CMP-07,Oakmont Freight,oakmontfreight.com,1565,4,0
+2025-11,CMP-07,Alder Retail,alderretail.com,504,2,0
+2025-11,CMP-07,Gresham Bank,greshambank.com,841,6,0
+2025-11,CMP-07,Yardley Investments,yardleyinvest.com,1186,3,0
+2025-11,CMP-07,Canyon Bancorp,canyonbancorp.com,957,1,0
+2025-11,CMP-07,Underhill Logistics,underhilllogistics.com,977,2,0
+2025-11,CMP-07,Norcliffe Investments,norcliffeinvest.com,1567,2,0
+2025-11,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,932,0,0
+2025-11,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1321,3,0
+2025-11,CMP-07,Hawthorne Systems,hawthornesystems.com,1225,2,0
+2025-11,CMP-07,Dunmore Stores,dunmorestores.com,786,5,0
+2025-11,CMP-07,Quarry Biosciences,quarrybio.ca,360,3,0
+2025-11,CMP-07,Quinton Software,quintonsoftware.com,1330,0,0
+2025-11,CMP-07,Arden Industries,ardenind.com,188,1,0
+2025-11,CMP-07,Ashby Freight,ashbyfreight.com,726,2,1
+2025-11,CMP-07,Thistle Mutual,thistlemutual.com,1344,5,0
+2025-11,CMP-07,Juniper Components,junipercomponents.com,1563,1,0
+2025-11,CMP-07,Fernhill Freight,fernhillfreight.com,324,3,0
+2025-11,CMP-07,Parkview Energy,parkviewenergy.com,771,3,0
+2025-11,CMP-07,Clifton Retail,cliftonretail.com,293,0,0
+2025-11,CMP-07,Eastwick Stores,eastwickstores.com,312,1,0
+2025-11,CMP-07,Oakhurst Stores,oakhurststores.com,77,1,0
+2025-11,CMP-07,Kestrel Utilities,kestrelutilities.com,485,1,0
+2025-11,CMP-07,Bellhaven Energy,bellhavenenergy.com,522,0,0
+2025-11,CMP-07,Merrow Manufacturing,merrowmfg.com,1118,1,0
+2025-11,CMP-07,Redstone Transport,redstonetransport.com,280,2,1
+2025-11,CMP-07,Northgate Stores,northgatestores.com,441,6,0
+2025-11,CMP-07,Whitmore Power,whitmorepower.com,603,3,0
+2025-11,CMP-07,Orchard Insurance,orchardins.com,845,5,0
+2025-11,CMP-07,Riverbend Capital,riverbendcapital.com,844,6,0
+2025-11,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1130,3,0
+2025-11,CMP-07,Gilford Utilities,gilfordutilities.com,1220,4,0
+2025-11,CMP-07,Alcott Insurance,alcottins.com,96,6,0
+2025-11,CMP-07,Rosewood Power,rosewoodpower.com,758,4,0
+2025-11,CMP-07,Driftwood Systems,driftwoodsystems.com,891,5,0
+2025-11,CMP-07,Fenwick Medical Center,fenwickmedical.com,1226,1,1
+2025-11,CMP-07,Briarwood Health,briarwoodhealth.com,928,1,0
+2025-11,CMP-07,Inwood Asset Management,inwoodam.com,324,5,0
+2025-11,CMP-07,Thornbury Bank,thornburybank.com,492,1,0
+2025-11,CMP-07,Linden Savings Bank,lindensavings.com,1398,1,0
+2025-11,CMP-07,Jorvale Mutual,jorvalemutual.com,1594,2,0
+2025-11,CMP-07,Copperfield Freight,copperfieldfreight.com,69,0,0
+2025-11,CMP-07,Penrose Brands,penrosebrands.com,772,2,0
+2025-11,CMP-07,Easton Assurance,eastonassurance.com,1413,1,0
+2025-11,CMP-07,Ambergate Systems,ambergatesystems.com,1267,4,0
+2025-11,CMP-07,Norwood Bancorp,norwoodbancorp.com,923,1,0
+2025-11,CMP-07,Ivywood Stores,ivywoodstores.com,654,2,0
+2025-11,CMP-07,Eastbrook Capital,eastbrookcapital.com,1428,2,0
+2025-12,CMP-07,Meridian Health,meridianhealth.com,422,5,0
+2025-12,CMP-07,Meridian Health,meridianhealth.ca,1159,2,0
+2025-12,CMP-07,Harborline Insurance,harborlineins.com,96,5,0
+2025-12,CMP-07,Summit Financial Group,summitfg.com,109,1,0
+2025-12,CMP-07,Newbury Logistics,newburylogistics.com,190,1,0
+2025-12,CMP-07,Hollister Therapeutics,hollistertx.com,1185,2,0
+2025-12,CMP-07,Quillon Retail,quillonretail.com,845,5,0
+2025-12,CMP-07,Brackenridge Freight,brackenridgefreight.com,853,4,0
+2025-12,CMP-07,Brightwater Manufacturing,brightwatermfg.com,673,0,0
+2025-12,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,262,1,0
+2025-12,CMP-07,Fairhaven Bank,fairhavenbank.com,365,0,0
+2025-12,CMP-07,Foxhall Asset Management,foxhallam.com,1469,4,0
+2025-12,CMP-07,Moorland Investments,moorlandinvest.com,1361,0,0
+2025-12,CMP-07,Blackthorn Insurance,blackthornins.com,1027,1,0
+2025-12,CMP-07,Bexley Retail,bexleyretail.com,607,2,0
+2025-12,CMP-07,Holloway Bank,hollowaybank.com,71,0,0
+2025-12,CMP-07,Halverston Systems,halverstonsystems.com,745,2,0
+2025-12,CMP-07,Ellery Stores,ellerystores.com,1305,5,0
+2025-12,CMP-07,Caldwell Energy,caldwellenergy.com,1307,0,0
+2025-12,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1536,5,0
+2025-12,CMP-07,Stelmere Mutual,stelmeremutual.com,177,6,0
+2025-12,CMP-07,Islington Bancorp,islingtonbancorp.com,88,3,0
+2025-12,CMP-07,Elmstead Bank,elmsteadbank.com,666,3,0
+2025-12,CMP-07,Orlavale Therapeutics,orlavaletx.com,220,2,0
+2025-12,CMP-07,Darby Savings Bank,darbysavings.com,1036,4,0
+2025-12,CMP-07,Brantley Bancorp,brantleybancorp.com,737,4,0
+2025-12,CMP-07,Northcliff Insurance,northcliffins.com,259,0,0
+2025-12,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,938,5,0
+2025-12,CMP-07,Vandermeer Transport,vandermeertransport.com,1157,1,0
+2025-12,CMP-07,Upton Energy,uptonenergy.com,1041,5,0
+2025-12,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,44,3,0
+2025-12,CMP-07,Ridgeline Energy,ridgelineenergy.com,1347,0,0
+2025-12,CMP-07,Larkspur Software,larkspursoftware.com,165,1,0
+2025-12,CMP-07,Granite Systems,granitesystems.com,701,2,0
+2025-12,CMP-07,Wexford Savings Bank,wexfordsavings.com,1119,5,0
+2025-12,CMP-07,Lyndon Manufacturing,lyndonmfg.com,398,5,0
+2025-12,CMP-07,Glenmore Therapeutics,glenmoretx.com,724,5,1
+2025-12,CMP-07,Hartwell Transport,hartwelltransport.com,1165,6,0
+2025-12,CMP-07,Northam Manufacturing,northammfg.com,1571,3,0
+2025-12,CMP-07,Yewdale Investments,yewdaleinvest.com,1437,0,0
+2025-12,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,918,6,0
+2025-12,CMP-07,Crestview Capital,crestviewcapital.com,302,5,0
+2025-12,CMP-07,Corrowin Medical Center,corrowinmedical.com,1522,5,0
+2025-12,CMP-07,Ashford Medical Center,ashfordmedical.com,1119,3,0
+2025-12,CMP-07,Ogden Asset Management,ogdenam.com,909,3,0
+2025-12,CMP-07,Stonebridge Bank,stonebridgebank.com,710,2,0
+2025-12,CMP-07,Bluewater Transport,bluewatertransport.com,46,0,0
+2025-12,CMP-07,Waverly Stores,waverlystores.com,277,4,0
+2025-12,CMP-07,Jarvis Stores,jarvisstores.com,125,1,0
+2025-12,CMP-07,Westbury Savings Bank,westburysavings.com,1465,5,0
+2025-12,CMP-07,Ravenwood Systems,ravenwoodsystems.com,882,2,0
+2025-12,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,676,6,0
+2025-12,CMP-07,Oakmont Freight,oakmontfreight.com,1503,0,0
+2025-12,CMP-07,Alder Retail,alderretail.com,1093,6,0
+2025-12,CMP-07,Gresham Bank,greshambank.com,1259,5,0
+2025-12,CMP-07,Yardley Investments,yardleyinvest.com,1530,0,0
+2025-12,CMP-07,Canyon Bancorp,canyonbancorp.com,330,2,0
+2025-12,CMP-07,Underhill Logistics,underhilllogistics.com,870,1,0
+2025-12,CMP-07,Norcliffe Investments,norcliffeinvest.com,617,5,0
+2025-12,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,931,2,0
+2025-12,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1136,4,0
+2025-12,CMP-07,Hawthorne Systems,hawthornesystems.com,133,4,0
+2025-12,CMP-07,Dunmore Stores,dunmorestores.com,1050,4,0
+2025-12,CMP-07,Quarry Biosciences,quarrybio.ca,665,2,0
+2025-12,CMP-07,Quinton Software,quintonsoftware.com,1043,0,0
+2025-12,CMP-07,Arden Industries,ardenind.com,1314,3,0
+2025-12,CMP-07,Ashby Freight,ashbyfreight.com,533,6,0
+2025-12,CMP-07,Thistle Mutual,thistlemutual.com,735,3,0
+2025-12,CMP-07,Juniper Components,junipercomponents.com,1252,6,0
+2025-12,CMP-07,Fernhill Freight,fernhillfreight.com,1202,2,0
+2025-12,CMP-07,Parkview Energy,parkviewenergy.com,1176,0,1
+2025-12,CMP-07,Clifton Retail,cliftonretail.com,1502,1,0
+2025-12,CMP-07,Eastwick Stores,eastwickstores.com,1228,1,0
+2025-12,CMP-07,Oakhurst Stores,oakhurststores.com,1582,3,0
+2025-12,CMP-07,Kestrel Utilities,kestrelutilities.com,274,5,0
+2025-12,CMP-07,Bellhaven Energy,bellhavenenergy.com,1536,6,0
+2025-12,CMP-07,Merrow Manufacturing,merrowmfg.com,1531,4,0
+2025-12,CMP-07,Redstone Transport,redstonetransport.com,270,6,0
+2025-12,CMP-07,Northgate Stores,northgatestores.com,1230,2,0
+2025-12,CMP-07,Whitmore Power,whitmorepower.com,747,0,0
+2025-12,CMP-07,Orchard Insurance,orchardins.com,1243,5,0
+2025-12,CMP-07,Riverbend Capital,riverbendcapital.com,470,1,0
+2025-12,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1485,2,0
+2025-12,CMP-07,Gilford Utilities,gilfordutilities.com,66,0,0
+2025-12,CMP-07,Alcott Insurance,alcottins.com,976,2,0
+2025-12,CMP-07,Rosewood Power,rosewoodpower.com,1516,1,0
+2025-12,CMP-07,Driftwood Systems,driftwoodsystems.com,121,4,0
+2025-12,CMP-07,Fenwick Medical Center,fenwickmedical.com,844,0,0
+2025-12,CMP-07,Briarwood Health,briarwoodhealth.com,129,2,0
+2025-12,CMP-07,Inwood Asset Management,inwoodam.com,387,5,0
+2025-12,CMP-07,Thornbury Bank,thornburybank.com,1325,5,1
+2025-12,CMP-07,Linden Savings Bank,lindensavings.com,1373,0,0
+2025-12,CMP-07,Jorvale Mutual,jorvalemutual.com,131,6,0
+2025-12,CMP-07,Copperfield Freight,copperfieldfreight.com,122,2,0
+2025-12,CMP-07,Penrose Brands,penrosebrands.com,436,5,0
+2025-12,CMP-07,Easton Assurance,eastonassurance.com,423,6,0
+2025-12,CMP-07,Ambergate Systems,ambergatesystems.com,1312,5,0
+2025-12,CMP-07,Norwood Bancorp,norwoodbancorp.com,355,3,0
+2025-12,CMP-07,Ivywood Stores,ivywoodstores.com,1428,0,0
+2025-12,CMP-07,Eastbrook Capital,eastbrookcapital.com,1159,6,0
+2026-01,CMP-07,Meridian Health,meridianhealth.com,333,3,0
+2026-01,CMP-07,Meridian Health,meridianhealth.ca,950,5,0
+2026-01,CMP-07,Harborline Insurance,harborlineins.com,1326,2,0
+2026-01,CMP-07,Summit Financial Group,summitfg.com,422,5,0
+2026-01,CMP-07,Newbury Logistics,newburylogistics.com,660,6,0
+2026-01,CMP-07,Hollister Therapeutics,hollistertx.com,1032,2,0
+2026-01,CMP-07,Quillon Retail,quillonretail.com,1191,5,0
+2026-01,CMP-07,Brackenridge Freight,brackenridgefreight.com,543,3,0
+2026-01,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1453,3,0
+2026-01,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,168,1,0
+2026-01,CMP-07,Fairhaven Bank,fairhavenbank.com,481,1,0
+2026-01,CMP-07,Foxhall Asset Management,foxhallam.com,387,5,1
+2026-01,CMP-07,Moorland Investments,moorlandinvest.com,811,0,0
+2026-01,CMP-07,Blackthorn Insurance,blackthornins.com,1075,0,0
+2026-01,CMP-07,Bexley Retail,bexleyretail.com,1550,0,0
+2026-01,CMP-07,Holloway Bank,hollowaybank.com,745,5,0
+2026-01,CMP-07,Halverston Systems,halverstonsystems.com,1156,5,0
+2026-01,CMP-07,Ellery Stores,ellerystores.com,999,4,0
+2026-01,CMP-07,Caldwell Energy,caldwellenergy.com,330,2,0
+2026-01,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,49,3,0
+2026-01,CMP-07,Stelmere Mutual,stelmeremutual.com,87,3,0
+2026-01,CMP-07,Islington Bancorp,islingtonbancorp.com,1495,4,0
+2026-01,CMP-07,Elmstead Bank,elmsteadbank.com,539,5,0
+2026-01,CMP-07,Orlavale Therapeutics,orlavaletx.com,288,2,0
+2026-01,CMP-07,Darby Savings Bank,darbysavings.com,1015,6,0
+2026-01,CMP-07,Brantley Bancorp,brantleybancorp.com,1265,1,0
+2026-01,CMP-07,Northcliff Insurance,northcliffins.com,960,5,0
+2026-01,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1437,4,0
+2026-01,CMP-07,Vandermeer Transport,vandermeertransport.com,1436,5,0
+2026-01,CMP-07,Upton Energy,uptonenergy.com,420,6,0
+2026-01,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,916,2,0
+2026-01,CMP-07,Ridgeline Energy,ridgelineenergy.com,177,0,0
+2026-01,CMP-07,Larkspur Software,larkspursoftware.com,280,0,0
+2026-01,CMP-07,Granite Systems,granitesystems.com,837,5,0
+2026-01,CMP-07,Wexford Savings Bank,wexfordsavings.com,1157,4,0
+2026-01,CMP-07,Lyndon Manufacturing,lyndonmfg.com,1094,5,0
+2026-01,CMP-07,Glenmore Therapeutics,glenmoretx.com,1284,1,0
+2026-01,CMP-07,Hartwell Transport,hartwelltransport.com,1595,1,0
+2026-01,CMP-07,Northam Manufacturing,northammfg.com,1358,2,0
+2026-01,CMP-07,Yewdale Investments,yewdaleinvest.com,1097,2,0
+2026-01,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,875,3,0
+2026-01,CMP-07,Crestview Capital,crestviewcapital.com,1058,0,0
+2026-01,CMP-07,Corrowin Medical Center,corrowinmedical.com,97,1,0
+2026-01,CMP-07,Ashford Medical Center,ashfordmedical.com,923,2,0
+2026-01,CMP-07,Ogden Asset Management,ogdenam.com,1473,3,0
+2026-01,CMP-07,Stonebridge Bank,stonebridgebank.com,1265,1,0
+2026-01,CMP-07,Bluewater Transport,bluewatertransport.com,1195,5,0
+2026-01,CMP-07,Waverly Stores,waverlystores.com,1144,4,0
+2026-01,CMP-07,Jarvis Stores,jarvisstores.com,212,1,0
+2026-01,CMP-07,Westbury Savings Bank,westburysavings.com,939,4,0
+2026-01,CMP-07,Ravenwood Systems,ravenwoodsystems.com,243,2,0
+2026-01,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1096,5,0
+2026-01,CMP-07,Oakmont Freight,oakmontfreight.com,309,3,0
+2026-01,CMP-07,Alder Retail,alderretail.com,1160,4,0
+2026-01,CMP-07,Gresham Bank,greshambank.com,1550,6,0
+2026-01,CMP-07,Yardley Investments,yardleyinvest.com,104,3,0
+2026-01,CMP-07,Canyon Bancorp,canyonbancorp.com,1427,3,0
+2026-01,CMP-07,Underhill Logistics,underhilllogistics.com,405,1,0
+2026-01,CMP-07,Norcliffe Investments,norcliffeinvest.com,1012,4,0
+2026-01,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,175,4,0
+2026-01,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1428,2,0
+2026-01,CMP-07,Hawthorne Systems,hawthornesystems.com,111,4,0
+2026-01,CMP-07,Dunmore Stores,dunmorestores.com,245,0,0
+2026-01,CMP-07,Quarry Biosciences,quarrybio.ca,905,6,0
+2026-01,CMP-07,Quinton Software,quintonsoftware.com,139,4,0
+2026-01,CMP-07,Arden Industries,ardenind.com,842,5,0
+2026-01,CMP-07,Ashby Freight,ashbyfreight.com,890,3,0
+2026-01,CMP-07,Thistle Mutual,thistlemutual.com,562,6,0
+2026-01,CMP-07,Juniper Components,junipercomponents.com,428,5,0
+2026-01,CMP-07,Fernhill Freight,fernhillfreight.com,812,4,0
+2026-01,CMP-07,Parkview Energy,parkviewenergy.com,291,1,0
+2026-01,CMP-07,Clifton Retail,cliftonretail.com,379,3,0
+2026-01,CMP-07,Eastwick Stores,eastwickstores.com,500,2,0
+2026-01,CMP-07,Oakhurst Stores,oakhurststores.com,1202,1,0
+2026-01,CMP-07,Kestrel Utilities,kestrelutilities.com,1423,3,0
+2026-01,CMP-07,Bellhaven Energy,bellhavenenergy.com,449,6,0
+2026-01,CMP-07,Merrow Manufacturing,merrowmfg.com,1215,2,0
+2026-01,CMP-07,Redstone Transport,redstonetransport.com,497,6,0
+2026-01,CMP-07,Northgate Stores,northgatestores.com,1432,5,0
+2026-01,CMP-07,Whitmore Power,whitmorepower.com,616,3,0
+2026-01,CMP-07,Orchard Insurance,orchardins.com,1438,0,0
+2026-01,CMP-07,Riverbend Capital,riverbendcapital.com,868,6,0
+2026-01,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,800,3,0
+2026-01,CMP-07,Gilford Utilities,gilfordutilities.com,1029,2,0
+2026-01,CMP-07,Alcott Insurance,alcottins.com,446,5,0
+2026-01,CMP-07,Rosewood Power,rosewoodpower.com,362,1,0
+2026-01,CMP-07,Driftwood Systems,driftwoodsystems.com,407,1,0
+2026-01,CMP-07,Fenwick Medical Center,fenwickmedical.com,740,2,0
+2026-01,CMP-07,Briarwood Health,briarwoodhealth.com,1486,0,0
+2026-01,CMP-07,Inwood Asset Management,inwoodam.com,58,0,0
+2026-01,CMP-07,Thornbury Bank,thornburybank.com,691,0,0
+2026-01,CMP-07,Linden Savings Bank,lindensavings.com,1053,4,0
+2026-01,CMP-07,Jorvale Mutual,jorvalemutual.com,663,2,0
+2026-01,CMP-07,Copperfield Freight,copperfieldfreight.com,455,2,0
+2026-01,CMP-07,Penrose Brands,penrosebrands.com,948,1,0
+2026-01,CMP-07,Easton Assurance,eastonassurance.com,1079,1,0
+2026-01,CMP-07,Ambergate Systems,ambergatesystems.com,1389,5,0
+2026-01,CMP-07,Norwood Bancorp,norwoodbancorp.com,837,5,0
+2026-01,CMP-07,Ivywood Stores,ivywoodstores.com,123,1,0
+2026-01,CMP-07,Eastbrook Capital,eastbrookcapital.com,1585,2,0
+2026-02,CMP-07,Meridian Health,meridianhealth.com,1303,3,0
+2026-02,CMP-07,Meridian Health,meridianhealth.ca,1468,6,0
+2026-02,CMP-07,Harborline Insurance,harborlineins.com,541,3,0
+2026-02,CMP-07,Summit Financial Group,summitfg.com,951,5,0
+2026-02,CMP-07,Newbury Logistics,newburylogistics.com,1436,4,0
+2026-02,CMP-07,Hollister Therapeutics,hollistertx.com,421,5,0
+2026-02,CMP-07,Quillon Retail,quillonretail.com,813,3,0
+2026-02,CMP-07,Brackenridge Freight,brackenridgefreight.com,1286,6,0
+2026-02,CMP-07,Brightwater Manufacturing,brightwatermfg.com,404,0,0
+2026-02,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,480,6,0
+2026-02,CMP-07,Fairhaven Bank,fairhavenbank.com,533,2,0
+2026-02,CMP-07,Foxhall Asset Management,foxhallam.com,1338,6,0
+2026-02,CMP-07,Moorland Investments,moorlandinvest.com,776,4,0
+2026-02,CMP-07,Blackthorn Insurance,blackthornins.com,648,6,0
+2026-02,CMP-07,Bexley Retail,bexleyretail.com,1292,4,0
+2026-02,CMP-07,Holloway Bank,hollowaybank.com,383,3,0
+2026-02,CMP-07,Halverston Systems,halverstonsystems.com,592,6,0
+2026-02,CMP-07,Ellery Stores,ellerystores.com,719,5,0
+2026-02,CMP-07,Caldwell Energy,caldwellenergy.com,692,5,0
+2026-02,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1070,5,0
+2026-02,CMP-07,Stelmere Mutual,stelmeremutual.com,1543,1,0
+2026-02,CMP-07,Islington Bancorp,islingtonbancorp.com,1291,3,0
+2026-02,CMP-07,Elmstead Bank,elmsteadbank.com,1373,1,0
+2026-02,CMP-07,Orlavale Therapeutics,orlavaletx.com,1197,4,0
+2026-02,CMP-07,Darby Savings Bank,darbysavings.com,677,0,0
+2026-02,CMP-07,Brantley Bancorp,brantleybancorp.com,1462,4,0
+2026-02,CMP-07,Northcliff Insurance,northcliffins.com,540,1,0
+2026-02,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1553,0,0
+2026-02,CMP-07,Vandermeer Transport,vandermeertransport.com,1357,5,0
+2026-02,CMP-07,Upton Energy,uptonenergy.com,1469,6,0
+2026-02,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,656,1,0
+2026-02,CMP-07,Ridgeline Energy,ridgelineenergy.com,1526,1,0
+2026-02,CMP-07,Larkspur Software,larkspursoftware.com,452,0,0
+2026-02,CMP-07,Granite Systems,granitesystems.com,385,6,0
+2026-02,CMP-07,Wexford Savings Bank,wexfordsavings.com,927,4,0
+2026-02,CMP-07,Lyndon Manufacturing,lyndonmfg.com,351,6,0
+2026-02,CMP-07,Glenmore Therapeutics,glenmoretx.com,1073,2,0
+2026-02,CMP-07,Hartwell Transport,hartwelltransport.com,1072,3,0
+2026-02,CMP-07,Northam Manufacturing,northammfg.com,1592,6,0
+2026-02,CMP-07,Yewdale Investments,yewdaleinvest.com,883,2,0
+2026-02,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,145,3,0
+2026-02,CMP-07,Crestview Capital,crestviewcapital.com,266,3,0
+2026-02,CMP-07,Corrowin Medical Center,corrowinmedical.com,1301,1,0
+2026-02,CMP-07,Ashford Medical Center,ashfordmedical.com,301,1,0
+2026-02,CMP-07,Ogden Asset Management,ogdenam.com,1554,4,0
+2026-02,CMP-07,Stonebridge Bank,stonebridgebank.com,900,4,0
+2026-02,CMP-07,Bluewater Transport,bluewatertransport.com,1394,1,0
+2026-02,CMP-07,Waverly Stores,waverlystores.com,964,4,1
+2026-02,CMP-07,Jarvis Stores,jarvisstores.com,1159,3,0
+2026-02,CMP-07,Westbury Savings Bank,westburysavings.com,604,5,0
+2026-02,CMP-07,Ravenwood Systems,ravenwoodsystems.com,725,6,0
+2026-02,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1427,4,0
+2026-02,CMP-07,Oakmont Freight,oakmontfreight.com,1497,3,0
+2026-02,CMP-07,Alder Retail,alderretail.com,566,0,0
+2026-02,CMP-07,Gresham Bank,greshambank.com,1562,6,0
+2026-02,CMP-07,Yardley Investments,yardleyinvest.com,654,3,0
+2026-02,CMP-07,Canyon Bancorp,canyonbancorp.com,1526,2,0
+2026-02,CMP-07,Underhill Logistics,underhilllogistics.com,987,4,0
+2026-02,CMP-07,Norcliffe Investments,norcliffeinvest.com,1481,0,0
+2026-02,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,625,3,0
+2026-02,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,115,1,0
+2026-02,CMP-07,Hawthorne Systems,hawthornesystems.com,329,1,0
+2026-02,CMP-07,Dunmore Stores,dunmorestores.com,1131,6,0
+2026-02,CMP-07,Quarry Biosciences,quarrybio.ca,323,4,0
+2026-02,CMP-07,Quinton Software,quintonsoftware.com,217,1,0
+2026-02,CMP-07,Arden Industries,ardenind.com,850,0,0
+2026-02,CMP-07,Ashby Freight,ashbyfreight.com,608,5,0
+2026-02,CMP-07,Thistle Mutual,thistlemutual.com,189,6,0
+2026-02,CMP-07,Juniper Components,junipercomponents.com,1147,4,0
+2026-02,CMP-07,Fernhill Freight,fernhillfreight.com,538,1,0
+2026-02,CMP-07,Parkview Energy,parkviewenergy.com,790,1,0
+2026-02,CMP-07,Clifton Retail,cliftonretail.com,1127,6,0
+2026-02,CMP-07,Eastwick Stores,eastwickstores.com,1378,2,0
+2026-02,CMP-07,Oakhurst Stores,oakhurststores.com,122,5,1
+2026-02,CMP-07,Kestrel Utilities,kestrelutilities.com,1542,2,0
+2026-02,CMP-07,Bellhaven Energy,bellhavenenergy.com,462,5,0
+2026-02,CMP-07,Merrow Manufacturing,merrowmfg.com,400,5,0
+2026-02,CMP-07,Redstone Transport,redstonetransport.com,469,5,0
+2026-02,CMP-07,Northgate Stores,northgatestores.com,236,0,0
+2026-02,CMP-07,Whitmore Power,whitmorepower.com,982,6,0
+2026-02,CMP-07,Orchard Insurance,orchardins.com,322,1,0
+2026-02,CMP-07,Riverbend Capital,riverbendcapital.com,1296,2,0
+2026-02,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,61,5,0
+2026-02,CMP-07,Gilford Utilities,gilfordutilities.com,1527,0,0
+2026-02,CMP-07,Alcott Insurance,alcottins.com,515,1,0
+2026-02,CMP-07,Rosewood Power,rosewoodpower.com,1398,0,0
+2026-02,CMP-07,Driftwood Systems,driftwoodsystems.com,375,5,0
+2026-02,CMP-07,Fenwick Medical Center,fenwickmedical.com,813,3,0
+2026-02,CMP-07,Briarwood Health,briarwoodhealth.com,237,4,0
+2026-02,CMP-07,Inwood Asset Management,inwoodam.com,88,6,0
+2026-02,CMP-07,Thornbury Bank,thornburybank.com,544,2,0
+2026-02,CMP-07,Linden Savings Bank,lindensavings.com,1494,0,0
+2026-02,CMP-07,Jorvale Mutual,jorvalemutual.com,1545,4,0
+2026-02,CMP-07,Copperfield Freight,copperfieldfreight.com,1029,5,0
+2026-02,CMP-07,Penrose Brands,penrosebrands.com,497,6,0
+2026-02,CMP-07,Easton Assurance,eastonassurance.com,991,4,0
+2026-02,CMP-07,Ambergate Systems,ambergatesystems.com,1248,4,0
+2026-02,CMP-07,Norwood Bancorp,norwoodbancorp.com,286,3,0
+2026-02,CMP-07,Ivywood Stores,ivywoodstores.com,1393,3,0
+2026-02,CMP-07,Eastbrook Capital,eastbrookcapital.com,68,6,0
+2026-03,CMP-07,Meridian Health,meridianhealth.com,252,3,0
+2026-03,CMP-07,Meridian Health,meridianhealth.ca,281,0,0
+2026-03,CMP-07,Harborline Insurance,harborlineins.com,375,2,0
+2026-03,CMP-07,Summit Financial Group,summitfg.com,742,3,0
+2026-03,CMP-07,Newbury Logistics,newburylogistics.com,1408,6,0
+2026-03,CMP-07,Hollister Therapeutics,hollistertx.com,501,3,0
+2026-03,CMP-07,Quillon Retail,quillonretail.com,54,2,0
+2026-03,CMP-07,Brackenridge Freight,brackenridgefreight.com,423,3,0
+2026-03,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1176,6,0
+2026-03,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,844,2,0
+2026-03,CMP-07,Fairhaven Bank,fairhavenbank.com,1067,6,1
+2026-03,CMP-07,Foxhall Asset Management,foxhallam.com,899,4,0
+2026-03,CMP-07,Moorland Investments,moorlandinvest.com,1038,0,0
+2026-03,CMP-07,Blackthorn Insurance,blackthornins.com,613,3,0
+2026-03,CMP-07,Bexley Retail,bexleyretail.com,1199,4,0
+2026-03,CMP-07,Holloway Bank,hollowaybank.com,1322,3,0
+2026-03,CMP-07,Halverston Systems,halverstonsystems.com,490,0,0
+2026-03,CMP-07,Ellery Stores,ellerystores.com,480,5,0
+2026-03,CMP-07,Caldwell Energy,caldwellenergy.com,1154,1,0
+2026-03,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,461,0,0
+2026-03,CMP-07,Stelmere Mutual,stelmeremutual.com,696,6,0
+2026-03,CMP-07,Islington Bancorp,islingtonbancorp.com,156,2,0
+2026-03,CMP-07,Elmstead Bank,elmsteadbank.com,506,4,0
+2026-03,CMP-07,Orlavale Therapeutics,orlavaletx.com,717,4,0
+2026-03,CMP-07,Darby Savings Bank,darbysavings.com,1124,6,0
+2026-03,CMP-07,Brantley Bancorp,brantleybancorp.com,1040,1,0
+2026-03,CMP-07,Northcliff Insurance,northcliffins.com,844,2,0
+2026-03,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1095,5,0
+2026-03,CMP-07,Vandermeer Transport,vandermeertransport.com,1029,6,0
+2026-03,CMP-07,Upton Energy,uptonenergy.com,409,1,0
+2026-03,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,49,1,0
+2026-03,CMP-07,Ridgeline Energy,ridgelineenergy.com,377,5,0
+2026-03,CMP-07,Larkspur Software,larkspursoftware.com,114,2,0
+2026-03,CMP-07,Granite Systems,granitesystems.com,279,0,0
+2026-03,CMP-07,Wexford Savings Bank,wexfordsavings.com,809,6,0
+2026-03,CMP-07,Lyndon Manufacturing,lyndonmfg.com,918,4,0
+2026-03,CMP-07,Glenmore Therapeutics,glenmoretx.com,224,2,0
+2026-03,CMP-07,Hartwell Transport,hartwelltransport.com,1551,0,0
+2026-03,CMP-07,Northam Manufacturing,northammfg.com,1409,6,0
+2026-03,CMP-07,Yewdale Investments,yewdaleinvest.com,379,4,0
+2026-03,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,1441,4,0
+2026-03,CMP-07,Crestview Capital,crestviewcapital.com,1420,1,0
+2026-03,CMP-07,Corrowin Medical Center,corrowinmedical.com,521,3,0
+2026-03,CMP-07,Ashford Medical Center,ashfordmedical.com,1444,0,0
+2026-03,CMP-07,Ogden Asset Management,ogdenam.com,463,2,0
+2026-03,CMP-07,Stonebridge Bank,stonebridgebank.com,1132,4,0
+2026-03,CMP-07,Bluewater Transport,bluewatertransport.com,750,4,0
+2026-03,CMP-07,Waverly Stores,waverlystores.com,1208,6,0
+2026-03,CMP-07,Jarvis Stores,jarvisstores.com,181,4,0
+2026-03,CMP-07,Westbury Savings Bank,westburysavings.com,986,5,0
+2026-03,CMP-07,Ravenwood Systems,ravenwoodsystems.com,599,5,0
+2026-03,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,56,1,0
+2026-03,CMP-07,Oakmont Freight,oakmontfreight.com,1074,6,0
+2026-03,CMP-07,Alder Retail,alderretail.com,845,1,0
+2026-03,CMP-07,Gresham Bank,greshambank.com,1168,1,0
+2026-03,CMP-07,Yardley Investments,yardleyinvest.com,1434,3,0
+2026-03,CMP-07,Canyon Bancorp,canyonbancorp.com,431,4,0
+2026-03,CMP-07,Underhill Logistics,underhilllogistics.com,525,0,0
+2026-03,CMP-07,Norcliffe Investments,norcliffeinvest.com,78,1,0
+2026-03,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1504,5,0
+2026-03,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,572,3,0
+2026-03,CMP-07,Hawthorne Systems,hawthornesystems.com,374,1,0
+2026-03,CMP-07,Dunmore Stores,dunmorestores.com,970,6,0
+2026-03,CMP-07,Quarry Biosciences,quarrybio.ca,547,2,0
+2026-03,CMP-07,Quinton Software,quintonsoftware.com,388,1,0
+2026-03,CMP-07,Arden Industries,ardenind.com,1479,5,0
+2026-03,CMP-07,Ashby Freight,ashbyfreight.com,888,1,0
+2026-03,CMP-07,Thistle Mutual,thistlemutual.com,1411,2,0
+2026-03,CMP-07,Juniper Components,junipercomponents.com,1255,6,0
+2026-03,CMP-07,Fernhill Freight,fernhillfreight.com,186,5,0
+2026-03,CMP-07,Parkview Energy,parkviewenergy.com,266,1,0
+2026-03,CMP-07,Clifton Retail,cliftonretail.com,678,0,0
+2026-03,CMP-07,Eastwick Stores,eastwickstores.com,764,6,0
+2026-03,CMP-07,Oakhurst Stores,oakhurststores.com,1502,0,0
+2026-03,CMP-07,Kestrel Utilities,kestrelutilities.com,680,2,0
+2026-03,CMP-07,Bellhaven Energy,bellhavenenergy.com,404,6,0
+2026-03,CMP-07,Merrow Manufacturing,merrowmfg.com,156,2,0
+2026-03,CMP-07,Redstone Transport,redstonetransport.com,941,6,0
+2026-03,CMP-07,Northgate Stores,northgatestores.com,1079,3,0
+2026-03,CMP-07,Whitmore Power,whitmorepower.com,447,3,0
+2026-03,CMP-07,Orchard Insurance,orchardins.com,1309,6,0
+2026-03,CMP-07,Riverbend Capital,riverbendcapital.com,1377,0,0
+2026-03,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,811,5,0
+2026-03,CMP-07,Gilford Utilities,gilfordutilities.com,1566,0,0
+2026-03,CMP-07,Alcott Insurance,alcottins.com,731,4,0
+2026-03,CMP-07,Rosewood Power,rosewoodpower.com,1102,5,0
+2026-03,CMP-07,Driftwood Systems,driftwoodsystems.com,516,3,0
+2026-03,CMP-07,Fenwick Medical Center,fenwickmedical.com,1372,2,0
+2026-03,CMP-07,Briarwood Health,briarwoodhealth.com,236,5,0
+2026-03,CMP-07,Inwood Asset Management,inwoodam.com,1213,4,0
+2026-03,CMP-07,Thornbury Bank,thornburybank.com,441,6,0
+2026-03,CMP-07,Linden Savings Bank,lindensavings.com,716,6,0
+2026-03,CMP-07,Jorvale Mutual,jorvalemutual.com,197,4,0
+2026-03,CMP-07,Copperfield Freight,copperfieldfreight.com,451,4,0
+2026-03,CMP-07,Penrose Brands,penrosebrands.com,239,1,0
+2026-03,CMP-07,Easton Assurance,eastonassurance.com,399,2,0
+2026-03,CMP-07,Ambergate Systems,ambergatesystems.com,635,3,0
+2026-03,CMP-07,Norwood Bancorp,norwoodbancorp.com,399,0,0
+2026-03,CMP-07,Ivywood Stores,ivywoodstores.com,1092,5,0
+2026-03,CMP-07,Eastbrook Capital,eastbrookcapital.com,998,0,0
+2026-04,CMP-07,Meridian Health,meridianhealth.com,567,6,0
+2026-04,CMP-07,Meridian Health,meridianhealth.ca,837,6,0
+2026-04,CMP-07,Harborline Insurance,harborlineins.com,123,3,0
+2026-04,CMP-07,Summit Financial Group,summitfg.com,1143,1,0
+2026-04,CMP-07,Newbury Logistics,newburylogistics.com,1115,0,0
+2026-04,CMP-07,Hollister Therapeutics,hollistertx.com,933,3,1
+2026-04,CMP-07,Quillon Retail,quillonretail.com,897,1,0
+2026-04,CMP-07,Brackenridge Freight,brackenridgefreight.com,1181,4,0
+2026-04,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1509,0,0
+2026-04,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,861,2,0
+2026-04,CMP-07,Fairhaven Bank,fairhavenbank.com,995,0,0
+2026-04,CMP-07,Foxhall Asset Management,foxhallam.com,1198,4,0
+2026-04,CMP-07,Moorland Investments,moorlandinvest.com,1079,2,0
+2026-04,CMP-07,Blackthorn Insurance,blackthornins.com,203,6,0
+2026-04,CMP-07,Bexley Retail,bexleyretail.com,968,6,0
+2026-04,CMP-07,Holloway Bank,hollowaybank.com,865,5,0
+2026-04,CMP-07,Halverston Systems,halverstonsystems.com,1508,3,0
+2026-04,CMP-07,Ellery Stores,ellerystores.com,1012,0,0
+2026-04,CMP-07,Caldwell Energy,caldwellenergy.com,1050,6,0
+2026-04,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,860,1,0
+2026-04,CMP-07,Stelmere Mutual,stelmeremutual.com,1552,0,0
+2026-04,CMP-07,Islington Bancorp,islingtonbancorp.com,1056,6,0
+2026-04,CMP-07,Elmstead Bank,elmsteadbank.com,427,0,0
+2026-04,CMP-07,Orlavale Therapeutics,orlavaletx.com,1567,3,0
+2026-04,CMP-07,Darby Savings Bank,darbysavings.com,1196,2,0
+2026-04,CMP-07,Brantley Bancorp,brantleybancorp.com,1210,3,0
+2026-04,CMP-07,Northcliff Insurance,northcliffins.com,158,4,0
+2026-04,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1019,6,0
+2026-04,CMP-07,Vandermeer Transport,vandermeertransport.com,725,3,0
+2026-04,CMP-07,Upton Energy,uptonenergy.com,89,5,0
+2026-04,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,71,1,0
+2026-04,CMP-07,Ridgeline Energy,ridgelineenergy.com,164,5,0
+2026-04,CMP-07,Larkspur Software,larkspursoftware.com,353,4,0
+2026-04,CMP-07,Granite Systems,granitesystems.com,1281,6,0
+2026-04,CMP-07,Wexford Savings Bank,wexfordsavings.com,1455,6,0
+2026-04,CMP-07,Lyndon Manufacturing,lyndonmfg.com,723,2,0
+2026-04,CMP-07,Glenmore Therapeutics,glenmoretx.com,697,6,0
+2026-04,CMP-07,Hartwell Transport,hartwelltransport.com,1098,3,0
+2026-04,CMP-07,Northam Manufacturing,northammfg.com,1241,4,0
+2026-04,CMP-07,Yewdale Investments,yewdaleinvest.com,993,0,0
+2026-04,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,258,0,0
+2026-04,CMP-07,Crestview Capital,crestviewcapital.com,1425,3,0
+2026-04,CMP-07,Corrowin Medical Center,corrowinmedical.com,623,5,0
+2026-04,CMP-07,Ashford Medical Center,ashfordmedical.com,949,2,0
+2026-04,CMP-07,Ogden Asset Management,ogdenam.com,608,4,0
+2026-04,CMP-07,Stonebridge Bank,stonebridgebank.com,709,1,0
+2026-04,CMP-07,Bluewater Transport,bluewatertransport.com,1346,3,0
+2026-04,CMP-07,Waverly Stores,waverlystores.com,1462,3,0
+2026-04,CMP-07,Jarvis Stores,jarvisstores.com,459,6,1
+2026-04,CMP-07,Westbury Savings Bank,westburysavings.com,761,1,0
+2026-04,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1109,1,0
+2026-04,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,1577,5,0
+2026-04,CMP-07,Oakmont Freight,oakmontfreight.com,1207,1,0
+2026-04,CMP-07,Alder Retail,alderretail.com,302,2,0
+2026-04,CMP-07,Gresham Bank,greshambank.com,1352,0,0
+2026-04,CMP-07,Yardley Investments,yardleyinvest.com,1595,6,0
+2026-04,CMP-07,Canyon Bancorp,canyonbancorp.com,1328,2,0
+2026-04,CMP-07,Underhill Logistics,underhilllogistics.com,1371,6,0
+2026-04,CMP-07,Norcliffe Investments,norcliffeinvest.com,313,3,0
+2026-04,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,705,5,0
+2026-04,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,1133,2,0
+2026-04,CMP-07,Hawthorne Systems,hawthornesystems.com,871,3,0
+2026-04,CMP-07,Dunmore Stores,dunmorestores.com,1347,1,0
+2026-04,CMP-07,Quarry Biosciences,quarrybio.ca,824,2,0
+2026-04,CMP-07,Quinton Software,quintonsoftware.com,1564,5,0
+2026-04,CMP-07,Arden Industries,ardenind.com,203,6,0
+2026-04,CMP-07,Ashby Freight,ashbyfreight.com,1517,6,0
+2026-04,CMP-07,Thistle Mutual,thistlemutual.com,1058,2,0
+2026-04,CMP-07,Juniper Components,junipercomponents.com,1010,6,0
+2026-04,CMP-07,Fernhill Freight,fernhillfreight.com,579,0,0
+2026-04,CMP-07,Parkview Energy,parkviewenergy.com,883,5,0
+2026-04,CMP-07,Clifton Retail,cliftonretail.com,246,5,0
+2026-04,CMP-07,Eastwick Stores,eastwickstores.com,332,2,0
+2026-04,CMP-07,Oakhurst Stores,oakhurststores.com,725,0,0
+2026-04,CMP-07,Kestrel Utilities,kestrelutilities.com,962,0,1
+2026-04,CMP-07,Bellhaven Energy,bellhavenenergy.com,310,1,0
+2026-04,CMP-07,Merrow Manufacturing,merrowmfg.com,616,4,0
+2026-04,CMP-07,Redstone Transport,redstonetransport.com,668,2,0
+2026-04,CMP-07,Northgate Stores,northgatestores.com,1492,2,0
+2026-04,CMP-07,Whitmore Power,whitmorepower.com,1422,6,0
+2026-04,CMP-07,Orchard Insurance,orchardins.com,1089,6,0
+2026-04,CMP-07,Riverbend Capital,riverbendcapital.com,909,1,0
+2026-04,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,813,4,0
+2026-04,CMP-07,Gilford Utilities,gilfordutilities.com,710,0,0
+2026-04,CMP-07,Alcott Insurance,alcottins.com,1444,5,0
+2026-04,CMP-07,Rosewood Power,rosewoodpower.com,97,4,0
+2026-04,CMP-07,Driftwood Systems,driftwoodsystems.com,1488,3,0
+2026-04,CMP-07,Fenwick Medical Center,fenwickmedical.com,691,3,1
+2026-04,CMP-07,Briarwood Health,briarwoodhealth.com,1508,3,0
+2026-04,CMP-07,Inwood Asset Management,inwoodam.com,954,4,0
+2026-04,CMP-07,Thornbury Bank,thornburybank.com,1457,0,0
+2026-04,CMP-07,Linden Savings Bank,lindensavings.com,1156,3,0
+2026-04,CMP-07,Jorvale Mutual,jorvalemutual.com,199,0,0
+2026-04,CMP-07,Copperfield Freight,copperfieldfreight.com,1545,5,0
+2026-04,CMP-07,Penrose Brands,penrosebrands.com,799,2,0
+2026-04,CMP-07,Easton Assurance,eastonassurance.com,609,6,0
+2026-04,CMP-07,Ambergate Systems,ambergatesystems.com,1181,4,0
+2026-04,CMP-07,Norwood Bancorp,norwoodbancorp.com,514,4,0
+2026-04,CMP-07,Ivywood Stores,ivywoodstores.com,1504,3,0
+2026-04,CMP-07,Eastbrook Capital,eastbrookcapital.com,493,0,0
+2026-05,CMP-07,Meridian Health,meridianhealth.com,399,2,0
+2026-05,CMP-07,Meridian Health,meridianhealth.ca,1217,3,0
+2026-05,CMP-07,Harborline Insurance,harborlineins.com,608,6,0
+2026-05,CMP-07,Summit Financial Group,summitfg.com,520,3,0
+2026-05,CMP-07,Newbury Logistics,newburylogistics.com,1372,0,0
+2026-05,CMP-07,Hollister Therapeutics,hollistertx.com,1086,2,1
+2026-05,CMP-07,Quillon Retail,quillonretail.com,390,2,0
+2026-05,CMP-07,Brackenridge Freight,brackenridgefreight.com,386,2,0
+2026-05,CMP-07,Brightwater Manufacturing,brightwatermfg.com,642,6,0
+2026-05,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,117,6,0
+2026-05,CMP-07,Fairhaven Bank,fairhavenbank.com,1582,0,0
+2026-05,CMP-07,Foxhall Asset Management,foxhallam.com,366,3,0
+2026-05,CMP-07,Moorland Investments,moorlandinvest.com,716,4,0
+2026-05,CMP-07,Blackthorn Insurance,blackthornins.com,1085,3,0
+2026-05,CMP-07,Bexley Retail,bexleyretail.com,244,4,0
+2026-05,CMP-07,Holloway Bank,hollowaybank.com,1385,0,0
+2026-05,CMP-07,Halverston Systems,halverstonsystems.com,175,0,0
+2026-05,CMP-07,Ellery Stores,ellerystores.com,783,6,0
+2026-05,CMP-07,Caldwell Energy,caldwellenergy.com,1303,4,0
+2026-05,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,710,4,0
+2026-05,CMP-07,Stelmere Mutual,stelmeremutual.com,408,5,0
+2026-05,CMP-07,Islington Bancorp,islingtonbancorp.com,1255,2,0
+2026-05,CMP-07,Elmstead Bank,elmsteadbank.com,928,2,0
+2026-05,CMP-07,Orlavale Therapeutics,orlavaletx.com,49,2,0
+2026-05,CMP-07,Darby Savings Bank,darbysavings.com,1528,2,0
+2026-05,CMP-07,Brantley Bancorp,brantleybancorp.com,913,1,0
+2026-05,CMP-07,Northcliff Insurance,northcliffins.com,296,0,0
+2026-05,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,58,5,0
+2026-05,CMP-07,Vandermeer Transport,vandermeertransport.com,515,0,0
+2026-05,CMP-07,Upton Energy,uptonenergy.com,1047,0,1
+2026-05,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,331,5,0
+2026-05,CMP-07,Ridgeline Energy,ridgelineenergy.com,1262,6,0
+2026-05,CMP-07,Larkspur Software,larkspursoftware.com,1466,6,0
+2026-05,CMP-07,Granite Systems,granitesystems.com,1552,6,0
+2026-05,CMP-07,Wexford Savings Bank,wexfordsavings.com,1561,1,0
+2026-05,CMP-07,Lyndon Manufacturing,lyndonmfg.com,444,0,0
+2026-05,CMP-07,Glenmore Therapeutics,glenmoretx.com,1192,6,0
+2026-05,CMP-07,Hartwell Transport,hartwelltransport.com,579,1,0
+2026-05,CMP-07,Northam Manufacturing,northammfg.com,1044,6,0
+2026-05,CMP-07,Yewdale Investments,yewdaleinvest.com,1156,0,0
+2026-05,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,879,5,0
+2026-05,CMP-07,Crestview Capital,crestviewcapital.com,1424,5,0
+2026-05,CMP-07,Corrowin Medical Center,corrowinmedical.com,731,6,0
+2026-05,CMP-07,Ashford Medical Center,ashfordmedical.com,1361,1,0
+2026-05,CMP-07,Ogden Asset Management,ogdenam.com,1200,5,0
+2026-05,CMP-07,Stonebridge Bank,stonebridgebank.com,785,1,0
+2026-05,CMP-07,Bluewater Transport,bluewatertransport.com,1385,0,0
+2026-05,CMP-07,Waverly Stores,waverlystores.com,1513,5,0
+2026-05,CMP-07,Jarvis Stores,jarvisstores.com,702,6,0
+2026-05,CMP-07,Westbury Savings Bank,westburysavings.com,1304,1,0
+2026-05,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1077,6,0
+2026-05,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,469,4,0
+2026-05,CMP-07,Oakmont Freight,oakmontfreight.com,541,6,0
+2026-05,CMP-07,Alder Retail,alderretail.com,720,6,0
+2026-05,CMP-07,Gresham Bank,greshambank.com,1353,4,0
+2026-05,CMP-07,Yardley Investments,yardleyinvest.com,126,5,0
+2026-05,CMP-07,Canyon Bancorp,canyonbancorp.com,1283,6,0
+2026-05,CMP-07,Underhill Logistics,underhilllogistics.com,1441,2,0
+2026-05,CMP-07,Norcliffe Investments,norcliffeinvest.com,45,4,0
+2026-05,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,941,1,0
+2026-05,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,870,2,0
+2026-05,CMP-07,Hawthorne Systems,hawthornesystems.com,1113,5,0
+2026-05,CMP-07,Dunmore Stores,dunmorestores.com,670,2,0
+2026-05,CMP-07,Quarry Biosciences,quarrybio.ca,819,1,0
+2026-05,CMP-07,Quinton Software,quintonsoftware.com,969,3,0
+2026-05,CMP-07,Arden Industries,ardenind.com,554,5,0
+2026-05,CMP-07,Ashby Freight,ashbyfreight.com,440,2,0
+2026-05,CMP-07,Thistle Mutual,thistlemutual.com,890,3,0
+2026-05,CMP-07,Juniper Components,junipercomponents.com,645,6,0
+2026-05,CMP-07,Fernhill Freight,fernhillfreight.com,1356,2,0
+2026-05,CMP-07,Parkview Energy,parkviewenergy.com,408,3,0
+2026-05,CMP-07,Clifton Retail,cliftonretail.com,813,4,0
+2026-05,CMP-07,Eastwick Stores,eastwickstores.com,91,2,0
+2026-05,CMP-07,Oakhurst Stores,oakhurststores.com,728,6,0
+2026-05,CMP-07,Kestrel Utilities,kestrelutilities.com,1199,6,0
+2026-05,CMP-07,Bellhaven Energy,bellhavenenergy.com,1264,2,0
+2026-05,CMP-07,Merrow Manufacturing,merrowmfg.com,302,6,0
+2026-05,CMP-07,Redstone Transport,redstonetransport.com,532,1,0
+2026-05,CMP-07,Northgate Stores,northgatestores.com,1343,0,0
+2026-05,CMP-07,Whitmore Power,whitmorepower.com,43,1,1
+2026-05,CMP-07,Orchard Insurance,orchardins.com,601,4,0
+2026-05,CMP-07,Riverbend Capital,riverbendcapital.com,656,4,0
+2026-05,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,243,0,0
+2026-05,CMP-07,Gilford Utilities,gilfordutilities.com,771,1,0
+2026-05,CMP-07,Alcott Insurance,alcottins.com,169,1,0
+2026-05,CMP-07,Rosewood Power,rosewoodpower.com,248,3,0
+2026-05,CMP-07,Driftwood Systems,driftwoodsystems.com,294,4,0
+2026-05,CMP-07,Fenwick Medical Center,fenwickmedical.com,111,3,0
+2026-05,CMP-07,Briarwood Health,briarwoodhealth.com,552,2,0
+2026-05,CMP-07,Inwood Asset Management,inwoodam.com,1096,2,0
+2026-05,CMP-07,Thornbury Bank,thornburybank.com,1538,2,0
+2026-05,CMP-07,Linden Savings Bank,lindensavings.com,561,3,0
+2026-05,CMP-07,Jorvale Mutual,jorvalemutual.com,1535,2,0
+2026-05,CMP-07,Copperfield Freight,copperfieldfreight.com,1283,2,0
+2026-05,CMP-07,Penrose Brands,penrosebrands.com,1567,3,0
+2026-05,CMP-07,Easton Assurance,eastonassurance.com,914,0,1
+2026-05,CMP-07,Ambergate Systems,ambergatesystems.com,1188,5,0
+2026-05,CMP-07,Norwood Bancorp,norwoodbancorp.com,300,6,0
+2026-05,CMP-07,Ivywood Stores,ivywoodstores.com,793,6,0
+2026-05,CMP-07,Eastbrook Capital,eastbrookcapital.com,880,0,0
+2026-06,CMP-07,Meridian Health,meridianhealth.com,431,1,0
+2026-06,CMP-07,Meridian Health,meridianhealth.ca,1236,3,0
+2026-06,CMP-07,Harborline Insurance,harborlineins.com,483,3,0
+2026-06,CMP-07,Summit Financial Group,summitfg.com,84,1,0
+2026-06,CMP-07,Newbury Logistics,newburylogistics.com,1037,1,1
+2026-06,CMP-07,Hollister Therapeutics,hollistertx.com,133,0,0
+2026-06,CMP-07,Quillon Retail,quillonretail.com,1128,0,0
+2026-06,CMP-07,Brackenridge Freight,brackenridgefreight.com,841,2,0
+2026-06,CMP-07,Brightwater Manufacturing,brightwatermfg.com,828,4,0
+2026-06,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,917,6,0
+2026-06,CMP-07,Fairhaven Bank,fairhavenbank.com,759,2,0
+2026-06,CMP-07,Foxhall Asset Management,foxhallam.com,1283,1,0
+2026-06,CMP-07,Moorland Investments,moorlandinvest.com,1513,4,0
+2026-06,CMP-07,Blackthorn Insurance,blackthornins.com,1352,4,0
+2026-06,CMP-07,Bexley Retail,bexleyretail.com,114,4,0
+2026-06,CMP-07,Holloway Bank,hollowaybank.com,799,4,0
+2026-06,CMP-07,Halverston Systems,halverstonsystems.com,67,5,0
+2026-06,CMP-07,Ellery Stores,ellerystores.com,684,5,0
+2026-06,CMP-07,Caldwell Energy,caldwellenergy.com,428,2,0
+2026-06,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,713,4,0
+2026-06,CMP-07,Stelmere Mutual,stelmeremutual.com,753,6,0
+2026-06,CMP-07,Islington Bancorp,islingtonbancorp.com,922,6,1
+2026-06,CMP-07,Elmstead Bank,elmsteadbank.com,137,3,0
+2026-06,CMP-07,Orlavale Therapeutics,orlavaletx.com,350,4,0
+2026-06,CMP-07,Darby Savings Bank,darbysavings.com,44,2,0
+2026-06,CMP-07,Brantley Bancorp,brantleybancorp.com,288,4,0
+2026-06,CMP-07,Northcliff Insurance,northcliffins.com,1449,6,0
+2026-06,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,583,0,0
+2026-06,CMP-07,Vandermeer Transport,vandermeertransport.com,610,1,0
+2026-06,CMP-07,Upton Energy,uptonenergy.com,594,5,0
+2026-06,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,83,4,0
+2026-06,CMP-07,Ridgeline Energy,ridgelineenergy.com,1124,6,0
+2026-06,CMP-07,Larkspur Software,larkspursoftware.com,532,2,0
+2026-06,CMP-07,Granite Systems,granitesystems.com,1523,4,0
+2026-06,CMP-07,Wexford Savings Bank,wexfordsavings.com,1091,0,1
+2026-06,CMP-07,Lyndon Manufacturing,lyndonmfg.com,944,4,0
+2026-06,CMP-07,Glenmore Therapeutics,glenmoretx.com,687,1,1
+2026-06,CMP-07,Hartwell Transport,hartwelltransport.com,1127,6,0
+2026-06,CMP-07,Northam Manufacturing,northammfg.com,337,6,0
+2026-06,CMP-07,Yewdale Investments,yewdaleinvest.com,104,3,0
+2026-06,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,436,0,0
+2026-06,CMP-07,Crestview Capital,crestviewcapital.com,1412,2,0
+2026-06,CMP-07,Corrowin Medical Center,corrowinmedical.com,545,5,0
+2026-06,CMP-07,Ashford Medical Center,ashfordmedical.com,1312,2,0
+2026-06,CMP-07,Ogden Asset Management,ogdenam.com,751,1,0
+2026-06,CMP-07,Stonebridge Bank,stonebridgebank.com,1295,0,0
+2026-06,CMP-07,Bluewater Transport,bluewatertransport.com,491,2,0
+2026-06,CMP-07,Waverly Stores,waverlystores.com,1525,0,0
+2026-06,CMP-07,Jarvis Stores,jarvisstores.com,1235,3,1
+2026-06,CMP-07,Westbury Savings Bank,westburysavings.com,1491,1,0
+2026-06,CMP-07,Ravenwood Systems,ravenwoodsystems.com,1274,6,0
+2026-06,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,877,2,0
+2026-06,CMP-07,Oakmont Freight,oakmontfreight.com,173,3,0
+2026-06,CMP-07,Alder Retail,alderretail.com,1445,0,0
+2026-06,CMP-07,Gresham Bank,greshambank.com,674,6,0
+2026-06,CMP-07,Yardley Investments,yardleyinvest.com,1332,3,0
+2026-06,CMP-07,Canyon Bancorp,canyonbancorp.com,963,4,0
+2026-06,CMP-07,Underhill Logistics,underhilllogistics.com,499,6,0
+2026-06,CMP-07,Norcliffe Investments,norcliffeinvest.com,437,0,0
+2026-06,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,753,1,0
+2026-06,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,380,1,0
+2026-06,CMP-07,Hawthorne Systems,hawthornesystems.com,87,3,0
+2026-06,CMP-07,Dunmore Stores,dunmorestores.com,156,2,0
+2026-06,CMP-07,Quarry Biosciences,quarrybio.ca,1110,4,0
+2026-06,CMP-07,Quinton Software,quintonsoftware.com,1035,4,1
+2026-06,CMP-07,Arden Industries,ardenind.com,1281,2,0
+2026-06,CMP-07,Ashby Freight,ashbyfreight.com,250,6,0
+2026-06,CMP-07,Thistle Mutual,thistlemutual.com,1356,3,0
+2026-06,CMP-07,Juniper Components,junipercomponents.com,860,4,0
+2026-06,CMP-07,Fernhill Freight,fernhillfreight.com,1401,3,0
+2026-06,CMP-07,Parkview Energy,parkviewenergy.com,1242,6,1
+2026-06,CMP-07,Clifton Retail,cliftonretail.com,1096,3,0
+2026-06,CMP-07,Eastwick Stores,eastwickstores.com,1032,3,0
+2026-06,CMP-07,Oakhurst Stores,oakhurststores.com,549,0,0
+2026-06,CMP-07,Kestrel Utilities,kestrelutilities.com,1080,3,0
+2026-06,CMP-07,Bellhaven Energy,bellhavenenergy.com,866,1,0
+2026-06,CMP-07,Merrow Manufacturing,merrowmfg.com,157,1,0
+2026-06,CMP-07,Redstone Transport,redstonetransport.com,1507,3,0
+2026-06,CMP-07,Northgate Stores,northgatestores.com,425,2,1
+2026-06,CMP-07,Whitmore Power,whitmorepower.com,832,3,0
+2026-06,CMP-07,Orchard Insurance,orchardins.com,1587,5,0
+2026-06,CMP-07,Riverbend Capital,riverbendcapital.com,1022,1,0
+2026-06,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1448,1,0
+2026-06,CMP-07,Gilford Utilities,gilfordutilities.com,722,5,0
+2026-06,CMP-07,Alcott Insurance,alcottins.com,512,5,0
+2026-06,CMP-07,Rosewood Power,rosewoodpower.com,740,1,0
+2026-06,CMP-07,Driftwood Systems,driftwoodsystems.com,573,0,0
+2026-06,CMP-07,Fenwick Medical Center,fenwickmedical.com,509,5,0
+2026-06,CMP-07,Briarwood Health,briarwoodhealth.com,745,6,0
+2026-06,CMP-07,Inwood Asset Management,inwoodam.com,840,3,0
+2026-06,CMP-07,Thornbury Bank,thornburybank.com,199,1,0
+2026-06,CMP-07,Linden Savings Bank,lindensavings.com,1374,2,0
+2026-06,CMP-07,Jorvale Mutual,jorvalemutual.com,1098,2,0
+2026-06,CMP-07,Copperfield Freight,copperfieldfreight.com,1094,0,1
+2026-06,CMP-07,Penrose Brands,penrosebrands.com,569,5,0
+2026-06,CMP-07,Easton Assurance,eastonassurance.com,1373,1,0
+2026-06,CMP-07,Ambergate Systems,ambergatesystems.com,916,1,0
+2026-06,CMP-07,Norwood Bancorp,norwoodbancorp.com,448,1,0
+2026-06,CMP-07,Ivywood Stores,ivywoodstores.com,910,1,0
+2026-06,CMP-07,Eastbrook Capital,eastbrookcapital.com,1107,5,0
+2026-07,CMP-07,Meridian Health,meridianhealth.com,418,5,0
+2026-07,CMP-07,Meridian Health,meridianhealth.ca,1509,4,0
+2026-07,CMP-07,Harborline Insurance,harborlineins.com,1019,5,0
+2026-07,CMP-07,Summit Financial Group,summitfg.com,713,2,0
+2026-07,CMP-07,Newbury Logistics,newburylogistics.com,433,5,0
+2026-07,CMP-07,Hollister Therapeutics,hollistertx.com,681,3,0
+2026-07,CMP-07,Quillon Retail,quillonretail.com,1572,5,0
+2026-07,CMP-07,Brackenridge Freight,brackenridgefreight.com,527,6,0
+2026-07,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1534,0,0
+2026-07,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,388,1,0
+2026-07,CMP-07,Fairhaven Bank,fairhavenbank.com,416,2,0
+2026-07,CMP-07,Foxhall Asset Management,foxhallam.com,1592,5,0
+2026-07,CMP-07,Moorland Investments,moorlandinvest.com,916,1,0
+2026-07,CMP-07,Blackthorn Insurance,blackthornins.com,1263,0,0
+2026-07,CMP-07,Bexley Retail,bexleyretail.com,986,2,1
+2026-07,CMP-07,Holloway Bank,hollowaybank.com,1553,6,0
+2026-07,CMP-07,Halverston Systems,halverstonsystems.com,1130,6,0
+2026-07,CMP-07,Ellery Stores,ellerystores.com,1497,3,0
+2026-07,CMP-07,Caldwell Energy,caldwellenergy.com,1572,2,0
+2026-07,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,799,6,0
+2026-07,CMP-07,Stelmere Mutual,stelmeremutual.com,1220,6,0
+2026-07,CMP-07,Islington Bancorp,islingtonbancorp.com,45,6,0
+2026-07,CMP-07,Elmstead Bank,elmsteadbank.com,94,0,0
+2026-07,CMP-07,Orlavale Therapeutics,orlavaletx.com,1010,1,0
+2026-07,CMP-07,Darby Savings Bank,darbysavings.com,447,3,0
+2026-07,CMP-07,Brantley Bancorp,brantleybancorp.com,840,6,1
+2026-07,CMP-07,Northcliff Insurance,northcliffins.com,1208,6,0
+2026-07,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,213,2,0
+2026-07,CMP-07,Vandermeer Transport,vandermeertransport.com,561,2,0
+2026-07,CMP-07,Upton Energy,uptonenergy.com,302,0,0
+2026-07,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,1491,1,0
+2026-07,CMP-07,Ridgeline Energy,ridgelineenergy.com,1068,5,0
+2026-07,CMP-07,Larkspur Software,larkspursoftware.com,337,2,0
+2026-07,CMP-07,Granite Systems,granitesystems.com,88,4,0
+2026-07,CMP-07,Wexford Savings Bank,wexfordsavings.com,682,0,1
+2026-07,CMP-07,Lyndon Manufacturing,lyndonmfg.com,905,4,0
+2026-07,CMP-07,Glenmore Therapeutics,glenmoretx.com,435,3,0
+2026-07,CMP-07,Hartwell Transport,hartwelltransport.com,603,0,0
+2026-07,CMP-07,Northam Manufacturing,northammfg.com,1308,1,0
+2026-07,CMP-07,Yewdale Investments,yewdaleinvest.com,167,4,0
+2026-07,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,778,2,0
+2026-07,CMP-07,Crestview Capital,crestviewcapital.com,1089,5,0
+2026-07,CMP-07,Corrowin Medical Center,corrowinmedical.com,249,3,0
+2026-07,CMP-07,Ashford Medical Center,ashfordmedical.com,652,6,0
+2026-07,CMP-07,Ogden Asset Management,ogdenam.com,1275,3,0
+2026-07,CMP-07,Stonebridge Bank,stonebridgebank.com,853,3,0
+2026-07,CMP-07,Bluewater Transport,bluewatertransport.com,1183,6,0
+2026-07,CMP-07,Waverly Stores,waverlystores.com,1281,0,0
+2026-07,CMP-07,Jarvis Stores,jarvisstores.com,578,0,0
+2026-07,CMP-07,Westbury Savings Bank,westburysavings.com,272,0,0
+2026-07,CMP-07,Ravenwood Systems,ravenwoodsystems.com,761,0,0
+2026-07,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,675,3,0
+2026-07,CMP-07,Oakmont Freight,oakmontfreight.com,838,3,0
+2026-07,CMP-07,Alder Retail,alderretail.com,269,4,0
+2026-07,CMP-07,Gresham Bank,greshambank.com,572,5,0
+2026-07,CMP-07,Yardley Investments,yardleyinvest.com,629,6,0
+2026-07,CMP-07,Canyon Bancorp,canyonbancorp.com,1275,2,0
+2026-07,CMP-07,Underhill Logistics,underhilllogistics.com,381,3,0
+2026-07,CMP-07,Norcliffe Investments,norcliffeinvest.com,668,0,0
+2026-07,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1434,4,0
+2026-07,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,121,2,0
+2026-07,CMP-07,Hawthorne Systems,hawthornesystems.com,1593,1,0
+2026-07,CMP-07,Dunmore Stores,dunmorestores.com,83,0,0
+2026-07,CMP-07,Quarry Biosciences,quarrybio.ca,838,2,0
+2026-07,CMP-07,Quinton Software,quintonsoftware.com,1299,4,0
+2026-07,CMP-07,Arden Industries,ardenind.com,905,4,0
+2026-07,CMP-07,Ashby Freight,ashbyfreight.com,1441,4,0
+2026-07,CMP-07,Thistle Mutual,thistlemutual.com,1249,6,0
+2026-07,CMP-07,Juniper Components,junipercomponents.com,571,1,0
+2026-07,CMP-07,Fernhill Freight,fernhillfreight.com,1559,3,0
+2026-07,CMP-07,Parkview Energy,parkviewenergy.com,190,5,0
+2026-07,CMP-07,Clifton Retail,cliftonretail.com,737,3,0
+2026-07,CMP-07,Eastwick Stores,eastwickstores.com,1111,4,0
+2026-07,CMP-07,Oakhurst Stores,oakhurststores.com,173,6,0
+2026-07,CMP-07,Kestrel Utilities,kestrelutilities.com,100,1,0
+2026-07,CMP-07,Bellhaven Energy,bellhavenenergy.com,322,5,0
+2026-07,CMP-07,Merrow Manufacturing,merrowmfg.com,1239,0,0
+2026-07,CMP-07,Redstone Transport,redstonetransport.com,1551,5,0
+2026-07,CMP-07,Northgate Stores,northgatestores.com,1243,1,0
+2026-07,CMP-07,Whitmore Power,whitmorepower.com,1248,1,0
+2026-07,CMP-07,Orchard Insurance,orchardins.com,533,1,0
+2026-07,CMP-07,Riverbend Capital,riverbendcapital.com,142,3,0
+2026-07,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,1557,4,0
+2026-07,CMP-07,Gilford Utilities,gilfordutilities.com,1371,6,0
+2026-07,CMP-07,Alcott Insurance,alcottins.com,1302,4,0
+2026-07,CMP-07,Rosewood Power,rosewoodpower.com,587,6,0
+2026-07,CMP-07,Driftwood Systems,driftwoodsystems.com,609,3,0
+2026-07,CMP-07,Fenwick Medical Center,fenwickmedical.com,1370,5,0
+2026-07,CMP-07,Briarwood Health,briarwoodhealth.com,1542,6,0
+2026-07,CMP-07,Inwood Asset Management,inwoodam.com,1598,1,0
+2026-07,CMP-07,Thornbury Bank,thornburybank.com,1436,1,0
+2026-07,CMP-07,Linden Savings Bank,lindensavings.com,409,2,0
+2026-07,CMP-07,Jorvale Mutual,jorvalemutual.com,673,2,0
+2026-07,CMP-07,Copperfield Freight,copperfieldfreight.com,809,5,0
+2026-07,CMP-07,Penrose Brands,penrosebrands.com,360,0,0
+2026-07,CMP-07,Easton Assurance,eastonassurance.com,906,1,0
+2026-07,CMP-07,Ambergate Systems,ambergatesystems.com,1062,4,0
+2026-07,CMP-07,Norwood Bancorp,norwoodbancorp.com,185,1,0
+2026-07,CMP-07,Ivywood Stores,ivywoodstores.com,809,5,0
+2026-07,CMP-07,Eastbrook Capital,eastbrookcapital.com,1098,0,0
+2026-08,CMP-07,Meridian Health,meridianhealth.com,507,6,0
+2026-08,CMP-07,Meridian Health,meridianhealth.ca,823,2,0
+2026-08,CMP-07,Harborline Insurance,harborlineins.com,1079,4,0
+2026-08,CMP-07,Summit Financial Group,summitfg.com,275,2,0
+2026-08,CMP-07,Newbury Logistics,newburylogistics.com,612,1,0
+2026-08,CMP-07,Hollister Therapeutics,hollistertx.com,951,4,0
+2026-08,CMP-07,Quillon Retail,quillonretail.com,1344,4,0
+2026-08,CMP-07,Brackenridge Freight,brackenridgefreight.com,619,1,0
+2026-08,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1551,6,0
+2026-08,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,86,5,0
+2026-08,CMP-07,Fairhaven Bank,fairhavenbank.com,892,6,0
+2026-08,CMP-07,Foxhall Asset Management,foxhallam.com,774,2,0
+2026-08,CMP-07,Moorland Investments,moorlandinvest.com,935,3,0
+2026-08,CMP-07,Blackthorn Insurance,blackthornins.com,1412,3,0
+2026-08,CMP-07,Bexley Retail,bexleyretail.com,1046,4,1
+2026-08,CMP-07,Holloway Bank,hollowaybank.com,1574,2,0
+2026-08,CMP-07,Halverston Systems,halverstonsystems.com,546,6,0
+2026-08,CMP-07,Ellery Stores,ellerystores.com,716,1,0
+2026-08,CMP-07,Caldwell Energy,caldwellenergy.com,897,0,0
+2026-08,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,1220,2,0
+2026-08,CMP-07,Stelmere Mutual,stelmeremutual.com,602,0,0
+2026-08,CMP-07,Islington Bancorp,islingtonbancorp.com,1451,5,0
+2026-08,CMP-07,Elmstead Bank,elmsteadbank.com,1530,4,0
+2026-08,CMP-07,Orlavale Therapeutics,orlavaletx.com,534,4,0
+2026-08,CMP-07,Darby Savings Bank,darbysavings.com,1399,5,0
+2026-08,CMP-07,Brantley Bancorp,brantleybancorp.com,614,0,0
+2026-08,CMP-07,Northcliff Insurance,northcliffins.com,449,4,0
+2026-08,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,521,2,0
+2026-08,CMP-07,Vandermeer Transport,vandermeertransport.com,1110,6,0
+2026-08,CMP-07,Upton Energy,uptonenergy.com,411,4,0
+2026-08,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,417,0,0
+2026-08,CMP-07,Ridgeline Energy,ridgelineenergy.com,301,0,0
+2026-08,CMP-07,Larkspur Software,larkspursoftware.com,1229,3,0
+2026-08,CMP-07,Granite Systems,granitesystems.com,670,3,0
+2026-08,CMP-07,Wexford Savings Bank,wexfordsavings.com,181,2,0
+2026-08,CMP-07,Lyndon Manufacturing,lyndonmfg.com,1119,3,0
+2026-08,CMP-07,Glenmore Therapeutics,glenmoretx.com,441,2,0
+2026-08,CMP-07,Hartwell Transport,hartwelltransport.com,704,2,0
+2026-08,CMP-07,Northam Manufacturing,northammfg.com,887,2,0
+2026-08,CMP-07,Yewdale Investments,yewdaleinvest.com,184,4,0
+2026-08,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,732,5,0
+2026-08,CMP-07,Crestview Capital,crestviewcapital.com,268,6,0
+2026-08,CMP-07,Corrowin Medical Center,corrowinmedical.com,1123,6,0
+2026-08,CMP-07,Ashford Medical Center,ashfordmedical.com,1220,1,0
+2026-08,CMP-07,Ogden Asset Management,ogdenam.com,1474,3,0
+2026-08,CMP-07,Stonebridge Bank,stonebridgebank.com,719,5,0
+2026-08,CMP-07,Bluewater Transport,bluewatertransport.com,1470,1,0
+2026-08,CMP-07,Waverly Stores,waverlystores.com,1261,0,0
+2026-08,CMP-07,Jarvis Stores,jarvisstores.com,449,1,1
+2026-08,CMP-07,Westbury Savings Bank,westburysavings.com,1031,2,0
+2026-08,CMP-07,Ravenwood Systems,ravenwoodsystems.com,137,5,0
+2026-08,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,637,5,0
+2026-08,CMP-07,Oakmont Freight,oakmontfreight.com,1418,2,0
+2026-08,CMP-07,Alder Retail,alderretail.com,1568,1,0
+2026-08,CMP-07,Gresham Bank,greshambank.com,51,0,0
+2026-08,CMP-07,Yardley Investments,yardleyinvest.com,731,2,0
+2026-08,CMP-07,Canyon Bancorp,canyonbancorp.com,567,4,0
+2026-08,CMP-07,Underhill Logistics,underhilllogistics.com,370,4,0
+2026-08,CMP-07,Norcliffe Investments,norcliffeinvest.com,914,3,0
+2026-08,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1415,3,0
+2026-08,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,811,4,0
+2026-08,CMP-07,Hawthorne Systems,hawthornesystems.com,1497,3,0
+2026-08,CMP-07,Dunmore Stores,dunmorestores.com,1169,2,0
+2026-08,CMP-07,Quarry Biosciences,quarrybio.ca,1542,2,0
+2026-08,CMP-07,Quinton Software,quintonsoftware.com,1015,2,0
+2026-08,CMP-07,Arden Industries,ardenind.com,1588,1,0
+2026-08,CMP-07,Ashby Freight,ashbyfreight.com,1096,4,0
+2026-08,CMP-07,Thistle Mutual,thistlemutual.com,1043,6,0
+2026-08,CMP-07,Juniper Components,junipercomponents.com,460,5,1
+2026-08,CMP-07,Fernhill Freight,fernhillfreight.com,806,6,0
+2026-08,CMP-07,Parkview Energy,parkviewenergy.com,1522,3,0
+2026-08,CMP-07,Clifton Retail,cliftonretail.com,752,6,0
+2026-08,CMP-07,Eastwick Stores,eastwickstores.com,1579,1,1
+2026-08,CMP-07,Oakhurst Stores,oakhurststores.com,403,5,0
+2026-08,CMP-07,Kestrel Utilities,kestrelutilities.com,434,4,0
+2026-08,CMP-07,Bellhaven Energy,bellhavenenergy.com,891,1,0
+2026-08,CMP-07,Merrow Manufacturing,merrowmfg.com,59,4,0
+2026-08,CMP-07,Redstone Transport,redstonetransport.com,824,1,0
+2026-08,CMP-07,Northgate Stores,northgatestores.com,1428,3,0
+2026-08,CMP-07,Whitmore Power,whitmorepower.com,998,1,0
+2026-08,CMP-07,Orchard Insurance,orchardins.com,1147,1,0
+2026-08,CMP-07,Riverbend Capital,riverbendcapital.com,1050,4,0
+2026-08,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,131,4,0
+2026-08,CMP-07,Gilford Utilities,gilfordutilities.com,895,5,0
+2026-08,CMP-07,Alcott Insurance,alcottins.com,1594,3,0
+2026-08,CMP-07,Rosewood Power,rosewoodpower.com,1216,4,0
+2026-08,CMP-07,Driftwood Systems,driftwoodsystems.com,1032,6,0
+2026-08,CMP-07,Fenwick Medical Center,fenwickmedical.com,344,5,0
+2026-08,CMP-07,Briarwood Health,briarwoodhealth.com,112,1,0
+2026-08,CMP-07,Inwood Asset Management,inwoodam.com,1394,1,0
+2026-08,CMP-07,Thornbury Bank,thornburybank.com,43,6,1
+2026-08,CMP-07,Linden Savings Bank,lindensavings.com,1385,6,0
+2026-08,CMP-07,Jorvale Mutual,jorvalemutual.com,1139,1,0
+2026-08,CMP-07,Copperfield Freight,copperfieldfreight.com,86,3,0
+2026-08,CMP-07,Penrose Brands,penrosebrands.com,1245,3,0
+2026-08,CMP-07,Easton Assurance,eastonassurance.com,1092,6,0
+2026-08,CMP-07,Ambergate Systems,ambergatesystems.com,1104,4,0
+2026-08,CMP-07,Norwood Bancorp,norwoodbancorp.com,617,2,0
+2026-08,CMP-07,Ivywood Stores,ivywoodstores.com,147,3,0
+2026-08,CMP-07,Eastbrook Capital,eastbrookcapital.com,1598,2,1
+2026-09,CMP-07,Meridian Health,meridianhealth.com,358,6,0
+2026-09,CMP-07,Meridian Health,meridianhealth.ca,1284,4,0
+2026-09,CMP-07,Harborline Insurance,harborlineins.com,411,0,0
+2026-09,CMP-07,Summit Financial Group,summitfg.com,1418,2,0
+2026-09,CMP-07,Newbury Logistics,newburylogistics.com,803,6,0
+2026-09,CMP-07,Hollister Therapeutics,hollistertx.com,820,2,0
+2026-09,CMP-07,Quillon Retail,quillonretail.com,347,1,0
+2026-09,CMP-07,Brackenridge Freight,brackenridgefreight.com,558,1,0
+2026-09,CMP-07,Brightwater Manufacturing,brightwatermfg.com,1036,0,0
+2026-09,CMP-07,Lakeshore Pharmaceuticals,lakeshorepharma.com,434,0,1
+2026-09,CMP-07,Fairhaven Bank,fairhavenbank.com,525,1,0
+2026-09,CMP-07,Foxhall Asset Management,foxhallam.com,773,4,0
+2026-09,CMP-07,Moorland Investments,moorlandinvest.com,437,2,0
+2026-09,CMP-07,Blackthorn Insurance,blackthornins.com,932,5,0
+2026-09,CMP-07,Bexley Retail,bexleyretail.com,1194,3,0
+2026-09,CMP-07,Holloway Bank,hollowaybank.com,1111,2,0
+2026-09,CMP-07,Halverston Systems,halverstonsystems.com,1119,2,0
+2026-09,CMP-07,Ellery Stores,ellerystores.com,255,6,0
+2026-09,CMP-07,Caldwell Energy,caldwellenergy.com,459,1,0
+2026-09,CMP-07,Trevelyan Logistics,trevelyanlogistics.com,146,3,0
+2026-09,CMP-07,Stelmere Mutual,stelmeremutual.com,1013,2,0
+2026-09,CMP-07,Islington Bancorp,islingtonbancorp.com,143,5,0
+2026-09,CMP-07,Elmstead Bank,elmsteadbank.com,631,6,0
+2026-09,CMP-07,Orlavale Therapeutics,orlavaletx.com,259,6,0
+2026-09,CMP-07,Darby Savings Bank,darbysavings.com,1395,3,0
+2026-09,CMP-07,Brantley Bancorp,brantleybancorp.com,82,1,0
+2026-09,CMP-07,Northcliff Insurance,northcliffins.com,1118,5,0
+2026-09,CMP-07,Lanmoor Logistics,lanmoorlogistics.com,1174,1,0
+2026-09,CMP-07,Vandermeer Transport,vandermeertransport.com,938,4,0
+2026-09,CMP-07,Upton Energy,uptonenergy.com,1003,5,0
+2026-09,CMP-07,Yorkfield Pharmaceuticals,yorkfieldpharma.com,1013,0,0
+2026-09,CMP-07,Ridgeline Energy,ridgelineenergy.com,110,2,0
+2026-09,CMP-07,Larkspur Software,larkspursoftware.com,399,4,0
+2026-09,CMP-07,Granite Systems,granitesystems.com,528,5,0
+2026-09,CMP-07,Wexford Savings Bank,wexfordsavings.com,1567,3,0
+2026-09,CMP-07,Lyndon Manufacturing,lyndonmfg.com,710,3,0
+2026-09,CMP-07,Glenmore Therapeutics,glenmoretx.com,618,2,0
+2026-09,CMP-07,Hartwell Transport,hartwelltransport.com,789,1,0
+2026-09,CMP-07,Northam Manufacturing,northammfg.com,536,5,0
+2026-09,CMP-07,Yewdale Investments,yewdaleinvest.com,147,2,0
+2026-09,CMP-07,Willowbrook Logistics,willowbrooklogistics.com,745,2,0
+2026-09,CMP-07,Crestview Capital,crestviewcapital.com,752,5,0
+2026-09,CMP-07,Corrowin Medical Center,corrowinmedical.com,67,4,0
+2026-09,CMP-07,Ashford Medical Center,ashfordmedical.com,667,1,0
+2026-09,CMP-07,Ogden Asset Management,ogdenam.com,1331,6,0
+2026-09,CMP-07,Stonebridge Bank,stonebridgebank.com,512,0,0
+2026-09,CMP-07,Bluewater Transport,bluewatertransport.com,233,2,0
+2026-09,CMP-07,Waverly Stores,waverlystores.com,315,3,0
+2026-09,CMP-07,Jarvis Stores,jarvisstores.com,577,1,0
+2026-09,CMP-07,Westbury Savings Bank,westburysavings.com,119,6,0
+2026-09,CMP-07,Ravenwood Systems,ravenwoodsystems.com,899,3,0
+2026-09,CMP-07,Lindell Pharmaceuticals,lindellpharma.com,83,3,0
+2026-09,CMP-07,Oakmont Freight,oakmontfreight.com,439,3,0
+2026-09,CMP-07,Alder Retail,alderretail.com,1104,1,0
+2026-09,CMP-07,Gresham Bank,greshambank.com,309,2,0
+2026-09,CMP-07,Yardley Investments,yardleyinvest.com,1041,6,0
+2026-09,CMP-07,Canyon Bancorp,canyonbancorp.com,659,3,0
+2026-09,CMP-07,Underhill Logistics,underhilllogistics.com,432,2,0
+2026-09,CMP-07,Norcliffe Investments,norcliffeinvest.com,589,3,0
+2026-09,CMP-07,Ivenbrook Energy,ivenbrookenergy.com,1407,3,0
+2026-09,CMP-07,Ashgrove Components,ashgrovecomponents.co.uk,749,3,0
+2026-09,CMP-07,Hawthorne Systems,hawthornesystems.com,1286,2,0
+2026-09,CMP-07,Dunmore Stores,dunmorestores.com,89,5,0
+2026-09,CMP-07,Quarry Biosciences,quarrybio.ca,1185,2,0
+2026-09,CMP-07,Quinton Software,quintonsoftware.com,1210,3,0
+2026-09,CMP-07,Arden Industries,ardenind.com,925,4,0
+2026-09,CMP-07,Ashby Freight,ashbyfreight.com,393,1,0
+2026-09,CMP-07,Thistle Mutual,thistlemutual.com,180,5,0
+2026-09,CMP-07,Juniper Components,junipercomponents.com,1210,4,0
+2026-09,CMP-07,Fernhill Freight,fernhillfreight.com,513,6,0
+2026-09,CMP-07,Parkview Energy,parkviewenergy.com,1167,4,0
+2026-09,CMP-07,Clifton Retail,cliftonretail.com,509,3,0
+2026-09,CMP-07,Eastwick Stores,eastwickstores.com,1596,0,0
+2026-09,CMP-07,Oakhurst Stores,oakhurststores.com,1430,3,0
+2026-09,CMP-07,Kestrel Utilities,kestrelutilities.com,1027,5,0
+2026-09,CMP-07,Bellhaven Energy,bellhavenenergy.com,255,2,0
+2026-09,CMP-07,Merrow Manufacturing,merrowmfg.com,172,0,0
+2026-09,CMP-07,Redstone Transport,redstonetransport.com,222,4,0
+2026-09,CMP-07,Northgate Stores,northgatestores.com,697,4,0
+2026-09,CMP-07,Whitmore Power,whitmorepower.com,1191,1,0
+2026-09,CMP-07,Orchard Insurance,orchardins.com,371,1,0
+2026-09,CMP-07,Riverbend Capital,riverbendcapital.com,990,0,0
+2026-09,CMP-07,Aldenmoor Investments,aldenmoorinvest.com,556,1,0
+2026-09,CMP-07,Gilford Utilities,gilfordutilities.com,559,6,0
+2026-09,CMP-07,Alcott Insurance,alcottins.com,1020,0,0
+2026-09,CMP-07,Rosewood Power,rosewoodpower.com,833,6,0
+2026-09,CMP-07,Driftwood Systems,driftwoodsystems.com,1119,6,0
+2026-09,CMP-07,Fenwick Medical Center,fenwickmedical.com,1216,1,0
+2026-09,CMP-07,Briarwood Health,briarwoodhealth.com,1069,0,0
+2026-09,CMP-07,Inwood Asset Management,inwoodam.com,948,0,0
+2026-09,CMP-07,Thornbury Bank,thornburybank.com,731,5,0
+2026-09,CMP-07,Linden Savings Bank,lindensavings.com,1043,4,0
+2026-09,CMP-07,Jorvale Mutual,jorvalemutual.com,366,5,0
+2026-09,CMP-07,Copperfield Freight,copperfieldfreight.com,1150,2,0
+2026-09,CMP-07,Penrose Brands,penrosebrands.com,758,3,0
+2026-09,CMP-07,Easton Assurance,eastonassurance.com,754,1,0
+2026-09,CMP-07,Ambergate Systems,ambergatesystems.com,285,2,0
+2026-09,CMP-07,Norwood Bancorp,norwoodbancorp.com,1415,6,0
+2026-09,CMP-07,Ivywood Stores,ivywoodstores.com,1374,6,0
+2026-09,CMP-07,Eastbrook Capital,eastbrookcapital.com,1392,1,0

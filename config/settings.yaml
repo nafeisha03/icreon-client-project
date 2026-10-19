@@ -1,0 +1,35 @@
+# General settings for the Calder Hollis prototype.
+# Change a value here, then run the pipeline again:  python -m calder_abm.pipeline
+
+paths:
+  raw_dir: data/raw                  # messy synthetic exports (what the system really sees)
+  clean_dir: data/clean              # the same scenario with no mess, for comparison
+  answer_key_dir: data/answer_key    # the generator's hidden truth; only tests and evaluation read it
+  messy_db: data/calder_abm.db       # results from the messy data; the dashboard shows these
+  clean_db: data/calder_abm_clean.db # results from the clean twin
+  schema: sql/schema.sql
+
+# The dates the analysis is run for. Each one uses only the records that had
+# arrived by that date, so early judgments can be checked against what happened.
+review_points:
+  - {date: "2025-03-31", label: "Six-month review"}
+  - {date: "2025-09-30", label: "Month 12"}
+  - {date: "2026-03-31", label: "18-month goal date"}
+  - {date: "2026-09-30", label: "Month 24 (latest)"}
+
+# The two measurement windows: what most web analytics uses, and one full sales cycle.
+windows:
+  short_days: 30
+  long_days: 330
+
+# The business goal, used for the goal tracker on the dashboard.
+goal:
+  launch_date: "2024-10-01"
+  engagements: 12
+  months: 18
+  goal_date: "2026-03-31"
+  average_value_usd: 340000
+  marketing_budget_usd: 1200000
+
+# A record that reaches us more than this many days after it happened is marked late.
+late_arrival_days: 3

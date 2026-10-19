@@ -1,0 +1,280 @@
+# Which column in each source file means what.
+#
+# This is the file to change when a real export arrives with different column
+# names, or when the system is pointed at another industry's data. Nothing in
+# the code refers to a source's own column names directly.
+#
+#   file          the file name inside data/raw (or data/clean)
+#   source        the source name stored with every row
+#   kind          what the rows are: master_list, campaign_list, spend, crm_accounts,
+#                 crm_contacts, opportunities, or activity (rows that become signals)
+#   date_column   when it happened; date_format tells the cleaner how to read
+#                 ambiguous dates: iso, us (month first), day_first, unix, month, any
+#   received_column  when the row reached us, if the export says so
+#   fields        standard field name: the source's column name
+#   event         the column(s) whose value decides the signal type, joined by ":"
+#   signal_map    event value: signal type ("*" matches anything)
+#   campaign      a fixed campaign for every row, if the source is one program
+
+sources:
+  target_accounts:
+    file: target_accounts.csv
+    source: target_list
+    kind: master_list
+    fields:
+      account_id: account_id
+      company_name: company_name
+      domain: website
+      industry: industry
+      company_size: employees
+      city: city
+      region: state_or_region
+      country: country
+      owner: owner
+      tier: tier
+      relationship: existing_relationship
+
+  campaigns:
+    file: campaigns.csv
+    source: marketing
+    kind: campaign_list
+    fields:
+      campaign_id: campaign_id
+      name: campaign_name
+      channel: channel
+      start_date: start_date
+      end_date: end_date
+      planned_budget: planned_budget_usd
+      description: description
+
+  marketing_spend:
+    file: marketing_spend.csv
+    source: finance
+    kind: spend
+    fields:
+      invoice_id: invoice_id
+      month: month
+      campaign_id: campaign_id
+      category: category
+      amount: amount_usd
+      vendor: vendor
+      memo: memo
+
+  crm_accounts:
+    file: crm_accounts.csv
+    source: crm
+    kind: crm_accounts
+    date_format: us
+    fields:
+      crm_account_id: crm_account_id
+      company_name: account_name
+      domain: website
+      country: billing_country
+      target_account_id: target_account_id
+      owner: owner
+      created: created_date
+
+  crm_contacts:
+    file: crm_contacts.csv
+    source: crm
+    kind: crm_contacts
+    date_format: us
+    fields:
+      crm_contact_id: crm_contact_id
+      crm_account_id: crm_account_id
+      first_name: first_name
+      last_name: last_name
+      email: email
+      job_title: title
+      modified: last_modified
+
+  crm_opportunities:
+    file: crm_opportunities.csv
+    source: crm
+    kind: opportunities
+    date_format: us
+    fields:
+      opportunity_id: opportunity_id
+      crm_account_id: crm_account_id
+      name: opportunity_name
+      service_line: service_line
+      amount: amount_usd
+      crm_stage: stage
+      lead_source: lead_source
+      status: status
+      loss_reason: loss_reason
+      created: created_date
+      expected_close: expected_close_date
+      closed: closed_date
+
+  crm_activities:
+    file: crm_activities.csv
+    source: crm
+    kind: activity
+    date_column: activity_date
+    date_format: us
+    fields:
+      crm_account_id: crm_account_id
+      crm_contact_id: crm_contact_id
+      details: subject
+    event: activity_type
+    campaign_by_event:      # some activity types belong to a marketing program
+      Introduction: CMP-09
+    signal_map:
+      Discovery meeting: discovery_meeting
+      Follow-up meeting: follow_up_meeting
+      Executive meeting: executive_meeting
+      Meeting cancelled: meeting_cancelled
+      Call: informal_conversation
+      Introduction: personal_introduction
+      Outreach: outreach_sent
+      Proposal requested: proposal_requested
+      Pricing requested: pricing_requested
+      RFP received: rfp_received
+      Proposal sent: proposal_sent
+      Legal review: legal_joined
+      Procurement started: procurement_started
+      Verbal commitment: verbal_commitment
+      Negotiation: contract_negotiation
+      Contract signed: contract_signed
+
+  meetings:
+    file: meetings.csv
+    source: meetings
+    kind: activity
+    date_column: start_time
+    date_format: iso
+    fields:
+      details: subject
+      attendees: attendees
+    event: [status, category]
+    signal_map:
+      held:Discovery: discovery_meeting
+      held:Follow-up: follow_up_meeting
+      held:Executive: executive_meeting
+      cancelled:*: meeting_cancelled
+      scheduled:*: meeting_scheduled
+
+  meeting_notes:
+    file: meeting_notes.jsonl
+    source: notes
+    kind: activity
+    date_column: note_date
+    date_format: any
+    fields:
+      crm_account_id: crm_account_id
+      company_name: company
+      email: contact_email
+      details: note_type
+      text: text
+    event: note_type
+    signal_map: {}          # notes become signals only through the notes reader
+
+  email_events:
+    file: email_events.csv
+    source: email
+    kind: activity
+    date_column: event_time
+    date_format: unix
+    fields:
+      email: recipient_email
+      campaign_id: campaign_id
+      text: reply_text
+    event: event_type
+    signal_map:
+      sent: outreach_sent
+      opened: email_opened
+      replied: email_replied
+      unsubscribed: unsubscribed
+
+  web_visits:
+    file: web_visits.csv
+    source: website
+    kind: activity
+    date_column: visit_time
+    date_format: iso
+    fields:
+      company_name: visitor_company
+      domain: visitor_domain
+      email: form_email
+      details: page
+      asset: asset
+      campaign_id: utm_campaign
+    default_campaign: CMP-10   # identified visits with no campaign tag count toward the website program
+    event: action
+    signal_map:
+      page_view: website_visit
+      download: content_downloaded
+
+  event_attendance:
+    file: event_attendance.csv
+    source: events
+    kind: activity
+    date_column: event_date
+    date_format: day_first
+    received_column: exported_at
+    fields:
+      person_name: registrant_name
+      email: email
+      company_name: company
+      job_title: job_title
+      campaign_id: campaign_id
+      details: event_name
+    event: [event_type, status]
+    signal_map:
+      Webinar:registered: webinar_registered
+      Webinar:attended: webinar_attended
+      Webinar:no-show: webinar_registered
+      Roundtable:attended: event_attended
+      Conference:attended: conference_conversation
+
+  partner_referrals:
+    file: partner_referrals.csv
+    source: partners
+    kind: activity
+    date_column: referral_date
+    date_format: any
+    campaign: CMP-06
+    fields:
+      company_name: company_name
+      domain: company_website
+      person_name: contact_name
+      job_title: contact_title
+      email: contact_email
+      details: partner_name
+      text: stated_need
+      consent: client_agreed
+    event: "*"
+    signal_map:
+      "*": tech_partner_referral
+
+  external_signals:
+    file: external_signals.json
+    source: external
+    kind: activity
+    date_column: date
+    date_format: iso
+    fields:
+      company_name: company_name
+      domain: company_website
+      details: headline
+    event: kind
+    signal_map:
+      news: news_trigger
+      job posting: job_posting
+
+  linkedin_ads:
+    file: linkedin_ads.csv
+    source: marketing
+    kind: activity
+    date_column: report_month
+    date_format: month
+    fields:
+      company_name: company_name
+      domain: company_website
+      campaign_id: campaign_id
+      impressions: impressions
+      engagements: engagements
+    event: "*"
+    signal_map:
+      "*": ad_shown          # an engagement count above zero also creates a LinkedIn engagement signal

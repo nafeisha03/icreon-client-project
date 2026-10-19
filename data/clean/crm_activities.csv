@@ -1,0 +1,185 @@
+activity_id,crm_account_id,crm_contact_id,activity_date,activity_type,subject,owner
+00T000001,001A00052,003C00119,2025-01-24,Pricing requested,Pricing requested - Prescott Industries,K. Nakamura
+00T000002,001A00102,003C00228,2025-01-26,Introduction,Introduction - Alcott Insurance,S. Patel
+00T000003,001A00052,003C00119,2025-01-27,Proposal sent,Proposal sent - Prescott Industries,K. Nakamura
+00T000004,001A00018,003C00267,2025-02-02,Call,Call - Holloway Bank,K. Nakamura
+00T000005,001A00104,003C00232,2025-02-26,Call,Call with Elena Liu,J. Whitfield
+00T000006,001A00107,003C00238,2025-03-06,Proposal requested,Proposal requested - Inwood Asset Management,R. Okafor
+00T000007,001A00107,003C00238,2025-03-13,Proposal sent,Proposal sent - Inwood Asset Management,R. Okafor
+00T000008,001A00107,003C00268,2025-04-01,Legal review,Legal review - Inwood Asset Management,R. Okafor
+00T000009,001A00052,003C00120,2025-04-01,Verbal commitment,Verbal commitment - Prescott Industries,K. Nakamura
+00T000010,001A00104,003C00232,2025-04-17,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000011,001A00026,003C00269,2025-05-21,Call,Call - Islington Bancorp,D. Alvarez
+00T000012,001A00104,003C00232,2025-05-29,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000013,001A00017,003C00040,2025-05-29,Introduction,Introduction - Bexley Retail,M. Chen
+00T000014,001A00104,003C00232,2025-07-07,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000015,001A00102,003C00229,2025-07-22,Pricing requested,Pricing requested - Alcott Insurance,S. Patel
+00T000016,001A00102,003C00229,2025-07-31,Proposal sent,Proposal sent - Alcott Insurance,S. Patel
+00T000017,001A00061,003C00138,2025-08-01,Call,Call with Sofia Grant,M. Chen
+00T000018,001A00050,003C00116,2025-08-08,RFP received,RFP received from Ashford Medical Center: AI controls assessment,S. Patel
+00T000019,001A00050,003C00116,2025-08-17,Proposal sent,Proposal sent - Ashford Medical Center,S. Patel
+00T000020,001A00102,003C00272,2025-08-17,Procurement started,Procurement started - Alcott Insurance,S. Patel
+00T000021,001A00028,003C00064,2025-08-18,Proposal requested,Proposal requested - Orlavale Therapeutics,S. Patel
+00T000022,001A00012,003C00029,2025-08-22,Introduction,Introduction - Lakeshore Pharmaceuticals,M. Chen
+00T000023,001A00104,003C00232,2025-08-24,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000024,001A00028,003C00064,2025-08-25,Proposal sent,Proposal sent - Orlavale Therapeutics,S. Patel
+00T000025,001A00005,003C00012,2025-08-26,Call,Call with Hannah Menon,R. Okafor
+00T000026,001A00028,003C00275,2025-09-02,Legal review,Legal review - Orlavale Therapeutics,S. Patel
+00T000027,001A00040,003C00090,2025-09-10,Call,Call with Ben Lindqvist,D. Alvarez
+00T000028,001A00046,003C00105,2025-09-16,Proposal requested,Proposal requested - Willowbrook Logistics,J. Whitfield
+00T000029,001A00102,003C00277,2025-09-20,Verbal commitment,Verbal commitment - Alcott Insurance,S. Patel
+00T000030,001A00046,003C00105,2025-09-24,Proposal sent,Proposal sent - Willowbrook Logistics,J. Whitfield
+00T000031,001A00048,003C00111,2025-09-27,Proposal requested,Proposal requested - Crestview Capital,K. Nakamura
+00T000032,001A00104,003C00232,2025-09-28,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000033,001A00036,003C00081,2025-10-01,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000034,001A00111,003C00246,2025-10-01,Proposal requested,Proposal requested - Jorvale Mutual,M. Chen
+00T000035,001A00023,003C00052,2025-10-01,Call,Call with Chloe Shapiro,K. Nakamura
+00T000036,001A00048,003C00111,2025-10-03,Proposal sent,Proposal sent - Crestview Capital,K. Nakamura
+00T000037,001A00050,003C00276,2025-10-03,Negotiation,Negotiation - Ashford Medical Center,S. Patel
+00T000038,001A00111,003C00246,2025-10-08,Proposal sent,Proposal sent - Jorvale Mutual,M. Chen
+00T000039,001A00017,003C00040,2025-10-13,Proposal requested,Proposal requested - Bexley Retail,M. Chen
+00T000040,001A00050,003C00279,2025-10-14,Contract signed,Contract signed - Ashford Medical Center,S. Patel
+00T000041,001A00070,003C00157,2025-10-16,Introduction,Introduction - Underhill Logistics,J. Whitfield
+00T000042,001A00061,003C00138,2025-10-19,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000043,001A00028,003C00063,2025-10-20,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000044,001A00046,003C00106,2025-10-21,Verbal commitment,Verbal commitment - Willowbrook Logistics,J. Whitfield
+00T000045,001A00017,003C00040,2025-10-23,Proposal sent,Proposal sent - Bexley Retail,M. Chen
+00T000046,001A00111,003C00281,2025-10-25,Procurement started,Procurement started - Jorvale Mutual,M. Chen
+00T000047,001A00095,003C00283,2025-11-02,Call,Call - Redstone Transport,K. Nakamura
+00T000048,001A00046,003C00282,2025-11-02,Negotiation,Negotiation - Willowbrook Logistics,J. Whitfield
+00T000049,001A00005,003C00013,2025-11-13,Proposal requested,Proposal requested - Summit Financial Group,R. Okafor
+00T000050,001A00046,003C00107,2025-11-14,Contract signed,Contract signed - Willowbrook Logistics,J. Whitfield
+00T000051,001A00104,003C00232,2025-11-14,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000052,001A00036,003C00081,2025-11-19,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000053,001A00005,003C00013,2025-11-22,Proposal sent,Proposal sent - Summit Financial Group,R. Okafor
+00T000054,001A00088,003C00196,2025-11-26,Proposal requested,Proposal requested - Clifton Retail,K. Nakamura
+00T000055,001A00088,003C00196,2025-11-29,Proposal sent,Proposal sent - Clifton Retail,K. Nakamura
+00T000056,001A00028,003C00063,2025-11-30,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000057,001A00090,003C00201,2025-12-02,Call,Call with Priya Bell,S. Patel
+00T000058,001A00010,003C00025,2025-12-04,RFP received,RFP received from Brackenridge Freight: AI controls assessment,D. Alvarez
+00T000059,001A00010,003C00025,2025-12-11,Proposal sent,Proposal sent - Brackenridge Freight,D. Alvarez
+00T000060,001A00061,003C00138,2025-12-17,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000061,001A00104,003C00232,2025-12-26,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000062,001A00075,003C00168,2025-12-28,Proposal requested,Proposal requested - Hawthorne Systems,R. Okafor
+00T000063,001A00075,003C00168,2026-01-02,Proposal sent,Proposal sent - Hawthorne Systems,R. Okafor
+00T000064,001A00082,003C00288,2026-01-04,Call,Call - Ashby Freight,D. Alvarez
+00T000065,001A00040,003C00091,2026-01-04,Proposal requested,Proposal requested - Wexford Savings Bank,D. Alvarez
+00T000066,001A00088,003C00197,2026-01-08,Verbal commitment,Verbal commitment - Clifton Retail,K. Nakamura
+00T000067,001A00040,003C00091,2026-01-08,Proposal sent,Proposal sent - Wexford Savings Bank,D. Alvarez
+00T000068,001A00036,003C00081,2026-01-16,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000069,001A00111,003C00280,2026-01-17,Negotiation,Negotiation - Jorvale Mutual,M. Chen
+00T000070,001A00014,003C00034,2026-01-17,RFP received,RFP received from Foxhall Asset Management: AI controls assessment,D. Alvarez
+00T000071,001A00005,003C00013,2026-01-19,Verbal commitment,Verbal commitment - Summit Financial Group,R. Okafor
+00T000072,001A00028,003C00063,2026-01-21,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000073,001A00023,003C00052,2026-01-22,Pricing requested,Pricing requested - Caldwell Energy,K. Nakamura
+00T000074,001A00012,003C00029,2026-01-22,Proposal requested,Proposal requested - Lakeshore Pharmaceuticals,M. Chen
+00T000075,001A00061,003C00138,2026-01-23,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000076,001A00023,003C00052,2026-01-26,Proposal sent,Proposal sent - Caldwell Energy,K. Nakamura
+00T000077,001A00014,003C00034,2026-01-26,Proposal sent,Proposal sent - Foxhall Asset Management,D. Alvarez
+00T000078,001A00012,003C00029,2026-02-01,Proposal sent,Proposal sent - Lakeshore Pharmaceuticals,M. Chen
+00T000079,001A00088,003C00289,2026-02-01,Negotiation,Negotiation - Clifton Retail,K. Nakamura
+00T000080,001A00005,003C00290,2026-02-02,Negotiation,Negotiation - Summit Financial Group,R. Okafor
+00T000081,001A00111,003C00271,2026-02-08,Contract signed,Contract signed - Jorvale Mutual,M. Chen
+00T000082,001A00104,003C00232,2026-02-12,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000083,001A00005,003C00293,2026-02-16,Contract signed,Contract signed - Summit Financial Group,R. Okafor
+00T000084,001A00040,003C00291,2026-02-19,Negotiation,Negotiation - Wexford Savings Bank,D. Alvarez
+00T000085,001A00092,003C00205,2026-02-20,Introduction,Introduction - Kestrel Utilities,S. Patel
+00T000086,001A00036,003C00081,2026-02-25,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000087,001A00088,003C00294,2026-02-26,Contract signed,Contract signed - Clifton Retail,K. Nakamura
+00T000088,001A00090,003C00201,2026-02-26,Pricing requested,Pricing requested - Eastwick Stores,S. Patel
+00T000089,001A00038,003C00085,2026-02-27,Pricing requested,Pricing requested - Larkspur Software,S. Patel
+00T000090,001A00042,003C00095,2026-03-01,Call,Call with Claire Fischer,K. Nakamura
+00T000091,001A00038,003C00085,2026-03-05,Proposal sent,Proposal sent - Larkspur Software,S. Patel
+00T000092,001A00033,003C00075,2026-03-05,Proposal requested,Proposal requested - Vandermeer Transport,R. Okafor
+00T000093,001A00040,003C00295,2026-03-05,Contract signed,Contract signed - Wexford Savings Bank,D. Alvarez
+00T000094,001A00012,003C00030,2026-03-07,Verbal commitment,Verbal commitment - Lakeshore Pharmaceuticals,M. Chen
+00T000095,001A00090,003C00201,2026-03-07,Proposal sent,Proposal sent - Eastwick Stores,S. Patel
+00T000096,001A00028,003C00063,2026-03-09,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000097,001A00033,003C00075,2026-03-11,Proposal sent,Proposal sent - Vandermeer Transport,R. Okafor
+00T000098,001A00062,003C00141,2026-03-12,Proposal requested,Proposal requested - Oakmont Freight,S. Patel
+00T000099,001A00061,003C00138,2026-03-13,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000100,001A00062,003C00141,2026-03-15,Proposal sent,Proposal sent - Oakmont Freight,S. Patel
+00T000101,001A00057,003C00129,2026-03-19,Call,Call with Paula Sato,K. Nakamura
+00T000102,001A00023,003C00297,2026-03-20,Negotiation,Negotiation - Caldwell Energy,K. Nakamura
+00T000103,001A00073,003C00164,2026-03-27,Call,Call with Rachel Malik,S. Patel
+00T000104,001A00008,003C00019,2026-03-27,Proposal requested,Proposal requested - Hollister Therapeutics,M. Chen
+00T000105,001A00095,003C00212,2026-03-31,Pricing requested,Pricing requested - Redstone Transport,K. Nakamura
+00T000106,001A00008,003C00019,2026-04-02,Proposal sent,Proposal sent - Hollister Therapeutics,M. Chen
+00T000107,001A00023,003C00298,2026-04-08,Contract signed,Contract signed - Caldwell Energy,K. Nakamura
+00T000108,001A00095,003C00212,2026-04-10,Proposal sent,Proposal sent - Redstone Transport,K. Nakamura
+00T000109,001A00036,003C00081,2026-04-10,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000110,001A00104,003C00232,2026-04-10,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000111,001A00044,003C00100,2026-04-19,Outreach,Outreach - Northam Manufacturing,M. Chen
+00T000112,001A00012,003C00285,2026-04-20,Contract signed,Contract signed - Lakeshore Pharmaceuticals,M. Chen
+00T000113,001A00061,003C00138,2026-04-23,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000114,001A00028,003C00063,2026-04-27,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000115,001A00008,003C00021,2026-04-27,Verbal commitment,Verbal commitment - Hollister Therapeutics,M. Chen
+00T000116,001A00090,003C00201,2026-05-03,Outreach,Outreach - Eastwick Stores,S. Patel
+00T000117,001A00034,003C00076,2026-05-03,Proposal requested,Proposal requested - Upton Energy,J. Whitfield
+00T000118,001A00034,003C00076,2026-05-11,Proposal sent,Proposal sent - Upton Energy,J. Whitfield
+00T000119,001A00033,003C00075,2026-05-12,Verbal commitment,Verbal commitment - Vandermeer Transport,R. Okafor
+00T000120,001A00042,003C00095,2026-05-13,Outreach,Outreach - Glenmore Therapeutics,K. Nakamura
+00T000121,001A00009,003C00022,2026-05-14,Call,Call with Tom Doyle,R. Okafor
+00T000122,001A00036,003C00081,2026-05-25,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000123,001A00104,003C00232,2026-05-25,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000124,001A00033,003C00301,2026-05-25,Negotiation,Negotiation - Vandermeer Transport,R. Okafor
+00T000125,001A00044,003C00100,2026-05-29,Outreach,Outreach - Northam Manufacturing,M. Chen
+00T000126,001A00064,003C00144,2026-05-30,Introduction,Introduction - Alder Retail,S. Patel
+00T000127,001A00095,003C00213,2026-05-30,Verbal commitment,Verbal commitment - Redstone Transport,K. Nakamura
+00T000128,001A00008,003C00021,2026-06-01,Contract signed,Contract signed - Hollister Therapeutics,M. Chen
+00T000129,001A00058,003C00131,2026-06-01,Pricing requested,Pricing requested - Westbury Savings Bank,S. Patel
+00T000130,001A00034,003C00302,2026-06-05,Procurement started,Procurement started - Upton Energy,J. Whitfield
+00T000131,001A00062,003C00141,2026-06-07,Verbal commitment,Verbal commitment - Oakmont Freight,S. Patel
+00T000132,001A00033,003C00284,2026-06-07,Contract signed,Contract signed - Vandermeer Transport,R. Okafor
+00T000133,001A00091,003C00203,2026-06-08,Call,Call with Hugo Rahman,D. Alvarez
+00T000134,001A00058,003C00131,2026-06-11,Proposal sent,Proposal sent - Westbury Savings Bank,S. Patel
+00T000135,001A00061,003C00138,2026-06-14,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000136,001A00062,003C00303,2026-06-15,Negotiation,Negotiation - Oakmont Freight,S. Patel
+00T000137,001A00073,003C00165,2026-06-18,Pricing requested,Pricing requested - Ivenbrook Energy,S. Patel
+00T000138,001A00028,003C00063,2026-06-20,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000139,001A00062,003C00304,2026-06-24,Contract signed,Contract signed - Oakmont Freight,S. Patel
+00T000140,001A00090,003C00201,2026-06-25,Outreach,Outreach - Eastwick Stores,S. Patel
+00T000141,001A00073,003C00165,2026-06-26,Proposal sent,Proposal sent - Ivenbrook Energy,S. Patel
+00T000142,001A00095,003C00283,2026-06-27,Contract signed,Contract signed - Redstone Transport,K. Nakamura
+00T000143,001A00057,003C00129,2026-06-29,Proposal requested,Proposal requested - Jarvis Stores,K. Nakamura
+00T000144,001A00036,003C00081,2026-06-30,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000145,001A00042,003C00095,2026-07-03,Outreach,Outreach - Glenmore Therapeutics,K. Nakamura
+00T000146,001A00020,003C00046,2026-07-04,Introduction,Introduction - Halverston Systems,D. Alvarez
+00T000147,001A00053,003C00121,2026-07-06,Introduction,Introduction - Ulverbrook Capital,R. Okafor
+00T000148,001A00057,003C00129,2026-07-06,Proposal sent,Proposal sent - Jarvis Stores,K. Nakamura
+00T000149,001A00044,003C00100,2026-07-07,Outreach,Outreach - Northam Manufacturing,M. Chen
+00T000150,001A00058,003C00305,2026-07-07,Procurement started,Procurement started - Westbury Savings Bank,S. Patel
+00T000151,001A00089,003C00198,2026-07-10,Introduction,Introduction - Barrowfield Bank,R. Okafor
+00T000152,001A00104,003C00232,2026-07-14,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000153,001A00034,003C00306,2026-07-23,Verbal commitment,Verbal commitment - Upton Energy,J. Whitfield
+00T000154,001A00028,003C00063,2026-07-27,Outreach,Outreach - Orlavale Therapeutics,S. Patel
+00T000155,001A00058,003C00307,2026-07-27,Negotiation,Negotiation - Westbury Savings Bank,S. Patel
+00T000156,001A00061,003C00138,2026-07-30,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000157,001A00072,003C00161,2026-08-10,RFP received,RFP received from Tamarack Freight: AI controls assessment,S. Patel
+00T000158,001A00034,003C00308,2026-08-11,Negotiation,Negotiation - Upton Energy,J. Whitfield
+00T000159,001A00058,003C00133,2026-08-12,Contract signed,Contract signed - Westbury Savings Bank,S. Patel
+00T000160,001A00090,003C00201,2026-08-17,Outreach,Outreach - Eastwick Stores,S. Patel
+00T000161,001A00036,003C00081,2026-08-20,Outreach,Outreach - Pinehaven Mutual,D. Alvarez
+00T000162,001A00072,003C00161,2026-08-20,Proposal sent,Proposal sent - Tamarack Freight,S. Patel
+00T000163,001A00042,003C00095,2026-08-20,Outreach,Outreach - Glenmore Therapeutics,K. Nakamura
+00T000164,001A00060,003C00136,2026-08-21,Call,Call with Tessa Raman,M. Chen
+00T000165,001A00001,003C00002,2026-08-21,Proposal requested,Proposal requested - ABC Corp,R. Okafor
+00T000166,001A00045,003C00102,2026-08-25,Call,Call with Caleb Mori,M. Chen
+00T000167,001A00049,003C00113,2026-08-26,Pricing requested,Pricing requested - Corrowin Medical Center,J. Whitfield
+00T000168,001A00001,003C00002,2026-08-28,Proposal sent,Proposal sent - ABC Corp,R. Okafor
+00T000169,001A00104,003C00232,2026-08-29,Outreach,Outreach - Driftwood Systems,J. Whitfield
+00T000170,001A00044,003C00100,2026-08-30,Outreach,Outreach - Northam Manufacturing,M. Chen
+00T000171,001A00080,003C00179,2026-08-31,Pricing requested,Pricing requested - Quinton Software,D. Alvarez
+00T000172,001A00034,003C00306,2026-08-31,Contract signed,Contract signed - Upton Energy,J. Whitfield
+00T000173,001A00080,003C00179,2026-09-03,Proposal sent,Proposal sent - Quinton Software,D. Alvarez
+00T000174,001A00073,003C00165,2026-09-05,Verbal commitment,Verbal commitment - Ivenbrook Energy,S. Patel
+00T000175,001A00049,003C00113,2026-09-08,Proposal sent,Proposal sent - Corrowin Medical Center,J. Whitfield
+00T000176,001A00016,003C00038,2026-09-10,Introduction,Introduction - Blackthorn Insurance,D. Alvarez
+00T000177,001A00057,003C00299,2026-09-10,Verbal commitment,Verbal commitment - Jarvis Stores,K. Nakamura
+00T000178,001A00091,003C00203,2026-09-12,Pricing requested,Pricing requested - Oakhurst Stores,D. Alvarez
+00T000179,001A00072,003C00310,2026-09-12,Legal review,Legal review - Tamarack Freight,S. Patel
+00T000180,001A00061,003C00138,2026-09-14,Outreach,Outreach - Lindell Pharmaceuticals,M. Chen
+00T000181,001A00080,003C00314,2026-09-17,Procurement started,Procurement started - Quinton Software,D. Alvarez
+00T000182,001A00009,003C00022,2026-09-18,Pricing requested,Pricing requested - Quillon Retail,R. Okafor
+00T000183,001A00091,003C00203,2026-09-19,Proposal sent,Proposal sent - Oakhurst Stores,D. Alvarez
+00T000184,001A00028,003C00063,2026-09-21,Outreach,Outreach - Orlavale Therapeutics,S. Patel

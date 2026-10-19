@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,start_date,end_date,planned_budget_usd,description
+CMP-01,AI Controls Webinar Series,Webinar,2024-11-01,2026-09-30,90000,Webinar program for the AI Assurance and Controls practice
+CMP-02,State of AI Governance Report,Content,2025-02-01,2026-09-30,60000,Content program for the AI Assurance and Controls practice
+CMP-03,Executive Roundtables,Roundtable or dinner,2024-12-01,2026-09-30,,Roundtable or dinner program for the AI Assurance and Controls practice
+CMP-04,AI Risk Summit 2025,Conference,2025-05-14,2025-05-15,140000,Conference program for the AI Assurance and Controls practice
+CMP-05,AI Risk Summit 2026,Conference,2026-05-13,2026-05-14,,Conference program for the AI Assurance and Controls practice
+CMP-06,Technology Partner Program,Technology partners,2024-12-01,2026-09-30,120000,Technology partners program for the AI Assurance and Controls practice
+CMP-07,LinkedIn ABM Ads,LinkedIn,2024-11-01,2026-09-30,180000,LinkedIn program for the AI Assurance and Controls practice
+CMP-08,Email Nurture,Email,2024-10-01,2026-09-30,40000,Email program for the AI Assurance and Controls practice
+CMP-09,Partner Network Introductions,Partner network,2025-01-01,2026-09-30,50000,Partner network program for the AI Assurance and Controls practice
+CMP-10,Website and Thought Leadership,Website,2024-10-01,2026-09-30,75000,Website program for the AI Assurance and Controls practice
+CMP-11,Industry PR,PR,2025-03-01,2026-06-30,,PR program for the AI Assurance and Controls practice
+CMP-12,Paid Search,Paid media,2025-01-01,2025-12-31,45000,Paid media program for the AI Assurance and Controls practice

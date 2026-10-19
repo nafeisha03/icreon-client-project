@@ -1,0 +1,200 @@
+# Phrases that mark facts in free-text notes (partner notes, call notes, email threads).
+#
+# How the notes reader uses this file:
+#   1. It splits each note into sentences.
+#   2. A sentence that contains a phrase below becomes that signal, and the
+#      sentence itself is kept as evidence so anyone can check the reading.
+#   3. A sentence with a hedge word ("may have", "might", ...) is NOT turned into
+#      a signal. It is listed as an open question instead.
+#   4. A sentence with one of a signal's "negations" is skipped for that signal.
+#
+# Matching ignores capital letters. Add phrases here as partners' wording is learned.
+
+# A hedged sentence about one of these topics becomes an open question.
+topic_words:
+  - budget
+  - proposal
+  - counsel
+  - legal
+  - procurement
+  - decide
+  - decision
+  - pilot
+  - competitor
+  - timeline
+  - review
+  - funding
+
+hedges:
+  - may have
+  - may be
+  - may need
+  - might
+  - possibly
+  - maybe
+  - perhaps
+  - hopefully
+  - not sure
+  - unclear whether
+  - could be
+  - probably
+  - assuming
+
+signals:
+  need_identified:
+    phrases:
+      - need an independent review
+      - needs an independent review
+      - want an ai controls review
+      - wants an ai controls review
+      - asked us to review
+      - asked us to assess
+      - board wants
+      - regulator asked
+      - need help with
+      - needs help with
+      - looking for assurance
+      - need assurance over
+  budget_confirmed:
+    phrases:
+      - budget is approved
+      - budget approved
+      - budget has been approved
+      - funding is in place
+      - has budget for
+  timeline_confirmed:
+    phrases:
+      - want to decide by
+      - wants to decide by
+      - decision expected by
+      - plan to start in
+      - aim to start in
+      - need it done by
+  competitor_mentioned:
+    phrases:
+      - also talking to
+      - competing proposal
+      - other firms are bidding
+      - also invited
+  no_competitor_confirmed:
+    phrases:
+      - not talking to anyone else
+      - sole source
+      - no other firms
+  decision_process_confirmed:
+    phrases:
+      - signs off
+      - final sign-off
+      - decision sits with
+      - will make the call
+  proposal_requested:
+    phrases:
+      - asked for a proposal
+      - requested a proposal
+      - send them a proposal
+  pricing_requested:
+    phrases:
+      - asked for pricing
+      - asked about fees
+      - requested pricing
+  legal_joined:
+    phrases:
+      - general counsel joined
+      - legal is reviewing
+      - gc is reviewing
+      - legal joined the call
+      - counsel is reviewing the terms
+  procurement_started:
+    phrases:
+      - security questionnaire
+      - vendor onboarding
+      - procurement has started
+      - sent us their vendor forms
+  verbal_commitment:
+    phrases:
+      - agreed to proceed
+      - verbal yes
+      - intend to proceed
+      - going ahead with us
+      - gave us the go-ahead
+      - confirmed they want to proceed
+    negations:
+      - not intend
+      - will not
+      - won't
+      - do not
+      - don't
+      - not ready
+  contract_negotiation:
+    phrases:
+      - redlines
+      - negotiating terms
+      - marked up the engagement letter
+      - terms back with comments
+  leadership_change:
+    phrases:
+      - new cro
+      - new cfo
+      - new chief risk officer
+      - new ceo
+      - reorganization
+      - reorg
+      - sponsor has moved
+      - sponsor moved
+  budget_cut:
+    phrases:
+      - budget was cut
+      - budget cut
+      - budget is frozen
+      - budget frozen
+      - spending freeze
+      - budget moved to
+  priorities_changed:
+    phrases:
+      - paused the project
+      - put on hold
+      - on hold until
+      - deprioritized
+      - pushed to next year
+      - moved down their list
+  procurement_delay:
+    phrases:
+      - stuck in procurement
+      - procurement is slow
+      - vendor approval delayed
+      - still waiting on procurement
+      - legal review is held up
+  negative_reply:
+    phrases:
+      - not now
+      - no budget this year
+      - not a priority
+      - not interested
+  opportunity_lost:
+    phrases:
+      - chose another firm
+      - went with another firm
+      - selected another firm
+      - not going ahead
+      - decided not to proceed
+  informal_conversation:
+    phrases:
+      - caught up over dinner
+      - chance meeting
+      - quick call with
+      - ran into
+      - coffee with
+  conference_conversation:
+    phrases:
+      - met at the summit
+      - stopped by our booth
+      - met at the conference
+  personal_introduction:
+    phrases:
+      - introduced us to
+      - warm introduction
+  contact_left:
+    phrases:
+      - has left the company
+      - left the company
+      - no longer at

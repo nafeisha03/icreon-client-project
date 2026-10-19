@@ -1,0 +1,410 @@
+[
+  {
+    "id": "EXT-0001",
+    "date": "2024-10-18",
+    "company_name": "Penrose Brands",
+    "company_website": "penrosebrands.com",
+    "kind": "news",
+    "headline": "Penrose Brands expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0002",
+    "date": "2024-10-19",
+    "company_name": "Goldcrest Energy",
+    "company_website": "goldcrestenergy.com",
+    "kind": "news",
+    "headline": "Goldcrest Energy expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0003",
+    "date": "2024-12-22",
+    "company_name": "Wexford Savings Bank",
+    "company_website": "wexfordsavings.com",
+    "kind": "news",
+    "headline": "Wexford Savings Bank expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0004",
+    "date": "2025-01-03",
+    "company_name": "Lanmoor Logistics",
+    "company_website": "lanmoorlogistics.com",
+    "kind": "news",
+    "headline": "Lanmoor Logistics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0005",
+    "date": "2025-01-20",
+    "company_name": "Kilbourne Health Systems",
+    "company_website": "kilbournehs.com",
+    "kind": "news",
+    "headline": "Kilbourne Health Systems expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0006",
+    "date": "2025-01-22",
+    "company_name": "Kestrel Utilities",
+    "company_website": "kestrelutilities.com",
+    "kind": "job posting",
+    "headline": "Kestrel Utilities is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0007",
+    "date": "2025-02-23",
+    "company_name": "Underhill Logistics",
+    "company_website": "underhilllogistics.com",
+    "kind": "news",
+    "headline": "Underhill Logistics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0008",
+    "date": "2025-04-27",
+    "company_name": "Caldwell Energy",
+    "company_website": "caldwellenergy.com",
+    "kind": "news",
+    "headline": "Caldwell Energy expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0009",
+    "date": "2025-06-01",
+    "company_name": "Kilbourne Health Systems",
+    "company_website": "kilbournehs.com",
+    "kind": "news",
+    "headline": "Kilbourne Health Systems expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0010",
+    "date": "2025-06-03",
+    "company_name": "Norwood Bancorp",
+    "company_website": "norwoodbancorp.com",
+    "kind": "news",
+    "headline": "Norwood Bancorp expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0011",
+    "date": "2025-06-07",
+    "company_name": "Fairhaven Bank",
+    "company_website": "fairhavenbank.com",
+    "kind": "news",
+    "headline": "Fairhaven Bank expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0012",
+    "date": "2025-06-08",
+    "company_name": "Granite Systems",
+    "company_website": "granitesystems.com",
+    "kind": "job posting",
+    "headline": "Granite Systems is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0013",
+    "date": "2025-06-30",
+    "company_name": "Halverston Systems",
+    "company_website": "halverstonsystems.com",
+    "kind": "job posting",
+    "headline": "Halverston Systems is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0014",
+    "date": "2025-07-08",
+    "company_name": "Eastbrook Capital",
+    "company_website": "eastbrookcapital.com",
+    "kind": "job posting",
+    "headline": "Eastbrook Capital is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0015",
+    "date": "2025-08-02",
+    "company_name": "Darby Savings Bank",
+    "company_website": "darbysavings.com",
+    "kind": "job posting",
+    "headline": "Darby Savings Bank is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0016",
+    "date": "2025-08-08",
+    "company_name": "Orlavale Therapeutics",
+    "company_website": "orlavaletx.com",
+    "kind": "news",
+    "headline": "Orlavale Therapeutics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0017",
+    "date": "2025-08-08",
+    "company_name": "Briarwood Health",
+    "company_website": "briarwoodhealth.com",
+    "kind": "news",
+    "headline": "Briarwood Health expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0018",
+    "date": "2025-08-13",
+    "company_name": "Jorvale Mutual",
+    "company_website": "jorvalemutual.com",
+    "kind": "job posting",
+    "headline": "Jorvale Mutual is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0019",
+    "date": "2025-08-17",
+    "company_name": "Redstone Transport",
+    "company_website": "redstonetransport.com",
+    "kind": "news",
+    "headline": "Redstone Transport expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0020",
+    "date": "2025-08-24",
+    "company_name": "Norcliffe Investments",
+    "company_website": "norcliffeinvest.com",
+    "kind": "job posting",
+    "headline": "Norcliffe Investments is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0021",
+    "date": "2025-09-02",
+    "company_name": "Moorland Investments",
+    "company_website": "moorlandinvest.com",
+    "kind": "job posting",
+    "headline": "Moorland Investments is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0022",
+    "date": "2025-09-06",
+    "company_name": "Ashby Freight",
+    "company_website": "ashbyfreight.com",
+    "kind": "job posting",
+    "headline": "Ashby Freight is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0023",
+    "date": "2025-09-24",
+    "company_name": "Glenmore Therapeutics",
+    "company_website": "glenmoretx.com",
+    "kind": "news",
+    "headline": "Glenmore Therapeutics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0024",
+    "date": "2025-10-03",
+    "company_name": "Oakmont Freight",
+    "company_website": "oakmontfreight.com",
+    "kind": "news",
+    "headline": "Oakmont Freight expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0025",
+    "date": "2025-10-05",
+    "company_name": "Parkview Energy",
+    "company_website": "parkviewenergy.com",
+    "kind": "news",
+    "headline": "Parkview Energy expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0026",
+    "date": "2025-11-06",
+    "company_name": "Easton Assurance",
+    "company_website": "eastonassurance.com",
+    "kind": "news",
+    "headline": "Easton Assurance expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0027",
+    "date": "2025-11-18",
+    "company_name": "Northgate Stores",
+    "company_website": "northgatestores.com",
+    "kind": "news",
+    "headline": "Northgate Stores expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0028",
+    "date": "2025-11-23",
+    "company_name": "Rosewood Power",
+    "company_website": "rosewoodpower.com",
+    "kind": "news",
+    "headline": "Rosewood Power expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0029",
+    "date": "2025-11-30",
+    "company_name": "Quinton Software",
+    "company_website": "quintonsoftware.com",
+    "kind": "news",
+    "headline": "Quinton Software expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0030",
+    "date": "2025-12-31",
+    "company_name": "Maplewood Energy",
+    "company_website": "maplewoodenergy.com",
+    "kind": "job posting",
+    "headline": "Maplewood Energy is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0031",
+    "date": "2026-01-28",
+    "company_name": "Jarvis Stores",
+    "company_website": "jarvisstores.com",
+    "kind": "job posting",
+    "headline": "Jarvis Stores is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0032",
+    "date": "2026-02-15",
+    "company_name": "Prescott Industries",
+    "company_website": "prescottind.com",
+    "kind": "news",
+    "headline": "Prescott Industries expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0033",
+    "date": "2026-02-15",
+    "company_name": "Wexford Savings Bank",
+    "company_website": "wexfordsavings.com",
+    "kind": "job posting",
+    "headline": "Wexford Savings Bank is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0034",
+    "date": "2026-02-18",
+    "company_name": "Ashby Freight",
+    "company_website": "ashbyfreight.com",
+    "kind": "job posting",
+    "headline": "Ashby Freight is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0035",
+    "date": "2026-02-22",
+    "company_name": "Granite Systems",
+    "company_website": "granitesystems.com",
+    "kind": "job posting",
+    "headline": "Granite Systems is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0036",
+    "date": "2026-03-11",
+    "company_name": "Glenmore Therapeutics",
+    "company_website": "glenmoretx.com",
+    "kind": "news",
+    "headline": "Glenmore Therapeutics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0037",
+    "date": "2026-03-29",
+    "company_name": "Bexley Retail",
+    "company_website": "bexleyretail.com",
+    "kind": "job posting",
+    "headline": "Bexley Retail is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0038",
+    "date": "2026-04-02",
+    "company_name": "Islington Bancorp",
+    "company_website": "islingtonbancorp.com",
+    "kind": "job posting",
+    "headline": "Islington Bancorp is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0039",
+    "date": "2026-04-02",
+    "company_name": "Islington Bancorp",
+    "company_website": "islingtonbancorp.com",
+    "kind": "news",
+    "headline": "Islington Bancorp expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0040",
+    "date": "2026-04-08",
+    "company_name": "Fairhaven Bank",
+    "company_website": "fairhavenbank.com",
+    "kind": "news",
+    "headline": "Fairhaven Bank expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0041",
+    "date": "2026-04-18",
+    "company_name": "Aldenmoor Investments",
+    "company_website": "aldenmoorinvest.com",
+    "kind": "job posting",
+    "headline": "Aldenmoor Investments is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0042",
+    "date": "2026-05-20",
+    "company_name": "Quarry Biosciences",
+    "company_website": "quarrybio.ca",
+    "kind": "job posting",
+    "headline": "Quarry Biosciences is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0043",
+    "date": "2026-05-22",
+    "company_name": "Jameson Asset Management",
+    "company_website": "jamesonam.com",
+    "kind": "news",
+    "headline": "Jameson Asset Management expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0044",
+    "date": "2026-06-18",
+    "company_name": "Halverston Systems",
+    "company_website": "halverstonsystems.com",
+    "kind": "job posting",
+    "headline": "Halverston Systems is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0045",
+    "date": "2026-06-27",
+    "company_name": "Willowbrook Logistics",
+    "company_website": "willowbrooklogistics.com",
+    "kind": "news",
+    "headline": "Willowbrook Logistics expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0046",
+    "date": "2026-06-29",
+    "company_name": "Caldwell Energy",
+    "company_website": "caldwellenergy.com",
+    "kind": "news",
+    "headline": "Caldwell Energy expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0047",
+    "date": "2026-07-01",
+    "company_name": "Waverly Stores",
+    "company_website": "waverlystores.com",
+    "kind": "news",
+    "headline": "Waverly Stores expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0048",
+    "date": "2026-09-02",
+    "company_name": "Hawthorne Systems",
+    "company_website": "hawthornesystems.com",
+    "kind": "news",
+    "headline": "Hawthorne Systems expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0049",
+    "date": "2026-09-13",
+    "company_name": "Ashgrove Components",
+    "company_website": "ashgrovecomponents.co.uk",
+    "kind": "news",
+    "headline": "Ashgrove Components expands use of AI in underwriting and operations"
+  },
+  {
+    "id": "EXT-0050",
+    "date": "2026-09-15",
+    "company_name": "Millbrook Analytics",
+    "company_website": "millbrookanalytics.com",
+    "kind": "job posting",
+    "headline": "Millbrook Analytics is hiring a Head of AI Governance"
+  },
+  {
+    "id": "EXT-0051",
+    "date": "2026-09-20",
+    "company_name": "Barrowfield Bank",
+    "company_website": "barrowfieldbank.com",
+    "kind": "news",
+    "headline": "Barrowfield Bank expands use of AI in underwriting and operations"
+  }
+]

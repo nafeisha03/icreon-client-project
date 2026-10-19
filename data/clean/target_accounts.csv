@@ -1,0 +1,121 @@
+account_id,company_name,website,industry,employees,city,state_or_region,country,owner,tier,existing_relationship
+ACC-001,ABC Corp,www.abccorp.com,Insurance,"5,000-9,999",Hartford,CT,US,R. Okafor,1,None
+ACC-002,Meridian Health,www.meridianhealth.com,Healthcare,500-999,Boston,MA,US,D. Alvarez,3,None
+ACC-003,Meridian Health,www.meridianhealth.ca,Healthcare,"10,000+",Toronto,ON,CA,K. Nakamura,1,None
+ACC-004,Harborline Insurance,www.harborlineins.com,Insurance,"10,000+",Providence,RI,US,M. Chen,1,None
+ACC-005,Summit Financial Group,www.summitfg.com,Banking,"1,000-4,999",Charlotte,NC,US,R. Okafor,2,None
+ACC-006,Summit Financial Holdings,www.summitfh.com,Asset management,"10,000+",Denver,CO,US,R. Okafor,1,None
+ACC-007,Newbury Logistics,www.newburylogistics.com,Transportation and logistics,500-999,Nashville,TN,US,D. Alvarez,3,None
+ACC-008,Hollister Therapeutics,www.hollistertx.com,Pharmaceuticals,"10,000+",Denver,CO,US,M. Chen,1,"Current client, other services"
+ACC-009,Quillon Retail,www.quillonretail.com,Retail,"1,000-4,999",Indianapolis,IN,US,R. Okafor,2,None
+ACC-010,Brackenridge Freight,www.brackenridgefreight.com,Transportation and logistics,"1,000-4,999",Chicago,IL,US,D. Alvarez,3,"Current client, other services"
+ACC-011,Brightwater Manufacturing,www.brightwatermfg.com,Manufacturing,"5,000-9,999",Indianapolis,IN,US,J. Whitfield,1,Former client
+ACC-012,Lakeshore Pharmaceuticals,www.lakeshorepharma.com,Pharmaceuticals,"1,000-4,999",Indianapolis,IN,US,M. Chen,3,"Current client, other services"
+ACC-013,Fairhaven Bank,www.fairhavenbank.com,Banking,"5,000-9,999",Hartford,CT,US,J. Whitfield,2,None
+ACC-014,Foxhall Asset Management,www.foxhallam.com,Asset management,"10,000+",Chicago,IL,US,D. Alvarez,1,None
+ACC-015,Moorland Investments,www.moorlandinvest.com,Asset management,500-999,Washington,DC,US,S. Patel,3,None
+ACC-016,Blackthorn Insurance,www.blackthornins.com,Insurance,500-999,Milwaukee,WI,US,D. Alvarez,3,None
+ACC-017,Bexley Retail,www.bexleyretail.com,Retail,"1,000-4,999",Denver,CO,US,M. Chen,3,None
+ACC-018,Holloway Bank,www.hollowaybank.com,Banking,500-999,Milwaukee,WI,US,K. Nakamura,3,"Current client, other services"
+ACC-019,Cobalt Capital,www.cobaltcapital.com,Asset management,"5,000-9,999",Phoenix,AZ,US,K. Nakamura,2,None
+ACC-020,Halverston Systems,www.halverstonsystems.com,Technology,"5,000-9,999",Charlotte,NC,US,D. Alvarez,2,None
+ACC-021,Ellery Stores,www.ellerystores.com,Retail,"5,000-9,999",San Francisco,CA,US,K. Nakamura,2,None
+ACC-022,Delvane Industries,www.delvaneind.com,Manufacturing,500-999,Chicago,IL,US,D. Alvarez,3,None
+ACC-023,Caldwell Energy,www.caldwellenergy.com,Energy and utilities,"5,000-9,999",Phoenix,AZ,US,K. Nakamura,2,None
+ACC-024,Trevelyan Logistics,www.trevelyanlogistics.com,Transportation and logistics,"1,000-4,999",Columbus,OH,US,K. Nakamura,3,None
+ACC-025,Stelmere Mutual,www.stelmeremutual.com,Insurance,"10,000+",Atlanta,GA,US,J. Whitfield,1,None
+ACC-026,Islington Bancorp,www.islingtonbancorp.com,Banking,"5,000-9,999",Chicago,IL,US,D. Alvarez,2,"Current client, other services"
+ACC-027,Elmstead Bank,www.elmsteadbank.com,Banking,"1,000-4,999",Chicago,IL,US,S. Patel,2,None
+ACC-028,Orlavale Therapeutics,www.orlavaletx.com,Pharmaceuticals,"1,000-4,999",Pittsburgh,PA,US,S. Patel,2,"Current client, other services"
+ACC-029,Darby Savings Bank,www.darbysavings.com,Banking,"1,000-4,999",San Francisco,CA,US,S. Patel,2,None
+ACC-030,Brantley Bancorp,www.brantleybancorp.com,Banking,"1,000-4,999",Denver,CO,US,J. Whitfield,3,None
+ACC-031,Northcliff Insurance,www.northcliffins.com,Insurance,"10,000+",Baltimore,MD,US,M. Chen,1,Former client
+ACC-032,Lanmoor Logistics,www.lanmoorlogistics.com,Transportation and logistics,"1,000-4,999",Charlotte,NC,US,R. Okafor,2,None
+ACC-033,Vandermeer Transport,www.vandermeertransport.com,Transportation and logistics,"5,000-9,999",Boston,MA,US,R. Okafor,2,"Current client, other services"
+ACC-034,Upton Energy,www.uptonenergy.com,Energy and utilities,"5,000-9,999",St. Louis,MO,US,J. Whitfield,2,None
+ACC-035,Yorkfield Pharmaceuticals,www.yorkfieldpharma.com,Pharmaceuticals,"5,000-9,999",Chicago,IL,US,M. Chen,1,None
+ACC-036,Pinehaven Mutual,www.pinehavenmutual.com,Insurance,"1,000-4,999",Omaha,NE,US,D. Alvarez,2,None
+ACC-037,Ridgeline Energy,www.ridgelineenergy.com,Energy and utilities,"1,000-4,999",Houston,TX,US,D. Alvarez,2,None
+ACC-038,Larkspur Software,www.larkspursoftware.com,Technology,"10,000+",Atlanta,GA,US,S. Patel,1,None
+ACC-039,Granite Systems,www.granitesystems.com,Technology,"1,000-4,999",Omaha,NE,US,K. Nakamura,2,Former client
+ACC-040,Wexford Savings Bank,www.wexfordsavings.com,Banking,500-999,Nashville,TN,US,D. Alvarez,3,None
+ACC-041,Lyndon Manufacturing,www.lyndonmfg.com,Manufacturing,"5,000-9,999",Columbus,OH,US,R. Okafor,1,None
+ACC-042,Glenmore Therapeutics,www.glenmoretx.com,Pharmaceuticals,"10,000+",Philadelphia,PA,US,K. Nakamura,1,"Current client, other services"
+ACC-043,Hartwell Transport,www.hartwelltransport.com,Transportation and logistics,"1,000-4,999",St. Louis,MO,US,K. Nakamura,2,None
+ACC-044,Northam Manufacturing,www.northammfg.com,Manufacturing,"1,000-4,999",Des Moines,IA,US,M. Chen,3,None
+ACC-045,Yewdale Investments,www.yewdaleinvest.com,Asset management,"10,000+",Omaha,NE,US,M. Chen,1,None
+ACC-046,Willowbrook Logistics,www.willowbrooklogistics.com,Transportation and logistics,"10,000+",Des Moines,IA,US,J. Whitfield,1,None
+ACC-047,Cedar Ridge Asset Management,www.cedarridgeam.com,Asset management,"1,000-4,999",Dallas,TX,US,R. Okafor,2,None
+ACC-048,Crestview Capital,www.crestviewcapital.com,Asset management,500-999,Des Moines,IA,US,K. Nakamura,3,None
+ACC-049,Corrowin Medical Center,www.corrowinmedical.com,Healthcare,"5,000-9,999",Boston,MA,US,J. Whitfield,1,None
+ACC-050,Ashford Medical Center,www.ashfordmedical.com,Healthcare,"1,000-4,999",Charlotte,NC,US,S. Patel,3,"Current client, other services"
+ACC-051,Ogden Asset Management,www.ogdenam.com,Asset management,500-999,Hartford,CT,US,M. Chen,3,None
+ACC-052,Prescott Industries,www.prescottind.com,Manufacturing,"1,000-4,999",Nashville,TN,US,K. Nakamura,2,None
+ACC-053,Ulverbrook Capital,www.ulverbrookcapital.com,Asset management,"1,000-4,999",Charlotte,NC,US,R. Okafor,2,None
+ACC-054,Stonebridge Bank,www.stonebridgebank.com,Banking,"1,000-4,999",Seattle,WA,US,R. Okafor,2,"Current client, other services"
+ACC-055,Bluewater Transport,www.bluewatertransport.com,Transportation and logistics,"1,000-4,999",Indianapolis,IN,US,S. Patel,3,None
+ACC-056,Waverly Stores,www.waverlystores.com,Retail,"1,000-4,999",Omaha,NE,US,S. Patel,2,None
+ACC-057,Jarvis Stores,www.jarvisstores.com,Retail,"1,000-4,999",Los Angeles,CA,US,K. Nakamura,3,"Current client, other services"
+ACC-058,Westbury Savings Bank,www.westburysavings.com,Banking,"5,000-9,999",Philadelphia,PA,US,S. Patel,1,None
+ACC-059,Ravenwood Systems,www.ravenwoodsystems.com,Technology,"5,000-9,999",Boston,MA,US,S. Patel,2,None
+ACC-060,Southmoor Retail,www.southmoorretail.com,Retail,"5,000-9,999",Nashville,TN,US,M. Chen,2,None
+ACC-061,Lindell Pharmaceuticals,www.lindellpharma.com,Pharmaceuticals,500-999,Atlanta,GA,US,M. Chen,3,"Current client, other services"
+ACC-062,Oakmont Freight,www.oakmontfreight.com,Transportation and logistics,"1,000-4,999",Los Angeles,CA,US,S. Patel,2,None
+ACC-063,Goldcrest Energy,www.goldcrestenergy.com,Energy and utilities,"1,000-4,999",Milwaukee,WI,US,J. Whitfield,3,None
+ACC-064,Alder Retail,www.alderretail.com,Retail,500-999,Columbus,OH,US,S. Patel,3,None
+ACC-065,Kilbourne Health Systems,www.kilbournehs.com,Healthcare,"1,000-4,999",Baltimore,MD,US,D. Alvarez,3,"Current client, other services"
+ACC-066,Clearwater Utilities,www.clearwaterutilities.com,Energy and utilities,500-999,Atlanta,GA,US,R. Okafor,3,"Current client, other services"
+ACC-067,Gresham Bank,www.greshambank.com,Banking,"1,000-4,999",New York,NY,US,D. Alvarez,2,Former client
+ACC-068,Yardley Investments,www.yardleyinvest.com,Asset management,"5,000-9,999",San Francisco,CA,US,S. Patel,2,None
+ACC-069,Canyon Bancorp,www.canyonbancorp.com,Banking,"10,000+",Chicago,IL,US,J. Whitfield,1,None
+ACC-070,Underhill Logistics,www.underhilllogistics.com,Transportation and logistics,"1,000-4,999",Baltimore,MD,US,J. Whitfield,3,"Current client, other services"
+ACC-071,Norcliffe Investments,www.norcliffeinvest.com,Asset management,"1,000-4,999",Omaha,NE,US,K. Nakamura,3,None
+ACC-072,Tamarack Freight,www.tamarackfreight.com,Transportation and logistics,"5,000-9,999",Dallas,TX,US,S. Patel,1,"Current client, other services"
+ACC-073,Ivenbrook Energy,www.ivenbrookenergy.com,Energy and utilities,500-999,Omaha,NE,US,S. Patel,3,None
+ACC-074,Ashgrove Components,www.ashgrovecomponents.co.uk,Manufacturing,500-999,Edinburgh,Scotland,GB,J. Whitfield,3,None
+ACC-075,Hawthorne Systems,www.hawthornesystems.com,Technology,"10,000+",Washington,DC,US,R. Okafor,1,None
+ACC-076,Dunmore Stores,www.dunmorestores.com,Retail,"5,000-9,999",Los Angeles,CA,US,K. Nakamura,2,None
+ACC-077,Quarry Biosciences,www.quarrybio.ca,Pharmaceuticals,"1,000-4,999",Montreal,QC,CA,R. Okafor,3,None
+ACC-078,Jameson Asset Management,www.jamesonam.com,Asset management,"1,000-4,999",Milwaukee,WI,US,K. Nakamura,2,"Current client, other services"
+ACC-079,Maplewood Energy,www.maplewoodenergy.com,Energy and utilities,500-999,St. Louis,MO,US,J. Whitfield,3,None
+ACC-080,Quinton Software,www.quintonsoftware.com,Technology,500-999,Baltimore,MD,US,D. Alvarez,3,None
+ACC-081,Arden Industries,www.ardenind.com,Manufacturing,"1,000-4,999",Phoenix,AZ,US,M. Chen,2,None
+ACC-082,Ashby Freight,www.ashbyfreight.com,Transportation and logistics,"1,000-4,999",Pittsburgh,PA,US,D. Alvarez,3,"Current client, other services"
+ACC-083,Thistle Mutual,www.thistlemutual.com,Insurance,"10,000+",Charlotte,NC,US,D. Alvarez,1,"Current client, other services"
+ACC-084,Juniper Components,www.junipercomponents.com,Manufacturing,"1,000-4,999",Charlotte,NC,US,D. Alvarez,3,"Current client, other services"
+ACC-085,Rutledge Brands,www.rutledgebrands.com,Retail,"5,000-9,999",Omaha,NE,US,K. Nakamura,2,None
+ACC-086,Fernhill Freight,www.fernhillfreight.com,Transportation and logistics,"1,000-4,999",Columbus,OH,US,K. Nakamura,3,None
+ACC-087,Parkview Energy,www.parkviewenergy.com,Energy and utilities,"5,000-9,999",Hartford,CT,US,S. Patel,2,None
+ACC-088,Clifton Retail,www.cliftonretail.com,Retail,500-999,New York,NY,US,K. Nakamura,3,None
+ACC-089,Barrowfield Bank,www.barrowfieldbank.com,Banking,"5,000-9,999",Indianapolis,IN,US,R. Okafor,1,"Current client, other services"
+ACC-090,Eastwick Stores,www.eastwickstores.com,Retail,"1,000-4,999",Minneapolis,MN,US,S. Patel,2,"Current client, other services"
+ACC-091,Oakhurst Stores,www.oakhurststores.com,Retail,500-999,Des Moines,IA,US,D. Alvarez,3,None
+ACC-092,Kestrel Utilities,www.kestrelutilities.com,Energy and utilities,500-999,Baltimore,MD,US,S. Patel,3,None
+ACC-093,Bellhaven Energy,www.bellhavenenergy.com,Energy and utilities,"10,000+",Charlotte,NC,US,R. Okafor,1,None
+ACC-094,Merrow Manufacturing,www.merrowmfg.com,Manufacturing,"1,000-4,999",Chicago,IL,US,M. Chen,3,None
+ACC-095,Redstone Transport,www.redstonetransport.com,Transportation and logistics,"1,000-4,999",Phoenix,AZ,US,K. Nakamura,2,"Current client, other services"
+ACC-096,Northgate Stores,www.northgatestores.com,Retail,"10,000+",Baltimore,MD,US,D. Alvarez,1,Former client
+ACC-097,Whitmore Power,www.whitmorepower.com,Energy and utilities,"1,000-4,999",Minneapolis,MN,US,M. Chen,2,Former client
+ACC-098,Orchard Insurance,www.orchardins.com,Insurance,"1,000-4,999",Boston,MA,US,S. Patel,2,None
+ACC-099,Riverbend Capital,www.riverbendcapital.com,Asset management,500-999,Milwaukee,WI,US,D. Alvarez,3,"Current client, other services"
+ACC-100,Aldenmoor Investments,www.aldenmoorinvest.com,Asset management,500-999,Charlotte,NC,US,M. Chen,3,None
+ACC-101,Gilford Utilities,www.gilfordutilities.com,Energy and utilities,"10,000+",Atlanta,GA,US,D. Alvarez,1,Former client
+ACC-102,Alcott Insurance,www.alcottins.com,Insurance,"1,000-4,999",Richmond,VA,US,S. Patel,3,None
+ACC-103,Rosewood Power,www.rosewoodpower.com,Energy and utilities,500-999,New York,NY,US,S. Patel,3,Former client
+ACC-104,Driftwood Systems,www.driftwoodsystems.com,Technology,500-999,St. Louis,MO,US,J. Whitfield,3,Former client
+ACC-105,Fenwick Medical Center,www.fenwickmedical.com,Healthcare,"5,000-9,999",Baltimore,MD,US,J. Whitfield,2,None
+ACC-106,Briarwood Health,www.briarwoodhealth.com,Healthcare,500-999,Atlanta,GA,US,K. Nakamura,3,"Current client, other services"
+ACC-107,Inwood Asset Management,www.inwoodam.com,Asset management,"1,000-4,999",Milwaukee,WI,US,R. Okafor,3,None
+ACC-108,Thornbury Bank,www.thornburybank.com,Banking,"1,000-4,999",St. Louis,MO,US,R. Okafor,2,None
+ACC-109,Linden Savings Bank,www.lindensavings.com,Banking,500-999,Chicago,IL,US,M. Chen,3,Former client
+ACC-110,Oldfield Investments,www.oldfieldinvest.com,Asset management,"5,000-9,999",Denver,CO,US,S. Patel,2,None
+ACC-111,Jorvale Mutual,www.jorvalemutual.com,Insurance,"5,000-9,999",San Francisco,CA,US,M. Chen,2,"Current client, other services"
+ACC-112,Copperfield Freight,www.copperfieldfreight.com,Transportation and logistics,"1,000-4,999",Houston,TX,US,M. Chen,3,"Current client, other services"
+ACC-113,Marlow Industries,www.marlowind.com,Manufacturing,"5,000-9,999",New York,NY,US,J. Whitfield,2,None
+ACC-114,Penrose Brands,www.penrosebrands.com,Retail,"10,000+",St. Louis,MO,US,M. Chen,1,"Current client, other services"
+ACC-115,Easton Assurance,www.eastonassurance.com,Insurance,"1,000-4,999",Philadelphia,PA,US,S. Patel,2,None
+ACC-116,Ambergate Systems,www.ambergatesystems.com,Technology,"1,000-4,999",Indianapolis,IN,US,K. Nakamura,3,"Current client, other services"
+ACC-117,Millbrook Analytics,www.millbrookanalytics.com,Technology,"1,000-4,999",Denver,CO,US,R. Okafor,2,None
+ACC-118,Norwood Bancorp,www.norwoodbancorp.com,Banking,500-999,Washington,DC,US,R. Okafor,3,None
+ACC-119,Ivywood Stores,www.ivywoodstores.com,Retail,"5,000-9,999",Boston,MA,US,S. Patel,2,"Current client, other services"
+ACC-120,Eastbrook Capital,www.eastbrookcapital.com,Asset management,"1,000-4,999",St. Louis,MO,US,S. Patel,3,None

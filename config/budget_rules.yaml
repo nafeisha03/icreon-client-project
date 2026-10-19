@@ -1,0 +1,60 @@
+# Rules for the won-versus-lost comparisons, the credit conventions and the budget verdicts.
+# Every marketing claim describes what was observed. None is proof that marketing caused a sale.
+
+comparisons:
+  min_accounts_per_side: 5            # fewer = "Too few accounts to compare"
+  min_difference_pct_points: 25       # smaller differences count as no clear difference
+  min_unexposed_accounts: 5           # a program that reaches almost everyone has no comparison group
+  chance_p_value: 0.05                # Fisher's exact test: above this, add "could be chance"
+  # "Like with like": who is compared in each comparison
+  advanced_vs_not:
+    among: accounts that reached Aware or later
+    advanced_means: reached Qualified Lead or later
+  signed_vs_lost:
+    among: closed accounts that reached Proposal / RFP
+
+# How the dashboard words each evidence level.
+evidence_levels:
+  Insufficient evidence: Too few accounts to compare
+  No clear difference: No clear difference between the groups
+  Association: Seen more often in accounts that progressed
+  Consistent pattern: Consistently seen before progress
+  Tested effect: Not possible with this data
+
+# Budget verdicts, checked in this order. The first that fits is the verdict.
+verdicts:
+  - verdict: Insufficient evidence
+    when: Fewer than 5 target accounts reached, or the first exposure was under 90 days before the review point
+  - verdict: Stop
+    when: 10 or more accounts reached at least 6 months ago, none has moved past Aware since, and the program never appears before progress in a won deal
+  - verdict: Increase
+    when: "A consistent pattern: seen more often before progress, by 25 points or more, for current clients and new relationships alike"
+  - verdict: Reduce
+    when: Accounts it reached moved into the pipeline no more often (or less often) than accounts it did not reach, with at least 5 accounts on each side; or, since first reached, a smaller share of its accounts moved up a stage than for the median program, at a higher cost per account that moved up
+  - verdict: Continue
+    when: Everything else, including programs that reach almost every account and so have no comparison group
+
+verdict_settings:
+  min_reached: 5
+  min_days_since_first_exposure: 90
+  stop_min_reached: 10
+  stop_min_days_since_exposure: 182
+
+# Five ways to split a won deal's value among the touches before it.
+# Each is a convention someone chose, not a measurement.
+credit_conventions:
+  - id: first_touch
+    label: First touch
+    rule: All to the first recorded touch
+  - id: last_touch
+    label: Last touch
+    rule: All to the last touch before signing
+  - id: last_touch_30
+    label: Last touch, 30 days
+    rule: All to the last touch, but only if it fell within 30 days of signing; otherwise uncredited
+  - id: linear
+    label: Linear
+    rule: Equally across all touches
+  - id: u_shaped
+    label: U-shaped
+    rule: 40% to the first touch, 40% to the touch just before the first meeting, 20% across the rest

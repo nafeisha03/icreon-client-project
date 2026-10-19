@@ -1,0 +1,315 @@
+crm_contact_id,crm_account_id,first_name,last_name,email,title,last_modified
+003C00001,001A00001,Mei,Moreau,mei.moreau@abccorp.com,Director of Model Risk,2024-09-01
+003C00002,001A00001,David,Adeyemi,david.adeyemi@abccorp.com,Head of Internal Audit,2024-09-01
+003C00003,001A00001,Diego,Vargas,diego.vargas@abccorp.com,Chief Operating Officer,2024-09-01
+003C00004,001A00002,Aisha,Iyer,aisha.iyer@meridianhealth.com,Director of Risk Analytics,2024-09-01
+003C00005,001A00002,Marcus,Ortega,marcus.ortega@meridianhealth.com,Chief Compliance Officer,2024-09-01
+003C00006,001A00003,Hugo,Ward,hugo.ward@meridianhealth.ca,"Senior Manager, Compliance",2024-09-01
+003C00007,001A00003,Arjun,Okonkwo,arjun.okonkwo@meridianhealth.ca,Chief Audit Executive,2024-09-01
+003C00008,001A00003,Elena,Mori,elena.mori@meridianhealth.ca,Chief Financial Officer,2024-09-01
+003C00009,001A00004,Rosa,Shapiro,rosa.shapiro@harborlineins.com,Director of Model Risk,2024-09-01
+003C00010,001A00004,Arjun,Nguyen,arjun.nguyen@harborlineins.com,Chief Compliance Officer,2024-09-01
+003C00011,001A00004,Naomi,Rossi,naomi.rossi@harborlineins.com,Chief Operating Officer,2024-09-01
+003C00012,001A00005,Hannah,Menon,hannah.menon@summitfg.com,"Senior Manager, Compliance",2024-09-01
+003C00013,001A00005,Tariq,Laurent,tariq.laurent@summitfg.com,Chief Audit Executive,2024-09-01
+003C00014,001A00006,Julia,Nguyen,julia.nguyen@summitfh.com,Director of Model Risk,2024-09-01
+003C00015,001A00006,Diego,Moreau,diego.moreau@summitfh.com,VP Risk Management,2024-09-01
+003C00016,001A00006,Fatima,Farouk,fatima.farouk@summitfh.com,Chief Financial Officer,2024-09-01
+003C00017,001A00007,Anna,Hughes,anna.hughes@newburylogistics.com,Head of Risk,2024-09-01
+003C00018,001A00007,Hannah,Rossi,hannah.rossi@newburylogistics.com,VP Risk Management,2024-09-01
+003C00019,001A00008,Megan,Mori,megan.mori@hollistertx.com,Head of Data Governance,2024-09-01
+003C00020,001A00008,Grace,Tanaka,grace.tanaka@hollistertx.com,VP Risk Management,2024-09-01
+003C00021,001A00008,Marcus,Ward,marcus.ward@hollistertx.com,Chief Operating Officer,2024-09-01
+003C00022,001A00009,Tom,Doyle,tom.doyle@quillonretail.com,Director of Risk Analytics,2024-09-01
+003C00023,001A00009,Graham,Sato,graham.sato@quillonretail.com,Chief Audit Executive,2024-09-01
+003C00024,001A00010,Anna,Vargas,anna.vargas@brackenridgefreight.com,Director of Risk Analytics,2024-09-01
+003C00025,001A00010,Caleb,Torres,caleb.torres@brackenridgefreight.com,Head of Internal Audit,2024-09-01
+003C00026,001A00011,Naomi,Haddad,naomi.haddad@brightwatermfg.com,Head of Risk,2024-09-01
+003C00027,001A00011,Elena,Malik,elena.malik@brightwatermfg.com,Chief Audit Executive,2024-09-01
+003C00028,001A00011,Tariq,Becker,tariq.becker@brightwatermfg.com,Chief Operating Officer,2024-09-01
+003C00029,001A00012,Ravi,Kapoor,ravi.kapoor@lakeshorepharma.com,Director of Model Risk,2024-09-01
+003C00030,001A00012,Owen,Ortega,owen.ortega@lakeshorepharma.com,Head of Internal Audit,2024-09-01
+003C00031,001A00013,Owen,Liu,owen.liu@fairhavenbank.com,Head of Data Governance,2024-09-01
+003C00032,001A00013,Tom,Iyer,tom.iyer@fairhavenbank.com,Head of Internal Audit,2024-09-01
+003C00033,001A00014,Tom,Harris,tom.harris@foxhallam.com,Director of Risk Analytics,2024-09-01
+003C00034,001A00014,Olivia,Torres,olivia.torres@foxhallam.com,Chief Audit Executive,2024-09-01
+003C00035,001A00014,Lucia,Weber,lucia.weber@foxhallam.com,Chief Financial Officer,2024-09-01
+003C00036,001A00015,Carlos,Malik,carlos.malik@moorlandinvest.com,Director of Model Risk,2024-09-01
+003C00037,001A00015,Ethan,Aziz,ethan.aziz@moorlandinvest.com,Head of Internal Audit,2024-09-01
+003C00038,001A00016,Sofia,Murphy,sofia.murphy@blackthornins.com,Director of Risk Analytics,2024-09-01
+003C00039,001A00016,Victor,Petrov,victor.petrov@blackthornins.com,Chief Audit Executive,2024-09-01
+003C00040,001A00017,Lucia,Bell,lucia.bell@bexleyretail.com,Director of Risk Analytics,2024-09-01
+003C00041,001A00017,Ben,Harris,ben.harris@bexleyretail.com,Head of Internal Audit,2024-09-01
+003C00042,001A00018,Ines,Brooks,ines.brooks@hollowaybank.com,Head of Data Governance,2024-09-01
+003C00043,001A00018,Laura,Ortega,laura.ortega@hollowaybank.com,Chief Compliance Officer,2024-09-01
+003C00044,001A00019,Owen,Cohen,owen.cohen@cobaltcapital.com,Head of Risk,2024-09-01
+003C00045,001A00019,Claire,Ramos,claire.ramos@cobaltcapital.com,Head of Internal Audit,2024-09-01
+003C00046,001A00020,Ibrahim,Schmidt,ibrahim.schmidt@halverstonsystems.com,Head of Data Governance,2024-09-01
+003C00047,001A00020,Tessa,Moreau,tessa.moreau@halverstonsystems.com,Head of Internal Audit,2024-09-01
+003C00048,001A00021,Andre,Liu,andre.liu@ellerystores.com,Head of Risk,2024-09-01
+003C00049,001A00021,Jorge,Iyer,jorge.iyer@ellerystores.com,VP Risk Management,2024-09-01
+003C00050,001A00022,Yuki,Okonkwo,yuki.okonkwo@delvaneind.com,Head of Data Governance,2024-09-01
+003C00051,001A00022,Naomi,Tanaka,naomi.tanaka@delvaneind.com,Chief Compliance Officer,2024-09-01
+003C00052,001A00023,Chloe,Shapiro,chloe.shapiro@caldwellenergy.com,Head of Risk,2024-09-01
+003C00053,001A00023,Nina,Menon,nina.menon@caldwellenergy.com,Chief Audit Executive,2024-09-01
+003C00054,001A00024,Daniel,Silva,daniel.silva@trevelyanlogistics.com,"Senior Manager, Compliance",2024-09-01
+003C00055,001A00024,Ravi,Ramos,ravi.ramos@trevelyanlogistics.com,Head of Internal Audit,2024-09-01
+003C00056,001A00025,Elena,Ward,elena.ward@stelmeremutual.com,"Senior Manager, Compliance",2024-09-01
+003C00057,001A00025,Rosa,Tanaka,rosa.tanaka@stelmeremutual.com,VP Risk Management,2024-09-01
+003C00058,001A00025,Ibrahim,Moreau,ibrahim.moreau@stelmeremutual.com,Chief Operating Officer,2024-09-01
+003C00059,001A00026,Kenji,Becker,kenji.becker@islingtonbancorp.com,Head of Data Governance,2024-09-01
+003C00060,001A00026,Kenji,Adeyemi,kenji.adeyemi@islingtonbancorp.com,VP Risk Management,2024-09-01
+003C00061,001A00027,Tariq,Smith,tariq.smith@elmsteadbank.com,Director of Risk Analytics,2024-09-01
+003C00062,001A00027,Arjun,Dubois,arjun.dubois@elmsteadbank.com,VP Risk Management,2024-09-01
+003C00063,001A00028,Rachel,Becker,rachel.becker@orlavaletx.com,Head of Risk,2024-09-01
+003C00064,001A00028,Laura,Walsh,laura.walsh@orlavaletx.com,VP Risk Management,2024-09-01
+003C00065,001A00029,Owen,Carter,owen.carter@darbysavings.com,Head of Data Governance,2024-09-01
+003C00066,001A00029,Chloe,Farouk,chloe.farouk@darbysavings.com,Chief Audit Executive,2024-09-01
+003C00067,001A00030,Mira,Farouk,mira.farouk@brantleybancorp.com,"Senior Manager, Compliance",2024-09-01
+003C00068,001A00030,Chloe,Moreau,chloe.moreau@brantleybancorp.com,Chief Audit Executive,2024-09-01
+003C00069,001A00031,Amara,Russo,amara.russo@northcliffins.com,Director of Risk Analytics,2024-09-01
+003C00070,001A00031,Rachel,Vargas,rachel.vargas@northcliffins.com,Chief Audit Executive,2024-09-01
+003C00071,001A00031,Tom,Dubois,tom.dubois@northcliffins.com,Chief Risk Officer,2024-09-01
+003C00072,001A00032,Chloe,Torres,chloe.torres@lanmoorlogistics.com,Director of Model Risk,2024-09-01
+003C00073,001A00032,Hannah,Ali,hannah.ali@lanmoorlogistics.com,Chief Compliance Officer,2024-09-01
+003C00074,001A00033,Nina,Rossi,nina.rossi@vandermeertransport.com,Director of Model Risk,2024-09-01
+003C00075,001A00033,Megan,Sato,megan.sato@vandermeertransport.com,VP Risk Management,2024-09-01
+003C00076,001A00034,Peter,Liu,peter.liu@uptonenergy.com,Head of Risk,2024-09-01
+003C00077,001A00034,Naomi,Weber,naomi.weber@uptonenergy.com,Chief Audit Executive,2024-09-01
+003C00078,001A00035,Elena,Russo,elena.russo@yorkfieldpharma.com,Head of Data Governance,2024-09-01
+003C00079,001A00035,Rosa,Russo,rosa.russo@yorkfieldpharma.com,VP Risk Management,2024-09-01
+003C00080,001A00035,Elena,Ferreira,elena.ferreira@yorkfieldpharma.com,Chief Risk Officer,2024-09-01
+003C00081,001A00036,Peter,Moreau,peter.moreau@pinehavenmutual.com,"Senior Manager, Compliance",2024-09-01
+003C00082,001A00036,Tariq,Rahman,tariq.rahman@pinehavenmutual.com,Head of Internal Audit,2024-09-01
+003C00083,001A00037,Julia,Keller,julia.keller@ridgelineenergy.com,Head of Risk,2024-09-01
+003C00084,001A00037,Aisha,Novak,aisha.novak@ridgelineenergy.com,Chief Audit Executive,2024-09-01
+003C00085,001A00038,Lucia,Clarke,lucia.clarke@larkspursoftware.com,"Senior Manager, Compliance",2024-09-01
+003C00086,001A00038,Wei,Murphy,wei.murphy@larkspursoftware.com,Chief Audit Executive,2024-09-01
+003C00087,001A00038,Luis,Sato,luis.sato@larkspursoftware.com,Chief Operating Officer,2024-09-01
+003C00088,001A00039,Olivia,Mori,olivia.mori@granitesystems.com,Head of Data Governance,2024-09-01
+003C00089,001A00039,Ines,Price,ines.price@granitesystems.com,Chief Audit Executive,2024-09-01
+003C00090,001A00040,Ben,Lindqvist,ben.lindqvist@wexfordsavings.com,Head of Risk,2024-09-01
+003C00091,001A00040,Ravi,Hughes,ravi.hughes@wexfordsavings.com,Chief Audit Executive,2024-09-01
+003C00092,001A00041,Lucia,Mensah,lucia.mensah@lyndonmfg.com,Head of Risk,2024-09-01
+003C00093,001A00041,Omar,Hughes,omar.hughes@lyndonmfg.com,Chief Compliance Officer,2024-09-01
+003C00094,001A00041,Laura,Mendes,laura.mendes@lyndonmfg.com,Chief Financial Officer,2024-09-01
+003C00095,001A00042,Claire,Fischer,claire.fischer@glenmoretx.com,Director of Risk Analytics,2024-09-01
+003C00096,001A00042,Omar,Brooks,omar.brooks@glenmoretx.com,Chief Compliance Officer,2024-09-01
+003C00097,001A00042,Ibrahim,Aziz,ibrahim.aziz@glenmoretx.com,Chief Financial Officer,2024-09-01
+003C00098,001A00043,Sofia,Ward,sofia.ward@hartwelltransport.com,Head of Data Governance,2024-09-01
+003C00099,001A00043,Caleb,Nguyen,caleb.nguyen@hartwelltransport.com,Chief Compliance Officer,2024-09-01
+003C00100,001A00044,Priya,Laurent,priya.laurent@northammfg.com,"Senior Manager, Compliance",2024-09-01
+003C00101,001A00044,Arjun,Rossi,arjun.rossi@northammfg.com,VP Risk Management,2024-09-01
+003C00102,001A00045,Caleb,Mori,caleb.mori@yewdaleinvest.com,"Senior Manager, Compliance",2024-09-01
+003C00103,001A00045,Grace,Becker,grace.becker@yewdaleinvest.com,Chief Audit Executive,2024-09-01
+003C00104,001A00045,Kwame,Ramos,kwame.ramos@yewdaleinvest.com,Chief Operating Officer,2024-09-01
+003C00105,001A00046,Rachel,Aziz,rachel.aziz@willowbrooklogistics.com,Director of Model Risk,2024-09-01
+003C00106,001A00046,Andre,Kapoor,andre.kapoor@willowbrooklogistics.com,Chief Compliance Officer,2024-09-01
+003C00107,001A00046,Kenji,Ali,kenji.ali@willowbrooklogistics.com,Chief Financial Officer,2024-09-01
+003C00108,001A00047,Megan,Price,megan.price@cedarridgeam.com,Head of Risk,2024-09-01
+003C00109,001A00047,Andre,Fischer,andre.fischer@cedarridgeam.com,Head of Internal Audit,2024-09-01
+003C00110,001A00048,Naomi,Liu,naomi.liu@crestviewcapital.com,Director of Risk Analytics,2024-09-01
+003C00111,001A00048,Priya,Moreau,priya.moreau@crestviewcapital.com,VP Risk Management,2024-09-01
+003C00112,001A00049,Elena,Nguyen,elena.nguyen@corrowinmedical.com,Director of Model Risk,2024-09-01
+003C00113,001A00049,David,Novak,david.novak@corrowinmedical.com,Head of Internal Audit,2024-09-01
+003C00114,001A00049,Priya,Mendes,priya.mendes@corrowinmedical.com,Chief Risk Officer,2024-09-01
+003C00115,001A00050,Julia,Tanaka,julia.tanaka@ashfordmedical.com,"Senior Manager, Compliance",2024-09-01
+003C00116,001A00050,Priya,Nguyen,priya.nguyen@ashfordmedical.com,Chief Compliance Officer,2024-09-01
+003C00117,001A00051,Ibrahim,Cohen,ibrahim.cohen@ogdenam.com,Head of Data Governance,2024-09-01
+003C00118,001A00051,Omar,Schmidt,omar.schmidt@ogdenam.com,VP Risk Management,2024-09-01
+003C00119,001A00052,Leah,Brooks,leah.brooks@prescottind.com,Head of Risk,2024-09-01
+003C00120,001A00052,Kwame,Price,kwame.price@prescottind.com,VP Risk Management,2024-09-01
+003C00121,001A00053,Olivia,Becker,olivia.becker@ulverbrookcapital.com,Director of Model Risk,2024-09-01
+003C00122,001A00053,Tariq,Ortega,tariq.ortega@ulverbrookcapital.com,Head of Internal Audit,2024-09-01
+003C00123,001A00054,Chloe,Bello,chloe.bello@stonebridgebank.com,Head of Data Governance,2024-09-01
+003C00124,001A00054,Arjun,Torres,arjun.torres@stonebridgebank.com,Head of Internal Audit,2024-09-01
+003C00125,001A00055,Hugo,Haddad,hugo.haddad@bluewatertransport.com,Head of Risk,2024-09-01
+003C00126,001A00055,Grace,Menon,grace.menon@bluewatertransport.com,Chief Audit Executive,2024-09-01
+003C00127,001A00056,Grace,Mori,grace.mori@waverlystores.com,"Senior Manager, Compliance",2024-09-01
+003C00128,001A00056,Daniel,Moreau,daniel.moreau@waverlystores.com,VP Risk Management,2024-09-01
+003C00129,001A00057,Paula,Sato,paula.sato@jarvisstores.com,Director of Model Risk,2024-09-01
+003C00130,001A00057,Ben,Keller,ben.keller@jarvisstores.com,VP Risk Management,2024-09-01
+003C00131,001A00058,Kenji,Lindqvist,kenji.lindqvist@westburysavings.com,Head of Data Governance,2024-09-01
+003C00132,001A00058,Sam,Ramos,sam.ramos@westburysavings.com,Chief Compliance Officer,2024-09-01
+003C00133,001A00058,Andre,Iyer,andre.iyer@westburysavings.com,Chief Risk Officer,2024-09-01
+003C00134,001A00059,Sam,Mensah,sam.mensah@ravenwoodsystems.com,Director of Model Risk,2024-09-01
+003C00135,001A00059,Zara,Mendes,zara.mendes@ravenwoodsystems.com,Chief Audit Executive,2024-09-01
+003C00136,001A00060,Tessa,Raman,tessa.raman@southmoorretail.com,"Senior Manager, Compliance",2024-09-01
+003C00137,001A00060,Rosa,Sato,rosa.sato@southmoorretail.com,Chief Audit Executive,2024-09-01
+003C00138,001A00061,Sofia,Grant,sofia.grant@lindellpharma.com,Director of Model Risk,2024-09-01
+003C00139,001A00061,Tom,Mori,tom.mori@lindellpharma.com,Chief Audit Executive,2024-09-01
+003C00140,001A00062,Zara,Clarke,zara.clarke@oakmontfreight.com,Head of Data Governance,2024-09-01
+003C00141,001A00062,Elena,Shapiro,elena.shapiro@oakmontfreight.com,Chief Audit Executive,2024-09-01
+003C00142,001A00063,Kenji,Jansen,kenji.jansen@goldcrestenergy.com,"Senior Manager, Compliance",2024-09-01
+003C00143,001A00063,Nathan,Carter,nathan.carter@goldcrestenergy.com,Chief Audit Executive,2024-09-01
+003C00144,001A00064,Amara,Farouk,amara.farouk@alderretail.com,Director of Risk Analytics,2024-09-01
+003C00145,001A00064,Nina,Mori,nina.mori@alderretail.com,Head of Internal Audit,2024-09-01
+003C00146,001A00065,Megan,Ortega,megan.ortega@kilbournehs.com,Director of Risk Analytics,2024-09-01
+003C00147,001A00065,Kwame,Schmidt,kwame.schmidt@kilbournehs.com,Head of Internal Audit,2024-09-01
+003C00148,001A00066,Elena,Carter,elena.carter@clearwaterutilities.com,Head of Risk,2024-09-01
+003C00149,001A00066,Grace,Costa,grace.costa@clearwaterutilities.com,Head of Internal Audit,2024-09-01
+003C00150,001A00067,Ethan,Iyer,ethan.iyer@greshambank.com,Director of Risk Analytics,2024-09-01
+003C00151,001A00067,Mira,Bello,mira.bello@greshambank.com,Chief Compliance Officer,2024-09-01
+003C00152,001A00068,Julia,Costa,julia.costa@yardleyinvest.com,Director of Model Risk,2024-09-01
+003C00153,001A00068,Rosa,Lindqvist,rosa.lindqvist@yardleyinvest.com,VP Risk Management,2024-09-01
+003C00154,001A00069,Mei,Adeyemi,mei.adeyemi@canyonbancorp.com,Head of Data Governance,2024-09-01
+003C00155,001A00069,Lena,Novak,lena.novak@canyonbancorp.com,Head of Internal Audit,2024-09-01
+003C00156,001A00069,Luis,Moreau,luis.moreau@canyonbancorp.com,Chief Financial Officer,2024-09-01
+003C00157,001A00070,Omar,Torres,omar.torres@underhilllogistics.com,Head of Data Governance,2024-09-01
+003C00158,001A00070,Claire,Cohen,claire.cohen@underhilllogistics.com,Chief Audit Executive,2024-09-01
+003C00159,001A00071,Fatima,Keller,fatima.keller@norcliffeinvest.com,Head of Risk,2024-09-01
+003C00160,001A00071,Rachel,Ward,rachel.ward@norcliffeinvest.com,Chief Audit Executive,2024-09-01
+003C00161,001A00072,Ben,Liu,ben.liu@tamarackfreight.com,Head of Risk,2024-09-01
+003C00162,001A00072,Luis,Rossi,luis.rossi@tamarackfreight.com,VP Risk Management,2024-09-01
+003C00163,001A00072,Fatima,Moreau,fatima.moreau@tamarackfreight.com,Chief Operating Officer,2024-09-01
+003C00164,001A00073,Rachel,Malik,rachel.malik@ivenbrookenergy.com,Head of Risk,2024-09-01
+003C00165,001A00073,Tessa,Lindqvist,tessa.lindqvist@ivenbrookenergy.com,Head of Internal Audit,2024-09-01
+003C00166,001A00074,Tom,Bell,tom.bell@ashgrovecomponents.co.uk,Head of Data Governance,2024-09-01
+003C00167,001A00074,Paula,Ortega,paula.ortega@ashgrovecomponents.co.uk,Chief Audit Executive,2024-09-01
+003C00168,001A00075,Omar,Fischer,omar.fischer@hawthornesystems.com,Head of Data Governance,2024-09-01
+003C00169,001A00075,Felix,Raman,felix.raman@hawthornesystems.com,Chief Audit Executive,2024-09-01
+003C00170,001A00075,Naomi,Zhang,naomi.zhang@hawthornesystems.com,Chief Risk Officer,2024-09-01
+003C00171,001A00076,Yuki,Ward,yuki.ward@dunmorestores.com,Director of Model Risk,2024-09-01
+003C00172,001A00076,Victor,Smith,victor.smith@dunmorestores.com,Chief Audit Executive,2024-09-01
+003C00173,001A00077,Marcus,Dubois,marcus.dubois@quarrybio.ca,Head of Risk,2024-09-01
+003C00174,001A00077,Rachel,Ferreira,rachel.ferreira@quarrybio.ca,Head of Internal Audit,2024-09-01
+003C00175,001A00078,Sam,Laurent,sam.laurent@jamesonam.com,Head of Risk,2024-09-01
+003C00176,001A00078,Kwame,Smith,kwame.smith@jamesonam.com,Chief Audit Executive,2024-09-01
+003C00177,001A00079,Kwame,Haddad,kwame.haddad@maplewoodenergy.com,Head of Data Governance,2024-09-01
+003C00178,001A00079,Victor,Ward,victor.ward@maplewoodenergy.com,VP Risk Management,2024-09-01
+003C00179,001A00080,Ethan,Vargas,ethan.vargas@quintonsoftware.com,Head of Data Governance,2024-09-01
+003C00180,001A00080,Sam,Doyle,sam.doyle@quintonsoftware.com,Head of Internal Audit,2024-09-01
+003C00181,001A00081,Peter,Hughes,peter.hughes@ardenind.com,Head of Data Governance,2024-09-01
+003C00182,001A00081,Aisha,Kapoor,aisha.kapoor@ardenind.com,VP Risk Management,2024-09-01
+003C00183,001A00082,Chloe,Kim,chloe.kim@ashbyfreight.com,Head of Risk,2024-09-01
+003C00184,001A00082,Ibrahim,Ali,ibrahim.ali@ashbyfreight.com,Head of Internal Audit,2024-09-01
+003C00185,001A00083,Daniel,Nguyen,daniel.nguyen@thistlemutual.com,"Senior Manager, Compliance",2024-09-01
+003C00186,001A00083,Hugo,Ramos,hugo.ramos@thistlemutual.com,Chief Audit Executive,2024-09-01
+003C00187,001A00083,Yuki,Vargas,yuki.vargas@thistlemutual.com,Chief Risk Officer,2024-09-01
+003C00188,001A00084,Zara,Costa,zara.costa@junipercomponents.com,Head of Data Governance,2024-09-01
+003C00189,001A00084,Simon,Russo,simon.russo@junipercomponents.com,VP Risk Management,2024-09-01
+003C00190,001A00085,Sofia,Dubois,sofia.dubois@rutledgebrands.com,Director of Risk Analytics,2024-09-01
+003C00191,001A00085,Sofia,Adeyemi,sofia.adeyemi@rutledgebrands.com,Chief Compliance Officer,2024-09-01
+003C00192,001A00086,Tariq,Mensah,tariq.mensah@fernhillfreight.com,Director of Risk Analytics,2024-09-01
+003C00193,001A00086,Aisha,Malik,aisha.malik@fernhillfreight.com,Chief Compliance Officer,2024-09-01
+003C00194,001A00087,Sam,Smith,sam.smith@parkviewenergy.com,Head of Data Governance,2024-09-01
+003C00195,001A00087,Nina,Dubois,nina.dubois@parkviewenergy.com,Head of Internal Audit,2024-09-01
+003C00196,001A00088,Lena,Mensah,lena.mensah@cliftonretail.com,Head of Risk,2024-09-01
+003C00197,001A00088,Rosa,Rossi,rosa.rossi@cliftonretail.com,Chief Audit Executive,2024-09-01
+003C00198,001A00089,Mei,Eze,mei.eze@barrowfieldbank.com,Head of Risk,2024-09-01
+003C00199,001A00089,Laura,Murphy,laura.murphy@barrowfieldbank.com,Head of Internal Audit,2024-09-01
+003C00200,001A00089,Yuki,Mendes,yuki.mendes@barrowfieldbank.com,Chief Financial Officer,2024-09-01
+003C00201,001A00090,Priya,Bell,priya.bell@eastwickstores.com,Head of Data Governance,2024-09-01
+003C00202,001A00090,Nathan,Okonkwo,nathan.okonkwo@eastwickstores.com,Head of Internal Audit,2024-09-01
+003C00203,001A00091,Hugo,Rahman,hugo.rahman@oakhurststores.com,Head of Risk,2024-09-01
+003C00204,001A00091,Graham,Smith,graham.smith@oakhurststores.com,Chief Audit Executive,2024-09-01
+003C00205,001A00092,Julia,Smith,julia.smith@kestrelutilities.com,Director of Risk Analytics,2024-09-01
+003C00206,001A00092,Marcus,Shapiro,marcus.shapiro@kestrelutilities.com,Head of Internal Audit,2024-09-01
+003C00207,001A00093,Kenji,Kapoor,kenji.kapoor@bellhavenenergy.com,Director of Risk Analytics,2024-09-01
+003C00208,001A00093,Laura,Mori,laura.mori@bellhavenenergy.com,Head of Internal Audit,2024-09-01
+003C00209,001A00093,Peter,Zhang,peter.zhang@bellhavenenergy.com,Chief Operating Officer,2024-09-01
+003C00210,001A00094,Tom,Becker,tom.becker@merrowmfg.com,Director of Risk Analytics,2024-09-01
+003C00211,001A00094,Nathan,Harris,nathan.harris@merrowmfg.com,VP Risk Management,2024-09-01
+003C00212,001A00095,Claire,Rahman,claire.rahman@redstonetransport.com,Director of Model Risk,2024-09-01
+003C00213,001A00095,Caleb,Clarke,caleb.clarke@redstonetransport.com,Head of Internal Audit,2024-09-01
+003C00214,001A00096,Kwame,Mori,kwame.mori@northgatestores.com,Director of Risk Analytics,2024-09-01
+003C00215,001A00096,Grace,Aziz,grace.aziz@northgatestores.com,Chief Compliance Officer,2024-09-01
+003C00216,001A00096,Simon,Weber,simon.weber@northgatestores.com,Chief Operating Officer,2024-09-01
+003C00217,001A00097,Omar,Ramos,omar.ramos@whitmorepower.com,Director of Risk Analytics,2024-09-01
+003C00218,001A00097,Laura,Adeyemi,laura.adeyemi@whitmorepower.com,Head of Internal Audit,2024-09-01
+003C00219,001A00098,Nathan,Laurent,nathan.laurent@orchardins.com,Head of Data Governance,2024-09-01
+003C00220,001A00098,David,Cohen,david.cohen@orchardins.com,Head of Internal Audit,2024-09-01
+003C00221,001A00099,Leah,Iyer,leah.iyer@riverbendcapital.com,Head of Data Governance,2024-09-01
+003C00222,001A00099,Zara,Haddad,zara.haddad@riverbendcapital.com,Head of Internal Audit,2024-09-01
+003C00223,001A00100,Nina,Bello,nina.bello@aldenmoorinvest.com,Head of Data Governance,2024-09-01
+003C00224,001A00100,Lena,Adeyemi,lena.adeyemi@aldenmoorinvest.com,Head of Internal Audit,2024-09-01
+003C00225,001A00101,Daniel,Carter,daniel.carter@gilfordutilities.com,"Senior Manager, Compliance",2024-09-01
+003C00226,001A00101,Chloe,Murphy,chloe.murphy@gilfordutilities.com,Chief Compliance Officer,2024-09-01
+003C00227,001A00101,Diego,Eze,diego.eze@gilfordutilities.com,Chief Financial Officer,2024-09-01
+003C00228,001A00102,Kenji,Fischer,kenji.fischer@alcottins.com,Director of Model Risk,2024-09-01
+003C00229,001A00102,Leah,Malik,leah.malik@alcottins.com,Head of Internal Audit,2024-09-01
+003C00230,001A00103,Megan,Ferreira,megan.ferreira@rosewoodpower.com,Head of Risk,2024-09-01
+003C00231,001A00103,Laura,Liu,laura.liu@rosewoodpower.com,VP Risk Management,2024-09-01
+003C00232,001A00104,Elena,Liu,elena.liu@driftwoodsystems.com,"Senior Manager, Compliance",2024-09-01
+003C00233,001A00104,Felix,Shapiro,felix.shapiro@driftwoodsystems.com,Head of Internal Audit,2024-09-01
+003C00234,001A00105,Elena,Clarke,elena.clarke@fenwickmedical.com,Director of Risk Analytics,2024-09-01
+003C00235,001A00105,Zara,Nguyen,zara.nguyen@fenwickmedical.com,Chief Audit Executive,2024-09-01
+003C00236,001A00106,Hannah,Bell,hannah.bell@briarwoodhealth.com,Director of Risk Analytics,2024-09-01
+003C00237,001A00106,Mei,Liu,mei.liu@briarwoodhealth.com,Chief Compliance Officer,2024-09-01
+003C00238,001A00107,Wei,Zhang,wei.zhang@inwoodam.com,Head of Risk,2024-09-01
+003C00239,001A00107,Arjun,Ward,arjun.ward@inwoodam.com,Head of Internal Audit,2024-09-01
+003C00240,001A00108,Felix,Zhang,felix.zhang@thornburybank.com,"Senior Manager, Compliance",2024-09-01
+003C00241,001A00108,Victor,Price,victor.price@thornburybank.com,Head of Internal Audit,2024-09-01
+003C00242,001A00109,Naomi,Fischer,naomi.fischer@lindensavings.com,Director of Risk Analytics,2024-09-01
+003C00243,001A00109,Felix,Hughes,felix.hughes@lindensavings.com,VP Risk Management,2024-09-01
+003C00244,001A00110,Sam,Aziz,sam.aziz@oldfieldinvest.com,Head of Risk,2024-09-01
+003C00245,001A00110,David,Lam,david.lam@oldfieldinvest.com,Chief Audit Executive,2024-09-01
+003C00246,001A00111,Zara,Dubois,zara.dubois@jorvalemutual.com,Head of Data Governance,2024-09-01
+003C00247,001A00111,Megan,Mendes,megan.mendes@jorvalemutual.com,VP Risk Management,2024-09-01
+003C00248,001A00112,Nina,Russo,nina.russo@copperfieldfreight.com,Head of Risk,2024-09-01
+003C00249,001A00112,Leah,Bell,leah.bell@copperfieldfreight.com,Chief Audit Executive,2024-09-01
+003C00250,001A00113,Ines,Ortega,ines.ortega@marlowind.com,Head of Risk,2024-09-01
+003C00251,001A00113,Paula,Torres,paula.torres@marlowind.com,Chief Compliance Officer,2024-09-01
+003C00252,001A00114,Amara,Clarke,amara.clarke@penrosebrands.com,Director of Risk Analytics,2024-09-01
+003C00253,001A00114,Andre,Walsh,andre.walsh@penrosebrands.com,Chief Audit Executive,2024-09-01
+003C00254,001A00114,Lucia,Petrov,lucia.petrov@penrosebrands.com,Chief Financial Officer,2024-09-01
+003C00255,001A00115,Mei,Raman,mei.raman@eastonassurance.com,Head of Risk,2024-09-01
+003C00256,001A00115,Jane,Mensah,jane.mensah@eastonassurance.com,VP Risk Management,2024-09-01
+003C00257,001A00116,Felix,Carter,felix.carter@ambergatesystems.com,Head of Data Governance,2024-09-01
+003C00258,001A00116,Diego,Farouk,diego.farouk@ambergatesystems.com,Chief Compliance Officer,2024-09-01
+003C00259,001A00117,Victor,Torres,victor.torres@millbrookanalytics.com,Head of Data Governance,2024-09-01
+003C00260,001A00117,Elena,Haddad,elena.haddad@millbrookanalytics.com,VP Risk Management,2024-09-01
+003C00261,001A00118,Lena,Jansen,lena.jansen@norwoodbancorp.com,Director of Model Risk,2024-09-01
+003C00262,001A00118,Jorge,Mendes,jorge.mendes@norwoodbancorp.com,Head of Internal Audit,2024-09-01
+003C00263,001A00119,Yuki,Ortega,yuki.ortega@ivywoodstores.com,"Senior Manager, Compliance",2024-09-01
+003C00264,001A00119,Ravi,Schmidt,ravi.schmidt@ivywoodstores.com,Head of Internal Audit,2024-09-01
+003C00265,001A00120,Marcus,Russo,marcus.russo@eastbrookcapital.com,"Senior Manager, Compliance",2024-09-01
+003C00266,001A00120,Hannah,Kim,hannah.kim@eastbrookcapital.com,Chief Audit Executive,2024-09-01
+003C00267,001A00018,Caleb,Ali,caleb.ali@hollowaybank.com,Chief Financial Officer,2025-02-02
+003C00268,001A00107,Felix,Schmidt,felix.schmidt@inwoodam.com,Deputy General Counsel,2025-04-01
+003C00269,001A00026,Lucia,Jansen,lucia.jansen@islingtonbancorp.com,Chief Operating Officer,2025-05-21
+003C00270,001A00028,Hannah,Novak,hannah.novak@orlavaletx.com,Chief Financial Officer,2025-05-24
+003C00271,001A00111,Luis,Petrov,luis.petrov@jorvalemutual.com,Chief Financial Officer,2025-06-25
+003C00272,001A00102,Megan,Kapoor,megan.kapoor@alcottins.com,Director of Procurement,2025-08-17
+003C00273,001A00061,Diego,Mensah,diego.mensah@lindellpharma.com,Chief Operating Officer,2025-08-19
+003C00274,001A00112,Jorge,Rossi,jorge.rossi@copperfieldfreight.com,Chief Operating Officer,2025-08-26
+003C00275,001A00028,Elena,Adeyemi,elena.adeyemi@orlavaletx.com,Deputy General Counsel,2025-09-02
+003C00276,001A00050,Arjun,Smith,arjun.smith@ashfordmedical.com,General Counsel,2025-09-03
+003C00277,001A00102,Grace,Adeyemi,grace.adeyemi@alcottins.com,Chief Risk Officer,2025-09-20
+003C00278,001A00048,Ibrahim,Okonkwo,ibrahim.okonkwo@crestviewcapital.com,General Counsel,2025-10-07
+003C00279,001A00050,Graham,Carter,graham.carter@ashfordmedical.com,Chief Financial Officer,2025-10-14
+003C00280,001A00111,David,Nguyen,david.nguyen@jorvalemutual.com,Deputy General Counsel,2025-10-18
+003C00281,001A00111,Sofia,Kim,sofia.kim@jorvalemutual.com,Vendor Management Lead,2025-10-25
+003C00282,001A00046,Daniel,Rossi,daniel.rossi@willowbrooklogistics.com,Deputy General Counsel,2025-11-02
+003C00283,001A00095,Nina,Shapiro,nina.shapiro@redstonetransport.com,Chief Operating Officer,2025-11-02
+003C00284,001A00033,Nathan,Iyer,nathan.iyer@vandermeertransport.com,Chief Risk Officer,2025-11-23
+003C00285,001A00012,Zara,Jansen,zara.jansen@lakeshorepharma.com,Chief Operating Officer,2025-11-27
+003C00286,001A00090,Mei,Walsh,mei.walsh@eastwickstores.com,Chief Operating Officer,2025-12-23
+003C00287,001A00010,Fatima,Bello,fatima.bello@brackenridgefreight.com,Deputy General Counsel,2025-12-31
+003C00288,001A00082,Kwame,Novak,kwame.novak@ashbyfreight.com,Chief Financial Officer,2026-01-04
+003C00289,001A00088,Victor,Lam,victor.lam@cliftonretail.com,General Counsel,2026-02-01
+003C00290,001A00005,Aisha,Ortega,aisha.ortega@summitfg.com,General Counsel,2026-02-02
+003C00291,001A00040,Megan,Petrov,megan.petrov@wexfordsavings.com,General Counsel,2026-02-03
+003C00292,001A00012,Andre,Lindqvist,andre.lindqvist@lakeshorepharma.com,Deputy General Counsel,2026-02-08
+003C00293,001A00005,Andre,Tanaka,andre.tanaka@summitfg.com,Chief Operating Officer,2026-02-16
+003C00294,001A00088,Victor,Menon,victor.menon@cliftonretail.com,Chief Operating Officer,2026-02-26
+003C00295,001A00040,Leah,Costa,leah.costa@wexfordsavings.com,Chief Operating Officer,2026-03-05
+003C00296,001A00090,Daniel,Vargas,daniel.vargas@eastwickstores.com,Deputy General Counsel,2026-03-15
+003C00297,001A00023,Tom,Tanaka,tom.tanaka@caldwellenergy.com,General Counsel,2026-03-20
+003C00298,001A00023,Anna,Petrov,anna.petrov@caldwellenergy.com,Chief Operating Officer,2026-04-08
+003C00299,001A00057,Simon,Shapiro,simon.shapiro@jarvisstores.com,Chief Operating Officer,2026-04-08
+003C00300,001A00095,Amara,Lindqvist,amara.lindqvist@redstonetransport.com,General Counsel,2026-04-19
+003C00301,001A00033,Paula,Eze,paula.eze@vandermeertransport.com,General Counsel,2026-05-25
+003C00302,001A00034,Ben,Russo,ben.russo@uptonenergy.com,Procurement Manager,2026-06-05
+003C00303,001A00062,Olivia,Cohen,olivia.cohen@oakmontfreight.com,Deputy General Counsel,2026-06-15
+003C00304,001A00062,Amara,Haddad,amara.haddad@oakmontfreight.com,Chief Operating Officer,2026-06-24
+003C00305,001A00058,Rosa,Torres,rosa.torres@westburysavings.com,Vendor Management Lead,2026-07-07
+003C00306,001A00034,Arjun,Adeyemi,arjun.adeyemi@uptonenergy.com,Chief Financial Officer,2026-07-23
+003C00307,001A00058,Diego,Dubois,diego.dubois@westburysavings.com,Deputy General Counsel,2026-07-27
+003C00308,001A00034,Hugo,Smith,hugo.smith@uptonenergy.com,General Counsel,2026-08-11
+003C00309,001A00065,David,Shapiro,david.shapiro@kilbournehs.com,Chief Financial Officer,2026-09-04
+003C00310,001A00072,Elena,Petrov,elena.petrov@tamarackfreight.com,General Counsel,2026-09-12
+003C00311,001A00116,Ines,Fischer,ines.fischer@ambergatesystems.com,Chief Operating Officer,2026-09-12
+003C00312,001A00119,Anna,Torres,anna.torres@ivywoodstores.com,Chief Operating Officer,2026-09-12
+003C00313,001A00001,Owen,Russo,owen.russo@abccorp.com,General Counsel,2026-09-13
+003C00314,001A00080,Paula,Russo,paula.russo@quintonsoftware.com,Vendor Management Lead,2026-09-17

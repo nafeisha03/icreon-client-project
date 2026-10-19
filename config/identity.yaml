@@ -1,0 +1,103 @@
+# How records are matched to companies and people.
+# A record is linked only on solid evidence, and the reason is always saved.
+
+# Removed from company names before comparing, so "ABC Corp", "ABC Corporation"
+# and "ABC Corp Ltd" all become "abc".
+legal_endings:
+  - inc
+  - incorporated
+  - corp
+  - corporation
+  - co
+  - company
+  - ltd
+  - limited
+  - llc
+  - llp
+  - lp
+  - plc
+  - sa
+  - ag
+  - gmbh
+  - nv
+  - the
+
+# Kept, because they can mean a different company ("Summit Financial Group" is
+# not "Summit Financial Holdings").
+kept_words:
+  - group
+  - holdings
+  - partners
+  - bank
+  - trust
+
+# Email domains that say nothing about the employer.
+personal_email_domains:
+  - gmail.com
+  - outlook.com
+  - hotmail.com
+  - yahoo.com
+  - icloud.com
+  - aol.com
+  - proton.me
+  - live.com
+
+# Names that website tools report for internet providers, not companies.
+network_provider_names:
+  - comcast
+  - verizon business
+  - at&t internet
+  - spectrum
+  - cox communications
+  - google fiber
+  - amazon web services
+  - microsoft azure
+  - zscaler
+
+# Two cleaned names this similar (0 to 1) are "only similar": never linked, sent to review.
+similar_name_threshold: 0.84
+
+# Buying roles inferred from job titles, checked top to bottom.
+role_keywords:
+  - role: Legal Reviewer
+    keywords: [general counsel, counsel, legal]
+  - role: Procurement
+    keywords: [procurement, vendor management, sourcing, purchasing]
+  - role: Finance Approver
+    keywords: [controller, fp&a, vp finance, treasurer]
+  - role: Executive Sponsor
+    keywords: [chief risk officer, chief financial officer, chief operating officer, chief executive, cfo, cro, coo, ceo]
+  - role: Decision Maker
+    keywords: [internal audit, audit executive, chief compliance, vp risk, head of risk management]
+  - role: Technical Evaluator
+    keywords: [data science, ai engineering, chief data officer, machine learning, data engineering]
+  - role: Influencer
+    keywords: [model risk, data governance, compliance, risk, governance, analyst]
+
+seniority_keywords:
+  - seniority: VP
+    keywords: [vp, vice president, deputy]
+  - seniority: C-level
+    keywords: [chief, general counsel, cfo, cro, coo, ceo]
+  - seniority: Director
+    keywords: [director, head of, controller]
+  - seniority: Manager
+    keywords: [manager, lead]
+  - seniority: Staff
+    keywords: [analyst, associate, specialist, counsel]
+
+# Existing relationship values as people type them, mapped to the four allowed values.
+relationship_values:
+  "current client, other services": "Current client, other services"
+  "current client": "Current client, other services"
+  "audit client": "Current client, other services"
+  "tax client": "Current client, other services"
+  "advisory client": "Current client, other services"
+  "y - audit": "Current client, other services"
+  "y - tax": "Current client, other services"
+  "former client": "Former client"
+  "former": "Former client"
+  "lapsed client": "Former client"
+  "none": "None"
+  "no": "None"
+  "prospect": "None"

@@ -1,0 +1,68 @@
+# The stages an account can be in, in order.
+# Pipeline stages follow the firm's CRM pipeline that James described on October 8,
+# with three marketing stages before it and two statuses after it.
+#
+# weight_pct is the firm's convention for weighting the pipeline. It is kept here
+# for reference only: it is never a forecast for one account, and the dashboard
+# does not show it. The dashboard shows how often each stage actually signed.
+
+stages:
+  - stage: Target
+    order: 1
+    kind: Marketing
+    weight_pct: null
+    description: It is on the target list and nothing else is recorded
+
+  - stage: Aware
+    order: 2
+    kind: Marketing
+    weight_pct: null
+    description: "Someone there has seen us: an identified visit, email open, LinkedIn engagement or webinar registration"
+
+  - stage: Interested
+    order: 3
+    kind: Marketing
+    weight_pct: null
+    description: "Someone took a deliberate step: attended, downloaded, replied, talked to us at a conference or accepted an introduction"
+
+  - stage: Qualified Lead
+    order: 4
+    kind: Pipeline
+    weight_pct: 20
+    description: A business need is identified, in a meeting note, a referral or a request
+
+  - stage: Active Conversation
+    order: 5
+    kind: Pipeline
+    weight_pct: 40
+    description: "Discussions about their requirements have begun: a discovery, scoping or executive meeting was held"
+
+  - stage: Proposal / RFP
+    order: 6
+    kind: Pipeline
+    weight_pct: 60
+    description: They asked for a proposal or pricing, issued an RFP, or we sent a proposal; legal or procurement review happens here too
+
+  - stage: Verbal Commitment
+    order: 7
+    kind: Pipeline
+    weight_pct: 80
+    description: They said they intend to proceed, or contract terms are being negotiated
+
+  - stage: Signed Agreement
+    order: 8
+    kind: Pipeline
+    weight_pct: 100
+    description: The engagement letter was signed
+
+  - stage: Stalled
+    order: 9
+    kind: Status
+    weight_pct: null
+    description: It reached Qualified Lead or later, then went quiet for 45 or more days
+
+  - stage: Lost
+    order: 10
+    kind: Status
+    weight_pct: null
+    description: The CRM marks it lost, or they said they chose another firm or are not going ahead

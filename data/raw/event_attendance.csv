@@ -1,0 +1,251 @@
+registration_id,event_name,event_type,event_date,campaign_id,registrant_name,email,company,job_title,status,exported_at
+REG-00001,AI Controls Webinar,Webinar,07/11/2024,CMP-01,Laura Ortega,laura.ortega@hollowaybank.com,Holloway Bank,Chief Compliance Officer,registered,2024-11-13
+REG-00002,AI Controls Webinar,Webinar,14/11/2024,CMP-01,Laura Ortega,laura.ortega@hollowaybank.com,Holloway Bank,Chief Compliance Officer,no-show,2024-11-21
+REG-00003,Executive Roundtable: AI Controls,Roundtable,05/12/2024,CMP-03,Wei Zhang,wei.zhang@inwoodam.com,inwood asset management,Head of Risk,attended,2024-12-10
+REG-00004,Executive Roundtable: AI Controls,Roundtable,05/12/2024,CMP-03,Elena Liu,elena.liu@driftwoodsystems.com,Driftwood  Systems,"Senior Manager, Compliance",attended,2024-12-13
+REG-00005,AI Controls Webinar,Webinar,24/12/2024,CMP-01,Rachel Vargas,rachel.vargas@northcliffins.com,Northcliff Insurance,Chief Audit Executive,registered,2025-01-01
+REG-00006,AI Controls Webinar,Webinar,26/12/2024,CMP-01,Rachel Vargas,rachel.vargas@northcliffins.com,Northcliff Insurance,Chief Audit Executive,no-show,2025-01-03
+REG-00007,AI Controls Webinar,Webinar,01/02/2025,CMP-01,Simon Weber,simon.weber@northgatestores.com,Northgate Stores,Chief Operating Officer,registered,2025-02-07
+REG-00008,AI Controls Webinar,Webinar,03/02/2025,CMP-01,Kwame Mori,kwame.mori@northgatestores.com,Northgate Stores,Director of Risk Analytics,registered,2025-02-08
+REG-00009,AI Controls Webinar,Webinar,06/02/2025,CMP-01,Simon Weber,simon.weber@northgatestores.com,Northgate  Stores,Chief Operating Officer,attended,2025-02-11
+REG-00010,AI Controls Webinar,Webinar,06/02/2025,CMP-01,Kwame Mori,kwame.mori@northgatestores.com,Northgate Stores,Director of Risk Analytics,attended,2025-02-14
+REG-00011,Executive Roundtable: AI Controls,Roundtable,20/02/2025,CMP-03,Marcus Russo,marcus.russo@eastbrookcapital.com,Eastbrook Capital,"Senior Manager, Compliance",attended,2025-02-26
+REG-00012,Executive Roundtable: AI Controls,Roundtable,20/02/2025,CMP-03,Rachel Becker,rachel.becker@orlavaletx.com,Orlavale The.,Head of Risk,attended,2025-02-27
+REG-00013,AI Controls Webinar,Webinar,24/04/2025,CMP-01,Sam Aziz,sam.aziz@oldfieldinvest.com,oldfield investments,Head of Risk,registered,2025-05-02
+REG-00014,AI Controls Webinar,Webinar,24/04/2025,CMP-01,Kwame Mori,kwame.mori@northgatestores.com,northgate stores,Director of Risk Analytics,registered,2025-04-30
+REG-00015,Executive Roundtable: AI Controls,Roundtable,24/04/2025,CMP-03,Peter Moreau,peter.moreau@pinehavenmutual.com,Pinehaven Mutual,"Senior Manager, Compliance",attended,2025-05-01
+REG-00016,Executive Roundtable: AI Controls,Roundtable,24/04/2025,CMP-03,Hannah Kim,hannah.kim@eastbrookcapital.com,Eastbrook Capital,Chief Audit Executive,attended,2025-05-03
+REG-00017,AI Controls Webinar,Webinar,28/04/2025,CMP-01,Daniel Rossi,daniel.rossi@willowbrooklogistics.com,willowbrook logistics,Deputy General Counsel,registered,2025-05-04
+REG-00018,AI Controls Webinar,Webinar,01/05/2025,CMP-01,Sam Aziz,sam.aziz@oldfieldinvest.com,Oldfield Investments,Head of Risk,no-show,2025-05-08
+REG-00019,AI Controls Webinar,Webinar,01/05/2025,CMP-01,Daniel Rossi,daniel.rossi@willowbrooklogistics.com,Willowbrook  Logistics,Deputy General Counsel,no-show,2025-05-10
+REG-00020,AI Controls Webinar,Webinar,01/05/2025,CMP-01,Kwame Mori,kwame.mori@northgatestores.com,Northgate  Stores,Director of Risk Analytics,attended,2025-05-09
+REG-00021,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Kenji Fischer,kenji.fischer@alcottins.com,Alcott Ins.,Director of Model Risk,attended,2025-05-19
+REG-00022,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Sofia Grant,sofia.grant@lindellpharma.com,Lindell  Pharmaceuticals,Director of Model Risk,attended,2025-05-22
+REG-00023,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Tariq Rahman,tariq.rahman@pinehavenmutual.com,Pinehaven Mutual,Head of Internal Audit,attended,2025-05-22
+REG-00024,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Felix Shapiro,felix.shapiro@driftwoodsystems.com,Driftwood Systems,Head of Internal Audit,attended,2025-05-22
+REG-00025,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Ines Brooks,ines.brooks@hollowaybank.com,Holloway  Bank,Head of Data Governance,attended,2025-05-21
+REG-00026,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Zara Dubois,zara.dubois@jorvalemutual.com,jorvale mutual,Head of Data Governance,attended,2025-05-23
+REG-00027,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Nina Russo,nina.russo17@gmail.com,Copperfield Freight,Head of Risk,attended,2025-05-22
+REG-00028,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Marcus Russo,marcus.russo@eastbrookcapital.com,Eastbrook Cap.,"Senior Manager, Compliance",attended,2025-05-22
+REG-00029,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Grace Aziz,grace.aziz@northgatestores.com,Northgate Stores,Chief Compliance Officer,attended,2025-05-23
+REG-00030,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Nina Rossi,nina.rossi@vandermeertransport.com,Vandermeer Transport,Director of Model Risk,attended,2025-05-23
+REG-00031,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Jane Grant,jane.grant@dunmorestores.com,Dunmore Sto.,Chief Financial Officer,attended,2025-05-22
+REG-00032,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Priya Bell,priya.bell@eastwickstores.com,eastwick stores,Head of Data Governance,attended,2025-05-21
+REG-00033,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Mei Raman,mei.raman@eastonassurance.com,Easton Assurance,Head of Risk,attended,2025-05-19
+REG-00034,AI Risk Summit 2025,Conference,14/05/2025,CMP-04,Rachel Becker,rachel.becker@orlavaletx.com,Orlavale  Therapeutics,Head of Risk,attended,2025-05-23
+REG-00035,AI Controls Webinar,Webinar,03/06/2025,CMP-01,Leah Bell,leah.bell@copperfieldfreight.com,Copperfield Freight,Chief Audit Executive,registered,2025-06-09
+REG-00036,AI Controls Webinar,Webinar,03/06/2025,CMP-01,Jane Mensah,jane.mensah@eastonassurance.com,easton assurance,VP Risk Management,registered,2025-06-10
+REG-00037,AI Controls Webinar,Webinar,04/06/2025,CMP-01,Megan Novak,megan.novak@fairhavenbank.com,Fairhaven  Bank,Chief Financial Officer,registered,2025-06-09
+REG-00038,AI Controls Webinar,Webinar,05/06/2025,CMP-01,Elena Adeyemi,,Orlavale  Therapeutics,Deputy General Counsel,registered,2025-06-11
+REG-00039,AI Controls Webinar,Webinar,12/06/2025,CMP-01,Megan Novak,megan.novak@fairhavenbank.com,Fairhaven Ban.,Chief Financial Officer,no-show,2025-06-20
+REG-00040,AI Controls Webinar,Webinar,12/06/2025,CMP-01,Jane Mensah,jane.mensah@eastonassurance.com,Easton Ass.,VP Risk Management,attended,2025-06-21
+REG-00041,AI Controls Webinar,Webinar,12/06/2025,CMP-01,Elena Adeyemi,elena.adeyemi97@gmail.com,Orlavale Therapeutics,Deputy General Counsel,no-show,2025-06-17
+REG-00042,AI Controls Webinar,Webinar,12/06/2025,CMP-01,Leah Bell,leah.bell@copperfieldfreight.com,Copperfield Fre.,Chief Audit Executive,attended,2025-06-17
+REG-00043,Executive Roundtable: AI Controls,Roundtable,19/06/2025,CMP-03,Rachel Aziz,rachel.aziz95@gmail.com,Willowbrook  Logistics,Director of Model Risk,attended,2025-06-28
+REG-00044,AI Controls Webinar,Webinar,19/07/2025,CMP-01,Victor Price,victor.price@thornburybank.com,thornbury bank,Head of Internal Audit,registered,2025-07-25
+REG-00045,AI Controls Webinar,Webinar,20/07/2025,CMP-01,Priya Bell,priya.bell@eastwickstores.com,eastwick stores,Head of Data Governance,registered,2025-07-27
+REG-00046,AI Controls Webinar,Webinar,22/07/2025,CMP-01,Amara Russo,,Northcliff Insurance,Director of Risk Analytics,registered,2025-07-29
+REG-00047,AI Controls Webinar,Webinar,22/07/2025,CMP-01,Kenji Jansen,kenji.jansen@goldcrestenergy.com,goldcrest energy,"Senior Manager, Compliance",registered,2025-07-27
+REG-00048,AI Controls Webinar,Webinar,24/07/2025,CMP-01,Kenji Jansen,kenji.jansen@goldcrestenergy.com,Goldcrest Energy,"Senior Manager, Compliance",attended,2025-08-01
+REG-00049,AI Controls Webinar,Webinar,24/07/2025,CMP-01,Amara Russo,amara.russo@northcliffins.com,Northcliff  Insurance,Director of Risk Analytics,no-show,2025-08-02
+REG-00050,AI Controls Webinar,Webinar,24/07/2025,CMP-01,Victor Price,victor.price@thornburybank.com,Thornbury  Bank,Head of Internal Audit,no-show,2025-07-31
+REG-00051,AI Controls Webinar,Webinar,24/07/2025,CMP-01,Priya Bell,priya.bell@eastwickstores.com,Eastwick Sto.,Head of Data Governance,attended,2025-08-01
+REG-00052,AI Controls Webinar,Webinar,30/08/2025,CMP-01,Diego Moreau,diego.moreau@summitfh.com,Summit Financial Holdings,VP Risk Management,registered,2025-09-04
+REG-00053,AI Controls Webinar,Webinar,01/09/2025,CMP-01,Priya Moreau,,Crestview Capital,VP Risk Management,registered,2025-09-10
+REG-00054,AI Controls Webinar,Webinar,01/09/2025,CMP-01,Hannah Novak,hannah.novak@orlavaletx.com,Orlavale Therapeutics,Chief Financial Officer,registered,2025-09-06
+REG-00055,AI Controls Webinar,Webinar,04/09/2025,CMP-01,Hannah Novak,hannah.novak@orlavaletx.com,orlavale therapeutics,Chief Financial Officer,attended,2025-09-09
+REG-00056,AI Controls Webinar,Webinar,04/09/2025,CMP-01,Diego Moreau,diego.moreau@summitfh.com,Summit Hol.,VP Risk Management,no-show,2025-09-12
+REG-00057,AI Controls Webinar,Webinar,04/09/2025,CMP-01,Priya Moreau,priya.moreau@crestviewcapital.com,Crestview  Capital,VP Risk Management,attended,2025-09-12
+REG-00058,Executive Roundtable: AI Controls,Roundtable,18/09/2025,CMP-03,Omar Fischer,omar.fischer@hawthornesystems.com,Hawthorne Systems,Head of Data Governance,attended,2025-09-26
+REG-00059,AI Controls Webinar,Webinar,07/10/2025,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,lakeshore pharmaceuticals,Deputy General Counsel,registered,2025-10-12
+REG-00060,AI Controls Webinar,Webinar,08/10/2025,CMP-01,Sam Smith,sam.smith@parkviewenergy.com,parkview energy,Head of Data Governance,registered,2025-10-14
+REG-00061,AI Controls Webinar,Webinar,08/10/2025,CMP-01,Graham Carter,,Ashford  Medical  Center,Chief Financial Officer,registered,2025-10-17
+REG-00062,AI Controls Webinar,Webinar,10/10/2025,CMP-01,Nathan Okonkwo,,Eastwick Stores,Head of Internal Audit,registered,2025-10-17
+REG-00063,AI Controls Webinar,Webinar,11/10/2025,CMP-01,Naomi Zhang,naomi.zhang@hawthornesystems.com,Hawthorne Systems,Chief Risk Officer,registered,2025-10-16
+REG-00064,AI Controls Webinar,Webinar,13/10/2025,CMP-01,Tessa Carter,tessa.carter@inwoodam.com,Inwood  Asset  Management,Chief Risk Officer,registered,2025-10-21
+REG-00065,AI Controls Webinar,Webinar,13/10/2025,CMP-01,Lucia Petrov,lucia.petrov@penrosebrands.com,Penrose Brands,Chief Financial Officer,registered,2025-10-21
+REG-00066,AI Controls Webinar,Webinar,14/10/2025,CMP-01,Amara Lindqvist,,redstone transport,General Counsel,registered,2025-10-22
+REG-00067,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Lakeshore Pharmaceuticals,Deputy General Counsel,attended,2025-10-24
+REG-00068,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Graham Carter,graham.carter@ashfordmedical.com,Ashford Medical Center,Chief Financial Officer,attended,2025-10-22
+REG-00069,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Nathan Okonkwo,nathan.okonkwo@eastwickstores.com,Eastwick  Stores,Head of Internal Audit,attended,2025-10-21
+REG-00070,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Sam Smith,sam.smith@parkviewenergy.com,Parkview Ene.,Head of Data Governance,no-show,2025-10-25
+REG-00071,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Tessa Carter,tessa.carter@inwoodam.com,inwood asset management,Chief Risk Officer,attended,2025-10-22
+REG-00072,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Lucia Petrov,lucia.petrov@penrosebrands.com,Penrose Brands,Chief Financial Officer,no-show,2025-10-23
+REG-00073,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Naomi Zhang,naomi.zhang@hawthornesystems.com,Hawthorne  Systems,Chief Risk Officer,no-show,2025-10-23
+REG-00074,AI Controls Webinar,Webinar,16/10/2025,CMP-01,Amara Lindqvist,,Redstone Tra.,General Counsel,no-show,2025-10-24
+REG-00075,Executive Roundtable: AI Controls,Roundtable,13/11/2025,CMP-03,Felix Raman,felix.raman@hawthornesystems.com,Hawthorne Systems,Chief Audit Executive,attended,2025-11-18
+REG-00076,Executive Roundtable: AI Controls,Roundtable,13/11/2025,CMP-03,Megan Mori,megan.mori@hollistertx.com,hollister therapeutics,Head of Data Governance,attended,2025-11-19
+REG-00077,Executive Roundtable: AI Controls,Roundtable,13/11/2025,CMP-03,Peter Liu,peter.liu@uptonenergy.com,Upton Energy,Head of Risk,attended,2025-11-19
+REG-00078,AI Controls Webinar,Webinar,18/11/2025,CMP-01,Rosa Shapiro,rosa.shapiro@harborlineins.com,Harborline Ins.,Director of Model Risk,registered,2025-11-25
+REG-00079,AI Controls Webinar,Webinar,20/11/2025,CMP-01,Ben Harris,ben.harris@bexleyretail.com,Bexley Retail,Head of Internal Audit,registered,2025-11-26
+REG-00080,AI Controls Webinar,Webinar,21/11/2025,CMP-01,Hannah Kim,hannah.kim@eastbrookcapital.com,Eastbrook Capital,Chief Audit Executive,registered,2025-11-30
+REG-00081,AI Controls Webinar,Webinar,23/11/2025,CMP-01,Kwame Mori,,northgate stores,Director of Risk Analytics,registered,2025-12-01
+REG-00082,AI Controls Webinar,Webinar,23/11/2025,CMP-01,Mei Raman,mei.raman@eastonassurance.com,Easton Assurance,Head of Risk,registered,2025-12-01
+REG-00083,AI Controls Webinar,Webinar,25/11/2025,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Lakeshore Pharmaceuticals,Deputy General Counsel,registered,2025-12-01
+REG-00084,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Hannah Kim,hannah.kim@eastbrookcapital.com,eastbrook capital,Chief Audit Executive,attended,2025-12-05
+REG-00085,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Rosa Shapiro,rosa.shapiro@harborlineins.com,Harbourline,Director of Model Risk,attended,2025-12-04
+REG-00086,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Lakeshore Pharmaceuticals,Deputy General Counsel,attended,2025-12-02
+REG-00087,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Mei Raman,mei.raman@eastonassurance.com,easton assurance,Head of Risk,no-show,2025-12-06
+REG-00088,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Ben Harris,ben.harris@bexleyretail.com,Bexley Retail,Head of Internal Audit,no-show,2025-12-03
+REG-00089,AI Controls Webinar,Webinar,27/11/2025,CMP-01,Kwame Mori,kwame.mori@northgatestores.com,Northgate Stores,Director of Risk Analytics,no-show,2025-12-04
+REG-00090,AI Controls Webinar,Webinar,30/12/2025,CMP-01,Lucia Petrov,lucia.petrov@penrosebrands.com,Penrose Brands,Chief Financial Officer,registered,2026-01-05
+REG-00091,AI Controls Webinar,Webinar,30/12/2025,CMP-01,Simon Weber,simon.weber@northgatestores.com,Northgate Stores,Chief Operating Officer,registered,2026-01-06
+REG-00092,AI Controls Webinar,Webinar,30/12/2025,CMP-01,Chloe Kim,,Ashby Fre.,Head of Risk,registered,2026-01-08
+REG-00093,AI Controls Webinar,Webinar,31/12/2025,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,Underhill  Logistics,Chief Risk Officer,registered,2026-01-05
+REG-00094,AI Controls Webinar,Webinar,01/01/2026,CMP-01,Yuki Sato,yuki.sato@eastbrookcapital.com,Eastbrook Capital,Chief Risk Officer,registered,2026-01-08
+REG-00095,AI Controls Webinar,Webinar,02/01/2026,CMP-01,Nina Doyle,nina.doyle@brackenridgefreight.com,Brackenridge Freight,Chief Financial Officer,registered,2026-01-11
+REG-00096,AI Controls Webinar,Webinar,03/01/2026,CMP-01,Elena Adeyemi,elena.adeyemi97@gmail.com,Orlavale Therapeutics,Deputy General Counsel,registered,2026-01-11
+REG-00097,AI Controls Webinar,Webinar,04/01/2026,CMP-01,Tom Tanaka,tom.tanaka@caldwellenergy.com,Caldwell Ene.,General Counsel,registered,2026-01-09
+REG-00098,AI Controls Webinar,Webinar,04/01/2026,CMP-01,Marcus Moreau,,orchard insurance,Chief Risk Officer,registered,2026-01-11
+REG-00099,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Nina Doyle,nina.doyle@brackenridgefreight.com,Brackenridge Freight,Chief Financial Officer,attended,2026-01-14
+REG-00100,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,Underhill Logistics,Chief Risk Officer,attended,2026-01-14
+REG-00101,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Marcus Moreau,marcus.moreau@orchardins.com,Orchard Insurance,Chief Risk Officer,no-show,2026-01-17
+REG-00102,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Lucia Petrov,lucia.petrov@penrosebrands.com,penrose brands,Chief Financial Officer,attended,2026-01-17
+REG-00103,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Tom Tanaka,tom.tanaka@caldwellenergy.com,Caldwell Energy,General Counsel,attended,2026-01-17
+REG-00104,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Elena Adeyemi,elena.adeyemi97@gmail.com,Orlavale Therapeutics,Deputy General Counsel,no-show,2026-01-16
+REG-00105,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Simon Weber,simon.weber@northgatestores.com,Northgate  Stores,Chief Operating Officer,attended,2026-01-14
+REG-00106,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Yuki Sato,yuki.sato@eastbrookcapital.com,Eastbrook Cap.,Chief Risk Officer,attended,2026-01-14
+REG-00107,AI Controls Webinar,Webinar,08/01/2026,CMP-01,Chloe Kim,chloe.kim@ashbyfreight.com,Ashby  Freight,Head of Risk,attended,2026-01-17
+REG-00108,Executive Roundtable: AI Controls,Roundtable,22/01/2026,CMP-03,Claire Fischer,claire.fischer@glenmoretx.com,Glenmore Therapeutics,Director of Risk Analytics,attended,2026-01-29
+REG-00109,Executive Roundtable: AI Controls,Roundtable,22/01/2026,CMP-03,Kenji Lindqvist,kenji.lindqvist@westburysavings.com,Westbury Savings Bank,Head of Data Governance,attended,2026-01-29
+REG-00110,Executive Roundtable: AI Controls,Roundtable,22/01/2026,CMP-03,Rachel Malik,rachel.malik@ivenbrookenergy.com,Ivenbrook Ene.,Head of Risk,attended,2026-01-31
+REG-00111,Executive Roundtable: AI Controls,Roundtable,22/01/2026,CMP-03,Paula Sato,paula.sato@jarvisstores.com,Jarvis Stores,Director of Model Risk,attended,2026-01-30
+REG-00112,AI Controls Webinar,Webinar,10/02/2026,CMP-01,Ibrahim Okonkwo,ibrahim.okonkwo@crestviewcapital.com,Crestview Capital,General Counsel,registered,2026-02-17
+REG-00113,AI Controls Webinar,Webinar,11/02/2026,CMP-01,Leah Iyer,leah.iyer@riverbendcapital.com,Riverbend  Capital,Head of Data Governance,registered,2026-02-18
+REG-00114,AI Controls Webinar,Webinar,11/02/2026,CMP-01,Ines Price,ines.price28@outlook.com,Granite  Systems,Chief Audit Executive,registered,2026-02-16
+REG-00115,AI Controls Webinar,Webinar,12/02/2026,CMP-01,Rosa Russo,rosa.russo@yorkfieldpharma.com,Yorkfield Pharmaceuticals,VP Risk Management,registered,2026-02-18
+REG-00116,AI Controls Webinar,Webinar,14/02/2026,CMP-01,Luis Jansen,luis.jansen@norcliffeinvest.com,Norcliffe Investments,Chief Operating Officer,registered,2026-02-20
+REG-00117,AI Controls Webinar,Webinar,15/02/2026,CMP-01,Peter Weber,peter.weber@northammfg.com,northam manufacturing,Chief Operating Officer,registered,2026-02-20
+REG-00118,AI Controls Webinar,Webinar,15/02/2026,CMP-01,Naomi Zhang,naomi.zhang@hawthornesystems.com,Hawthorne Systems,Chief Risk Officer,registered,2026-02-22
+REG-00119,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Rosa Russo,rosa.russo@yorkfieldpharma.com,yorkfield pharmaceuticals,VP Risk Management,no-show,2026-02-27
+REG-00120,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Luis Jansen,,Norcliffe Investments,Chief Operating Officer,no-show,2026-02-28
+REG-00121,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Leah Iyer,leah.iyer@riverbendcapital.com,Riverbend Capital,Head of Data Governance,no-show,2026-02-24
+REG-00122,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Naomi Zhang,naomi.zhang@hawthornesystems.com,Hawthorne Systems,Chief Risk Officer,no-show,2026-02-26
+REG-00123,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Ines Price,ines.price28@outlook.com,granite systems,Chief Audit Executive,attended,2026-02-27
+REG-00124,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Peter Weber,peter.weber@northammfg.com,northam manufacturing,Chief Operating Officer,attended,2026-02-28
+REG-00125,AI Controls Webinar,Webinar,19/02/2026,CMP-01,Ibrahim Okonkwo,ibrahim.okonkwo@crestviewcapital.com,crestview capital,General Counsel,attended,2026-02-26
+REG-00126,Executive Roundtable: AI Controls,Roundtable,19/03/2026,CMP-03,Tom Doyle,tom.doyle@quillonretail.com,Quillon  Retail,Director of Risk Analytics,attended,2026-03-24
+REG-00127,Executive Roundtable: AI Controls,Roundtable,19/03/2026,CMP-03,Tessa Lindqvist,tessa.lindqvist@ivenbrookenergy.com,ivenbrook energy,Head of Internal Audit,attended,2026-03-25
+REG-00128,Executive Roundtable: AI Controls,Roundtable,19/03/2026,CMP-03,Ethan Vargas,ethan.vargas@quintonsoftware.com,Quinton Software,Head of Data Governance,attended,2026-03-28
+REG-00129,Executive Roundtable: AI Controls,Roundtable,19/03/2026,CMP-03,Hugo Rahman,hugo.rahman@oakhurststores.com,Oakhurst Sto.,Head of Risk,attended,2026-03-24
+REG-00130,Executive Roundtable: AI Controls,Roundtable,19/03/2026,CMP-03,Omar Ramos,omar.ramos@whitmorepower.com,whitmore power,Director of Risk Analytics,attended,2026-03-28
+REG-00131,AI Controls Webinar,Webinar,24/03/2026,CMP-01,Daniel Vargas,daniel.vargas@eastwickstores.com,Eastwick Sto.,Deputy General Counsel,registered,2026-03-30
+REG-00132,AI Controls Webinar,Webinar,25/03/2026,CMP-01,Nathan Carter,nathan.carter@goldcrestenergy.com,Goldcrest  Energy,Chief Audit Executive,registered,2026-03-30
+REG-00133,AI Controls Webinar,Webinar,25/03/2026,CMP-01,Ravi Hughes,ravi.hughes@wexfordsavings.com,wexford savings bank,Chief Audit Executive,registered,2026-04-02
+REG-00134,AI Controls Webinar,Webinar,27/03/2026,CMP-01,Rosa Menon,rosa.menon@riverbendcapital.com,riverbend capital,Chief Financial Officer,registered,2026-04-04
+REG-00135,AI Controls Webinar,Webinar,28/03/2026,CMP-01,Kwame Smith,kwame.smith@jamesonam.com,Jameson Man.,Chief Audit Executive,registered,2026-04-06
+REG-00136,AI Controls Webinar,Webinar,29/03/2026,CMP-01,Omar Fischer,omar.fischer@hawthornesystems.com,Hawthorne Systems,Head of Data Governance,registered,2026-04-05
+REG-00137,AI Controls Webinar,Webinar,29/03/2026,CMP-01,Jorge Iyer,jorge.iyer@ellerystores.com,Ellery Stores,VP Risk Management,registered,2026-04-04
+REG-00138,AI Controls Webinar,Webinar,30/03/2026,CMP-01,Megan Novak,megan.novak@fairhavenbank.com,Fairhaven Bank,Chief Financial Officer,registered,2026-04-05
+REG-00139,AI Controls Webinar,Webinar,31/03/2026,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,Underhill Log.,Chief Risk Officer,registered,2026-04-09
+REG-00140,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Megan Novak,megan.novak@fairhavenbank.com,Fairhaven  Bank,Chief Financial Officer,no-show,2026-04-11
+REG-00141,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Jorge Iyer,jorge.iyer@ellerystores.com,ellery stores,VP Risk Management,no-show,2026-04-07
+REG-00142,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Omar Fischer,omar.fischer@hawthornesystems.com,Hawthorne Systems,Head of Data Governance,no-show,2026-04-11
+REG-00143,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Nathan Carter,nathan.carter@goldcrestenergy.com,goldcrest energy,Chief Audit Executive,attended,2026-04-11
+REG-00144,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Daniel Vargas,daniel.vargas@eastwickstores.com,Eastwick Stores,Deputy General Counsel,no-show,2026-04-07
+REG-00145,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Ravi Hughes,ravi.hughes@wexfordsavings.com,Wexford Savings Bank,Chief Audit Executive,attended,2026-04-10
+REG-00146,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,Underhill Logistics,Chief Risk Officer,attended,2026-04-08
+REG-00147,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Kwame Smith,kwame.smith@jamesonam.com,Jameson Asset Management,Chief Audit Executive,no-show,2026-04-08
+REG-00148,AI Controls Webinar,Webinar,02/04/2026,CMP-01,Rosa Menon,rosa.menon@riverbendcapital.com,Riverbend Capital,Chief Financial Officer,no-show,2026-04-11
+REG-00149,AI Controls Webinar,Webinar,05/05/2026,CMP-01,Elena Carter,elena.carter@clearwaterutilities.com,clearwater utilities,Head of Risk,registered,2026-05-14
+REG-00150,AI Controls Webinar,Webinar,05/05/2026,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Lakeshore  Pharmaceuticals,Deputy General Counsel,registered,2026-05-11
+REG-00151,AI Controls Webinar,Webinar,06/05/2026,CMP-01,Grace Becker,grace.becker@yewdaleinvest.com,yewdale investments,Chief Audit Executive,registered,2026-05-12
+REG-00152,AI Controls Webinar,Webinar,07/05/2026,CMP-01,Lucia Jansen,lucia.jansen@islingtonbancorp.com,islington bancorp,Chief Operating Officer,registered,2026-05-13
+REG-00153,AI Controls Webinar,Webinar,08/05/2026,CMP-01,Ben Russo,ben.russo@uptonenergy.com,upton energy,Procurement Manager,registered,2026-05-17
+REG-00154,AI Controls Webinar,Webinar,08/05/2026,CMP-01,Arjun Torres,arjun.torres@stonebridgebank.com,Stonebridge Bank,Head of Internal Audit,registered,2026-05-17
+REG-00155,AI Controls Webinar,Webinar,09/05/2026,CMP-01,Omar Torres,omar.torres@underhilllogistics.com,Underhill Logistics,Head of Data Governance,registered,2026-05-15
+REG-00156,AI Controls Webinar,Webinar,10/05/2026,CMP-01,Grace Aziz,grace.aziz@northgatestores.com,northgate stores,Chief Compliance Officer,registered,2026-05-17
+REG-00157,AI Controls Webinar,Webinar,11/05/2026,CMP-01,Marcus Lindqvist,marcus.lindqvist@hollistertx.com,hollister therapeutics,Deputy General Counsel,registered,2026-05-20
+REG-00158,AI Controls Webinar,Webinar,12/05/2026,CMP-01,Lena Novak,,Canyon Ban.,Head of Internal Audit,registered,2026-05-20
+REG-00159,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Felix Carter,felix.carter@ambergatesystems.com,Ambergate  Systems,Head of Data Governance,attended,2026-05-20
+REG-00160,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Arjun Nguyen,arjun.nguyen@harborlineins.com,Harborline Ins.,Chief Compliance Officer,attended,2026-05-18
+REG-00161,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Priya Bell,priya.bell@eastwickstores.com,Eastwick Sto.,Head of Data Governance,attended,2026-05-21
+REG-00162,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Paula Sato,,Jarvis Sto.,Director of Model Risk,attended,2026-05-22
+REG-00163,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Laura Ortega,laura.ortega@hollowaybank.com,Holloway Bank,Chief Compliance Officer,attended,2026-05-19
+REG-00164,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Sofia Grant,sofia.grant@lindellpharma.com,lindell pharmaceuticals,Director of Model Risk,attended,2026-05-19
+REG-00165,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Peter Moreau,peter.moreau@pinehavenmutual.com,Pinehaven Mutual,"Senior Manager, Compliance",attended,2026-05-21
+REG-00166,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Ines Price,ines.price28@outlook.com,Granite Sys.,Chief Audit Executive,attended,2026-05-22
+REG-00167,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Owen Cohen,owen.cohen@cobaltcapital.com,Cobalt  Capital,Head of Risk,attended,2026-05-21
+REG-00168,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Claire Fischer,claire.fischer@glenmoretx.com,glenmore therapeutics,Director of Risk Analytics,attended,2026-05-20
+REG-00169,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Kenji Jansen,kenji.jansen@goldcrestenergy.com,goldcrest energy,"Senior Manager, Compliance",attended,2026-05-18
+REG-00170,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Sam Ramos,sam.ramos@westburysavings.com,Westbury Savings Bank,Chief Compliance Officer,attended,2026-05-18
+REG-00171,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,David Adeyemi,david.adeyemi75@outlook.com,ABC Corp,Head of Internal Audit,attended,2026-05-19
+REG-00172,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Ben Russo,ben.russo@uptonenergy.com,Upton Energy,Procurement Manager,attended,2026-05-21
+REG-00173,AI Risk Summit 2026,Conference,13/05/2026,CMP-05,Megan Cohen,megan.cohen@eastonassurance.com,Easton Assurance,Chief Operating Officer,attended,2026-05-20
+REG-00174,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Marcus Lindqvist,marcus.lindqvist@hollistertx.com,Hollister Therapeutics,Deputy General Counsel,attended,2026-05-23
+REG-00175,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Ben Russo,ben.russo@uptonenergy.com,Upton Energy,Procurement Manager,attended,2026-05-19
+REG-00176,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Lakeshore Pharmaceuticals,Deputy General Counsel,attended,2026-05-22
+REG-00177,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Arjun Torres,arjun.torres@stonebridgebank.com,Stonebridge Bank,Head of Internal Audit,no-show,2026-05-22
+REG-00178,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Elena Carter,elena.carter@clearwaterutilities.com,Clearwater  Utilities,Head of Risk,no-show,2026-05-22
+REG-00179,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Omar Torres,omar.torres@underhilllogistics.com,Underhill Log.,Head of Data Governance,no-show,2026-05-23
+REG-00180,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Grace Aziz,grace.aziz@northgatestores.com,Northgate  Stores,Chief Compliance Officer,no-show,2026-05-23
+REG-00181,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Lucia Jansen,lucia.jansen@islingtonbancorp.com,Islington Bancorp,Chief Operating Officer,attended,2026-05-22
+REG-00182,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Grace Becker,grace.becker@yewdaleinvest.com,Yewdale  Investments,Chief Audit Executive,no-show,2026-05-22
+REG-00183,AI Controls Webinar,Webinar,14/05/2026,CMP-01,Lena Novak,,Canyon  Bancorp,Head of Internal Audit,no-show,2026-05-23
+REG-00184,Executive Roundtable: AI Controls,Roundtable,21/05/2026,CMP-03,Tessa Raman,tessa.raman@southmoorretail.com,Southmoor  Retail,"Senior Manager, Compliance",attended,2026-05-29
+REG-00185,Executive Roundtable: AI Controls,Roundtable,21/05/2026,CMP-03,Laura Adeyemi,laura.adeyemi@whitmorepower.com,Whitmore Power,Head of Internal Audit,attended,2026-05-29
+REG-00186,AI Controls Webinar,Webinar,16/06/2026,CMP-01,Priya Eze,priya.eze@driftwoodsystems.com,Driftwood  Systems,Chief Risk Officer,registered,2026-06-25
+REG-00187,AI Controls Webinar,Webinar,17/06/2026,CMP-01,Rosa Torres,rosa.torres@westburysavings.com,Westbury Ban.,Vendor Management Lead,registered,2026-06-23
+REG-00188,AI Controls Webinar,Webinar,17/06/2026,CMP-01,Ravi Schmidt,ravi.schmidt@ivywoodstores.com,Ivywood Stores,Head of Internal Audit,registered,2026-06-24
+REG-00189,AI Controls Webinar,Webinar,18/06/2026,CMP-01,Kwame Novak,kwame.novak@ashbyfreight.com,Ashby Freight,Chief Financial Officer,registered,2026-06-27
+REG-00190,AI Controls Webinar,Webinar,20/06/2026,CMP-01,Leah Iyer,leah.iyer@riverbendcapital.com,Riverbend  Capital,Head of Data Governance,registered,2026-06-27
+REG-00191,AI Controls Webinar,Webinar,25/06/2026,CMP-01,Rosa Torres,rosa.torres@westburysavings.com,Westbury Ban.,Vendor Management Lead,attended,2026-07-02
+REG-00192,AI Controls Webinar,Webinar,25/06/2026,CMP-01,Leah Iyer,leah.iyer@riverbendcapital.com,Riverbend Capital,Head of Data Governance,no-show,2026-07-04
+REG-00193,AI Controls Webinar,Webinar,25/06/2026,CMP-01,Ravi Schmidt,ravi.schmidt@ivywoodstores.com,Ivywood Sto.,Head of Internal Audit,no-show,2026-07-03
+REG-00194,AI Controls Webinar,Webinar,25/06/2026,CMP-01,Kwame Novak,kwame.novak@ashbyfreight.com,Ashby  Freight,Chief Financial Officer,attended,2026-07-03
+REG-00195,AI Controls Webinar,Webinar,25/06/2026,CMP-01,Priya Eze,priya.eze@driftwoodsystems.com,Driftwood Systems,Chief Risk Officer,no-show,2026-06-30
+REG-00196,Executive Roundtable: AI Controls,Roundtable,16/07/2026,CMP-03,Caleb Mori,caleb.mori@yewdaleinvest.com,yewdale investments,"Senior Manager, Compliance",attended,2026-07-25
+REG-00197,Executive Roundtable: AI Controls,Roundtable,16/07/2026,CMP-03,Elena Carter,elena.carter@clearwaterutilities.com,Clearwater Utilities,Head of Risk,attended,2026-07-25
+REG-00198,Executive Roundtable: AI Controls,Roundtable,16/07/2026,CMP-03,Yuki Ortega,yuki.ortega@ivywoodstores.com,Ivywood Stores,"Senior Manager, Compliance",attended,2026-07-23
+REG-00199,Executive Roundtable: AI Controls,Roundtable,16/07/2026,CMP-03,Daniel Nguyen,daniel.nguyen@thistlemutual.com,Thistle Mutual,"Senior Manager, Compliance",attended,2026-07-23
+REG-00200,AI Controls Webinar,Webinar,28/07/2026,CMP-01,Chloe Bello,chloe.bello@stonebridgebank.com,stonebridge bank,Head of Data Governance,registered,2026-08-05
+REG-00201,AI Controls Webinar,Webinar,28/07/2026,CMP-01,Ahmed Mori,ahmed.mori@parkviewenergy.com,Parkview Energy,Chief Risk Officer,registered,2026-08-05
+REG-00202,AI Controls Webinar,Webinar,29/07/2026,CMP-01,Owen Carter,owen.carter@darbysavings.com,Darby Ban.,Head of Data Governance,registered,2026-08-03
+REG-00203,AI Controls Webinar,Webinar,29/07/2026,CMP-01,David Cohen,david.cohen@orchardins.com,Orchard Insurance,Head of Internal Audit,registered,2026-08-03
+REG-00204,AI Controls Webinar,Webinar,30/07/2026,CMP-01,Megan Sato,megan.sato@vandermeertransport.com,vandermeer transport,VP Risk Management,registered,2026-08-06
+REG-00205,AI Controls Webinar,Webinar,30/07/2026,CMP-01,Omar Ramos,omar.ramos@whitmorepower.com,Whitmore Power,Director of Risk Analytics,registered,2026-08-06
+REG-00206,AI Controls Webinar,Webinar,30/07/2026,CMP-01,Amara Becker,amara.becker@rutledgebrands.com,Rutledge Bra.,Chief Risk Officer,registered,2026-08-07
+REG-00207,AI Controls Webinar,Webinar,31/07/2026,CMP-01,Sofia Kim,sofia.kim@jorvalemutual.com,Jorvale  Mutual,Vendor Management Lead,registered,2026-08-07
+REG-00208,AI Controls Webinar,Webinar,31/07/2026,CMP-01,Nina Menon,nina.menon@caldwellenergy.com,Caldwell Energy,Chief Audit Executive,registered,2026-08-08
+REG-00209,AI Controls Webinar,Webinar,31/07/2026,CMP-01,Victor Silva,victor.silva@jamesonam.com,Jameson Asset Management,Chief Risk Officer,registered,2026-08-08
+REG-00210,AI Controls Webinar,Webinar,02/08/2026,CMP-01,Hugo Grant,hugo.grant@maplewoodenergy.com,Maplewood  Energy,Chief Financial Officer,registered,2026-08-07
+REG-00211,AI Controls Webinar,Webinar,03/08/2026,CMP-01,Fatima Farouk,fatima.farouk@summitfh.com,Summit Financial Holdings,Chief Financial Officer,registered,2026-08-12
+REG-00212,AI Controls Webinar,Webinar,04/08/2026,CMP-01,Leah Bell,leah.bell@copperfieldfreight.com,Copperfield  Freight,Chief Audit Executive,registered,2026-08-13
+REG-00213,AI Controls Webinar,Webinar,04/08/2026,CMP-01,Peter Liu,peter.liu@uptonenergy.com,Upton  Energy,Head of Risk,registered,2026-08-13
+REG-00214,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Victor Silva,victor.silva@jamesonam.com,Jameson Asset Management,Chief Risk Officer,no-show,2026-08-15
+REG-00215,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Amara Becker,amara.becker@rutledgebrands.com,Rutledge  Brands,Chief Risk Officer,no-show,2026-08-13
+REG-00216,AI Controls Webinar,Webinar,06/08/2026,CMP-01,David Cohen,david.cohen@orchardins.com,Orchard Insurance,Head of Internal Audit,no-show,2026-08-13
+REG-00217,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Owen Carter,owen.carter@darbysavings.com,Darby Ban.,Head of Data Governance,attended,2026-08-12
+REG-00218,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Megan Sato,megan.sato@vandermeertransport.com,Vandermeer  Transport,VP Risk Management,attended,2026-08-12
+REG-00219,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Ahmed Mori,ahmed.mori@parkviewenergy.com,Parkview  Energy,Chief Risk Officer,no-show,2026-08-14
+REG-00220,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Peter Liu,peter.liu@uptonenergy.com,Upton Energy,Head of Risk,attended,2026-08-13
+REG-00221,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Sofia Kim,sofia.kim@jorvalemutual.com,jorvale mutual,Vendor Management Lead,attended,2026-08-14
+REG-00222,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Fatima Farouk,fatima.farouk@summitfh.com,Summit Financial Holdings,Chief Financial Officer,no-show,2026-08-13
+REG-00223,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Nina Menon,nina.menon@caldwellenergy.com,Caldwell Energy,Chief Audit Executive,attended,2026-08-12
+REG-00224,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Chloe Bello,chloe.bello@stonebridgebank.com,Stonebridge  Bank,Head of Data Governance,no-show,2026-08-12
+REG-00225,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Hugo Grant,hugo.grant@maplewoodenergy.com,Maplewood Energy,Chief Financial Officer,attended,2026-08-13
+REG-00226,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Omar Ramos,omar.ramos@whitmorepower.com,Whitmore  Power,Director of Risk Analytics,no-show,2026-08-11
+REG-00227,AI Controls Webinar,Webinar,06/08/2026,CMP-01,Leah Bell,leah.bell@copperfieldfreight.com,Copperfield Freight,Chief Audit Executive,no-show,2026-08-14
+REG-00228,AI Controls Webinar,Webinar,09/09/2026,CMP-01,Tariq Kim,tariq.kim@quintonsoftware.com,Quinton Software,Chief Risk Officer,registered,2026-09-18
+REG-00229,AI Controls Webinar,Webinar,09/09/2026,CMP-01,Leah Malik,leah.malik@alcottins.com,alcott insurance,Head of Internal Audit,registered,2026-09-18
+REG-00230,AI Controls Webinar,Webinar,09/09/2026,CMP-01,Marcus Farouk,marcus.farouk@cobaltcapital.com,Cobalt  Capital,Chief Operating Officer,registered,2026-09-18
+REG-00231,AI Controls Webinar,Webinar,09/09/2026,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,underhill logistics,Chief Risk Officer,registered,2026-09-15
+REG-00232,AI Controls Webinar,Webinar,10/09/2026,CMP-01,Fatima Farouk,fatima.farouk@summitfh.com,Summit Hol.,Chief Financial Officer,registered,2026-09-17
+REG-00233,AI Controls Webinar,Webinar,10/09/2026,CMP-01,Peter Zhang,peter.zhang@bellhavenenergy.com,Bellhaven Energy,Chief Operating Officer,registered,2026-09-19
+REG-00234,AI Controls Webinar,Webinar,10/09/2026,CMP-01,Elena Shapiro,elena.shapiro@oakmontfreight.com,Oakmont Fre.,Chief Audit Executive,registered,2026-09-17
+REG-00235,AI Controls Webinar,Webinar,10/09/2026,CMP-01,Tom Harris,tom.harris@foxhallam.com,foxhall asset management,Director of Risk Analytics,registered,2026-09-15
+REG-00236,Executive Roundtable: AI Controls,Roundtable,10/09/2026,CMP-03,Hugo Ramos,hugo.ramos@thistlemutual.com,Thistle  Mutual,Chief Audit Executive,attended,2026-09-15
+REG-00237,AI Controls Webinar,Webinar,13/09/2026,CMP-01,Simon Shapiro,simon.shapiro@jarvisstores.com,Jarvis  Stores,Chief Operating Officer,registered,2026-09-22
+REG-00238,AI Controls Webinar,Webinar,13/09/2026,CMP-01,Priya Nguyen,,Ashford Medical Center,Chief Compliance Officer,registered,2026-09-22
+REG-00239,AI Controls Webinar,Webinar,15/09/2026,CMP-01,Paula Eze,paula.eze@vandermeertransport.com,Vandermeer  Transport,General Counsel,registered,2026-09-23
+REG-00240,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Fatima Farouk,,Summit Financial Holdings,Chief Financial Officer,no-show,2026-09-22
+REG-00241,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Paula Eze,,Vandermeer Tra.,General Counsel,attended,2026-09-24
+REG-00242,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Priya Nguyen,priya.nguyen@ashfordmedical.com,Ashford Cen.,Chief Compliance Officer,attended,2026-09-26
+REG-00243,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Elena Shapiro,elena.shapiro@oakmontfreight.com,oakmont freight,Chief Audit Executive,no-show,2026-09-25
+REG-00244,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Leah Malik,leah.malik@alcottins.com,Alcott Insurance,Head of Internal Audit,attended,2026-09-24
+REG-00245,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Tariq Kim,tariq.kim@quintonsoftware.com,Quinton  Software,Chief Risk Officer,attended,2026-09-25
+REG-00246,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Tom Harris,tom.harris@foxhallam.com,Foxhall Asset Management,Director of Risk Analytics,attended,2026-09-25
+REG-00247,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Yuki Walsh,yuki.walsh@underhilllogistics.com,Underhill Logistics,Chief Risk Officer,attended,2026-09-25
+REG-00248,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Peter Zhang,peter.zhang@bellhavenenergy.com,Bellhaven Energy,Chief Operating Officer,no-show,2026-09-22
+REG-00249,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Marcus Farouk,marcus.farouk@cobaltcapital.com,Cobalt Capital,Chief Operating Officer,attended,2026-09-26
+REG-00250,AI Controls Webinar,Webinar,17/09/2026,CMP-01,Simon Shapiro,simon.shapiro@jarvisstores.com,Jarvis  Stores,Chief Operating Officer,attended,2026-09-22

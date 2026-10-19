@@ -1,0 +1,121 @@
+account_id,company_name,domain,tier,existing_relationship,final_position,lost_at,loss_reason,journey,tag,roundtable_attendee,technology_referral,partner_introduction,rfp_led,linkedin_ads_shown,deal_value_usd,A_date,I_date,Q_date,C_date,P_date,V_date,S_date,L_date,stage_2025-03-31,stage_2025-09-30,stage_2026-03-31,stage_2026-09-30
+ACC-001,ABC Corp,abccorp.com,1,None,Proposal / RFP,,,Marketing-led,A5,0,none,0,0,0,275000,2025-12-16,2026-03-29,2026-05-08,2026-05-29,2026-08-21,,,,Target,Target,Interested,Proposal / RFP
+ACC-002,Meridian Health,meridianhealth.com,3,None,Active Conversation,,,Marketing-led,A10,0,none,0,0,1,470000,2026-05-12,2026-07-07,2026-09-08,2026-09-18,,,,,Target,Target,Target,Active Conversation
+ACC-003,Meridian Health,meridianhealth.ca,1,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-08-13,,,,,,,,Target,Target,Target,Aware
+ACC-004,Harborline Insurance,harborlineins.com,1,None,Interested,,,Marketing-led,,0,none,0,0,1,,2025-10-13,2025-11-27,,,,,,,Target,Target,Interested,Interested
+ACC-005,Summit Financial Group,summitfg.com,2,None,Signed Agreement,,,Marketing-led,,0,none,0,0,1,375000,2025-04-16,2025-05-15,2025-08-02,2025-09-18,2025-11-13,2026-01-19,2026-02-16,,Target,Active Conversation,Signed Agreement,Signed Agreement
+ACC-006,Summit Financial Holdings,summitfh.com,1,None,Aware,,,Marketing-led,,0,none,0,0,0,,2025-02-10,,,,,,,,Aware,Aware,Aware,Aware
+ACC-007,Newbury Logistics,newburylogistics.com,3,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-07-21,,,,,,,,Target,Aware,Aware,Aware
+ACC-008,Hollister Therapeutics,hollistertx.com,1,"Current client, other services",Signed Agreement,,,Executive roundtable,,1,none,0,0,1,240000,2025-10-04,2025-11-13,2026-01-07,2026-02-14,2026-03-27,2026-04-27,2026-06-01,,Target,Target,Proposal / RFP,Signed Agreement
+ACC-009,Quillon Retail,quillonretail.com,2,None,Proposal / RFP,,,Executive roundtable,A7,1,none,0,0,1,275000,2026-01-21,2026-03-19,2026-04-19,2026-06-03,2026-09-18,,,,Target,Target,Interested,Proposal / RFP
+ACC-010,Brackenridge Freight,brackenridgefreight.com,3,"Current client, other services",Lost,Proposal / RFP,Chose another firm,RFP-led,,0,none,0,1,1,355000,2025-10-28,,,,2025-12-04,,,2026-01-06,Target,Target,Lost,Lost
+ACC-011,Brightwater Manufacturing,brightwatermfg.com,1,Former client,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-012,Lakeshore Pharmaceuticals,lakeshorepharma.com,3,"Current client, other services",Signed Agreement,,,Partner introduction,,0,none,1,0,1,180000,2025-07-27,2025-08-22,2025-11-12,2025-11-27,2026-01-22,2026-03-07,2026-04-20,,Target,Interested,Verbal Commitment,Signed Agreement
+ACC-013,Fairhaven Bank,fairhavenbank.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2024-10-26,,,,,,,,Aware,Aware,Aware,Aware
+ACC-014,Foxhall Asset Management,foxhallam.com,1,None,Lost,Proposal / RFP,Chose another firm,RFP-led,,0,none,0,1,1,360000,2025-12-16,,,,2026-01-17,,,2026-02-12,Target,Target,Lost,Lost
+ACC-015,Moorland Investments,moorlandinvest.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-016,Blackthorn Insurance,blackthornins.com,3,None,Interested,,,Partner introduction,A13,0,none,1,0,1,,2026-06-11,2026-09-10,,,,,,,Target,Target,Target,Interested
+ACC-017,Bexley Retail,bexleyretail.com,3,None,Lost,Proposal / RFP,Chose another firm,Partner introduction,,0,none,1,0,1,415000,2025-02-10,2025-05-29,2025-08-14,2025-08-26,2025-10-13,,,2025-11-07,Aware,Active Conversation,Lost,Lost
+ACC-018,Holloway Bank,hollowaybank.com,3,"Current client, other services",Interested,,,Conference and existing relationship,,0,none,0,0,1,,2024-10-22,2025-02-02,,,,,,,Interested,Interested,Interested,Interested
+ACC-019,Cobalt Capital,cobaltcapital.com,2,None,Interested,,,Marketing-led,,0,none,0,0,0,,2025-12-17,2026-03-26,,,,,,,Target,Target,Interested,Interested
+ACC-020,Halverston Systems,halverstonsystems.com,2,None,Interested,,,Partner introduction,,0,none,1,0,1,,2026-04-13,2026-07-04,,,,,,,Target,Target,Target,Interested
+ACC-021,Ellery Stores,ellerystores.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-06-11,,,,,,,,Target,Aware,Aware,Aware
+ACC-022,Delvane Industries,delvaneind.com,3,None,Target,,,None,,0,none,0,0,0,,,,,,,,,,Target,Target,Target,Target
+ACC-023,Caldwell Energy,caldwellenergy.com,2,None,Signed Agreement,,,Technology partner referral,,0,accepted,0,0,1,270000,2025-08-29,2025-08-29,2025-08-29,2025-10-13,2026-01-22,2026-03-01,2026-04-08,,Target,Qualified Lead,Verbal Commitment,Signed Agreement
+ACC-024,Trevelyan Logistics,trevelyanlogistics.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-025,Stelmere Mutual,stelmeremutual.com,1,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-04-02,,,,,,,,Target,Aware,Aware,Aware
+ACC-026,Islington Bancorp,islingtonbancorp.com,2,"Current client, other services",Interested,,,Conference and existing relationship,,0,none,0,0,1,,2025-03-17,2025-05-21,,,,,,,Aware,Interested,Interested,Interested
+ACC-027,Elmstead Bank,elmsteadbank.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-09-15,,,,,,,,Target,Aware,Aware,Aware
+ACC-028,Orlavale Therapeutics,orlavaletx.com,2,"Current client, other services",Stalled,,,Executive roundtable,stale_crm_verbal,1,none,0,0,1,275000,2025-01-25,2025-02-20,2025-04-16,2025-05-24,2025-08-18,,,,Interested,Proposal / RFP,Stalled,Stalled
+ACC-029,Darby Savings Bank,darbysavings.com,2,None,Interested,,,Technology partner referral,,0,accepted,0,0,1,,2025-06-12,2025-09-06,,,,,,,Target,Interested,Interested,Interested
+ACC-030,Brantley Bancorp,brantleybancorp.com,3,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-05-02,,,,,,,,Target,Target,Target,Aware
+ACC-031,Northcliff Insurance,northcliffins.com,1,Former client,Aware,,,Marketing-led,,0,none,0,0,1,,2024-10-11,,,,,,,,Aware,Aware,Aware,Aware
+ACC-032,Lanmoor Logistics,lanmoorlogistics.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-05-24,,,,,,,,Target,Target,Target,Aware
+ACC-033,Vandermeer Transport,vandermeertransport.com,2,"Current client, other services",Signed Agreement,,,Conference and existing relationship,,0,none,0,0,1,435000,2025-04-21,2025-05-14,2025-11-03,2025-11-23,2026-03-05,2026-05-12,2026-06-07,,Target,Interested,Proposal / RFP,Signed Agreement
+ACC-034,Upton Energy,uptonenergy.com,2,None,Signed Agreement,,,Executive roundtable,,1,none,0,0,1,335000,2025-07-21,2025-11-13,2026-01-15,2026-02-11,2026-05-03,2026-07-23,2026-08-31,,Target,Aware,Active Conversation,Signed Agreement
+ACC-035,Yorkfield Pharmaceuticals,yorkfieldpharma.com,1,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-06-04,,,,,,,,Target,Aware,Aware,Aware
+ACC-036,Pinehaven Mutual,pinehavenmutual.com,2,None,Stalled,,,Executive roundtable,stale_crm_proposal,1,none,0,0,0,430000,2025-02-27,2025-04-24,2025-06-24,2025-07-31,,,,,Aware,Stalled,Stalled,Stalled
+ACC-037,Ridgeline Energy,ridgelineenergy.com,2,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-038,Larkspur Software,larkspursoftware.com,1,None,Lost,Proposal / RFP,Chose another firm,Technology partner referral,,0,accepted,0,0,1,265000,2025-11-24,2025-11-24,2025-11-24,2025-12-23,2026-02-27,,,2026-03-22,Target,Target,Lost,Lost
+ACC-039,Granite Systems,granitesystems.com,2,Former client,Interested,,,Marketing-led,,0,none,0,0,1,,2025-07-03,2025-08-18,,,,,,,Target,Interested,Interested,Interested
+ACC-040,Wexford Savings Bank,wexfordsavings.com,3,None,Signed Agreement,,,Technology partner referral,,0,accepted,0,0,1,255000,2025-08-13,2025-08-13,2025-08-13,2025-10-02,2026-01-04,2026-02-05,2026-03-05,,Target,Qualified Lead,Signed Agreement,Signed Agreement
+ACC-041,Lyndon Manufacturing,lyndonmfg.com,1,None,Target,,,None,,0,declined,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-042,Glenmore Therapeutics,glenmoretx.com,1,"Current client, other services",Stalled,,,Executive roundtable,,1,none,0,0,1,330000,2025-10-08,2026-01-22,2026-01-30,2026-03-19,,,,,Target,Target,Active Conversation,Stalled
+ACC-043,Hartwell Transport,hartwelltransport.com,2,None,Qualified Lead,,,Technology partner referral,probable_only,0,accepted,0,0,1,215000,2026-09-01,2026-09-01,2026-09-01,,,,,,Target,Target,Target,Qualified Lead
+ACC-044,Northam Manufacturing,northammfg.com,3,None,Stalled,,,Technology partner referral,,0,accepted,0,0,1,180000,2026-01-10,2026-01-10,2026-01-10,2026-02-14,,,,,Target,Target,Active Conversation,Stalled
+ACC-045,Yewdale Investments,yewdaleinvest.com,1,None,Active Conversation,,,Executive roundtable,A10,1,none,0,0,1,290000,2026-01-11,2026-07-16,2026-08-01,2026-09-18,,,,,Target,Target,Aware,Active Conversation
+ACC-046,Willowbrook Logistics,willowbrooklogistics.com,1,None,Signed Agreement,,,Executive roundtable,,1,none,0,0,1,395000,2025-04-21,2025-06-19,2025-07-22,2025-08-02,2025-09-16,2025-10-21,2025-11-14,,Target,Proposal / RFP,Signed Agreement,Signed Agreement
+ACC-047,Cedar Ridge Asset Management,cedarridgeam.com,2,None,Aware,,,Marketing-led,,0,none,0,0,0,,2025-08-17,,,,,,,,Target,Aware,Aware,Aware
+ACC-048,Crestview Capital,crestviewcapital.com,3,None,Lost,Proposal / RFP,Budget cut or freeze,Technology partner referral,,0,accepted,0,0,1,485000,2025-06-19,2025-06-19,2025-06-19,2025-07-21,2025-09-27,,,2025-11-12,Target,Proposal / RFP,Lost,Lost
+ACC-049,Corrowin Medical Center,corrowinmedical.com,1,None,Proposal / RFP,,,Technology partner referral,A8,0,accepted,0,0,1,205000,2026-05-21,2026-05-21,2026-05-21,2026-05-31,2026-08-26,,,,Target,Target,Target,Proposal / RFP
+ACC-050,Ashford Medical Center,ashfordmedical.com,3,"Current client, other services",Signed Agreement,,,RFP-led,,0,none,0,1,1,365000,2025-06-06,,,,2025-08-08,2025-09-23,2025-10-14,,Target,Verbal Commitment,Signed Agreement,Signed Agreement
+ACC-051,Ogden Asset Management,ogdenam.com,3,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-04-18,,,,,,,,Target,Target,Target,Aware
+ACC-052,Prescott Industries,prescottind.com,2,None,Lost,Verbal Commitment,Budget cut or freeze,Technology partner referral,,0,accepted,0,0,0,325000,2024-12-07,2024-12-07,2024-12-07,2024-12-20,2025-01-24,2025-04-01,,2025-04-29,Proposal / RFP,Lost,Lost,Lost
+ACC-053,Ulverbrook Capital,ulverbrookcapital.com,2,None,Qualified Lead,,,Partner introduction,probable_only,0,none,1,0,0,290000,2026-05-18,2026-07-06,2026-09-08,,,,,,Target,Target,Target,Qualified Lead
+ACC-054,Stonebridge Bank,stonebridgebank.com,2,"Current client, other services",Aware,,,Conference and existing relationship,,0,none,0,0,1,,2025-07-15,,,,,,,,Target,Aware,Aware,Aware
+ACC-055,Bluewater Transport,bluewatertransport.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-056,Waverly Stores,waverlystores.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-05-18,,,,,,,,Target,Aware,Aware,Aware
+ACC-057,Jarvis Stores,jarvisstores.com,3,"Current client, other services",Verbal Commitment,,,Executive roundtable,A4,1,none,0,0,1,310000,2025-09-22,2026-01-22,2026-02-23,2026-04-08,2026-06-29,2026-09-10,,,Target,Aware,Qualified Lead,Verbal Commitment
+ACC-058,Westbury Savings Bank,westburysavings.com,1,None,Signed Agreement,,,Executive roundtable,,1,none,0,0,1,300000,2025-09-15,2026-01-22,2026-02-13,2026-03-07,2026-06-01,2026-07-11,2026-08-12,,Target,Aware,Active Conversation,Signed Agreement
+ACC-059,Ravenwood Systems,ravenwoodsystems.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-05-18,,,,,,,,Target,Target,Target,Aware
+ACC-060,Southmoor Retail,southmoorretail.com,2,None,Active Conversation,,,Executive roundtable,A11,1,none,0,0,0,435000,2026-02-27,2026-05-21,2026-07-21,2026-09-04,,,,,Target,Target,Aware,Active Conversation
+ACC-061,Lindell Pharmaceuticals,lindellpharma.com,3,"Current client, other services",Stalled,,,Conference and existing relationship,,0,none,0,0,1,445000,2025-04-17,2025-05-14,2025-07-01,2025-08-19,,,,,Target,Active Conversation,Stalled,Stalled
+ACC-062,Oakmont Freight,oakmontfreight.com,2,None,Signed Agreement,,,Technology partner referral,,0,accepted,0,0,1,350000,2025-11-17,2025-11-17,2025-11-17,2025-12-25,2026-03-12,2026-06-07,2026-06-24,,Target,Target,Proposal / RFP,Signed Agreement
+ACC-063,Goldcrest Energy,goldcrestenergy.com,3,None,Interested,,,Marketing-led,,0,none,0,0,0,,2025-05-03,2025-07-24,,,,,,,Target,Interested,Interested,Interested
+ACC-064,Alder Retail,alderretail.com,3,None,Interested,,,Partner introduction,,0,none,1,0,1,,2026-04-30,2026-05-30,,,,,,,Target,Target,Target,Interested
+ACC-065,Kilbourne Health Systems,kilbournehs.com,3,"Current client, other services",Active Conversation,,,Conference and existing relationship,A11,0,none,0,0,0,385000,2026-06-17,2026-07-08,2026-08-12,2026-09-04,,,,,Target,Target,Target,Active Conversation
+ACC-066,Clearwater Utilities,clearwaterutilities.com,3,"Current client, other services",Qualified Lead,,,Executive roundtable,A12,1,none,0,0,0,245000,2026-03-18,2026-07-16,2026-09-03,,,,,,Target,Target,Aware,Qualified Lead
+ACC-067,Gresham Bank,greshambank.com,2,Former client,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-068,Yardley Investments,yardleyinvest.com,2,None,Interested,,,Technology partner referral,,0,accepted,0,0,1,,2026-01-23,2026-03-20,,,,,,,Target,Target,Interested,Interested
+ACC-069,Canyon Bancorp,canyonbancorp.com,1,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-01-30,,,,,,,,Target,Target,Aware,Aware
+ACC-070,Underhill Logistics,underhilllogistics.com,3,"Current client, other services",Interested,,,Partner introduction,,0,none,1,0,1,,2025-09-03,2025-10-16,,,,,,,Target,Aware,Interested,Interested
+ACC-071,Norcliffe Investments,norcliffeinvest.com,3,None,Aware,,,Marketing-led,,0,declined,0,0,1,,2025-06-12,,,,,,,,Target,Aware,Aware,Aware
+ACC-072,Tamarack Freight,tamarackfreight.com,1,"Current client, other services",Verbal Commitment,,,RFP-led,,0,none,0,1,0,460000,2026-06-14,,,,2026-08-10,2026-09-22,,,Target,Target,Target,Verbal Commitment
+ACC-073,Ivenbrook Energy,ivenbrookenergy.com,3,None,Verbal Commitment,,,Executive roundtable,A4_warning,1,none,0,0,1,490000,2026-01-01,2026-01-22,2026-03-03,2026-04-14,2026-06-18,2026-09-05,,,Target,Target,Qualified Lead,Verbal Commitment
+ACC-074,Ashgrove Components,ashgrovecomponents.co.uk,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-075,Hawthorne Systems,hawthornesystems.com,1,None,Lost,Proposal / RFP,Priorities changed,Executive roundtable,,1,none,0,0,1,390000,2025-05-31,2025-09-18,2025-10-03,2025-10-31,2025-12-28,,,2026-01-20,Target,Interested,Lost,Lost
+ACC-076,Dunmore Stores,dunmorestores.com,2,None,Interested,,,Marketing-led,,0,none,0,0,1,,2024-12-02,2025-02-12,,,,,,,Interested,Interested,Interested,Interested
+ACC-077,Quarry Biosciences,quarrybio.ca,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-078,Jameson Asset Management,jamesonam.com,2,"Current client, other services",Aware,,,Conference and existing relationship,,0,none,0,0,0,,2025-03-03,,,,,,,,Aware,Aware,Aware,Aware
+ACC-079,Maplewood Energy,maplewoodenergy.com,3,None,Interested,,,Technology partner referral,,0,accepted,0,0,0,,2026-05-12,2026-07-10,,,,,,,Target,Target,Target,Interested
+ACC-080,Quinton Software,quintonsoftware.com,3,None,Proposal / RFP,,,Executive roundtable,A6,1,none,0,0,1,375000,2026-01-20,2026-03-19,2026-05-12,2026-05-23,2026-08-31,,,,Target,Target,Interested,Proposal / RFP
+ACC-081,Arden Industries,ardenind.com,2,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-082,Ashby Freight,ashbyfreight.com,3,"Current client, other services",Interested,,,Conference and existing relationship,,0,none,0,0,1,,2025-09-29,2026-01-04,,,,,,,Target,Aware,Interested,Interested
+ACC-083,Thistle Mutual,thistlemutual.com,1,"Current client, other services",Qualified Lead,,,Executive roundtable,A12,1,none,0,0,1,310000,2026-07-09,2026-07-16,2026-09-17,,,,,,Target,Target,Target,Qualified Lead
+ACC-084,Juniper Components,junipercomponents.com,3,"Current client, other services",Aware,,,Conference and existing relationship,,0,none,0,0,1,,2026-08-25,,,,,,,,Target,Target,Target,Aware
+ACC-085,Rutledge Brands,rutledgebrands.com,2,None,Aware,,,Marketing-led,,0,none,0,0,0,,2025-06-09,,,,,,,,Target,Aware,Aware,Aware
+ACC-086,Fernhill Freight,fernhillfreight.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-087,Parkview Energy,parkviewenergy.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-07-19,,,,,,,,Target,Aware,Aware,Aware
+ACC-088,Clifton Retail,cliftonretail.com,3,None,Signed Agreement,,,Technology partner referral,,0,accepted,0,0,1,510000,2025-07-30,2025-07-30,2025-07-30,2025-08-22,2025-11-26,2026-01-08,2026-02-26,,Target,Active Conversation,Signed Agreement,Signed Agreement
+ACC-089,Barrowfield Bank,barrowfieldbank.com,1,"Current client, other services",Interested,,,Partner introduction,,0,none,1,0,0,,2026-04-15,2026-07-10,,,,,,,Target,Target,Target,Interested
+ACC-090,Eastwick Stores,eastwickstores.com,2,"Current client, other services",Stalled,,,Conference and existing relationship,,0,none,0,0,1,205000,2025-05-11,2025-05-14,2025-11-07,2025-12-23,2026-02-26,,,,Target,Interested,Proposal / RFP,Stalled
+ACC-091,Oakhurst Stores,oakhurststores.com,3,None,Proposal / RFP,,,Executive roundtable,on_track,1,none,0,0,1,445000,2026-02-26,2026-03-19,2026-05-06,2026-06-23,2026-09-12,,,,Target,Target,Interested,Proposal / RFP
+ACC-092,Kestrel Utilities,kestrelutilities.com,3,None,Interested,,,Partner introduction,,0,none,1,0,1,,2026-01-02,2026-02-20,,,,,,,Target,Target,Interested,Interested
+ACC-093,Bellhaven Energy,bellhavenenergy.com,1,None,Aware,,,Marketing-led,,0,none,0,0,1,,2026-05-19,,,,,,,,Target,Target,Target,Aware
+ACC-094,Merrow Manufacturing,merrowmfg.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-095,Redstone Transport,redstonetransport.com,2,"Current client, other services",Signed Agreement,,,Conference and existing relationship,,0,none,0,0,1,370000,2025-10-03,2025-11-02,2026-01-13,2026-02-13,2026-03-31,2026-05-30,2026-06-27,,Target,Target,Proposal / RFP,Signed Agreement
+ACC-096,Northgate Stores,northgatestores.com,1,Former client,Interested,,,Marketing-led,,0,none,0,0,1,,2025-01-05,2025-02-06,,,,,,,Interested,Interested,Interested,Interested
+ACC-097,Whitmore Power,whitmorepower.com,2,Former client,Lost,Active Conversation,No decision,Executive roundtable,,1,none,0,0,1,260000,2025-12-01,2026-03-19,2026-04-13,2026-05-15,,,,2026-06-21,Target,Target,Interested,Lost
+ACC-098,Orchard Insurance,orchardins.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-07-04,,,,,,,,Target,Aware,Aware,Aware
+ACC-099,Riverbend Capital,riverbendcapital.com,3,"Current client, other services",Aware,,,Conference and existing relationship,,0,none,0,0,1,,2025-10-23,,,,,,,,Target,Target,Aware,Aware
+ACC-100,Aldenmoor Investments,aldenmoorinvest.com,3,None,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-101,Gilford Utilities,gilfordutilities.com,1,Former client,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-102,Alcott Insurance,alcottins.com,3,None,Lost,Verbal Commitment,Leadership change,Partner introduction,,0,none,1,0,1,220000,2024-11-17,2025-01-26,2025-03-23,2025-04-23,2025-07-22,2025-09-20,,2025-10-17,Qualified Lead,Verbal Commitment,Lost,Lost
+ACC-103,Rosewood Power,rosewoodpower.com,3,Former client,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-104,Driftwood Systems,driftwoodsystems.com,3,Former client,Stalled,,,Executive roundtable,,1,none,0,0,1,475000,2024-12-05,2024-12-05,2025-02-14,,,,,,Qualified Lead,Stalled,Stalled,Stalled
+ACC-105,Fenwick Medical Center,fenwickmedical.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2024-12-16,,,,,,,,Aware,Aware,Aware,Aware
+ACC-106,Briarwood Health,briarwoodhealth.com,3,"Current client, other services",Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-107,Inwood Asset Management,inwoodam.com,3,None,Lost,Verbal Commitment,Procurement stalled,Executive roundtable,,1,none,0,0,1,370000,2024-12-05,2024-12-05,2025-01-18,2025-02-05,2025-03-06,2025-04-08,,2025-04-27,Proposal / RFP,Lost,Lost,Lost
+ACC-108,Thornbury Bank,thornburybank.com,2,None,Aware,,,Marketing-led,,0,none,0,0,1,,2025-05-15,,,,,,,,Target,Aware,Aware,Aware
+ACC-109,Linden Savings Bank,lindensavings.com,3,Former client,Target,,,None,,0,none,0,0,1,,,,,,,,,,Target,Target,Target,Target
+ACC-110,Oldfield Investments,oldfieldinvest.com,2,None,Aware,,,Marketing-led,,0,none,0,0,0,,2025-04-04,,,,,,,,Target,Aware,Aware,Aware
+ACC-111,Jorvale Mutual,jorvalemutual.com,2,"Current client, other services",Signed Agreement,,,Conference and existing relationship,,0,none,0,0,1,375000,2025-02-02,2025-05-14,2025-06-15,2025-06-25,2025-10-01,2025-12-26,2026-02-08,,Aware,Active Conversation,Signed Agreement,Signed Agreement
+ACC-112,Copperfield Freight,copperfieldfreight.com,3,"Current client, other services",Lost,Active Conversation,Chose another firm,Conference and existing relationship,,0,none,0,0,1,180000,2025-03-01,2025-05-14,2025-08-14,2025-08-26,,,,2025-10-03,Aware,Active Conversation,Lost,Lost
+ACC-113,Marlow Industries,marlowind.com,2,None,Target,,,None,,0,none,0,0,0,,,,,,,,,,Target,Target,Target,Target
+ACC-114,Penrose Brands,penrosebrands.com,1,"Current client, other services",Interested,,,Conference and existing relationship,,0,none,0,0,1,,2025-07-18,2025-10-12,,,,,,,Target,Aware,Interested,Interested
+ACC-115,Easton Assurance,eastonassurance.com,2,None,Interested,,,Marketing-led,,0,none,0,0,1,,2024-12-21,2025-03-28,,,,,,,Interested,Interested,Interested,Interested
+ACC-116,Ambergate Systems,ambergatesystems.com,3,"Current client, other services",Active Conversation,,,Conference and existing relationship,on_track,0,none,0,0,1,500000,2026-04-08,2026-05-13,2026-08-07,2026-09-12,,,,,Target,Target,Target,Active Conversation
+ACC-117,Millbrook Analytics,millbrookanalytics.com,2,None,Target,,,None,,0,none,0,0,0,,,,,,,,,,Target,Target,Target,Target
+ACC-118,Norwood Bancorp,norwoodbancorp.com,3,None,Qualified Lead,,,Technology partner referral,A12,0,accepted,0,0,1,510000,2026-09-22,2026-09-22,2026-09-22,,,,,,Target,Target,Target,Qualified Lead
+ACC-119,Ivywood Stores,ivywoodstores.com,2,"Current client, other services",Active Conversation,,,Executive roundtable,on_track,1,none,0,0,1,460000,2026-04-25,2026-07-16,2026-08-12,2026-09-12,,,,,Target,Target,Target,Active Conversation
+ACC-120,Eastbrook Capital,eastbrookcapital.com,3,None,Lost,Active Conversation,Priorities changed,Executive roundtable,,1,none,0,0,1,350000,2024-12-15,2025-02-20,2025-04-12,2025-05-12,,,,2025-05-29,Interested,Lost,Lost,Lost

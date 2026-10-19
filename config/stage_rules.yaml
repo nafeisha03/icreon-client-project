@@ -1,0 +1,134 @@
+# Stage, trend and confidence rules.
+#
+# The wording, order and thresholds of every rule live here. The conditions
+# themselves are short, named Python functions in calder_abm/stages.py and
+# calder_abm/uncertainty.py, one per rule ID, so each rule can be tested on its own.
+
+thresholds:
+  stalled_after_quiet_days: 45        # Qualified Lead or later, no meaningful activity
+  progressing_lookback_days: 30       # a forward move or a Strong signal this recently = Progressing
+  negative_lookback_days: 30          # a negative signal this recently = Slowing
+  slowing_quiet_days_pipeline: 30     # quiet this long at Qualified Lead or later = Slowing
+  slowing_quiet_days_marketing: 60    # quiet this long at Aware or Interested = Slowing
+  recent_signal_days: 30              # confidence check "Recent"
+  conflict_quiet_days: 60             # CRM claims a later stage, and nothing recorded this long
+
+# The stage is the furthest step the account has evidence for, on or before the review point.
+stage_rules:
+  - id: STG-TARGET
+    stage: Target
+    rule: It is on the target list and nothing else is recorded
+  - id: STG-AWARE
+    stage: Aware
+    rule: A signal that supports Aware, such as an identified visit or an email open
+  - id: STG-INTERESTED
+    stage: Interested
+    rule: A deliberate step, such as attending, downloading, replying or accepting an introduction
+  - id: STG-QUALIFIED
+    stage: Qualified Lead
+    rule: A business need is identified in a note, a referral or a request
+  - id: STG-CONVERSATION
+    stage: Active Conversation
+    rule: A discovery, scoping or executive meeting was held
+  - id: STG-PROPOSAL
+    stage: Proposal / RFP
+    rule: A proposal or pricing request, an RFP, a proposal we sent, or legal or procurement review
+  - id: STG-VERBAL
+    stage: Verbal Commitment
+    rule: They said they intend to proceed, or contract terms are being negotiated
+  - id: STG-SIGNED
+    stage: Signed Agreement
+    rule: The engagement letter was signed
+  - id: STG-STALLED
+    stage: Stalled
+    rule: Qualified Lead or later, then no meaningful activity for 45 days or more
+  - id: STG-LOST
+    stage: Lost
+    rule: The CRM marks it lost, or they said they chose another firm or are not going ahead
+
+# Checked top to bottom; the first one that fits wins.
+trend_rules:
+  - id: TRD-STALLED
+    trend: Stalled
+    rule: The stage is Stalled
+  - id: TRD-CLOSED
+    trend: Steady
+    rule: Signed Agreement or Lost, with nothing newer
+  - id: TRD-PROGRESSING
+    trend: Progressing
+    rule: In the last 30 days, the stage moved forward or a Strong or stronger positive signal arrived
+  - id: TRD-SLOWING
+    trend: Slowing
+    rule: A negative signal in the last 30 days; quiet for 30+ days at Qualified Lead or later; or quiet for 60+ days at Aware or Interested
+  - id: TRD-STEADY
+    trend: Steady
+    rule: Still active, without moving forward
+  - id: TRD-UNCLEAR
+    trend: Unclear
+    rule: No recorded activity to judge from, or confidence is Insufficient evidence
+
+# Confidence starts at High and drops one level (to Low at most) for each failed check.
+confidence_checks:
+  - id: CONF-RECENT
+    check: Recent
+    fails_when: The key signal is more than 30 days old
+  - id: CONF-CORROBORATED
+    check: Corroborated
+    fails_when: The key fact comes from one source and one person only
+  - id: CONF-IDENTITY
+    check: Solid identity
+    fails_when: The key signal was linked through a probable match
+  - id: CONF-STRUCTURED
+    check: Structured record
+    fails_when: The key signal was read from free text rather than a structured field
+  - id: CONF-GAPS
+    check: No gaps
+    fails_when: A step is missing on the way here, such as a proposal with no meeting on record
+  - id: CONF-DECIDER
+    check: Decision maker seen
+    fails_when: At Active Conversation or later, no Decision Maker or Executive Sponsor has appeared in any interaction
+
+# These two force "Insufficient evidence", whatever the checks say.
+insufficient_evidence:
+  - id: INS-CONFLICT
+    rule: Sources contradict each other about the stage, for example the CRM says Verbal Commitment but nothing has been recorded for 60 days
+  - id: INS-PROBABLE
+    rule: Every signal behind the stage came through a probable match
+
+# Each question shows as UNKNOWN until a recorded fact answers it. From Qualified Lead on,
+# the classic qualification questions apply: who decides, budget and timeline.
+unknowns:
+  - id: UNK-NEED
+    question: Is there a real project or need?
+    from_stage: Interested
+    answered_by_signals: [need_identified, tech_partner_referral, rfp_received, proposal_requested]
+  - id: UNK-DECIDER
+    question: Who decides, and have we met them?
+    from_stage: Qualified Lead
+    answered_by_roles: [Decision Maker, Executive Sponsor]
+    answered_by_signals: [decision_process_confirmed]
+  - id: UNK-BUDGET
+    question: Is budget approved?
+    from_stage: Qualified Lead
+    answered_by_signals: [budget_confirmed]
+    answered_by_roles: [Finance Approver]
+  - id: UNK-TIMELINE
+    question: When do they plan to decide?
+    from_stage: Qualified Lead
+    answered_by_signals: [timeline_confirmed]
+    answered_by_crm: expected_close_date
+  - id: UNK-COMPETITION
+    question: Are they considering other firms?
+    from_stage: Proposal / RFP
+    answered_by_signals: [competitor_mentioned, no_competitor_confirmed, rfp_received]
+  - id: UNK-REVIEW
+    question: Where is legal and procurement review?
+    from_stage: Proposal / RFP
+    only_if_signals: [legal_joined, procurement_started]
+    answered_within_days: 14
+    answered_by_signals: [legal_joined, procurement_started, procurement_delay, contract_negotiation]
+  - id: UNK-SIGNATURE
+    question: What stands between the verbal yes and a signature?
+    from_stage: Verbal Commitment
+    answered_by_signals: [contract_negotiation]
+    answered_by_crm: expected_close_date

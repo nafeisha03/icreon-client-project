@@ -1,0 +1,114 @@
+# The synthetic scenario the generator builds.
+#
+# Everything here is invented. Change a number and run
+#   python -m calder_abm.generate_data
+# to get a new scenario. The same seed always gives the same data.
+
+seed: 20261015
+launch_date: "2024-10-01"   # the AI Assurance and Controls practice starts marketing
+end_date: "2026-09-30"      # the last day of data
+
+accounts:
+  total: 120
+  current_clients: 30       # clients of the firm's other services (audit, tax, advisory)
+  former_clients: 10
+  tiers: {1: 25, 2: 45, 3: 50}
+
+# Where each account truly stands on the last day of the data. Must add up to accounts.total.
+final_positions:
+  Signed Agreement: 14
+  Lost: 12
+  Verbal Commitment: 3
+  Proposal / RFP: 5
+  Active Conversation: 6
+  Qualified Lead: 5
+  Stalled: 7
+  Interested: 20
+  Aware: 28
+  Target: 20
+
+# How far each lost deal had got before it was lost (adds up to Lost above).
+lost_at:
+  Active Conversation: 3
+  Proposal / RFP: 6
+  Verbal Commitment: 3
+
+signed_by_goal_date: 6      # signed deals that close by the 18-month goal date (2026-03-31)
+average_cycle_months: 11
+deal_value_usd: {mean: 340000, low: 180000, high: 620000}
+
+# Patterns planted on purpose, so the evaluation can check whether the system
+# finds real effects and avoids traps. Written to the answer key; the system never reads them.
+planted_patterns:
+  real_effects:
+    roundtables:              # attending an executive roundtable truly raises the chance of moving into the pipeline
+      attending_accounts: 22
+      chance_of_moving_forward: 1.0     # every attendee moves forward; for everyone else the chance is roughly a third
+    technology_partner_referrals:   # an accepted referral truly raises the chance of moving into the pipeline
+      referred_accounts: 16
+      never_agreed: 2         # referrals the client never agreed to; nothing follows
+      chance_of_moving_forward: 0.9
+  traps:
+    report_after_progress:    # the report is mostly downloaded after the first meeting, so it cannot have caused it
+      share_of_pipeline_accounts_downloading: 0.6
+      early_downloads: 8
+    current_clients_buy_anyway:     # current clients buy more often AND attend more webinars; webinars do nothing
+      buying_weight: 2.5
+      chance_of_moving_forward: 0.45
+      webinar_attendance_multiplier: 2.5
+    linkedin_ads_change_nothing:    # ads reach most accounts and change nothing
+      accounts_shown: 100
+
+partner_introductions:
+  accounts: 10
+  effect_weight: 1.5
+  chance_of_moving_forward: 0.55
+
+rfp_led_accounts: 4          # journeys that start with a formal RFP and skip the meetings
+
+# Marketing programs and what was actually spent on each (adds up to $1.2 million).
+campaigns:
+  - {id: CMP-01, name: AI Controls Webinar Series, channel: Webinar, start: "2024-11-01", end: "2026-09-30", spend: 96000, planned: 90000}
+  - {id: CMP-02, name: State of AI Governance Report, channel: Content, start: "2025-02-01", end: "2026-09-30", spend: 70000, planned: 60000}
+  - {id: CMP-03, name: Executive Roundtables, channel: Roundtable or dinner, start: "2024-12-01", end: "2026-09-30", spend: 180000, planned: 160000}
+  - {id: CMP-04, name: AI Risk Summit 2025, channel: Conference, start: "2025-05-14", end: "2025-05-15", spend: 150000, planned: 140000}
+  - {id: CMP-05, name: AI Risk Summit 2026, channel: Conference, start: "2026-05-13", end: "2026-05-14", spend: 160000, planned: 150000}
+  - {id: CMP-06, name: Technology Partner Program, channel: Technology partners, start: "2024-12-01", end: "2026-09-30", spend: 120000, planned: 120000}
+  - {id: CMP-07, name: LinkedIn ABM Ads, channel: LinkedIn, start: "2024-11-01", end: "2026-09-30", spend: 160000, planned: 180000}
+  - {id: CMP-08, name: Email Nurture, channel: Email, start: "2024-10-01", end: "2026-09-30", spend: 40000, planned: 40000}
+  - {id: CMP-09, name: Partner Network Introductions, channel: Partner network, start: "2025-01-01", end: "2026-09-30", spend: 60000, planned: 50000}
+  - {id: CMP-10, name: Website and Thought Leadership, channel: Website, start: "2024-10-01", end: "2026-09-30", spend: 70000, planned: 75000}
+  - {id: CMP-11, name: Industry PR, channel: PR, start: "2025-03-01", end: "2026-06-30", spend: 54000, planned: 60000}
+  - {id: CMP-12, name: Paid Search, channel: Paid media, start: "2025-01-01", end: "2025-12-31", spend: 40000, planned: 45000}
+
+# How messy the messy copy is. The clean twin has none of this.
+mess:
+  missing_domains_on_target_list: 5
+  inconsistent_relationship_share: 0.5
+  missing_planned_budgets: 3
+  unassigned_spend_invoices: 8
+  duplicate_invoices: 1
+  crm_duplicate_accounts: 6
+  crm_missing_target_id_share: 0.35
+  contacts_missing_email_share: 0.10
+  contacts_missing_id_share: 0.05
+  outdated_job_titles: 8
+  stale_crm_stages: 2              # CRM claims a later stage than anything recorded supports
+  lead_source_after_the_fact_share: 0.35
+  missing_loss_reason_share: 0.4
+  missing_amount_share: 0.15
+  crm_logs_calendar_meetings_share: 0.6   # the same meeting in the calendar and the CRM
+  calendar_missing_attendees_share: 0.15
+  note_nickname_share: 0.4
+  note_missing_account_share: 0.5
+  note_missing_date_share: 0.04
+  note_unreadable_date_share: 0.04
+  machine_open_share: 0.12
+  personal_email_contacts: 12
+  web_wrong_company_share: 0.10
+  event_late_days: [5, 9]
+  event_typed_company_share: 0.5
+  event_missing_email_share: 0.08
+  probable_only_accounts: 2        # accounts whose activity reaches us only by company name
+  unreadable_timestamps: 6
+  repeated_rows: 10                # the same row exported twice

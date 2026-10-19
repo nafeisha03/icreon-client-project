@@ -1,0 +1,16 @@
+# Match decisions confirmed by a person.
+#
+# When the dashboard's review queue shows a record that could belong to more than
+# one company, a person can settle it here. These decisions survive every rebuild.
+#
+# Each entry names the source file, the company name exactly as it appears in that
+# file, and the account it belongs to (or "none" if it belongs to no target account).
+#
+# Example:
+#   - source_file: event_attendance.csv
+#     company_name: Harbourline
+#     account_id: ACC-017
+#     decided_by: R. Okafor
+#     decided_on: "2026-10-12"
+
+overrides: []

@@ -1,0 +1,374 @@
+person_id,account_id,name,email,title,role,crm_contact_id
+P-0001,ACC-001,Mei Moreau,mei.moreau@abccorp.com,Director of Model Risk,Influencer,003C00001
+P-0002,ACC-001,David Adeyemi,david.adeyemi@abccorp.com,Head of Internal Audit,Decision Maker,003C00002
+P-0003,ACC-001,Diego Vargas,diego.vargas@abccorp.com,Chief Operating Officer,Executive Sponsor,003C00003
+P-0267,ACC-001,Owen Russo,owen.russo@abccorp.com,General Counsel,Legal Reviewer,003C00313
+P-0004,ACC-002,Aisha Iyer,aisha.iyer@meridianhealth.com,Director of Risk Analytics,Influencer,003C00004
+P-0005,ACC-002,Marcus Ortega,marcus.ortega@meridianhealth.com,Chief Compliance Officer,Decision Maker,003C00005
+P-0268,ACC-002,Victor Mensah,victor.mensah@meridianhealth.com,Chief Risk Officer,Executive Sponsor,
+P-0006,ACC-003,Hugo Ward,hugo.ward@meridianhealth.ca,"Senior Manager, Compliance",Influencer,003C00006
+P-0007,ACC-003,Arjun Okonkwo,arjun.okonkwo@meridianhealth.ca,Chief Audit Executive,Decision Maker,003C00007
+P-0008,ACC-003,Elena Mori,elena.mori@meridianhealth.ca,Chief Financial Officer,Executive Sponsor,003C00008
+P-0009,ACC-004,Rosa Shapiro,rosa.shapiro@harborlineins.com,Director of Model Risk,Influencer,003C00009
+P-0010,ACC-004,Arjun Nguyen,arjun.nguyen@harborlineins.com,Chief Compliance Officer,Decision Maker,003C00010
+P-0011,ACC-004,Naomi Rossi,naomi.rossi@harborlineins.com,Chief Operating Officer,Executive Sponsor,003C00011
+P-0012,ACC-005,Hannah Menon,hannah.menon@summitfg.com,"Senior Manager, Compliance",Influencer,003C00012
+P-0013,ACC-005,Tariq Laurent,tariq.laurent@summitfg.com,Chief Audit Executive,Decision Maker,003C00013
+P-0269,ACC-005,Andre Tanaka,andre.tanaka@summitfg.com,Chief Operating Officer,Executive Sponsor,003C00293
+P-0270,ACC-005,Aisha Ortega,aisha.ortega@summitfg.com,General Counsel,Legal Reviewer,003C00290
+P-0014,ACC-006,Julia Nguyen,julia.nguyen@summitfh.com,Director of Model Risk,Influencer,003C00014
+P-0015,ACC-006,Diego Moreau,diego.moreau@summitfh.com,VP Risk Management,Decision Maker,003C00015
+P-0016,ACC-006,Fatima Farouk,fatima.farouk@summitfh.com,Chief Financial Officer,Executive Sponsor,003C00016
+P-0017,ACC-007,Anna Hughes,anna.hughes@newburylogistics.com,Head of Risk,Influencer,003C00017
+P-0018,ACC-007,Hannah Rossi,hannah.rossi@newburylogistics.com,VP Risk Management,Decision Maker,003C00018
+P-0271,ACC-007,Grace Murphy,grace.murphy@newburylogistics.com,Chief Financial Officer,Executive Sponsor,
+P-0019,ACC-008,Megan Mori,megan.mori@hollistertx.com,Head of Data Governance,Influencer,003C00019
+P-0020,ACC-008,Grace Tanaka,grace.tanaka@hollistertx.com,VP Risk Management,Decision Maker,003C00020
+P-0021,ACC-008,Marcus Ward,marcus.ward@hollistertx.com,Chief Operating Officer,Executive Sponsor,003C00021
+P-0272,ACC-008,Marcus Lindqvist,marcus.lindqvist@hollistertx.com,Deputy General Counsel,Legal Reviewer,
+P-0022,ACC-009,Tom Doyle,tom.doyle@quillonretail.com,Director of Risk Analytics,Influencer,003C00022
+P-0023,ACC-009,Graham Sato,graham.sato@quillonretail.com,Chief Audit Executive,Decision Maker,003C00023
+P-0273,ACC-009,Fatima Raman,fatima.raman@quillonretail.com,Chief Operating Officer,Executive Sponsor,
+P-0024,ACC-010,Anna Vargas,anna.vargas@brackenridgefreight.com,Director of Risk Analytics,Influencer,003C00024
+P-0025,ACC-010,Caleb Torres,caleb.torres@brackenridgefreight.com,Head of Internal Audit,Decision Maker,003C00025
+P-0274,ACC-010,Nina Doyle,nina.doyle@brackenridgefreight.com,Chief Financial Officer,Executive Sponsor,
+P-0275,ACC-010,Fatima Bello,fatima.bello@brackenridgefreight.com,Deputy General Counsel,Legal Reviewer,003C00287
+P-0026,ACC-011,Naomi Haddad,naomi.haddad@brightwatermfg.com,Head of Risk,Influencer,003C00026
+P-0027,ACC-011,Elena Malik,elena.malik@brightwatermfg.com,Chief Audit Executive,Decision Maker,003C00027
+P-0028,ACC-011,Tariq Becker,tariq.becker@brightwatermfg.com,Chief Operating Officer,Executive Sponsor,003C00028
+P-0029,ACC-012,Ravi Kapoor,ravi.kapoor@lakeshorepharma.com,Director of Model Risk,Influencer,003C00029
+P-0030,ACC-012,Owen Ortega,owen.ortega@lakeshorepharma.com,Head of Internal Audit,Decision Maker,003C00030
+P-0276,ACC-012,Zara Jansen,zara.jansen@lakeshorepharma.com,Chief Operating Officer,Executive Sponsor,003C00285
+P-0277,ACC-012,Andre Lindqvist,andre.lindqvist@lakeshorepharma.com,Deputy General Counsel,Legal Reviewer,003C00292
+P-0031,ACC-013,Owen Liu,owen.liu@fairhavenbank.com,Head of Data Governance,Influencer,003C00031
+P-0032,ACC-013,Tom Iyer,tom.iyer@fairhavenbank.com,Head of Internal Audit,Decision Maker,003C00032
+P-0278,ACC-013,Megan Novak,megan.novak@fairhavenbank.com,Chief Financial Officer,Executive Sponsor,
+P-0033,ACC-014,Tom Harris,tom.harris@foxhallam.com,Director of Risk Analytics,Influencer,003C00033
+P-0034,ACC-014,Olivia Torres,olivia.torres@foxhallam.com,Chief Audit Executive,Decision Maker,003C00034
+P-0035,ACC-014,Lucia Weber,lucia.weber@foxhallam.com,Chief Financial Officer,Executive Sponsor,003C00035
+P-0036,ACC-015,Carlos Malik,carlos.malik@moorlandinvest.com,Director of Model Risk,Influencer,003C00036
+P-0037,ACC-015,Ethan Aziz,ethan.aziz@moorlandinvest.com,Head of Internal Audit,Decision Maker,003C00037
+P-0038,ACC-016,Sofia Murphy,sofia.murphy@blackthornins.com,Director of Risk Analytics,Influencer,003C00038
+P-0039,ACC-016,Victor Petrov,victor.petrov@blackthornins.com,Chief Audit Executive,Decision Maker,003C00039
+P-0279,ACC-016,Jane Sato,jane.sato@blackthornins.com,Chief Risk Officer,Executive Sponsor,
+P-0373,ACC-016,Simon Nguyen,simon.nguyen@blackthornins.com,Director of AI Engineering,Technical Evaluator,
+P-0040,ACC-017,Lucia Bell,lucia.bell@bexleyretail.com,Director of Risk Analytics,Influencer,003C00040
+P-0041,ACC-017,Ben Harris,ben.harris@bexleyretail.com,Head of Internal Audit,Decision Maker,003C00041
+P-0280,ACC-017,Ines Petrov,ines.petrov@bexleyretail.com,Chief Risk Officer,Executive Sponsor,
+P-0042,ACC-018,Ines Brooks,ines.brooks@hollowaybank.com,Head of Data Governance,Influencer,003C00042
+P-0043,ACC-018,Laura Ortega,laura.ortega@hollowaybank.com,Chief Compliance Officer,Decision Maker,003C00043
+P-0281,ACC-018,Caleb Ali,caleb.ali@hollowaybank.com,Chief Financial Officer,Executive Sponsor,003C00267
+P-0044,ACC-019,Owen Cohen,owen.cohen@cobaltcapital.com,Head of Risk,Influencer,003C00044
+P-0045,ACC-019,Claire Ramos,claire.ramos@cobaltcapital.com,Head of Internal Audit,Decision Maker,003C00045
+P-0282,ACC-019,Marcus Farouk,marcus.farouk@cobaltcapital.com,Chief Operating Officer,Executive Sponsor,
+P-0046,ACC-020,Ibrahim Schmidt,ibrahim.schmidt@halverstonsystems.com,Head of Data Governance,Influencer,003C00046
+P-0047,ACC-020,Tessa Moreau,tessa.moreau@halverstonsystems.com,Head of Internal Audit,Decision Maker,003C00047
+P-0283,ACC-020,Fatima Eze,fatima.eze@halverstonsystems.com,Chief Operating Officer,Executive Sponsor,
+P-0048,ACC-021,Andre Liu,andre.liu@ellerystores.com,Head of Risk,Influencer,003C00048
+P-0049,ACC-021,Jorge Iyer,jorge.iyer@ellerystores.com,VP Risk Management,Decision Maker,003C00049
+P-0284,ACC-021,Leah Lam,leah.lam@ellerystores.com,Chief Financial Officer,Executive Sponsor,
+P-0050,ACC-022,Yuki Okonkwo,yuki.okonkwo@delvaneind.com,Head of Data Governance,Influencer,003C00050
+P-0051,ACC-022,Naomi Tanaka,naomi.tanaka@delvaneind.com,Chief Compliance Officer,Decision Maker,003C00051
+P-0052,ACC-023,Chloe Shapiro,chloe.shapiro@caldwellenergy.com,Head of Risk,Influencer,003C00052
+P-0053,ACC-023,Nina Menon,nina.menon@caldwellenergy.com,Chief Audit Executive,Decision Maker,003C00053
+P-0285,ACC-023,Anna Petrov,anna.petrov@caldwellenergy.com,Chief Operating Officer,Executive Sponsor,003C00298
+P-0286,ACC-023,Tom Tanaka,tom.tanaka@caldwellenergy.com,General Counsel,Legal Reviewer,003C00297
+P-0054,ACC-024,Daniel Silva,daniel.silva@trevelyanlogistics.com,"Senior Manager, Compliance",Influencer,003C00054
+P-0055,ACC-024,Ravi Ramos,ravi.ramos@trevelyanlogistics.com,Head of Internal Audit,Decision Maker,003C00055
+P-0056,ACC-025,Elena Ward,elena.ward@stelmeremutual.com,"Senior Manager, Compliance",Influencer,003C00056
+P-0057,ACC-025,Rosa Tanaka,rosa.tanaka@stelmeremutual.com,VP Risk Management,Decision Maker,003C00057
+P-0058,ACC-025,Ibrahim Moreau,ibrahim.moreau@stelmeremutual.com,Chief Operating Officer,Executive Sponsor,003C00058
+P-0059,ACC-026,Kenji Becker,kenji.becker@islingtonbancorp.com,Head of Data Governance,Influencer,003C00059
+P-0060,ACC-026,Kenji Adeyemi,kenji.adeyemi@islingtonbancorp.com,VP Risk Management,Decision Maker,003C00060
+P-0287,ACC-026,Lucia Jansen,lucia.jansen@islingtonbancorp.com,Chief Operating Officer,Executive Sponsor,003C00269
+P-0061,ACC-027,Tariq Smith,tariq.smith@elmsteadbank.com,Director of Risk Analytics,Influencer,003C00061
+P-0062,ACC-027,Arjun Dubois,arjun.dubois@elmsteadbank.com,VP Risk Management,Decision Maker,003C00062
+P-0288,ACC-027,Mira Haddad,mira.haddad@elmsteadbank.com,Chief Operating Officer,Executive Sponsor,
+P-0063,ACC-028,Rachel Becker,rachel.becker@orlavaletx.com,Head of Risk,Influencer,003C00063
+P-0064,ACC-028,Laura Walsh,laura.walsh@orlavaletx.com,VP Risk Management,Decision Maker,003C00064
+P-0289,ACC-028,Hannah Novak,hannah.novak@orlavaletx.com,Chief Financial Officer,Executive Sponsor,003C00270
+P-0290,ACC-028,Elena Adeyemi,elena.adeyemi@orlavaletx.com,Deputy General Counsel,Legal Reviewer,003C00275
+P-0065,ACC-029,Owen Carter,owen.carter@darbysavings.com,Head of Data Governance,Influencer,003C00065
+P-0066,ACC-029,Chloe Farouk,chloe.farouk@darbysavings.com,Chief Audit Executive,Decision Maker,003C00066
+P-0291,ACC-029,Felix Mori,felix.mori@darbysavings.com,Chief Financial Officer,Executive Sponsor,
+P-0067,ACC-030,Mira Farouk,mira.farouk@brantleybancorp.com,"Senior Manager, Compliance",Influencer,003C00067
+P-0068,ACC-030,Chloe Moreau,chloe.moreau@brantleybancorp.com,Chief Audit Executive,Decision Maker,003C00068
+P-0292,ACC-030,Elena Brooks,elena.brooks@brantleybancorp.com,Chief Financial Officer,Executive Sponsor,
+P-0069,ACC-031,Amara Russo,amara.russo@northcliffins.com,Director of Risk Analytics,Influencer,003C00069
+P-0070,ACC-031,Rachel Vargas,rachel.vargas@northcliffins.com,Chief Audit Executive,Decision Maker,003C00070
+P-0071,ACC-031,Tom Dubois,tom.dubois@northcliffins.com,Chief Risk Officer,Executive Sponsor,003C00071
+P-0072,ACC-032,Chloe Torres,chloe.torres@lanmoorlogistics.com,Director of Model Risk,Influencer,003C00072
+P-0073,ACC-032,Hannah Ali,hannah.ali@lanmoorlogistics.com,Chief Compliance Officer,Decision Maker,003C00073
+P-0293,ACC-032,Victor Adeyemi,victor.adeyemi@lanmoorlogistics.com,Chief Financial Officer,Executive Sponsor,
+P-0074,ACC-033,Nina Rossi,nina.rossi@vandermeertransport.com,Director of Model Risk,Influencer,003C00074
+P-0075,ACC-033,Megan Sato,megan.sato@vandermeertransport.com,VP Risk Management,Decision Maker,003C00075
+P-0294,ACC-033,Nathan Iyer,nathan.iyer@vandermeertransport.com,Chief Risk Officer,Executive Sponsor,003C00284
+P-0295,ACC-033,Priya Torres,priya.torres@vandermeertransport.com,Procurement Manager,Procurement,
+P-0296,ACC-033,Paula Eze,paula.eze@vandermeertransport.com,General Counsel,Legal Reviewer,003C00301
+P-0076,ACC-034,Peter Liu,peter.liu@uptonenergy.com,Head of Risk,Influencer,003C00076
+P-0077,ACC-034,Naomi Weber,naomi.weber@uptonenergy.com,Chief Audit Executive,Decision Maker,003C00077
+P-0297,ACC-034,Arjun Adeyemi,arjun.adeyemi@uptonenergy.com,Chief Financial Officer,Executive Sponsor,003C00306
+P-0298,ACC-034,Ben Russo,ben.russo@uptonenergy.com,Procurement Manager,Procurement,003C00302
+P-0299,ACC-034,Hugo Smith,hugo.smith@uptonenergy.com,General Counsel,Legal Reviewer,003C00308
+P-0078,ACC-035,Elena Russo,elena.russo@yorkfieldpharma.com,Head of Data Governance,Influencer,003C00078
+P-0079,ACC-035,Rosa Russo,rosa.russo@yorkfieldpharma.com,VP Risk Management,Decision Maker,003C00079
+P-0080,ACC-035,Elena Ferreira,elena.ferreira@yorkfieldpharma.com,Chief Risk Officer,Executive Sponsor,003C00080
+P-0081,ACC-036,Peter Moreau,peter.moreau@pinehavenmutual.com,"Senior Manager, Compliance",Influencer,003C00081
+P-0082,ACC-036,Tariq Rahman,tariq.rahman@pinehavenmutual.com,Head of Internal Audit,Decision Maker,003C00082
+P-0300,ACC-036,Simon Lam,simon.lam@pinehavenmutual.com,Chief Risk Officer,Executive Sponsor,
+P-0083,ACC-037,Julia Keller,julia.keller@ridgelineenergy.com,Head of Risk,Influencer,003C00083
+P-0084,ACC-037,Aisha Novak,aisha.novak@ridgelineenergy.com,Chief Audit Executive,Decision Maker,003C00084
+P-0085,ACC-038,Lucia Clarke,lucia.clarke@larkspursoftware.com,"Senior Manager, Compliance",Influencer,003C00085
+P-0086,ACC-038,Wei Murphy,wei.murphy@larkspursoftware.com,Chief Audit Executive,Decision Maker,003C00086
+P-0087,ACC-038,Luis Sato,luis.sato@larkspursoftware.com,Chief Operating Officer,Executive Sponsor,003C00087
+P-0088,ACC-039,Olivia Mori,olivia.mori@granitesystems.com,Head of Data Governance,Influencer,003C00088
+P-0089,ACC-039,Ines Price,ines.price@granitesystems.com,Chief Audit Executive,Decision Maker,003C00089
+P-0301,ACC-039,Rosa Mendes,rosa.mendes@granitesystems.com,Chief Financial Officer,Executive Sponsor,
+P-0090,ACC-040,Ben Lindqvist,ben.lindqvist@wexfordsavings.com,Head of Risk,Influencer,003C00090
+P-0091,ACC-040,Ravi Hughes,ravi.hughes@wexfordsavings.com,Chief Audit Executive,Decision Maker,003C00091
+P-0302,ACC-040,Leah Costa,leah.costa@wexfordsavings.com,Chief Operating Officer,Executive Sponsor,003C00295
+P-0303,ACC-040,Megan Petrov,megan.petrov@wexfordsavings.com,General Counsel,Legal Reviewer,003C00291
+P-0092,ACC-041,Lucia Mensah,lucia.mensah@lyndonmfg.com,Head of Risk,Influencer,003C00092
+P-0093,ACC-041,Omar Hughes,omar.hughes@lyndonmfg.com,Chief Compliance Officer,Decision Maker,003C00093
+P-0094,ACC-041,Laura Mendes,laura.mendes@lyndonmfg.com,Chief Financial Officer,Executive Sponsor,003C00094
+P-0095,ACC-042,Claire Fischer,claire.fischer@glenmoretx.com,Director of Risk Analytics,Influencer,003C00095
+P-0096,ACC-042,Omar Brooks,omar.brooks@glenmoretx.com,Chief Compliance Officer,Decision Maker,003C00096
+P-0097,ACC-042,Ibrahim Aziz,ibrahim.aziz@glenmoretx.com,Chief Financial Officer,Executive Sponsor,003C00097
+P-0098,ACC-043,Sofia Ward,sofia.ward@hartwelltransport.com,Head of Data Governance,Influencer,003C00098
+P-0099,ACC-043,Caleb Nguyen,caleb.nguyen@hartwelltransport.com,Chief Compliance Officer,Decision Maker,003C00099
+P-0304,ACC-043,Aisha Laurent,aisha.laurent@hartwelltransport.com,Chief Operating Officer,Executive Sponsor,
+P-0100,ACC-044,Priya Laurent,priya.laurent@northammfg.com,"Senior Manager, Compliance",Influencer,003C00100
+P-0101,ACC-044,Arjun Rossi,arjun.rossi@northammfg.com,VP Risk Management,Decision Maker,003C00101
+P-0305,ACC-044,Peter Weber,peter.weber@northammfg.com,Chief Operating Officer,Executive Sponsor,
+P-0102,ACC-045,Caleb Mori,caleb.mori@yewdaleinvest.com,"Senior Manager, Compliance",Influencer,003C00102
+P-0103,ACC-045,Grace Becker,grace.becker@yewdaleinvest.com,Chief Audit Executive,Decision Maker,003C00103
+P-0104,ACC-045,Kwame Ramos,kwame.ramos@yewdaleinvest.com,Chief Operating Officer,Executive Sponsor,003C00104
+P-0105,ACC-046,Rachel Aziz,rachel.aziz@willowbrooklogistics.com,Director of Model Risk,Influencer,003C00105
+P-0106,ACC-046,Andre Kapoor,andre.kapoor@willowbrooklogistics.com,Chief Compliance Officer,Decision Maker,003C00106
+P-0107,ACC-046,Kenji Ali,kenji.ali@willowbrooklogistics.com,Chief Financial Officer,Executive Sponsor,003C00107
+P-0306,ACC-046,Daniel Rossi,daniel.rossi@willowbrooklogistics.com,Deputy General Counsel,Legal Reviewer,003C00282
+P-0108,ACC-047,Megan Price,megan.price@cedarridgeam.com,Head of Risk,Influencer,003C00108
+P-0109,ACC-047,Andre Fischer,andre.fischer@cedarridgeam.com,Head of Internal Audit,Decision Maker,003C00109
+P-0307,ACC-047,Hannah Shapiro,hannah.shapiro@cedarridgeam.com,Chief Risk Officer,Executive Sponsor,
+P-0110,ACC-048,Naomi Liu,naomi.liu@crestviewcapital.com,Director of Risk Analytics,Influencer,003C00110
+P-0111,ACC-048,Priya Moreau,priya.moreau@crestviewcapital.com,VP Risk Management,Decision Maker,003C00111
+P-0308,ACC-048,Hugo Ali,hugo.ali@crestviewcapital.com,Chief Risk Officer,Executive Sponsor,
+P-0309,ACC-048,Ibrahim Okonkwo,ibrahim.okonkwo@crestviewcapital.com,General Counsel,Legal Reviewer,003C00278
+P-0112,ACC-049,Elena Nguyen,elena.nguyen@corrowinmedical.com,Director of Model Risk,Influencer,003C00112
+P-0113,ACC-049,David Novak,david.novak@corrowinmedical.com,Head of Internal Audit,Decision Maker,003C00113
+P-0114,ACC-049,Priya Mendes,priya.mendes@corrowinmedical.com,Chief Risk Officer,Executive Sponsor,003C00114
+P-0115,ACC-050,Julia Tanaka,julia.tanaka@ashfordmedical.com,"Senior Manager, Compliance",Influencer,003C00115
+P-0116,ACC-050,Priya Nguyen,priya.nguyen@ashfordmedical.com,Chief Compliance Officer,Decision Maker,003C00116
+P-0310,ACC-050,Graham Carter,graham.carter@ashfordmedical.com,Chief Financial Officer,Executive Sponsor,003C00279
+P-0311,ACC-050,Arjun Smith,arjun.smith@ashfordmedical.com,General Counsel,Legal Reviewer,003C00276
+P-0117,ACC-051,Ibrahim Cohen,ibrahim.cohen@ogdenam.com,Head of Data Governance,Influencer,003C00117
+P-0118,ACC-051,Omar Schmidt,omar.schmidt@ogdenam.com,VP Risk Management,Decision Maker,003C00118
+P-0312,ACC-051,Paula Fischer,paula.fischer@ogdenam.com,Chief Operating Officer,Executive Sponsor,
+P-0119,ACC-052,Leah Brooks,leah.brooks@prescottind.com,Head of Risk,Influencer,003C00119
+P-0120,ACC-052,Kwame Price,kwame.price@prescottind.com,VP Risk Management,Decision Maker,003C00120
+P-0313,ACC-052,Tessa Vargas,tessa.vargas@prescottind.com,Chief Risk Officer,Executive Sponsor,
+P-0121,ACC-053,Olivia Becker,olivia.becker@ulverbrookcapital.com,Director of Model Risk,Influencer,003C00121
+P-0122,ACC-053,Tariq Ortega,tariq.ortega@ulverbrookcapital.com,Head of Internal Audit,Decision Maker,003C00122
+P-0314,ACC-053,Tessa Silva,tessa.silva@ulverbrookcapital.com,Chief Financial Officer,Executive Sponsor,
+P-0123,ACC-054,Chloe Bello,chloe.bello@stonebridgebank.com,Head of Data Governance,Influencer,003C00123
+P-0124,ACC-054,Arjun Torres,arjun.torres@stonebridgebank.com,Head of Internal Audit,Decision Maker,003C00124
+P-0315,ACC-054,Megan Harris,megan.harris@stonebridgebank.com,Chief Financial Officer,Executive Sponsor,
+P-0125,ACC-055,Hugo Haddad,hugo.haddad@bluewatertransport.com,Head of Risk,Influencer,003C00125
+P-0126,ACC-055,Grace Menon,grace.menon@bluewatertransport.com,Chief Audit Executive,Decision Maker,003C00126
+P-0127,ACC-056,Grace Mori,grace.mori@waverlystores.com,"Senior Manager, Compliance",Influencer,003C00127
+P-0128,ACC-056,Daniel Moreau,daniel.moreau@waverlystores.com,VP Risk Management,Decision Maker,003C00128
+P-0316,ACC-056,Megan Becker,megan.becker@waverlystores.com,Chief Operating Officer,Executive Sponsor,
+P-0129,ACC-057,Paula Sato,paula.sato@jarvisstores.com,Director of Model Risk,Influencer,003C00129
+P-0130,ACC-057,Ben Keller,ben.keller@jarvisstores.com,VP Risk Management,Decision Maker,003C00130
+P-0317,ACC-057,Simon Shapiro,simon.shapiro@jarvisstores.com,Chief Operating Officer,Executive Sponsor,003C00299
+P-0131,ACC-058,Kenji Lindqvist,kenji.lindqvist@westburysavings.com,Head of Data Governance,Influencer,003C00131
+P-0132,ACC-058,Sam Ramos,sam.ramos@westburysavings.com,Chief Compliance Officer,Decision Maker,003C00132
+P-0133,ACC-058,Andre Iyer,andre.iyer@westburysavings.com,Chief Risk Officer,Executive Sponsor,003C00133
+P-0318,ACC-058,Rosa Torres,rosa.torres@westburysavings.com,Vendor Management Lead,Procurement,003C00305
+P-0319,ACC-058,Diego Dubois,diego.dubois@westburysavings.com,Deputy General Counsel,Legal Reviewer,003C00307
+P-0134,ACC-059,Sam Mensah,sam.mensah@ravenwoodsystems.com,Director of Model Risk,Influencer,003C00134
+P-0135,ACC-059,Zara Mendes,zara.mendes@ravenwoodsystems.com,Chief Audit Executive,Decision Maker,003C00135
+P-0320,ACC-059,Nathan Rahman,nathan.rahman@ravenwoodsystems.com,Chief Operating Officer,Executive Sponsor,
+P-0136,ACC-060,Tessa Raman,tessa.raman@southmoorretail.com,"Senior Manager, Compliance",Influencer,003C00136
+P-0137,ACC-060,Rosa Sato,rosa.sato@southmoorretail.com,Chief Audit Executive,Decision Maker,003C00137
+P-0321,ACC-060,Ravi Doyle,ravi.doyle@southmoorretail.com,Chief Financial Officer,Executive Sponsor,
+P-0138,ACC-061,Sofia Grant,sofia.grant@lindellpharma.com,Director of Model Risk,Influencer,003C00138
+P-0139,ACC-061,Tom Mori,tom.mori@lindellpharma.com,Chief Audit Executive,Decision Maker,003C00139
+P-0322,ACC-061,Diego Mensah,diego.mensah@lindellpharma.com,Chief Operating Officer,Executive Sponsor,003C00273
+P-0140,ACC-062,Zara Clarke,zara.clarke@oakmontfreight.com,Head of Data Governance,Influencer,003C00140
+P-0141,ACC-062,Elena Shapiro,elena.shapiro@oakmontfreight.com,Chief Audit Executive,Decision Maker,003C00141
+P-0323,ACC-062,Amara Haddad,amara.haddad@oakmontfreight.com,Chief Operating Officer,Executive Sponsor,003C00304
+P-0324,ACC-062,Laura Lindqvist,laura.lindqvist@oakmontfreight.com,Procurement Manager,Procurement,
+P-0325,ACC-062,Olivia Cohen,olivia.cohen@oakmontfreight.com,Deputy General Counsel,Legal Reviewer,003C00303
+P-0142,ACC-063,Kenji Jansen,kenji.jansen@goldcrestenergy.com,"Senior Manager, Compliance",Influencer,003C00142
+P-0143,ACC-063,Nathan Carter,nathan.carter@goldcrestenergy.com,Chief Audit Executive,Decision Maker,003C00143
+P-0326,ACC-063,Aisha Petrov,aisha.petrov@goldcrestenergy.com,Chief Financial Officer,Executive Sponsor,
+P-0144,ACC-064,Amara Farouk,amara.farouk@alderretail.com,Director of Risk Analytics,Influencer,003C00144
+P-0145,ACC-064,Nina Mori,nina.mori@alderretail.com,Head of Internal Audit,Decision Maker,003C00145
+P-0327,ACC-064,Marcus Ramos,marcus.ramos@alderretail.com,Chief Operating Officer,Executive Sponsor,
+P-0146,ACC-065,Megan Ortega,megan.ortega@kilbournehs.com,Director of Risk Analytics,Influencer,003C00146
+P-0147,ACC-065,Kwame Schmidt,kwame.schmidt@kilbournehs.com,Head of Internal Audit,Decision Maker,003C00147
+P-0328,ACC-065,David Shapiro,david.shapiro@kilbournehs.com,Chief Financial Officer,Executive Sponsor,003C00309
+P-0148,ACC-066,Elena Carter,elena.carter@clearwaterutilities.com,Head of Risk,Influencer,003C00148
+P-0149,ACC-066,Grace Costa,grace.costa@clearwaterutilities.com,Head of Internal Audit,Decision Maker,003C00149
+P-0329,ACC-066,Aisha Carter,aisha.carter@clearwaterutilities.com,Chief Risk Officer,Executive Sponsor,
+P-0150,ACC-067,Ethan Iyer,ethan.iyer@greshambank.com,Director of Risk Analytics,Influencer,003C00150
+P-0151,ACC-067,Mira Bello,mira.bello@greshambank.com,Chief Compliance Officer,Decision Maker,003C00151
+P-0152,ACC-068,Julia Costa,julia.costa@yardleyinvest.com,Director of Model Risk,Influencer,003C00152
+P-0153,ACC-068,Rosa Lindqvist,rosa.lindqvist@yardleyinvest.com,VP Risk Management,Decision Maker,003C00153
+P-0330,ACC-068,Diego Ortega,diego.ortega@yardleyinvest.com,Chief Financial Officer,Executive Sponsor,
+P-0154,ACC-069,Mei Adeyemi,mei.adeyemi@canyonbancorp.com,Head of Data Governance,Influencer,003C00154
+P-0155,ACC-069,Lena Novak,lena.novak@canyonbancorp.com,Head of Internal Audit,Decision Maker,003C00155
+P-0156,ACC-069,Luis Moreau,luis.moreau@canyonbancorp.com,Chief Financial Officer,Executive Sponsor,003C00156
+P-0157,ACC-070,Omar Torres,omar.torres@underhilllogistics.com,Head of Data Governance,Influencer,003C00157
+P-0158,ACC-070,Claire Cohen,claire.cohen@underhilllogistics.com,Chief Audit Executive,Decision Maker,003C00158
+P-0331,ACC-070,Yuki Walsh,yuki.walsh@underhilllogistics.com,Chief Risk Officer,Executive Sponsor,
+P-0159,ACC-071,Fatima Keller,fatima.keller@norcliffeinvest.com,Head of Risk,Influencer,003C00159
+P-0160,ACC-071,Rachel Ward,rachel.ward@norcliffeinvest.com,Chief Audit Executive,Decision Maker,003C00160
+P-0332,ACC-071,Luis Jansen,luis.jansen@norcliffeinvest.com,Chief Operating Officer,Executive Sponsor,
+P-0161,ACC-072,Ben Liu,ben.liu@tamarackfreight.com,Head of Risk,Influencer,003C00161
+P-0162,ACC-072,Luis Rossi,luis.rossi@tamarackfreight.com,VP Risk Management,Decision Maker,003C00162
+P-0163,ACC-072,Fatima Moreau,fatima.moreau@tamarackfreight.com,Chief Operating Officer,Executive Sponsor,003C00163
+P-0333,ACC-072,Elena Petrov,elena.petrov@tamarackfreight.com,General Counsel,Legal Reviewer,003C00310
+P-0334,ACC-072,Jane Adeyemi,jane.adeyemi@tamarackfreight.com,Procurement Manager,Procurement,
+P-0164,ACC-073,Rachel Malik,rachel.malik@ivenbrookenergy.com,Head of Risk,Influencer,003C00164
+P-0165,ACC-073,Tessa Lindqvist,tessa.lindqvist@ivenbrookenergy.com,Head of Internal Audit,Decision Maker,003C00165
+P-0335,ACC-073,Ben Grant,ben.grant@ivenbrookenergy.com,Chief Risk Officer,Executive Sponsor,
+P-0166,ACC-074,Tom Bell,tom.bell@ashgrovecomponents.co.uk,Head of Data Governance,Influencer,003C00166
+P-0167,ACC-074,Paula Ortega,paula.ortega@ashgrovecomponents.co.uk,Chief Audit Executive,Decision Maker,003C00167
+P-0168,ACC-075,Omar Fischer,omar.fischer@hawthornesystems.com,Head of Data Governance,Influencer,003C00168
+P-0169,ACC-075,Felix Raman,felix.raman@hawthornesystems.com,Chief Audit Executive,Decision Maker,003C00169
+P-0170,ACC-075,Naomi Zhang,naomi.zhang@hawthornesystems.com,Chief Risk Officer,Executive Sponsor,003C00170
+P-0171,ACC-076,Yuki Ward,yuki.ward@dunmorestores.com,Director of Model Risk,Influencer,003C00171
+P-0172,ACC-076,Victor Smith,victor.smith@dunmorestores.com,Chief Audit Executive,Decision Maker,003C00172
+P-0336,ACC-076,Jane Grant,jane.grant@dunmorestores.com,Chief Financial Officer,Executive Sponsor,
+P-0173,ACC-077,Marcus Dubois,marcus.dubois@quarrybio.ca,Head of Risk,Influencer,003C00173
+P-0174,ACC-077,Rachel Ferreira,rachel.ferreira@quarrybio.ca,Head of Internal Audit,Decision Maker,003C00174
+P-0175,ACC-078,Sam Laurent,sam.laurent@jamesonam.com,Head of Risk,Influencer,003C00175
+P-0176,ACC-078,Kwame Smith,kwame.smith@jamesonam.com,Chief Audit Executive,Decision Maker,003C00176
+P-0337,ACC-078,Victor Silva,victor.silva@jamesonam.com,Chief Risk Officer,Executive Sponsor,
+P-0177,ACC-079,Kwame Haddad,kwame.haddad@maplewoodenergy.com,Head of Data Governance,Influencer,003C00177
+P-0178,ACC-079,Victor Ward,victor.ward@maplewoodenergy.com,VP Risk Management,Decision Maker,003C00178
+P-0338,ACC-079,Hugo Grant,hugo.grant@maplewoodenergy.com,Chief Financial Officer,Executive Sponsor,
+P-0179,ACC-080,Ethan Vargas,ethan.vargas@quintonsoftware.com,Head of Data Governance,Influencer,003C00179
+P-0180,ACC-080,Sam Doyle,sam.doyle@quintonsoftware.com,Head of Internal Audit,Decision Maker,003C00180
+P-0339,ACC-080,Tariq Kim,tariq.kim@quintonsoftware.com,Chief Risk Officer,Executive Sponsor,
+P-0340,ACC-080,Paula Russo,paula.russo@quintonsoftware.com,Vendor Management Lead,Procurement,003C00314
+P-0181,ACC-081,Peter Hughes,peter.hughes@ardenind.com,Head of Data Governance,Influencer,003C00181
+P-0182,ACC-081,Aisha Kapoor,aisha.kapoor@ardenind.com,VP Risk Management,Decision Maker,003C00182
+P-0183,ACC-082,Chloe Kim,chloe.kim@ashbyfreight.com,Head of Risk,Influencer,003C00183
+P-0184,ACC-082,Ibrahim Ali,ibrahim.ali@ashbyfreight.com,Head of Internal Audit,Decision Maker,003C00184
+P-0341,ACC-082,Kwame Novak,kwame.novak@ashbyfreight.com,Chief Financial Officer,Executive Sponsor,003C00288
+P-0185,ACC-083,Daniel Nguyen,daniel.nguyen@thistlemutual.com,"Senior Manager, Compliance",Influencer,003C00185
+P-0186,ACC-083,Hugo Ramos,hugo.ramos@thistlemutual.com,Chief Audit Executive,Decision Maker,003C00186
+P-0187,ACC-083,Yuki Vargas,yuki.vargas@thistlemutual.com,Chief Risk Officer,Executive Sponsor,003C00187
+P-0188,ACC-084,Zara Costa,zara.costa@junipercomponents.com,Head of Data Governance,Influencer,003C00188
+P-0189,ACC-084,Simon Russo,simon.russo@junipercomponents.com,VP Risk Management,Decision Maker,003C00189
+P-0342,ACC-084,Diego Raman,diego.raman@junipercomponents.com,Chief Operating Officer,Executive Sponsor,
+P-0190,ACC-085,Sofia Dubois,sofia.dubois@rutledgebrands.com,Director of Risk Analytics,Influencer,003C00190
+P-0191,ACC-085,Sofia Adeyemi,sofia.adeyemi@rutledgebrands.com,Chief Compliance Officer,Decision Maker,003C00191
+P-0343,ACC-085,Amara Becker,amara.becker@rutledgebrands.com,Chief Risk Officer,Executive Sponsor,
+P-0192,ACC-086,Tariq Mensah,tariq.mensah@fernhillfreight.com,Director of Risk Analytics,Influencer,003C00192
+P-0193,ACC-086,Aisha Malik,aisha.malik@fernhillfreight.com,Chief Compliance Officer,Decision Maker,003C00193
+P-0194,ACC-087,Sam Smith,sam.smith@parkviewenergy.com,Head of Data Governance,Influencer,003C00194
+P-0195,ACC-087,Nina Dubois,nina.dubois@parkviewenergy.com,Head of Internal Audit,Decision Maker,003C00195
+P-0344,ACC-087,Ahmed Mori,ahmed.mori@parkviewenergy.com,Chief Risk Officer,Executive Sponsor,
+P-0196,ACC-088,Lena Mensah,lena.mensah@cliftonretail.com,Head of Risk,Influencer,003C00196
+P-0197,ACC-088,Rosa Rossi,rosa.rossi@cliftonretail.com,Chief Audit Executive,Decision Maker,003C00197
+P-0345,ACC-088,Victor Menon,victor.menon@cliftonretail.com,Chief Operating Officer,Executive Sponsor,003C00294
+P-0346,ACC-088,Victor Lam,victor.lam@cliftonretail.com,General Counsel,Legal Reviewer,003C00289
+P-0198,ACC-089,Mei Eze,mei.eze@barrowfieldbank.com,Head of Risk,Influencer,003C00198
+P-0199,ACC-089,Laura Murphy,laura.murphy@barrowfieldbank.com,Head of Internal Audit,Decision Maker,003C00199
+P-0200,ACC-089,Yuki Mendes,yuki.mendes@barrowfieldbank.com,Chief Financial Officer,Executive Sponsor,003C00200
+P-0201,ACC-090,Priya Bell,priya.bell@eastwickstores.com,Head of Data Governance,Influencer,003C00201
+P-0202,ACC-090,Nathan Okonkwo,nathan.okonkwo@eastwickstores.com,Head of Internal Audit,Decision Maker,003C00202
+P-0347,ACC-090,Mei Walsh,mei.walsh@eastwickstores.com,Chief Operating Officer,Executive Sponsor,003C00286
+P-0348,ACC-090,Daniel Vargas,daniel.vargas@eastwickstores.com,Deputy General Counsel,Legal Reviewer,003C00296
+P-0203,ACC-091,Hugo Rahman,hugo.rahman@oakhurststores.com,Head of Risk,Influencer,003C00203
+P-0204,ACC-091,Graham Smith,graham.smith@oakhurststores.com,Chief Audit Executive,Decision Maker,003C00204
+P-0349,ACC-091,Rachel Lindqvist,rachel.lindqvist@oakhurststores.com,Chief Risk Officer,Executive Sponsor,
+P-0205,ACC-092,Julia Smith,julia.smith@kestrelutilities.com,Director of Risk Analytics,Influencer,003C00205
+P-0206,ACC-092,Marcus Shapiro,marcus.shapiro@kestrelutilities.com,Head of Internal Audit,Decision Maker,003C00206
+P-0350,ACC-092,Claire Moreau,claire.moreau@kestrelutilities.com,Chief Operating Officer,Executive Sponsor,
+P-0207,ACC-093,Kenji Kapoor,kenji.kapoor@bellhavenenergy.com,Director of Risk Analytics,Influencer,003C00207
+P-0208,ACC-093,Laura Mori,laura.mori@bellhavenenergy.com,Head of Internal Audit,Decision Maker,003C00208
+P-0209,ACC-093,Peter Zhang,peter.zhang@bellhavenenergy.com,Chief Operating Officer,Executive Sponsor,003C00209
+P-0210,ACC-094,Tom Becker,tom.becker@merrowmfg.com,Director of Risk Analytics,Influencer,003C00210
+P-0211,ACC-094,Nathan Harris,nathan.harris@merrowmfg.com,VP Risk Management,Decision Maker,003C00211
+P-0212,ACC-095,Claire Rahman,claire.rahman@redstonetransport.com,Director of Model Risk,Influencer,003C00212
+P-0213,ACC-095,Caleb Clarke,caleb.clarke@redstonetransport.com,Head of Internal Audit,Decision Maker,003C00213
+P-0351,ACC-095,Nina Shapiro,nina.shapiro@redstonetransport.com,Chief Operating Officer,Executive Sponsor,003C00283
+P-0352,ACC-095,Amara Lindqvist,amara.lindqvist@redstonetransport.com,General Counsel,Legal Reviewer,003C00300
+P-0214,ACC-096,Kwame Mori,kwame.mori@northgatestores.com,Director of Risk Analytics,Influencer,003C00214
+P-0215,ACC-096,Grace Aziz,grace.aziz@northgatestores.com,Chief Compliance Officer,Decision Maker,003C00215
+P-0216,ACC-096,Simon Weber,simon.weber@northgatestores.com,Chief Operating Officer,Executive Sponsor,003C00216
+P-0217,ACC-097,Omar Ramos,omar.ramos@whitmorepower.com,Director of Risk Analytics,Influencer,003C00217
+P-0218,ACC-097,Laura Adeyemi,laura.adeyemi@whitmorepower.com,Head of Internal Audit,Decision Maker,003C00218
+P-0353,ACC-097,Anna Liu,anna.liu@whitmorepower.com,Chief Risk Officer,Executive Sponsor,
+P-0219,ACC-098,Nathan Laurent,nathan.laurent@orchardins.com,Head of Data Governance,Influencer,003C00219
+P-0220,ACC-098,David Cohen,david.cohen@orchardins.com,Head of Internal Audit,Decision Maker,003C00220
+P-0354,ACC-098,Marcus Moreau,marcus.moreau@orchardins.com,Chief Risk Officer,Executive Sponsor,
+P-0221,ACC-099,Leah Iyer,leah.iyer@riverbendcapital.com,Head of Data Governance,Influencer,003C00221
+P-0222,ACC-099,Zara Haddad,zara.haddad@riverbendcapital.com,Head of Internal Audit,Decision Maker,003C00222
+P-0355,ACC-099,Rosa Menon,rosa.menon@riverbendcapital.com,Chief Financial Officer,Executive Sponsor,
+P-0223,ACC-100,Nina Bello,nina.bello@aldenmoorinvest.com,Head of Data Governance,Influencer,003C00223
+P-0224,ACC-100,Lena Adeyemi,lena.adeyemi@aldenmoorinvest.com,Head of Internal Audit,Decision Maker,003C00224
+P-0225,ACC-101,Daniel Carter,daniel.carter@gilfordutilities.com,"Senior Manager, Compliance",Influencer,003C00225
+P-0226,ACC-101,Chloe Murphy,chloe.murphy@gilfordutilities.com,Chief Compliance Officer,Decision Maker,003C00226
+P-0227,ACC-101,Diego Eze,diego.eze@gilfordutilities.com,Chief Financial Officer,Executive Sponsor,003C00227
+P-0228,ACC-102,Kenji Fischer,kenji.fischer@alcottins.com,Director of Model Risk,Influencer,003C00228
+P-0229,ACC-102,Leah Malik,leah.malik@alcottins.com,Head of Internal Audit,Decision Maker,003C00229
+P-0356,ACC-102,Grace Adeyemi,grace.adeyemi@alcottins.com,Chief Risk Officer,Executive Sponsor,003C00277
+P-0357,ACC-102,Megan Kapoor,megan.kapoor@alcottins.com,Director of Procurement,Procurement,003C00272
+P-0230,ACC-103,Megan Ferreira,megan.ferreira@rosewoodpower.com,Head of Risk,Influencer,003C00230
+P-0231,ACC-103,Laura Liu,laura.liu@rosewoodpower.com,VP Risk Management,Decision Maker,003C00231
+P-0232,ACC-104,Elena Liu,elena.liu@driftwoodsystems.com,"Senior Manager, Compliance",Influencer,003C00232
+P-0233,ACC-104,Felix Shapiro,felix.shapiro@driftwoodsystems.com,Head of Internal Audit,Decision Maker,003C00233
+P-0358,ACC-104,Priya Eze,priya.eze@driftwoodsystems.com,Chief Risk Officer,Executive Sponsor,
+P-0234,ACC-105,Elena Clarke,elena.clarke@fenwickmedical.com,Director of Risk Analytics,Influencer,003C00234
+P-0235,ACC-105,Zara Nguyen,zara.nguyen@fenwickmedical.com,Chief Audit Executive,Decision Maker,003C00235
+P-0359,ACC-105,Fatima Sato,fatima.sato@fenwickmedical.com,Chief Risk Officer,Executive Sponsor,
+P-0236,ACC-106,Hannah Bell,hannah.bell@briarwoodhealth.com,Director of Risk Analytics,Influencer,003C00236
+P-0237,ACC-106,Mei Liu,mei.liu@briarwoodhealth.com,Chief Compliance Officer,Decision Maker,003C00237
+P-0238,ACC-107,Wei Zhang,wei.zhang@inwoodam.com,Head of Risk,Influencer,003C00238
+P-0239,ACC-107,Arjun Ward,arjun.ward@inwoodam.com,Head of Internal Audit,Decision Maker,003C00239
+P-0360,ACC-107,Tessa Carter,tessa.carter@inwoodam.com,Chief Risk Officer,Executive Sponsor,
+P-0361,ACC-107,Felix Schmidt,felix.schmidt@inwoodam.com,Deputy General Counsel,Legal Reviewer,003C00268
+P-0240,ACC-108,Felix Zhang,felix.zhang@thornburybank.com,"Senior Manager, Compliance",Influencer,003C00240
+P-0241,ACC-108,Victor Price,victor.price@thornburybank.com,Head of Internal Audit,Decision Maker,003C00241
+P-0362,ACC-108,Nina Kapoor,nina.kapoor@thornburybank.com,Chief Risk Officer,Executive Sponsor,
+P-0242,ACC-109,Naomi Fischer,naomi.fischer@lindensavings.com,Director of Risk Analytics,Influencer,003C00242
+P-0243,ACC-109,Felix Hughes,felix.hughes@lindensavings.com,VP Risk Management,Decision Maker,003C00243
+P-0244,ACC-110,Sam Aziz,sam.aziz@oldfieldinvest.com,Head of Risk,Influencer,003C00244
+P-0245,ACC-110,David Lam,david.lam@oldfieldinvest.com,Chief Audit Executive,Decision Maker,003C00245
+P-0363,ACC-110,Jane Nguyen,jane.nguyen@oldfieldinvest.com,Chief Operating Officer,Executive Sponsor,
+P-0246,ACC-111,Zara Dubois,zara.dubois@jorvalemutual.com,Head of Data Governance,Influencer,003C00246
+P-0247,ACC-111,Megan Mendes,megan.mendes@jorvalemutual.com,VP Risk Management,Decision Maker,003C00247
+P-0364,ACC-111,Luis Petrov,luis.petrov@jorvalemutual.com,Chief Financial Officer,Executive Sponsor,003C00271
+P-0365,ACC-111,David Nguyen,david.nguyen@jorvalemutual.com,Deputy General Counsel,Legal Reviewer,003C00280
+P-0366,ACC-111,Sofia Kim,sofia.kim@jorvalemutual.com,Vendor Management Lead,Procurement,003C00281
+P-0248,ACC-112,Nina Russo,nina.russo@copperfieldfreight.com,Head of Risk,Influencer,003C00248
+P-0249,ACC-112,Leah Bell,leah.bell@copperfieldfreight.com,Chief Audit Executive,Decision Maker,003C00249
+P-0367,ACC-112,Jorge Rossi,jorge.rossi@copperfieldfreight.com,Chief Operating Officer,Executive Sponsor,003C00274
+P-0250,ACC-113,Ines Ortega,ines.ortega@marlowind.com,Head of Risk,Influencer,003C00250
+P-0251,ACC-113,Paula Torres,paula.torres@marlowind.com,Chief Compliance Officer,Decision Maker,003C00251
+P-0252,ACC-114,Amara Clarke,amara.clarke@penrosebrands.com,Director of Risk Analytics,Influencer,003C00252
+P-0253,ACC-114,Andre Walsh,andre.walsh@penrosebrands.com,Chief Audit Executive,Decision Maker,003C00253
+P-0254,ACC-114,Lucia Petrov,lucia.petrov@penrosebrands.com,Chief Financial Officer,Executive Sponsor,003C00254
+P-0255,ACC-115,Mei Raman,mei.raman@eastonassurance.com,Head of Risk,Influencer,003C00255
+P-0256,ACC-115,Jane Mensah,jane.mensah@eastonassurance.com,VP Risk Management,Decision Maker,003C00256
+P-0368,ACC-115,Megan Cohen,megan.cohen@eastonassurance.com,Chief Operating Officer,Executive Sponsor,
+P-0257,ACC-116,Felix Carter,felix.carter@ambergatesystems.com,Head of Data Governance,Influencer,003C00257
+P-0258,ACC-116,Diego Farouk,diego.farouk@ambergatesystems.com,Chief Compliance Officer,Decision Maker,003C00258
+P-0369,ACC-116,Ines Fischer,ines.fischer@ambergatesystems.com,Chief Operating Officer,Executive Sponsor,003C00311
+P-0259,ACC-117,Victor Torres,victor.torres@millbrookanalytics.com,Head of Data Governance,Influencer,003C00259
+P-0260,ACC-117,Elena Haddad,elena.haddad@millbrookanalytics.com,VP Risk Management,Decision Maker,003C00260
+P-0261,ACC-118,Lena Jansen,lena.jansen@norwoodbancorp.com,Director of Model Risk,Influencer,003C00261
+P-0262,ACC-118,Jorge Mendes,jorge.mendes@norwoodbancorp.com,Head of Internal Audit,Decision Maker,003C00262
+P-0370,ACC-118,Sam Grant,sam.grant@norwoodbancorp.com,Chief Financial Officer,Executive Sponsor,
+P-0263,ACC-119,Yuki Ortega,yuki.ortega@ivywoodstores.com,"Senior Manager, Compliance",Influencer,003C00263
+P-0264,ACC-119,Ravi Schmidt,ravi.schmidt@ivywoodstores.com,Head of Internal Audit,Decision Maker,003C00264
+P-0371,ACC-119,Anna Torres,anna.torres@ivywoodstores.com,Chief Operating Officer,Executive Sponsor,003C00312
+P-0265,ACC-120,Marcus Russo,marcus.russo@eastbrookcapital.com,"Senior Manager, Compliance",Influencer,003C00265
+P-0266,ACC-120,Hannah Kim,hannah.kim@eastbrookcapital.com,Chief Audit Executive,Decision Maker,003C00266
+P-0372,ACC-120,Yuki Sato,yuki.sato@eastbrookcapital.com,Chief Risk Officer,Executive Sponsor,

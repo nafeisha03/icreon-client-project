@@ -1,0 +1,128 @@
+crm_account_id,account_name,website,billing_country,target_account_id,owner,created_date
+001A00001,ABC Corp,https://www.abccorp.com/,US,,R. Okafor,08/17/2024
+001A00002,Meridian Health,meridianhealth.com,US,,D. Alvarez,08/17/2024
+001A00003,Meridian Health,www.meridianhealth.ca,CA,ACC-003,K. Nakamura,08/17/2024
+001A00004,Harborline Insurance,www.harborlineins.com,US,ACC-004,M. Chen,08/17/2024
+001A00005,Summit Financial Group,www.summitfg.com,US,ACC-005,R. Okafor,08/17/2024
+001A00006,Summit Financial Holdings,www.summitfh.com,US,,R. Okafor,08/17/2024
+001A00007,Newbury Logistics,www.newburylogistics.com,US,ACC-007,D. Alvarez,08/17/2024
+001A00008,Hollister Therapeutics,hollistertx.com,US,,M. Chen,08/17/2024
+001A00009,Quillon Retail,www.quillonretail.com,US,ACC-009,R. Okafor,08/17/2024
+001A00010,Brackenridge Freight,www.brackenridgefreight.com,US,ACC-010,D. Alvarez,08/17/2024
+001A00011,Brightwater Manufacturing,www.brightwatermfg.com,US,ACC-011,J. Whitfield,08/17/2024
+001A00012,Lakeshore Pharmaceuticals,https://www.lakeshorepharma.com/,US,,M. Chen,08/17/2024
+001A00013,Fairhaven Bank,www.fairhavenbank.com,US,ACC-013,J. Whitfield,08/17/2024
+001A00014,Foxhall Asset Management,foxhallam.com,US,,D. Alvarez,08/17/2024
+001A00015,Moorland Investments,www.moorlandinvest.com,US,ACC-015,S. Patel,08/17/2024
+001A00016,Blackthorn Insurance,www.blackthornins.com,US,ACC-016,D. Alvarez,08/17/2024
+001A00017,Bexley Retail,www.bexleyretail.com,US,ACC-017,M. Chen,08/17/2024
+001A00018,Holloway Bank,,US,,K. Nakamura,08/17/2024
+001A00019,Cobalt Capital,www.cobaltcapital.com,US,,K. Nakamura,08/17/2024
+001A00020,Halverston Systems,,US,,D. Alvarez,08/17/2024
+001A00021,Ellery Stores,www.ellerystores.com,US,ACC-021,K. Nakamura,08/17/2024
+001A00022,Delvane Industries,www.delvaneind.com,US,ACC-022,D. Alvarez,08/17/2024
+001A00023,Caldwell Energy,www.caldwellenergy.com,US,ACC-023,K. Nakamura,08/17/2024
+001A00024,Trevelyan Logistics,www.trevelyanlogistics.com,US,ACC-024,K. Nakamura,08/17/2024
+001A00025,Stelmere Mutual,www.stelmeremutual.com,US,ACC-025,J. Whitfield,08/17/2024
+001A00026,Islington Bancorp,www.islingtonbancorp.com,US,ACC-026,D. Alvarez,08/17/2024
+001A00027,Elmstead Bank,elmsteadbank.com,US,,S. Patel,08/17/2024
+001A00028,Orlavale Therapeutics,orlavaletx.com,US,,S. Patel,08/17/2024
+001A00029,Darby Savings Bank,www.darbysavings.com,US,ACC-029,S. Patel,08/17/2024
+001A00030,Brantley Bancorp,www.brantleybancorp.com,US,,J. Whitfield,08/17/2024
+001A00031,Northcliff Insurance,northcliffins.com,US,,M. Chen,08/17/2024
+001A00032,Lanmoor Logistics,,US,,R. Okafor,08/17/2024
+001A00033,Vandermeer Transport,www.vandermeertransport.com,US,ACC-033,R. Okafor,08/17/2024
+001A00034,Upton Energy,www.uptonenergy.com,US,ACC-034,J. Whitfield,08/17/2024
+001A00035,Yorkfield Pharmaceuticals,http://yorkfieldpharma.com,US,,M. Chen,08/17/2024
+001A00036,Pinehaven Mutual,www.pinehavenmutual.com,US,ACC-036,D. Alvarez,08/17/2024
+001A00037,Ridgeline Energy,ridgelineenergy.com,US,,D. Alvarez,08/17/2024
+001A00038,Larkspur Software,larkspursoftware.com,US,,S. Patel,08/17/2024
+001A00039,Granite Systems,www.granitesystems.com,US,ACC-039,K. Nakamura,08/17/2024
+001A00040,Wexford Savings Bank,www.wexfordsavings.com,US,ACC-040,D. Alvarez,08/17/2024
+001A00041,Lyndon Manufacturing,www.lyndonmfg.com,US,ACC-041,R. Okafor,08/17/2024
+001A00042,Glenmore Therapeutics,www.glenmoretx.com,US,ACC-042,K. Nakamura,08/17/2024
+001A00043,Hartwell Transport,,US,,K. Nakamura,08/17/2024
+001A00044,Northam Manufacturing,www.northammfg.com,US,ACC-044,M. Chen,08/17/2024
+001A00045,Yewdale Investments,www.yewdaleinvest.com,US,ACC-045,M. Chen,08/17/2024
+001A00046,Willowbrook Logistics,http://willowbrooklogistics.com,US,,J. Whitfield,08/17/2024
+001A00047,Cedar Ridge Asset Management,www.cedarridgeam.com,US,ACC-047,R. Okafor,08/17/2024
+001A00048,Crestview Capital,www.crestviewcapital.com,US,ACC-048,K. Nakamura,08/17/2024
+001A00049,Corrowin Medical Center,www.corrowinmedical.com,US,ACC-049,J. Whitfield,08/17/2024
+001A00050,Ashford Medical Center,www.ashfordmedical.com,US,ACC-050,S. Patel,08/17/2024
+001A00051,Ogden Asset Management,ogdenam.com,US,,M. Chen,08/17/2024
+001A00052,Prescott Industries,www.prescottind.com,US,ACC-052,K. Nakamura,08/17/2024
+001A00053,Ulverbrook Capital,,US,,R. Okafor,08/17/2024
+001A00054,Stonebridge Bank,stonebridgebank.com,US,,R. Okafor,08/17/2024
+001A00055,Bluewater Transport,www.bluewatertransport.com,US,ACC-055,S. Patel,08/17/2024
+001A00056,Waverly Stores,waverlystores.com,US,,S. Patel,08/17/2024
+001A00057,Jarvis Stores,jarvisstores.com,US,,K. Nakamura,08/17/2024
+001A00058,Westbury Savings Bank,www.westburysavings.com,US,ACC-058,S. Patel,08/17/2024
+001A00059,Ravenwood Systems,www.ravenwoodsystems.com,US,ACC-059,S. Patel,08/17/2024
+001A00060,Southmoor Retail,www.southmoorretail.com,US,ACC-060,M. Chen,08/17/2024
+001A00061,Lindell Pharmaceuticals,www.lindellpharma.com,US,ACC-061,M. Chen,08/17/2024
+001A00062,Oakmont Freight,,US,,S. Patel,08/17/2024
+001A00063,Goldcrest Energy,www.goldcrestenergy.com,US,ACC-063,J. Whitfield,08/17/2024
+001A00064,Alder Retail,www.alderretail.com,US,ACC-064,S. Patel,08/17/2024
+001A00065,Kilbourne Health Systems,kilbournehs.com,US,,D. Alvarez,08/17/2024
+001A00066,Clearwater Utilities,www.clearwaterutilities.com,US,ACC-066,R. Okafor,08/17/2024
+001A00067,Gresham Bank,http://greshambank.com,US,,D. Alvarez,08/17/2024
+001A00068,Yardley Investments,https://www.yardleyinvest.com/,US,,S. Patel,08/17/2024
+001A00069,Canyon Bancorp,www.canyonbancorp.com,US,ACC-069,J. Whitfield,08/17/2024
+001A00070,Underhill Logistics,www.underhilllogistics.com,US,ACC-070,J. Whitfield,08/17/2024
+001A00071,Norcliffe Investments,http://norcliffeinvest.com,US,,K. Nakamura,08/17/2024
+001A00072,Tamarack Freight,www.tamarackfreight.com,US,,S. Patel,08/17/2024
+001A00073,Ivenbrook Energy,www.ivenbrookenergy.com,US,ACC-073,S. Patel,08/17/2024
+001A00074,Ashgrove Components,www.ashgrovecomponents.co.uk,GB,ACC-074,J. Whitfield,08/17/2024
+001A00075,Hawthorne Systems,www.hawthornesystems.com,US,ACC-075,R. Okafor,08/17/2024
+001A00076,Dunmore Stores,http://dunmorestores.com,US,,K. Nakamura,08/17/2024
+001A00077,Quarry Biosciences,quarrybio.ca,CA,,R. Okafor,08/17/2024
+001A00078,Jameson Asset Management,www.jamesonam.com,US,ACC-078,K. Nakamura,08/17/2024
+001A00079,Maplewood Energy,www.maplewoodenergy.com,US,ACC-079,J. Whitfield,08/17/2024
+001A00080,Quinton Software,,US,,D. Alvarez,08/17/2024
+001A00081,Arden Industries,www.ardenind.com,US,ACC-081,M. Chen,08/17/2024
+001A00082,Ashby Freight,www.ashbyfreight.com,US,,D. Alvarez,08/17/2024
+001A00083,Thistle Mutual,www.thistlemutual.com,US,ACC-083,D. Alvarez,08/17/2024
+001A00084,Juniper Components,www.junipercomponents.com,US,ACC-084,D. Alvarez,08/17/2024
+001A00085,Rutledge Brands,www.rutledgebrands.com,US,ACC-085,K. Nakamura,08/17/2024
+001A00086,Fernhill Freight,www.fernhillfreight.com,US,ACC-086,K. Nakamura,08/17/2024
+001A00087,Parkview Energy,www.parkviewenergy.com,US,ACC-087,S. Patel,08/17/2024
+001A00088,Clifton Retail,cliftonretail.com,US,,K. Nakamura,08/17/2024
+001A00089,Barrowfield Bank,www.barrowfieldbank.com,US,ACC-089,R. Okafor,08/17/2024
+001A00090,Eastwick Stores,www.eastwickstores.com,US,ACC-090,S. Patel,08/17/2024
+001A00091,Oakhurst Stores,www.oakhurststores.com,US,ACC-091,D. Alvarez,08/17/2024
+001A00092,Kestrel Utilities,https://www.kestrelutilities.com/,US,,S. Patel,08/17/2024
+001A00093,Bellhaven Energy,bellhavenenergy.com,US,,R. Okafor,08/17/2024
+001A00094,Merrow Manufacturing,www.merrowmfg.com,US,ACC-094,M. Chen,08/17/2024
+001A00095,Redstone Transport,www.redstonetransport.com,US,ACC-095,K. Nakamura,08/17/2024
+001A00096,Northgate Stores,http://northgatestores.com,US,,D. Alvarez,08/17/2024
+001A00097,Whitmore Power,www.whitmorepower.com,US,ACC-097,M. Chen,08/17/2024
+001A00098,Orchard Insurance,www.orchardins.com,US,ACC-098,S. Patel,08/17/2024
+001A00099,Riverbend Capital,riverbendcapital.com,US,,D. Alvarez,08/17/2024
+001A00100,Aldenmoor Investments,https://www.aldenmoorinvest.com/,US,,M. Chen,08/17/2024
+001A00101,Gilford Utilities,www.gilfordutilities.com,US,ACC-101,D. Alvarez,08/17/2024
+001A00102,Alcott Insurance,https://www.alcottins.com/,US,,S. Patel,08/17/2024
+001A00103,Rosewood Power,www.rosewoodpower.com,US,ACC-103,S. Patel,08/17/2024
+001A00104,Driftwood Systems,www.driftwoodsystems.com,US,ACC-104,J. Whitfield,08/17/2024
+001A00105,Fenwick Medical Center,www.fenwickmedical.com,US,,J. Whitfield,08/17/2024
+001A00106,Briarwood Health,briarwoodhealth.com,US,,K. Nakamura,08/17/2024
+001A00107,Inwood Asset Management,www.inwoodam.com,US,ACC-107,R. Okafor,08/17/2024
+001A00108,Thornbury Bank,www.thornburybank.com,US,ACC-108,R. Okafor,08/17/2024
+001A00109,Linden Savings Bank,,US,,M. Chen,08/17/2024
+001A00110,Oldfield Investments,https://www.oldfieldinvest.com/,US,,S. Patel,08/17/2024
+001A00111,Jorvale Mutual,www.jorvalemutual.com,US,ACC-111,M. Chen,08/17/2024
+001A00112,Copperfield Freight,www.copperfieldfreight.com,US,ACC-112,M. Chen,08/17/2024
+001A00113,Marlow Industries,https://www.marlowind.com/,US,,J. Whitfield,08/17/2024
+001A00114,Penrose Brands,www.penrosebrands.com,US,ACC-114,M. Chen,08/17/2024
+001A00115,Easton Assurance,www.eastonassurance.com,US,ACC-115,S. Patel,08/17/2024
+001A00116,Ambergate Systems,http://ambergatesystems.com,US,,K. Nakamura,08/17/2024
+001A00117,Millbrook Analytics,www.millbrookanalytics.com,US,ACC-117,R. Okafor,08/17/2024
+001A00118,Norwood Bancorp,norwoodbancorp.com,US,,R. Okafor,08/17/2024
+001A00119,Ivywood Stores,www.ivywoodstores.com,US,ACC-119,S. Patel,08/17/2024
+001A00120,Eastbrook Capital,https://www.eastbrookcapital.com/,US,,S. Patel,08/17/2024
+001B00001,ABC Corporation,,,,R. Okafor,04/14/2025
+001B00006,Summit Financial Holdings Corporation,,,,R. Okafor,06/19/2025
+001B00008,Hollister Therapeutics Inc,,,,M. Chen,09/10/2025
+001B00040,Wexford Savings Bank Corporation,,,,D. Alvarez,03/18/2025
+001B00080,Quinton Software Corporation,,,,D. Alvarez,02/08/2025
+001B00082,Ashby Freight Inc,,,,D. Alvarez,12/05/2024
+001B00116,Ambergate Systems Inc,,,,K. Nakamura,07/06/2025

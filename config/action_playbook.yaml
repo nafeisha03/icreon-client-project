@@ -1,0 +1,134 @@
+# Attention tiers and the next-best-action playbook.
+#
+# Rules are checked in the order listed; the first one that matches an account
+# produces its tier or its recommendation. Wording, roles, channels and day
+# thresholds live here. Each condition is a small named function in
+# calder_abm/prioritize.py or calder_abm/recommend.py, one per rule ID.
+#
+# Allowed channels: Email, Partner outreach, Meeting, Event or webinar, LinkedIn, Internal
+
+attention_tiers:
+  - tier: Won
+    when: "Signed Agreement: hand over to delivery; no further marketing spend"
+  - tier: Find out
+    when: Confidence is Insufficient evidence
+  - tier: Act now
+    when: At Proposal / RFP or Verbal Commitment, or a follow-up is overdue under rules A4 to A8
+  - tier: Push
+    when: At Qualified Lead or Active Conversation and Progressing; Stalled for under 90 days; a Tier 1 account with a new news or hiring trigger; or a current client of other services with no AI conversation yet
+  - tier: Reduce spend
+    when: Stalled for 90+ days, Lost, or no engagement after 3+ campaign exposures in the last 6 months for an account first reached more than one sales cycle (330 days) ago
+  - tier: Nurture
+    when: Everything else
+
+tier_settings:
+  stalled_push_max_days: 90       # Stalled for fewer days than this = Push, more = Reduce spend
+  new_trigger_days: 30            # a news or hiring trigger this recent counts as "new"
+  exposure_lookback_days: 180     # "the last 6 months"
+  min_exposures_without_engagement: 3
+  min_days_since_first_exposure: 330   # one sales cycle: no account is written off for silence before then
+
+playbook:
+  - id: A1
+    when: Signed Agreement
+    action: Hand over to delivery and book a 90-day check-in
+    who: Executive Sponsor
+    channel: Meeting
+  - id: A2
+    when: Lost
+    action: Ask for feedback, pause spend, revisit in 6 months
+    who: Decision Maker
+    channel: Partner outreach
+  - id: A3
+    when: Confidence is Insufficient evidence
+    action: Confirm the real status and correct the CRM before spending more
+    who: Account owner
+    channel: Internal
+  - id: A4
+    when: Verbal Commitment, no progress toward signature for 14+ days
+    action: Partner call to clear what stands between the verbal yes and a signature; check for budget or leadership changes
+    who: Decision Maker or Executive Sponsor
+    channel: Partner outreach
+    days: 14
+  - id: A5
+    when: Proposal / RFP, legal involved, no legal follow-up for 14+ days
+    action: Offer the General Counsel a walkthrough of the terms
+    who: Legal Reviewer
+    channel: Partner outreach
+    days: 14
+  - id: A6
+    when: Proposal / RFP, procurement started, no follow-up for 10+ days
+    action: "Send the vendor pack: security answers, insurance, references"
+    who: Procurement
+    channel: Email
+    days: 10
+  - id: A7
+    when: Proposal requested but not sent within 7 days
+    action: Send the proposal; it is overdue
+    who: The person who asked
+    channel: Email
+    days: 7
+  - id: A8
+    when: Proposal sent, no response for 14+ days
+    action: Offer a 30-minute walkthrough of the proposal
+    who: Decision Maker
+    channel: Partner outreach
+    days: 14
+  - id: A9
+    when: Stalled
+    action: Re-engage with something new and relevant; after 90 days, reduce spend
+    who: Most senior engaged contact
+    channel: Partner outreach
+  - id: A10
+    when: Active Conversation, decision maker not yet seen
+    action: Ask the champion to bring the decision maker to a follow-up
+    who: Champion (Influencer)
+    channel: Meeting
+  - id: A11
+    when: Active Conversation, no follow-up meeting for 21+ days
+    action: Send a recap with a proposed next step
+    who: Discovery attendee
+    channel: Email
+    days: 21
+  - id: A12
+    when: Qualified Lead, no meeting yet
+    action: Partner asks for a meeting about the stated need
+    who: The person who stated the need, or the referrer
+    channel: Partner outreach
+  - id: A13
+    when: Interested, 3+ people engaged in 30 days, no meeting yet
+    action: "A buying group may be forming: partner asks for a discovery meeting"
+    who: Most senior engaged contact
+    channel: Partner outreach
+    days: 30
+    people: 3
+  - id: A14
+    when: Interested, no meeting yet
+    action: Invite them to the next roundtable or webinar
+    who: Engaged contacts
+    channel: Event or webinar
+  - id: A15
+    when: Current client of other services, no AI conversation yet
+    action: The engagement partner introduces the AI practice at the next client meeting
+    who: Main client contact
+    channel: Meeting
+  - id: A16
+    when: Aware
+    action: "Light nurture: add to the next webinar invitation"
+    who: Engaged contacts
+    channel: Email
+  - id: A17
+    when: Target with a news or hiring trigger
+    action: Warm introduction through a partner's network
+    who: Likely sponsor, such as the CFO or Chief Risk Officer
+    channel: LinkedIn
+  - id: A18
+    when: Target, nothing else
+    action: Low-cost awareness only; no partner time yet
+    who: Role to identify
+    channel: LinkedIn
+  - id: A19
+    when: Any other open account, on track
+    action: Keep momentum; confirm the next step and its date
+    who: Most senior engaged contact
+    channel: Email

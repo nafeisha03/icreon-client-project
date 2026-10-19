@@ -1,0 +1,122 @@
+meeting_id,start_time,subject,organizer,attendees,status,category
+MTG-00001,2024-12-20T05:30:00-05:00,Prescott Industries / Calder Hollis: discovery call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;leah.brooks@prescottind.com,held,Discovery
+MTG-00002,2025-02-05T07:15:00-05:00,Inwood Asset Management / Calder Hollis: discovery call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;wei.zhang@inwoodam.com,held,Discovery
+MTG-00003,2025-02-23T05:15:00-05:00,Prescott Industries / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;leah.brooks@prescottind.com,held,Follow-up
+MTG-00004,2025-04-23T10:30:00-04:00,Alcott Insurance / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.fischer@alcottins.com;leah.malik@alcottins.com,held,Discovery
+MTG-00005,2025-05-12T06:30:00-04:00,Eastbrook Capital / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;marcus.russo@eastbrookcapital.com;hannah.kim@eastbrookcapital.com,held,Discovery
+MTG-00006,2025-05-23T06:00:00-04:00,Alcott Insurance / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.fischer@alcottins.com,held,Follow-up
+MTG-00007,2025-05-24T09:15:00-04:00,Orlavale Therapeutics / Calder Hollis: executive call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.becker@orlavaletx.com;laura.walsh@orlavaletx.com;hannah.novak@orlavaletx.com,held,Executive
+MTG-00008,2025-06-24T13:30:00-04:00,Orlavale Therapeutics / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.becker@orlavaletx.com,held,Follow-up
+MTG-00009,2025-06-25T10:45:00-04:00,Jorvale Mutual / Calder Hollis: executive call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com;luis.petrov@jorvalemutual.com,held,Executive
+MTG-00010,2025-06-25T11:30:00-04:00,Alcott Insurance / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.fischer@alcottins.com,held,Follow-up
+MTG-00011,2025-07-21T11:15:00-04:00,Crestview Capital / Calder Hollis: discovery call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;naomi.liu@crestviewcapital.com;priya.moreau@crestviewcapital.com,held,Discovery
+MTG-00012,2025-07-23T09:30:00-04:00,Jorvale Mutual / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com,held,Follow-up
+MTG-00013,2025-07-27T07:30:00-04:00,Orlavale Therapeutics / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.becker@orlavaletx.com,held,Follow-up
+MTG-00014,2025-07-31T11:30:00-04:00,Pinehaven Mutual / Calder Hollis: discovery call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;peter.moreau@pinehavenmutual.com,held,Discovery
+MTG-00015,2025-08-02T10:30:00-04:00,Willowbrook Logistics / Calder Hollis: discovery call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;rachel.aziz@willowbrooklogistics.com;andre.kapoor@willowbrooklogistics.com,held,Discovery
+MTG-00016,2025-08-12T10:30:00-04:00,Pinehaven Mutual / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;peter.moreau@pinehavenmutual.com,held,Follow-up
+MTG-00017,2025-08-19T08:00:00-04:00,Lindell Pharmaceuticals / Calder Hollis: executive call,m.chen@calderhollis.com,m.chen@calderhollis.com;sofia.grant@lindellpharma.com;tom.mori@lindellpharma.com;diego.mensah@lindellpharma.com,held,Executive
+MTG-00018,2025-08-21T08:45:00-04:00,Jorvale Mutual / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com,held,Follow-up
+MTG-00019,2025-08-22T13:15:00-04:00,Clifton Retail / Calder Hollis: discovery call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;lena.mensah@cliftonretail.com,held,Discovery
+MTG-00020,2025-08-23T10:00:00-04:00,Crestview Capital / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;naomi.liu@crestviewcapital.com,held,Follow-up
+MTG-00021,2025-08-26T07:00:00-04:00,Bexley Retail / Calder Hollis: discovery call,m.chen@calderhollis.com,m.chen@calderhollis.com;lucia.bell@bexleyretail.com;ben.harris@bexleyretail.com,held,Discovery
+MTG-00022,2025-08-26T07:00:00-04:00,Copperfield Freight / Calder Hollis: executive call,m.chen@calderhollis.com,m.chen@calderhollis.com;nina.russo@copperfieldfreight.com;leah.bell@copperfieldfreight.com;jorge.rossi@copperfieldfreight.com,held,Executive
+MTG-00023,2025-08-26T13:45:00-04:00,Willowbrook Logistics / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;rachel.aziz@willowbrooklogistics.com,held,Follow-up
+MTG-00024,2025-08-30T08:45:00-04:00,Lindell Pharmaceuticals / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;sofia.grant@lindellpharma.com,held,Follow-up
+MTG-00025,2025-08-31T07:30:00-04:00,Orlavale Therapeutics / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.becker@orlavaletx.com,held,Follow-up
+MTG-00026,2025-09-03T11:15:00-04:00,Ashford Medical Center / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;julia.tanaka@ashfordmedical.com;arjun.smith@ashfordmedical.com,held,Follow-up
+MTG-00027,2025-09-14T13:45:00-04:00,Jorvale Mutual / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com,held,Follow-up
+MTG-00028,2025-09-17T05:15:00-04:00,Clifton Retail / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;lena.mensah@cliftonretail.com,held,Follow-up
+MTG-00029,2025-09-17T08:30:00-04:00,Lindell Pharmaceuticals / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;sofia.grant@lindellpharma.com,cancelled,Follow-up
+MTG-00030,2025-09-18T06:15:00-04:00,Summit Financial Group / Calder Hollis: discovery call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;hannah.menon@summitfg.com;tariq.laurent@summitfg.com,held,Discovery
+MTG-00031,2025-09-19T07:00:00-04:00,Bexley Retail / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;lucia.bell@bexleyretail.com,held,Follow-up
+MTG-00032,2025-10-02T13:30:00-04:00,Wexford Savings Bank / Calder Hollis: discovery call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ben.lindqvist@wexfordsavings.com;ravi.hughes@wexfordsavings.com,held,Discovery
+MTG-00033,2025-10-07T12:15:00-04:00,Crestview Capital / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;naomi.liu@crestviewcapital.com;ibrahim.okonkwo@crestviewcapital.com,held,Follow-up
+MTG-00034,2025-10-13T09:00:00-04:00,Caldwell Energy / Calder Hollis: discovery call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;chloe.shapiro@caldwellenergy.com;nina.menon@caldwellenergy.com,held,Discovery
+MTG-00035,2025-10-15T12:45:00-04:00,Clifton Retail / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;lena.mensah@cliftonretail.com,held,Follow-up
+MTG-00036,2025-10-17T09:45:00-04:00,Summit Financial Group / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;hannah.menon@summitfg.com,held,Follow-up
+MTG-00037,2025-10-18T11:30:00-04:00,Jorvale Mutual / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com;david.nguyen@jorvalemutual.com,held,Follow-up
+MTG-00038,2025-10-31T10:15:00-04:00,Wexford Savings Bank / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ben.lindqvist@wexfordsavings.com,held,Follow-up
+MTG-00039,2025-10-31T11:00:00-04:00,Hawthorne Systems / Calder Hollis: discovery call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;omar.fischer@hawthornesystems.com,held,Discovery
+MTG-00040,2025-11-14T10:45:00-05:00,Clifton Retail / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;lena.mensah@cliftonretail.com,held,Follow-up
+MTG-00041,2025-11-15T06:00:00-05:00,Caldwell Energy / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;chloe.shapiro@caldwellenergy.com,held,Follow-up
+MTG-00042,2025-11-22T07:00:00-05:00,Jorvale Mutual / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;zara.dubois@jorvalemutual.com,held,Follow-up
+MTG-00043,2025-11-23T05:15:00-05:00,Vandermeer Transport / Calder Hollis: executive call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;nina.rossi@vandermeertransport.com;megan.sato@vandermeertransport.com;nathan.iyer@vandermeertransport.com,held,Executive
+MTG-00044,2025-11-26T07:00:00-05:00,Wexford Savings Bank / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ben.lindqvist@wexfordsavings.com,held,Follow-up
+MTG-00045,2025-11-27T05:00:00-05:00,Lakeshore Pharmaceuticals / Calder Hollis: executive call,m.chen@calderhollis.com,m.chen@calderhollis.com;ravi.kapoor@lakeshorepharma.com;owen.ortega@lakeshorepharma.com;zara.jansen@lakeshorepharma.com,held,Executive
+MTG-00046,2025-12-01T08:30:00-05:00,Hawthorne Systems / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;omar.fischer@hawthornesystems.com,held,Follow-up
+MTG-00047,2025-12-11T08:45:00-05:00,Summit Financial Group / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;hannah.menon@summitfg.com,held,Follow-up
+MTG-00048,2025-12-16T05:00:00-05:00,Caldwell Energy / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;chloe.shapiro@caldwellenergy.com,held,Follow-up
+MTG-00049,2025-12-17T05:45:00-05:00,Vandermeer Transport / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;nina.rossi@vandermeertransport.com,held,Follow-up
+MTG-00050,2025-12-23T04:45:00-05:00,Eastwick Stores / Calder Hollis: executive call,s.patel@calderhollis.com,s.patel@calderhollis.com;priya.bell@eastwickstores.com;nathan.okonkwo@eastwickstores.com;mei.walsh@eastwickstores.com,held,Executive
+MTG-00051,2025-12-23T07:00:00-05:00,Larkspur Software / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;lucia.clarke@larkspursoftware.com;wei.murphy@larkspursoftware.com,held,Discovery
+MTG-00052,2025-12-23T08:00:00-05:00,Clifton Retail / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;lena.mensah@cliftonretail.com,held,Follow-up
+MTG-00053,2025-12-25T10:45:00-05:00,Oakmont Freight / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;zara.clarke@oakmontfreight.com;elena.shapiro@oakmontfreight.com,held,Discovery
+MTG-00054,2025-12-27T05:30:00-05:00,Wexford Savings Bank / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ben.lindqvist@wexfordsavings.com,held,Follow-up
+MTG-00055,2025-12-29T04:15:00-05:00,Lakeshore Pharmaceuticals / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;ravi.kapoor@lakeshorepharma.com,held,Follow-up
+MTG-00056,2025-12-31T10:45:00-05:00,Brackenridge Freight / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;anna.vargas@brackenridgefreight.com;fatima.bello@brackenridgefreight.com,held,Follow-up
+MTG-00057,2026-01-06T09:45:00-05:00,Summit Financial Group / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;hannah.menon@summitfg.com,held,Follow-up
+MTG-00058,2026-01-20T12:30:00-05:00,Vandermeer Transport / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;nina.rossi@vandermeertransport.com,held,Follow-up
+MTG-00059,2026-01-21T04:00:00-05:00,Eastwick Stores / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;priya.bell@eastwickstores.com,held,Follow-up
+MTG-00060,2026-01-23T07:00:00-05:00,Larkspur Software / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;lucia.clarke@larkspursoftware.com,held,Follow-up
+MTG-00061,2026-01-24T11:30:00-05:00,Oakmont Freight / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;zara.clarke@oakmontfreight.com,held,Follow-up
+MTG-00062,2026-02-03T05:15:00-05:00,Wexford Savings Bank / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ben.lindqvist@wexfordsavings.com;megan.petrov@wexfordsavings.com,held,Follow-up
+MTG-00063,2026-02-08T07:45:00-05:00,Lakeshore Pharmaceuticals / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;ravi.kapoor@lakeshorepharma.com;andre.lindqvist@lakeshorepharma.com,held,Follow-up
+MTG-00064,2026-02-11T06:45:00-05:00,Upton Energy / Calder Hollis: discovery call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;peter.liu@uptonenergy.com,held,Discovery
+MTG-00065,2026-02-13T09:30:00-05:00,Redstone Transport / Calder Hollis: executive call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.rahman@redstonetransport.com;caleb.clarke@redstonetransport.com;nina.shapiro@redstonetransport.com,held,Executive
+MTG-00066,2026-02-14T04:15:00-05:00,Northam Manufacturing / Calder Hollis: discovery call,m.chen@calderhollis.com,m.chen@calderhollis.com;priya.laurent@northammfg.com;arjun.rossi@northammfg.com,held,Discovery
+MTG-00067,2026-02-14T10:15:00-05:00,Hollister Therapeutics / Calder Hollis: executive call,m.chen@calderhollis.com,m.chen@calderhollis.com;megan.mori@hollistertx.com;marcus.ward@hollistertx.com,held,Executive
+MTG-00068,2026-02-16T11:30:00-05:00,Vandermeer Transport / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;nina.rossi@vandermeertransport.com,held,Follow-up
+MTG-00069,2026-02-25T06:45:00-05:00,Oakmont Freight / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;zara.clarke@oakmontfreight.com,held,Follow-up
+MTG-00070,2026-02-28T11:30:00-05:00,Northam Manufacturing / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;priya.laurent@northammfg.com,held,Follow-up
+MTG-00071,2026-03-07T09:45:00-04:00,Westbury Savings Bank / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.lindqvist@westburysavings.com;sam.ramos@westburysavings.com,held,Discovery
+MTG-00072,2026-03-08T06:30:00-04:00,Upton Energy / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;peter.liu@uptonenergy.com,held,Follow-up
+MTG-00073,2026-03-12T09:30:00-04:00,Redstone Transport / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.rahman@redstonetransport.com,held,Follow-up
+MTG-00074,2026-03-12T13:00:00-04:00,Hollister Therapeutics / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;megan.mori@hollistertx.com,held,Follow-up
+MTG-00075,2026-03-14T08:45:00-04:00,Eastwick Stores / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;priya.bell@eastwickstores.com,held,Follow-up
+MTG-00076,2026-03-15T07:00:00-04:00,Eastwick Stores / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;priya.bell@eastwickstores.com;daniel.vargas@eastwickstores.com,held,Follow-up
+MTG-00077,2026-03-19T13:45:00-04:00,Glenmore Therapeutics / Calder Hollis: executive call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.fischer@glenmoretx.com;ibrahim.aziz@glenmoretx.com,held,Executive
+MTG-00078,2026-03-24T10:30:00-04:00,Northam Manufacturing / Calder Hollis: follow-up call,m.chen@calderhollis.com,m.chen@calderhollis.com;priya.laurent@northammfg.com,cancelled,Follow-up
+MTG-00079,2026-03-24T11:30:00-04:00,Glenmore Therapeutics / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.fischer@glenmoretx.com,held,Follow-up
+MTG-00080,2026-04-04T05:45:00-04:00,Upton Energy / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;peter.liu@uptonenergy.com,held,Follow-up
+MTG-00081,2026-04-08T07:30:00-04:00,Westbury Savings Bank / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.lindqvist@westburysavings.com,held,Follow-up
+MTG-00082,2026-04-08T12:45:00-04:00,Jarvis Stores / Calder Hollis: executive call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;paula.sato@jarvisstores.com;ben.keller@jarvisstores.com;simon.shapiro@jarvisstores.com,held,Executive
+MTG-00083,2026-04-14T08:30:00-04:00,Ivenbrook Energy / Calder Hollis: discovery call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.malik@ivenbrookenergy.com,held,Discovery
+MTG-00084,2026-04-19T07:45:00-04:00,Redstone Transport / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.rahman@redstonetransport.com;amara.lindqvist@redstonetransport.com,held,Follow-up
+MTG-00085,2026-04-29T05:15:00-04:00,Vandermeer Transport / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;nina.rossi@vandermeertransport.com,held,Follow-up
+MTG-00086,2026-05-03T05:00:00-04:00,Jarvis Stores / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;paula.sato@jarvisstores.com,held,Follow-up
+MTG-00087,2026-05-08T13:30:00-04:00,Oakmont Freight / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;zara.clarke@oakmontfreight.com,held,Follow-up
+MTG-00088,2026-05-10T13:00:00-04:00,Westbury Savings Bank / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;kenji.lindqvist@westburysavings.com,held,Follow-up
+MTG-00089,2026-05-15T07:00:00-04:00,Whitmore Power / Calder Hollis: discovery call,m.chen@calderhollis.com,m.chen@calderhollis.com;omar.ramos@whitmorepower.com;laura.adeyemi@whitmorepower.com,held,Discovery
+MTG-00090,2026-05-17T07:45:00-04:00,Redstone Transport / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;claire.rahman@redstonetransport.com,held,Follow-up
+MTG-00091,2026-05-18T05:15:00-04:00,Ivenbrook Energy / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.malik@ivenbrookenergy.com,held,Follow-up
+MTG-00092,2026-05-23T13:15:00-04:00,Quinton Software / Calder Hollis: discovery call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ethan.vargas@quintonsoftware.com;sam.doyle@quintonsoftware.com,held,Discovery
+MTG-00093,2026-05-27T09:00:00-04:00,Jarvis Stores / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;paula.sato@jarvisstores.com,held,Follow-up
+MTG-00094,2026-05-29T05:00:00-04:00,ABC Corp / Calder Hollis: discovery call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;mei.moreau@abccorp.com,held,Discovery
+MTG-00095,2026-05-31T07:30:00-04:00,Corrowin Medical Center / Calder Hollis: discovery call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;elena.nguyen@corrowinmedical.com,held,Discovery
+MTG-00096,2026-06-03T08:45:00-04:00,Quillon Retail / Calder Hollis: discovery call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;tom.doyle@quillonretail.com;graham.sato@quillonretail.com,held,Discovery
+MTG-00097,2026-06-16T12:45:00-04:00,Quinton Software / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ethan.vargas@quintonsoftware.com,held,Follow-up
+MTG-00098,2026-06-23T08:45:00-04:00,Oakhurst Stores / Calder Hollis: discovery call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;hugo.rahman@oakhurststores.com;graham.smith@oakhurststores.com,held,Discovery
+MTG-00099,2026-06-24T11:15:00-04:00,ABC Corp / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;mei.moreau@abccorp.com,held,Follow-up
+MTG-00100,2026-06-27T05:00:00-04:00,Quillon Retail / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;tom.doyle@quillonretail.com,held,Follow-up
+MTG-00101,2026-07-03T13:45:00-04:00,Upton Energy / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;peter.liu@uptonenergy.com,held,Follow-up
+MTG-00102,2026-07-04T10:45:00-04:00,Corrowin Medical Center / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;elena.nguyen@corrowinmedical.com,held,Follow-up
+MTG-00103,2026-07-16T08:15:00-04:00,Ivenbrook Energy / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.malik@ivenbrookenergy.com,held,Follow-up
+MTG-00104,2026-07-17T11:00:00-04:00,Quinton Software / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ethan.vargas@quintonsoftware.com,held,Follow-up
+MTG-00105,2026-07-19T07:15:00-04:00,ABC Corp / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;mei.moreau@abccorp.com,held,Follow-up
+MTG-00106,2026-07-25T09:15:00-04:00,Jarvis Stores / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;paula.sato@jarvisstores.com,held,Follow-up
+MTG-00107,2026-07-26T05:00:00-04:00,Oakhurst Stores / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;hugo.rahman@oakhurststores.com,held,Follow-up
+MTG-00108,2026-07-26T13:30:00-04:00,Quillon Retail / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;tom.doyle@quillonretail.com,held,Follow-up
+MTG-00109,2026-07-30T12:00:00-04:00,Corrowin Medical Center / Calder Hollis: follow-up call,j.whitfield@calderhollis.com,j.whitfield@calderhollis.com;elena.nguyen@corrowinmedical.com,held,Follow-up
+MTG-00110,2026-08-11T05:45:00-04:00,Ivenbrook Energy / Calder Hollis: follow-up call,s.patel@calderhollis.com,s.patel@calderhollis.com;rachel.malik@ivenbrookenergy.com,held,Follow-up
+MTG-00111,2026-08-11T10:45:00-04:00,Quinton Software / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;ethan.vargas@quintonsoftware.com,held,Follow-up
+MTG-00112,2026-08-19T07:30:00-04:00,Oakhurst Stores / Calder Hollis: follow-up call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;hugo.rahman@oakhurststores.com,held,Follow-up
+MTG-00113,2026-08-23T07:45:00-04:00,Jarvis Stores / Calder Hollis: follow-up call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;paula.sato@jarvisstores.com,held,Follow-up
+MTG-00114,2026-08-25T08:45:00-04:00,Quillon Retail / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;tom.doyle@quillonretail.com,held,Follow-up
+MTG-00115,2026-09-04T06:30:00-04:00,Southmoor Retail / Calder Hollis: discovery call,m.chen@calderhollis.com,m.chen@calderhollis.com;tessa.raman@southmoorretail.com,held,Discovery
+MTG-00116,2026-09-04T10:45:00-04:00,Kilbourne Health Systems / Calder Hollis: executive call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;megan.ortega@kilbournehs.com;kwame.schmidt@kilbournehs.com;david.shapiro@kilbournehs.com,held,Executive
+MTG-00117,2026-09-12T05:15:00-04:00,Ambergate Systems / Calder Hollis: executive call,k.nakamura@calderhollis.com,k.nakamura@calderhollis.com;felix.carter@ambergatesystems.com;diego.farouk@ambergatesystems.com;ines.fischer@ambergatesystems.com,held,Executive
+MTG-00118,2026-09-12T13:15:00-04:00,Ivywood Stores / Calder Hollis: executive call,s.patel@calderhollis.com,s.patel@calderhollis.com;yuki.ortega@ivywoodstores.com;ravi.schmidt@ivywoodstores.com;anna.torres@ivywoodstores.com,held,Executive
+MTG-00119,2026-09-13T08:00:00-04:00,ABC Corp / Calder Hollis: follow-up call,r.okafor@calderhollis.com,r.okafor@calderhollis.com;mei.moreau@abccorp.com;owen.russo@abccorp.com,held,Follow-up
+MTG-00120,2026-09-18T08:00:00-04:00,Yewdale Investments / Calder Hollis: discovery call,m.chen@calderhollis.com,m.chen@calderhollis.com;caleb.mori@yewdaleinvest.com,held,Discovery
+MTG-00121,2026-09-18T13:00:00-04:00,Meridian Health / Calder Hollis: discovery call,d.alvarez@calderhollis.com,d.alvarez@calderhollis.com;aisha.iyer@meridianhealth.com,held,Discovery

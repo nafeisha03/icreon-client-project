@@ -1,0 +1,78 @@
+note: Patterns planted on purpose. The system never reads this file.
+real_effects:
+  roundtables:
+    campaign: CMP-03
+    signal_type: event_attended
+    accounts:
+    - ACC-008
+    - ACC-009
+    - ACC-028
+    - ACC-034
+    - ACC-036
+    - ACC-042
+    - ACC-045
+    - ACC-046
+    - ACC-057
+    - ACC-058
+    - ACC-060
+    - ACC-066
+    - ACC-073
+    - ACC-075
+    - ACC-080
+    - ACC-083
+    - ACC-091
+    - ACC-097
+    - ACC-104
+    - ACC-107
+    - ACC-119
+    - ACC-120
+    expected: Association or better in the advanced-versus-not comparison
+  technology_partner_referrals:
+    campaign: CMP-06
+    signal_type: tech_partner_referral
+    accounts:
+    - ACC-023
+    - ACC-029
+    - ACC-038
+    - ACC-040
+    - ACC-043
+    - ACC-044
+    - ACC-048
+    - ACC-049
+    - ACC-052
+    - ACC-062
+    - ACC-068
+    - ACC-079
+    - ACC-088
+    - ACC-118
+    declined:
+    - ACC-041
+    - ACC-071
+    expected: Association or better in the advanced-versus-not comparison
+traps:
+  report_after_progress:
+    campaign: CMP-02
+    signal_type: content_downloaded
+    expected: 'Never a Consistent pattern: most downloads come after progress'
+  current_clients_buy_anyway:
+    campaign: CMP-01
+    signal_type: webinar_attended
+    expected: 'Never a Consistent pattern: the difference disappears within current
+      clients and new relationships'
+  linkedin_ads_change_nothing:
+    campaign: CMP-07
+    signal_type: ad_shown
+    expected: Budget verdict Reduce or Stop
+true_spend_by_campaign:
+  CMP-01: 96000
+  CMP-02: 70000
+  CMP-03: 180000
+  CMP-04: 150000
+  CMP-05: 160000
+  CMP-06: 120000
+  CMP-07: 160000
+  CMP-08: 40000
+  CMP-09: 60000
+  CMP-10: 70000
+  CMP-11: 54000
+  CMP-12: 40000
